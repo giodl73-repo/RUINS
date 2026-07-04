@@ -1,7 +1,9 @@
 # Claim Audit: Great Zimbabwe Colonial Denial
 
 **Owner:** ERRATA
-**Status:** source-locked working audit
+**Status:** page-audited current-scope audit
+
+Use [`page-anchor-audit.md`](page-anchor-audit.md) for current source anchors.
 
 ## Claim Grades
 
@@ -12,7 +14,7 @@
 | Imported goods prove foreign builders. | Refuse | Trade contact is not authorship evidence. |
 | Colonial non-African origin theories are viable archaeological alternatives. | Refuse | Treat as colonial denial / cultural-memory artifact. |
 | Great Zimbabwe was simply "lost" or ownerless. | Refuse | Living memory, local claims, and national afterlife complicate loss language. |
-| The site was abandoned for one clear cause. | Speculative | Abandonment/transition needs source-specific treatment. |
+| The site was abandoned for one clear cause. | Refuse / speculative | UNESCO gives one public-source explanation; Chirikure complicates single-cutoff abandonment. Treat abandonment/transition as source-specific. |
 | UNESCO recognition proves every interpretation. | Refuse | Heritage recognition is modern custody/significance. |
 | National symbolism proves ancient political identity. | Refuse | National memory and medieval identity are different layers. |
 

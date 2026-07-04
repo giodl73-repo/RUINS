@@ -1,7 +1,7 @@
 # Great Zimbabwe Colonial Denial
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-04
 
 ## Abstract
@@ -36,8 +36,8 @@ For current locked values and source boundaries, use
 [`source-lock.md`](source-lock.md) and
 [`custody-register.md`](custody-register.md). UNESCO values, archaeological
 consensus claims, local-memory claims, population estimates, abandonment
-hypotheses, and political-economy interpretations remain source-labeled and
-need page-level anchors before publication-ready status.
+hypotheses, and political-economy interpretations remain source-labeled and are
+anchored in [`page-anchor-audit.md`](page-anchor-audit.md).
 
 ## 2. What Survives
 

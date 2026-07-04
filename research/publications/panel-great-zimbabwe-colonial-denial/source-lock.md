@@ -1,7 +1,7 @@
 # Source Lock: Great Zimbabwe Colonial Denial
 
 **Owner:** PALIMPSEST
-**Status:** first source lock
+**Status:** page-audited source lock
 **Date:** 2026-07-04
 
 This source lock defines what RUINS may say about Great Zimbabwe in this paper.
@@ -9,6 +9,8 @@ It separates material survival, public heritage values, archaeological
 consensus, colonial denial, local memory, and national afterlife. A locked
 source supports bounded claims only; it does not make every origin, identity,
 population, or abandonment claim final.
+
+Current paper claims are anchored in [`page-anchor-audit.md`](page-anchor-audit.md).
 
 ## Locked Sources
 
@@ -20,7 +22,7 @@ population, or abandonment claim final.
 | S4 | Chirikure, "New Perspectives on the Political Economy of Great Zimbabwe" (*Journal of Archaeological Research*, 2020) | review article / archaeological synthesis | Political economy as heterogeneous and locally grounded; imported exotica not the sole explanatory center. | Interpretive synthesis; detailed claims need page audit. |
 | S5 | Chirikure et al., "What was the population of Great Zimbabwe (CE1000-1800)?" (*PLOS ONE*, 2017) | demographic model paper | Population estimates as contested/model-dependent; caution around inherited 20,000-person figure. | Model, not census; do not use exact values without page audit. |
 | S6 | ICCROM / Matenga, *The Preservation of Great Zimbabwe* | conservation / heritage-management report | Community exclusion, interpretation gaps, local ritual/sacred values, management tensions, conservation context. | Conservation context only; no conservation advice. |
-| S7 | Pikirayi et al., "The Conundrum of Great Zimbabwe" (*Journal of Urban Archaeology*, 2023) | recent archaeology target | Great Zimbabwe as substantial settlement with water, reservoirs, perimeter walls, and broader urban landscape questions. | Source target for later page audit; do not overclaim in this pass. |
+| S7 | Pikirayi et al., "The Conundrum of Great Zimbabwe" (*Journal of Urban Archaeology*, 2023) | recent archaeology target | Great Zimbabwe as substantial settlement with water, reservoirs, perimeter walls, and broader urban landscape questions. | Source target for later companion work; not needed for current paper claims. |
 | S8 | Colonial antiquarian / Rhodesian denial historiography | distortion / cultural-memory surface | Non-African origin theories, looting, racial denial, and censorship as modern interpretation artifacts. | Not a live archaeological alternative. |
 
 ## Locked Values And Claims

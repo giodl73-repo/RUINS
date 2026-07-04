@@ -10,6 +10,7 @@ Paper `panel-great-zimbabwe-colonial-denial` in the [RUINS](../../) module.
 - [**chronology.md** - construction, interpretation, denial, and heritage layers](chronology.md)
 - [**claim-audit.md** - origin and interpretation claim checks](claim-audit.md)
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
+- [**page-anchor-audit.md** - current-scope page and line anchors](page-anchor-audit.md)
 - [**custody-register.md** - custody and evidence-surface register](custody-register.md)
 - [**cultural-memory.md** - colonial denial, local memory, and national afterlife](cultural-memory.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)
