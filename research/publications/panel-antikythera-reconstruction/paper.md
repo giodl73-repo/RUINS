@@ -125,5 +125,7 @@ myth in separate evidence layers.
 The first source lock is recorded in [`source-lock.md`](source-lock.md), and the
 first custody pass is recorded in [`custody-register.md`](custody-register.md).
 The current paper can make high-level claims about fragmentary survival,
-imaging, and model status. It cannot yet make detailed gear-layout,
-inscription-reading, or front-display claims without page and item-level audit.
+imaging, and model status. The current source claims are anchored in
+[`page-audit.md`](page-audit.md). It cannot yet make detailed gear-layout,
+inscription-reading, or final front-display claims without deeper page, figure,
+and item-level audit.

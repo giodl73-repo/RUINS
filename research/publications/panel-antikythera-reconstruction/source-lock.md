@@ -38,6 +38,7 @@ reconstruction is accepted as the ancient object.
 4. Use exact counts only with source labels until page audit is complete.
 5. Treat "ancient computer" as shorthand for an analog astronomical calculator,
    not as a modern digital-computing claim.
+6. Use [`page-audit.md`](page-audit.md) for current source-locked anchors.
 
 ## References
 

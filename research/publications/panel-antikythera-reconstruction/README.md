@@ -11,6 +11,7 @@ Paper `panel-antikythera-reconstruction` in the [RUINS](../../) module.
 - [**custody-register.md** - source custody layers and access posture](custody-register.md)
 - [**chronology.md** - discovery, imaging, and reconstruction layers](chronology.md)
 - [**claim-audit.md** - artifact and reconstruction claim checks](claim-audit.md)
+- [**page-audit.md** - page anchors for current source claims](page-audit.md)
 - [**_panel.yaml** - review panel](./_panel.yaml)
 - [**reviews/SCORECARD.md** - first ASHLAR scorecard](reviews/SCORECARD.md)
 

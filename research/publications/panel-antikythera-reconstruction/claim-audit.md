@@ -34,3 +34,4 @@
 | 82 fragments and 30 surviving gears can be used as universal values. | Source-specific only | Freeth 2021 supports this framing, but use exact counts with source labels until page audit. |
 | The 2021 Cosmos model solves the front display. | Refuse as closure | It is a model that aims to satisfy evidence, not the ancient object itself. |
 | NYU collection-level custody permits item-level PTM claims. | Refuse | Collection custody is established; item-level claims require item audit. |
+| Current source-locked claims lack page anchors. | Closed | `page-audit.md` anchors current high-level claims. |

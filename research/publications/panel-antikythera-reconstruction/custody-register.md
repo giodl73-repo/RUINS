@@ -1,7 +1,7 @@
 # Custody Register: Antikythera Reconstruction
 
 **Owner:** PALIMPSEST
-**Status:** first custody pass
+**Status:** second custody pass
 **Date:** 2026-07-04
 
 This register separates object custody, imaging custody, model papers, datasets,
@@ -36,10 +36,11 @@ replicas, and public memory.
 | 2026-07-04 | Freeth et al. 2006 *Nature* | Verified direct article page, abstract, figure list, and bibliographic details. | Usable for high-level imaging and astronomical-calculator framing. |
 | 2026-07-04 | Freeth et al. 2021 *Scientific Reports* | Verified direct open-access article and abstract/introduction passages. | Usable for first source lock; page audit still needed before detailed claims. |
 | 2026-07-04 | NYU Faculty Digital Archive | Verified collection page and list of PTM/data/3D-model items. | Collection-level custody target established. |
+| 2026-07-04 | Current-claim page audit | Added [`page-audit.md`](page-audit.md) with anchors for the current source-locked claims. | Current high-level claims are anchored; detailed gear, inscription, and item-level claims remain blocked. |
 
 ## Stronger-Use Boundary
 
-The first locked source set is enough for a stable working paper about artifact,
-imaging, reconstruction, and public memory layers. It is not enough for
-publication-ready detailed gear layouts, inscription readings, or model
-selection.
+The first locked source set and page audit are enough for a stable working
+paper about artifact, imaging, reconstruction, and public memory layers. They
+are not enough for publication-ready detailed gear layouts, inscription
+readings, or model selection.
