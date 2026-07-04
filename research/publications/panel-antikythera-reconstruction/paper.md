@@ -45,6 +45,12 @@ The important discipline is that each layer has a different authority. A gear
 tooth preserved in bronze, a tooth count inferred from imaging, and a gear
 added to make a model work are not the same kind of evidence.
 
+The first source lock gives RUINS three direct anchors: Freeth et al. 2006 for
+high-resolution X-ray tomography and surface imaging as a changed evidence
+surface, Freeth et al. 2021 for the front Cosmos model and 82-fragment/30-gear
+survival framing, and the NYU Faculty Digital Archive as a collection-level data
+custody target.
+
 ## 3. What Is Missing
 
 | Missing or weak bridge | Why it matters |
@@ -113,3 +119,11 @@ The Antikythera mechanism is a RUINS case because it survives enough to support
 technical reconstruction and withholds enough to make reconstruction dangerous.
 Responsible handling means keeping bronze, scan, diagram, replica, and public
 myth in separate evidence layers.
+
+## Source Posture
+
+The first source lock is recorded in [`source-lock.md`](source-lock.md), and the
+first custody pass is recorded in [`custody-register.md`](custody-register.md).
+The current paper can make high-level claims about fragmentary survival,
+imaging, and model status. It cannot yet make detailed gear-layout,
+inscription-reading, or front-display claims without page and item-level audit.

@@ -26,6 +26,10 @@
 | Antikythera Mechanism Research Project | Project-level custody and imaging history. | Use for source targets; verify specific claims independently. |
 | National Archaeological Museum, Athens | Artifact custody target. | Museum custody does not equal reconstruction certainty. |
 
+See [`source-lock.md`](source-lock.md) for the first locked source set.
+See [`custody-register.md`](custody-register.md) for source custody layers and
+current access posture.
+
 ## Source Questions
 
 1. Which components are directly preserved, visible, or scan-detected?

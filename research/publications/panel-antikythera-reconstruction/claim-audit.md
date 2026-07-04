@@ -24,3 +24,13 @@
 | "lost technology solved" | "a working reconstruction under specified assumptions" |
 | "we know all gears" | "some gears survive; others are inferred" |
 | "the Greeks had modern computers" | "a sophisticated analog astronomical device survives in fragmentary form" |
+
+## Source-Locked Claim Updates
+
+| Claim | Source-locked grade | Reason |
+|---|---|---|
+| The mechanism survives as a fragmentary, damaged geared artifact. | Corroborated | Freeth 2006 and 2021 support fragmentary survival and geared-device framing. |
+| Imaging changed the evidence surface. | Corroborated | Freeth 2006 reports X-ray tomography and surface imaging; Freeth 2021 frames 2005 X-ray CT/PTM as major evidence additions. |
+| 82 fragments and 30 surviving gears can be used as universal values. | Source-specific only | Freeth 2021 supports this framing, but use exact counts with source labels until page audit. |
+| The 2021 Cosmos model solves the front display. | Refuse as closure | It is a model that aims to satisfy evidence, not the ancient object itself. |
+| NYU collection-level custody permits item-level PTM claims. | Refuse | Collection custody is established; item-level claims require item audit. |
