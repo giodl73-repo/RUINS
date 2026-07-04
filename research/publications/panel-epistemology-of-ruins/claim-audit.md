@@ -1,7 +1,7 @@
 # Claim Audit: The Epistemology of Ruins
 
 **Owner:** ERRATA
-**Status:** first-pass work surface
+**Status:** validated method audit
 
 This file tracks claim-grade discipline before the paper becomes publication
 candidate material.
@@ -46,9 +46,9 @@ RUINS should halt schema/repo-runtime promotion if:
 | "mystery" | Replace with the exact unknown. |
 | "forgotten technology" | Distinguish lost, partial, continuous, regional, or experimentally recovered technique. |
 
-## Next Audit Work
+## Current Audit Decision
 
-1. Audit `paper.md` against these rules after the source map gains candidate
-   sources.
-2. Add case-specific refusal sentences for all five seed cases.
-3. Reconcile any claim grade disagreements with the role panel.
+The seed-case audit is now validated by completed RUINS case papers. New method
+claims should update [`method-lock.md`](method-lock.md),
+[`case-validation.md`](case-validation.md), and
+[`refusal-register.md`](refusal-register.md) before the paper changes.

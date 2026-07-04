@@ -1,7 +1,7 @@
 # Chronology: The Epistemology of Ruins
 
 **Owner:** STRATA
-**Status:** first-pass work surface
+**Status:** validated method work surface
 
 This file keeps RUINS from flattening long loss processes into one dramatic
 event.
@@ -42,10 +42,8 @@ These rows are scaffolding for method testing, not final chronologies.
 | Date/range | Layer | Evidence condition | What changed | Claim grade |
 |---|---|---|---|---|
 
-## Next Chronology Work
+## Current Chronology Decision
 
-1. Replace scaffold rows with case-specific dates or date ranges after source
-   gathering.
-2. Mark each row as event, process, later memory, or modern reconstruction.
-3. Flag any sentence in `paper.md` that uses singular "the loss" where a
-   process is more accurate.
+The foundation paper keeps chronology generic because it defines method. Detailed
+date ranges and page anchors remain in the case papers. New case families should
+add a row here only when they force a new loss-process category.

@@ -8,7 +8,7 @@ role reviews, and synthesis.
 
 | Paper | Track | Status |
 |---|---|---|
-| [`panel-epistemology-of-ruins`](panel-epistemology-of-ruins/) | Evidence and Absence | working draft with first role review |
+| [`panel-epistemology-of-ruins`](panel-epistemology-of-ruins/) | Evidence and Absence | publication-ready |
 | [`panel-library-alexandria-loss-memory`](panel-library-alexandria-loss-memory/) | Evidence and Absence | publication-ready |
 | [`panel-indus-nondecipherment`](panel-indus-nondecipherment/) | Evidence and Absence | working plan and source map |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |

@@ -2,33 +2,31 @@
 
 **Paper:** panel-epistemology-of-ruins
 **Review date:** 2026-07-04
-**Decision:** proceed with working draft expansion
+**Decision:** publication-ready for current method-paper scope
 
 ## Summary
 
-The role panel supports the RUINS direction. The strongest move is treating
-ruins as evidence conditions rather than as places or moods. The main remaining
-work is to apply the method to seed cases: source candidates, chronology rows,
-audited claims, and case-specific refusals.
+The role panel supports the RUINS method as the project spine. The strongest
+move is treating ruins as evidence conditions rather than as places or moods.
+The original expansion findings are now closed by completed case packages,
+`method-lock.md`, `case-validation.md`, `refusal-register.md`,
+`cultural-memory.md`, and `sibling-boundary.md`.
 
 ## Findings By Severity
 
 | Severity | Finding | Owner |
 |---|---|---|
-| P2 | Source mapping needs case-level source candidates. | PALIMPSEST / Fragment Custodian |
-| P2 | Chronology needs one rough row per seed case. | STRATA / Absence Historian |
-| P2 | Claim downgrade rules need one audited claim per seed case. | ERRATA / Reconstruction Skeptic |
-| P2 | Cultural memory should be treated as an analytic layer. | RELIQUARY / Cultural Memory Reader |
-| P2 | Each case needs a partial-survival reason and sibling handoff. | ASHLAR / Sibling Boundary Editor |
+| P3 | Add external theory-source custody before outside-venue submission. | PALIMPSEST / FONTES |
+| P3 | Add new method categories only when a future case cannot be classified without distortion. | ASHLAR / role panel |
 
 ## Next Work Package
 
-1. PALIMPSEST expands `source-map.md`.
-2. STRATA expands `chronology.md`.
-3. ERRATA expands `claim-audit.md`.
-4. RELIQUARY adds a cultural-memory afterlife template.
-5. ASHLAR revises `paper.md` after those work surfaces carry case-level detail.
+1. Keep method artifacts synchronized with new case families.
+2. Preserve metadata-only source posture until external theory claims are added.
+3. Defer schemas or runtime work until the paper method remains stable across
+   the next tranche.
 
 ## Decision
 
-Proceed. Do not add code, schemas, or runtime scaffolding.
+Publication-ready for RUINS internal/current public-repo scope. Do not add code,
+schemas, or runtime scaffolding.

@@ -2,7 +2,7 @@
 
 **Authors:** draft
 **Target Venue:** portfolio research note before external venue targeting
-**Status:** working draft
+**Status:** publication-ready
 **Date:** 2026-07-04
 
 ## Abstract
@@ -13,9 +13,9 @@ and contested reconstructions. This paper proposes the first RUINS method. It
 argues that a ruin is not merely a remnant, but a structured relation between
 absence, trace, inference, reconstruction, and later memory. The method defines
 evidence conditions, claim grades, reconstruction-status labels, and a required
-refusal section. It then tests the vocabulary against five unlike cases: Indus
-script, Antikythera mechanism, Library of Alexandria, Cahokia, and Roman
-concrete.
+refusal section. It then tests the vocabulary against unlike cases: Indus
+script, Antikythera mechanism, Library of Alexandria, Cahokia, Roman concrete,
+Knossos, and Great Zimbabwe.
 
 ## 1. Problem
 
@@ -26,6 +26,10 @@ famous loss becomes a symbol stronger than the evidence behind it.
 The problem is not that reconstruction is wrong. Reconstruction is often the
 only way to think with damaged evidence. The problem is unmarked reconstruction:
 claims that move from trace to story without showing where inference entered.
+
+The current method claims are locked in [`method-lock.md`](method-lock.md) and
+validated against the completed case set in
+[`case-validation.md`](case-validation.md).
 
 ## 2. Working Definition
 
@@ -96,7 +100,7 @@ Every RUINS case paper should include:
 9. Refusals
 10. Sibling Knowledge Systems handoffs
 
-## 7. Five Stress Tests
+## 7. Stress Tests
 
 ### 7.1 Indus Script
 
@@ -134,6 +138,20 @@ archaeologically visible, continuously practiced in altered form, chemically
 analyzable, and experimentally recoverable. Calling it simply "lost" may hide
 the actual transmission problem.
 
+### 7.6 Knossos
+
+Knossos tests restoration as modern projection. The restored palace is not
+simply false, but it is also not transparent evidence for Bronze Age appearance.
+RUINS should separate excavated material, restoration choices, public image, and
+the site's modern afterlife.
+
+### 7.7 Great Zimbabwe
+
+Great Zimbabwe tests interpretive violence. Monumental survival did not prevent
+colonial denial from attacking African authorship and distorting public
+understanding. RUINS should treat damaged custody, living memory, heritage
+recognition, and denial history as separate evidence layers.
+
 ## 8. Sibling Handoffs
 
 | Handoff | When to use |
@@ -162,6 +180,9 @@ Useful refusals include:
 - A famous destruction story does not prove a single dramatic loss event.
 - A modern restoration can become part of the site's history without becoming
   evidence for the ancient state.
+
+The method-level refusal register is
+[`refusal-register.md`](refusal-register.md).
 
 ## 10. Conclusion
 

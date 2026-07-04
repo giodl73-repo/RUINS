@@ -3,7 +3,7 @@
 **Module:** RUINS
 **Track:** Track A - Evidence and Absence
 **Venue:** Journal of Archaeological Method and Theory, or a portfolio research note before venue targeting
-**Position in chain:** Track A, Paper 1 - independent; feeds all later RUINS case papers
+**Position in chain:** Track A, Paper 1 - method spine validated by later RUINS case papers
 
 ## Research Question
 

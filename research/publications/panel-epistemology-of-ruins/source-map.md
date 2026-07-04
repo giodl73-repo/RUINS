@@ -1,11 +1,12 @@
 # Source Map: The Epistemology of Ruins
 
 **Owner:** PALIMPSEST
-**Status:** first-pass work surface
+**Status:** validated method source map
 **Rule:** metadata-only; do not copy protected source content
 
-This file names source classes and evidence surfaces needed to test the RUINS
-method. It is not a bibliography yet.
+This file names source classes and evidence surfaces used to test the RUINS
+method. Case-specific external source custody lives in the completed case
+packages; this foundation paper uses them as method-validation surfaces.
 
 ## Seed Evidence Surfaces
 
@@ -75,9 +76,8 @@ citations yet.
 | Protected source-content anchoring | FONTES |
 | General reference summaries | MAXIM |
 
-## Next Source Work
+## Current Source Decision
 
-1. Gather 3-5 high-quality survey or method sources per seed case.
-2. Classify each source as primary, secondary, copied, reported,
-   reconstruction, or public-image evidence.
-3. Keep direct quotations out until source custody rules are clear.
+The method paper stays metadata-only. External page anchors remain in the case
+packages. If this paper adds external theory claims later, PALIMPSEST must add a
+separate source lock for those claims.
