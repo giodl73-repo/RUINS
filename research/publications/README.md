@@ -10,7 +10,8 @@ role reviews, and synthesis.
 |---|---|---|
 | [`panel-epistemology-of-ruins`](panel-epistemology-of-ruins/) | Evidence and Absence | publication-ready |
 | [`panel-library-alexandria-loss-memory`](panel-library-alexandria-loss-memory/) | Evidence and Absence | publication-ready |
-| [`panel-indus-nondecipherment`](panel-indus-nondecipherment/) | Evidence and Absence | working plan and source map |
+| [`panel-indus-nondecipherment`](panel-indus-nondecipherment/) | Evidence and Absence | publication-ready |
+| [`panel-house-of-wisdom-institution-memory`](panel-house-of-wisdom-institution-memory/) | Evidence and Absence | promising draft |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-knossos-restoration-projection`](panel-knossos-restoration-projection/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-great-zimbabwe-colonial-denial`](panel-great-zimbabwe-colonial-denial/) | Monumental Sites and Contested Interpretation | publication-ready |

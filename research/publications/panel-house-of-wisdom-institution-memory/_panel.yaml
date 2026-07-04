@@ -1,0 +1,19 @@
+paper: panel-house-of-wisdom-institution-memory
+module: ruins
+status: working-draft
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: surviving textual references, later reports, institutional traces, manuscript transmission, and absence of a clean site/corpus boundary
+  - id: R2
+    name: Absence Historian
+    focus: Abbasid patronage, translation movement, Baghdad 1258, institutional dispersal, and later memory compression
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: academy/library overclaims, single-institution claims, river-of-ink claims, and translation-movement centralization
+  - id: R4
+    name: Cultural Memory Reader
+    focus: golden-age memory, civilizational-loss narrative, schoolbook House of Wisdom, and modern Baghdad/Iraq afterlife
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM Islamic history, FONTES/MUNDUS source custody, CANON institution/entity identity, LUCIA narrative chronology, PORTO Baghdad
