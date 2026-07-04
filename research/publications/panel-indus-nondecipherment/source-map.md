@@ -32,6 +32,8 @@ script's linguistic status.
 | Recent public summaries of decipherment obstacles | Public-facing memory and current-state framing. | Treat as cultural-memory/current-summary evidence, not primary authority. |
 
 See [`source-lock.md`](source-lock.md) for the first locked source set.
+See [`custody-register.md`](custody-register.md) for source custody layers and
+current access posture.
 
 ## Source Questions
 

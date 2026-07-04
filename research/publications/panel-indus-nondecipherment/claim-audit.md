@@ -25,6 +25,7 @@
 | S1 supports sign-order structure and directionality. | Plausible structure | The source itself says this does not conclusively establish natural language. |
 | Farmer/Sproat/Witzel establish the strongest non-linguistic critique in this first source set. | Corroborated as debate position | The critique is real and important; the conclusion remains graded as speculative in RUINS. |
 | Nair 2026 changes the settled state of the field. | Refuse | Preprint is useful method pressure, not consensus. |
+| Public mystery, AI, or prize coverage strengthens a decipherment. | Refuse | These sources document cultural memory and closure incentives, not translation evidence. |
 
 ## Refusals
 

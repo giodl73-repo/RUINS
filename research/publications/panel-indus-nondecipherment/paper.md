@@ -90,8 +90,14 @@ a serious counter-position; RUINS grades it as a claim to audit, not a closure.
 |---|---|---|---|---|
 | Popular ancient-mystery writing | articles, videos, summaries | wonder and narrative closure | "lost script" mystery | cultural memory |
 | Computational decipherment coverage | news and technology writing | AI progress story | pattern as near-decipherment | public image of method |
+| Public prize/challenge coverage | news and political-cultural announcement coverage | prestige, competition, public closure | decipherment as solvable challenge | cultural-memory evidence only |
 | National or civilizational narratives | public history and identity writing | continuity and prestige | language-family or cultural ownership | often stronger than evidence allows |
 | Scholarly debates | papers and reviews | method and interpretation | linguistic versus non-linguistic status | evidence-facing but contested |
+
+The first cultural-memory register identifies four recurring afterlives:
+mystery framing, AI-breakthrough framing, prize/challenge framing, and
+language-family identity framing. These are useful because they explain why
+strong claims recur. They do not raise the evidence grade of any reading.
 
 ## 7. Refusals
 
@@ -126,3 +132,6 @@ evidence appears.
 The first source lock is recorded in [`source-lock.md`](source-lock.md). This
 paper may use source-specific corpus values from Yadav et al. and M77 framing,
 but it should not merge competing catalog traditions into one universal count.
+The source custody pass is recorded in
+[`custody-register.md`](custody-register.md), and public-memory examples are
+bounded in [`cultural-memory.md`](cultural-memory.md).

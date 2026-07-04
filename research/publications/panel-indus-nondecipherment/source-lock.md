@@ -17,6 +17,7 @@ interpretation is accepted as final.
 | S3 | Rao, "The Indus Script and Economics" (arXiv:1812.00049) | interpretive economic hypothesis | Example of administrative/economic interpretation of seals and tablets. | Hypothesis, not decipherment. |
 | S4 | Nair, "How Non-Linguistic Is the Indus Sign System?" (arXiv:2604.17828) | current preprint / method stress test | Current synthetic-baseline pressure on linguistic versus non-linguistic classification. | Preprint; do not treat as field consensus. |
 | S5 | Indus script and Indus Valley Civilisation public summaries | tertiary/public framing | Public-current state, bibliography pointers, and cultural-memory framing. | Not primary authority for paper claims. |
+| S6 | Live Science / Wired / public prize coverage | public memory and technology-news framing | Examples of mystery, AI-breakthrough, and prize/challenge narratives. | Cultural-memory evidence only; not authority for translation or corpus facts. |
 
 ## Locked Values And Claims
 
@@ -31,6 +32,7 @@ interpretation is accepted as final.
 | Non-linguistic critique | Farmer/Sproat/Witzel argue for a non-linguistic interpretation using brevity, rare signs, and sign-repetition arguments. | S2 / S5 | Speculative critique to audit |
 | Economic/admin interpretation | Rao 2018 proposes rationing/administrative uses for some tablets and related seal inscriptions. | S3 | Speculative hypothesis |
 | Current-method pressure | Nair 2026 argues the corpus does not match tested synthetic non-linguistic baselines cleanly and replicates some prior quantitative metrics. | S4 | Plausible current-method pressure, not consensus |
+| Public-memory forms | Recent public coverage frames undecipherment through mystery, AI progress, prize/challenge, and identity stakes. | S5 / S6 | Cultural-memory evidence, not decipherment evidence |
 
 ## Paper Use Rules
 
@@ -43,6 +45,8 @@ interpretation is accepted as final.
    interpretations unless a source is explicitly being summarized.
 5. Treat public summaries as cultural-memory or bibliography aids, not final
    authority.
+6. Use [`custody-register.md`](custody-register.md) before promoting a corpus,
+   concordance, or public-summary claim to stronger evidence status.
 
 ## References
 
@@ -56,3 +60,9 @@ interpretation is accepted as final.
   https://arxiv.org/abs/2604.17828
 - Indus script public/bibliographic summary:
   https://en.wikipedia.org/wiki/Indus_script
+- Live Science public overview:
+  https://www.livescience.com/archaeology/will-the-indus-valley-script-ever-be-deciphered
+- Wired computational-work coverage:
+  https://www.wired.com/2009/04/indusscript
+- Public prize/challenge coverage:
+  https://nypost.com/2025/01/24/world-news/unlock-this-ancient-mystery-and-earn-1-million/
