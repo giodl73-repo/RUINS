@@ -9,3 +9,4 @@ role reviews, and synthesis.
 | Paper | Track | Status |
 |---|---|---|
 | [`panel-epistemology-of-ruins`](panel-epistemology-of-ruins/) | Evidence and Absence | working draft with first role review |
+| [`panel-indus-nondecipherment`](panel-indus-nondecipherment/) | Evidence and Absence | working plan and source map |

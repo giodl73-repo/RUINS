@@ -1,0 +1,19 @@
+paper: panel-indus-nondecipherment
+module: ruins
+status: working
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: artifacts, sign lists, catalog choices, direct versus reported evidence
+  - id: R2
+    name: Absence Historian
+    focus: missing language, missing long texts, missing bilingual anchor
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: decipherment proposals, statistical claims, non-linguistic hypothesis
+  - id: R4
+    name: Cultural Memory Reader
+    focus: ancient mystery framing and public fascination
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM context, MUNDUS/FONTES source handoff, CANON sign-list identity
