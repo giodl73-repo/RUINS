@@ -27,6 +27,7 @@
 | Nair 2026 changes the settled state of the field. | Refuse | Preprint is useful method pressure, not consensus. |
 | Public mystery, AI, or prize coverage strengthens a decipherment. | Refuse | These sources document cultural memory and closure incentives, not translation evidence. |
 | Direct volume custody of M77 or CISI permits object-level claims. | Refuse | Volume-level custody improves source posture, but independent sign, variant, seal, photograph, or provenience claims require page-specific audit. |
+| Bibliographic custody of CISI 3.x permits object-level claims. | Refuse | Publisher/product metadata and reviews locate the volumes, but they are not substitutes for direct volume access and page-level audit. |
 
 ## Refusals
 

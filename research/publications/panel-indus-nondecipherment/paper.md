@@ -145,3 +145,6 @@ The third custody pass adds direct volume-level custody for M77 and CISI volumes
 1 and 2. That improves the paper's source posture, but it does not authorize
 new object-level claims. Any independent use of a seal, sign variant, site
 entry, or photograph from those volumes needs a page-specific audit note first.
+The fourth custody pass adds bibliographic custody for CISI volumes 3.1-3.3
+through publisher targets and a review surface. That is enough to name the later
+volumes as corpus-series targets, but not enough to cite their object entries.

@@ -21,7 +21,7 @@
 | Refusal quality | 6/7 | Clear refusals: no translation, no language-family selection, no statistical-order-as-reading. |
 | Cultural-memory handling | 5/6 | Source-backed examples now cover mystery, AI-breakthrough, prize/challenge, identity, and scholarly-debate framing. |
 | Sibling boundary | 4/5 | Handoffs are clear; MAXIM/MUNDUS/FONTES/CANON boundaries are explicit. |
-| Source posture | 4/4 | First source set is locked, public-memory sources are bounded, and custody layers identify what still requires direct access. |
+| Source posture | 4/4 | First source set is locked, public-memory sources are bounded, CISI 3.x bibliographic targets are recorded, and custody layers identify what still requires direct access. |
 
 ## Blocking Findings
 
@@ -34,13 +34,13 @@ No open `P2` findings for the current paper scope.
 ## Open P3 / Future-Use Findings
 
 - Complete page-specific audit before object-level, photograph-level, or independent sign-list claims.
-- Retrieve direct CISI volume 3.x custody before claiming full later corpus-series coverage.
+- Retrieve direct CISI volume 3.x copies before claiming full later corpus-series coverage or citing object entries.
 
 ## Next Lift
 
 To move above 46:
 
 1. PALIMPSEST/FONTES complete page-specific audit for any object-level M77/CISI claims.
-2. PALIMPSEST retrieves direct CISI volume 3.x custody notes.
+2. PALIMPSEST retrieves direct CISI volume 3.x copies and page-level custody notes.
 3. ERRATA confirms no paper claims rely on tertiary sources where direct corpus
    sources are required.

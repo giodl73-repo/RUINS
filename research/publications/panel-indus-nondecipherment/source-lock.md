@@ -19,6 +19,7 @@ interpretation is accepted as final.
 | S5 | Indus script and Indus Valley Civilisation public summaries | tertiary/public framing | Public-current state, bibliography pointers, and cultural-memory framing. | Not primary authority for paper claims. |
 | S6 | Live Science / Wired / public prize coverage | public memory and technology-news framing | Examples of mystery, AI-breakthrough, and prize/challenge narratives. | Cultural-memory evidence only; not authority for translation or corpus facts. |
 | S7 | Internet Archive item `TheIndusScript.TextConcordanceAndTablesIravathanMahadevan` | direct volume-level custody target | M77 PDF and CISI volumes 1-2 PDF metadata, OCR surfaces, and custody boundaries. | Volume-level custody only; page-specific object/sign claims still need audit. |
+| S8 | Tiedekirja CISI 3.1-3.3 product targets and Fuls 2022 review of CISI 3.3 | bibliographic custody / review surface | Later CISI 3.x series membership and bounded bibliographic context. | Not direct custody of the volumes; not authority for object-level claims. |
 
 ## Locked Values And Claims
 
@@ -36,6 +37,7 @@ interpretation is accepted as final.
 | Public-memory forms | Recent public coverage frames undecipherment through mystery, AI progress, prize/challenge, and identity stakes. | S5 / S6 | Cultural-memory evidence, not decipherment evidence |
 | M77 direct custody | M77 is available as a direct Internet Archive PDF in the same archive item used for custody; temporary inspection confirmed an 842-page image-container PDF. | S7 | Direct custody target; independent sign-list claims still require page audit |
 | CISI 1-2 direct custody | CISI *Collections in India* and *Collections in Pakistan* are available as direct Internet Archive PDFs in the same archive item; temporary inspection confirmed 862-page and 486-page image-container PDFs. | S7 | Direct volume-level custody; object-level claims still require page audit |
+| CISI 3.x bibliographic custody | CISI 3.1, 3.2, and 3.3 have official publisher/product targets and bibliographic metadata; a direct review PDF supports bounded series context for 3.3. | S8 | Bibliographic custody only; direct volume custody still open |
 
 ## Paper Use Rules
 
@@ -74,3 +76,11 @@ interpretation is accepted as final.
   https://nypost.com/2025/01/24/world-news/unlock-this-ancient-mystery-and-earn-1-million/
 - Internet Archive custody item for M77 and CISI volumes 1-2:
   https://archive.org/details/TheIndusScript.TextConcordanceAndTablesIravathanMahadevan
+- Tiedekirja product target for CISI 3.1:
+  https://tiedekirja.fi/en/corpus-of-indus-seals-and-inscriptions-3-1
+- Tiedekirja product target for CISI 3.2:
+  https://tiedekirja.fi/en/corpus-of-indus-seals-and-inscriptions-3-2
+- Tiedekirja product target for CISI 3.3:
+  https://tiedekirja.fi/en/corpus-of-indus-seals-and-inscriptions-3-3
+- Fuls review of CISI 3.3:
+  https://ijas.usb.ac.ir/article_7752_2c9c9c95f6f26a4fcf432856a4ca7f2d.pdf
