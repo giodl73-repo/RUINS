@@ -1,7 +1,7 @@
 # Knossos Restoration Projection
 
 **Authors:** draft
-**Status:** working draft
+**Status:** stable working paper
 **Date:** 2026-07-04
 
 ## Abstract
@@ -31,6 +31,13 @@ RUINS should therefore ask:
 The ruin condition lies in the difficulty of separating ancient trace from
 modern projection when the projection has itself become historically important.
 
+For current locked values and source boundaries, use
+[`source-lock.md`](source-lock.md) and
+[`custody-register.md`](custody-register.md). Excavation dates, restoration
+phases, UNESCO serial-property claims, BSA custody claims, and modernism claims
+remain source-labeled and need page-level anchors before publication-ready
+status.
+
 ## 2. What Survives
 
 | Surviving trace | Evidence condition | Claim grade |
@@ -57,8 +64,8 @@ modern projection when the projection has itself become historically important.
 
 | Claim | Grade | Reason |
 |---|---|---|
-| Knossos is a major Bronze Age archaeological site. | Corroborated | Strong source target; exact heritage/date wording needs source lock. |
-| Evans's restoration is part of the visible site. | Corroborated | Public museum and scholarship targets support this. |
+| Knossos is a major Bronze Age archaeological site. | Corroborated | UNESCO and BSA support broad site significance; exact wording remains source-specific. |
+| Evans's restoration is part of the visible site. | Corroborated | Ashmolean and Gere support this with source-specific limits. |
 | Restored concrete and painted forms are Bronze Age originals. | Refuse | They are modern intervention layers. |
 | The restored site is worthless because it is modernized. | Refuse | Modern restoration does not erase ancient fabric. |
 | UNESCO recognition validates every restoration decision. | Refuse | Heritage recognition and reconstruction accuracy are separate claims. |
@@ -86,7 +93,7 @@ modern projection when the projection has itself become historically important.
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this foundation draft:
+RUINS refuses the following claims in this stable working paper:
 
 - It will not say restored Knossos is simply what Minoans built.
 - It will not say Knossos is fake because Evans restored it.

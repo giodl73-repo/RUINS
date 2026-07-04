@@ -18,11 +18,12 @@ evidence status, rather than a transparent window onto the Minoan Bronze Age?
 5. Explain how UNESCO / heritage recognition relates to modern custody, not to
    automatic validation of every restoration choice.
 
-## First Pass Scope
+## Current Scope
 
-This pass is a working paper. It names major source targets and claim
-boundaries, but does not yet source-lock Evans excavation reports, restoration
-campaigns, UNESCO inscription language, or conservation scholarship.
+This pass is a stable working paper. It source-locks UNESCO heritage framing,
+Ashmolean restoration chronology, BSA custody/research context, and Gere's
+modernism/projection frame. It does not yet include page-level anchors for
+publication-ready use of exact dates, phases, or feature-level claims.
 
 ## Out Of Scope
 
