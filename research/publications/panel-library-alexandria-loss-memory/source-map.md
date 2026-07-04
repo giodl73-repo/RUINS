@@ -28,6 +28,10 @@
 | El-Abbadi/Fathallah, *What Happened to the Ancient Library of Alexandria?* | Modern collected scholarship target. | Bibliographic target until direct chapter custody is complete. |
 | Rohmann 2022 on the Serapeum | Current secondary target for Serapeum/library evidence. | Use as method pressure; direct text custody needed before detailed claims. |
 
+See [`source-lock.md`](source-lock.md) for the first locked source set.
+See [`custody-register.md`](custody-register.md) for source custody layers and
+current access posture.
+
 ## Handoff Notes
 
 | Need | Handoff |

@@ -46,6 +46,12 @@ Strabo describes the Museum as part of the royal palaces and as a community of
 learned men. That supports an institutional setting. It does not, by itself,
 solve the fate of the Library collection.
 
+The first source lock gives RUINS three directly accessible ancient anchors:
+Strabo for the Museum setting, Plutarch for one Caesar-fire destruction
+tradition, and Cassius Dio for a separate account involving fires, docks,
+storehouses, buildings, and library/books. These anchors support a layered
+loss model, not a single final destruction story.
+
 ## 3. What Is Missing
 
 | Missing or weak bridge | Why it matters |
@@ -114,3 +120,11 @@ over-narrated. The responsible move is not to deny destruction, but to refuse
 the one-fire myth until the source layers have been separated. Alexandria teaches
 RUINS that a famous absence can become more coherent in memory than it is in the
 evidence.
+
+## Source Posture
+
+The first source lock is recorded in [`source-lock.md`](source-lock.md), and the
+first custody pass is recorded in [`custody-register.md`](custody-register.md).
+The current paper can compare Strabo, Plutarch, and Cassius Dio as named source
+traditions. It cannot yet make page-audited publication claims about the
+Serapeum, the Arab-conquest story, or the Library's holdings.

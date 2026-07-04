@@ -7,6 +7,8 @@ Paper `panel-library-alexandria-loss-memory` in the [RUINS](../../) module.
 - [**paper.md** - the paper draft](paper.md)
 - [**plan.md** - paper plan](plan.md)
 - [**source-map.md** - source and trace work surface](source-map.md)
+- [**source-lock.md** - locked first source set](source-lock.md)
+- [**custody-register.md** - source custody layers and access posture](custody-register.md)
 - [**chronology.md** - loss-event and memory layers](chronology.md)
 - [**claim-audit.md** - destruction and memory claim checks](claim-audit.md)
 - [**_panel.yaml** - review panel](./_panel.yaml)

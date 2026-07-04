@@ -15,6 +15,16 @@
 | Caliph Umar ordered the Library burned in 642 CE. | Refuse as historical claim in this draft | The story is late and should be treated as later source tradition until audited. |
 | The Library is a modern symbol of lost knowledge. | Corroborated as cultural memory | Public and scholarly writing repeatedly use it as an emblem of knowledge loss. |
 
+## Source-Locked Claim Updates
+
+| Claim | Source-locked grade | Reason |
+|---|---|---|
+| Strabo supports the Museum as an institutional setting. | Corroborated ancient witness | Direct text custody supports the Museum/royal-palace claim. |
+| Plutarch supports a Caesar-fire destruction tradition. | Corroborated as narrative tradition | Direct text custody supports saying Plutarch reports this tradition. |
+| Cassius Dio supports a different fire/book-loss framing. | Corroborated as narrative tradition | Direct text custody supports comparing Dio with Plutarch. |
+| Plutarch and Dio together prove one total destruction event. | Refuse | The accounts differ and do not settle final fate. |
+| El-Abbadi can be used for detailed modern synthesis claims. | Not yet | Bibliographic custody exists; page/text custody still needed. |
+
 ## Phrases To Challenge
 
 | Phrase | Replacement |
