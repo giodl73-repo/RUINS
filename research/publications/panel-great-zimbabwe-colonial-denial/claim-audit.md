@@ -1,14 +1,14 @@
 # Claim Audit: Great Zimbabwe Colonial Denial
 
 **Owner:** ERRATA
-**Status:** working audit
+**Status:** source-locked working audit
 
 ## Claim Grades
 
 | Claim | Max grade now | Audit note |
 |---|---|---|
-| Great Zimbabwe preserves major drystone monumental architecture. | Observed / corroborated | Direct material survival; exact dimensions need source lock. |
-| The site was built by local African societies. | Corroborated | Strong archaeological consensus target; identity details remain source-specific. |
+| Great Zimbabwe preserves major drystone monumental architecture. | Observed / corroborated | Direct material survival; UNESCO gives source-specific public values. |
+| The site was built by local African societies. | Corroborated | UNESCO and British Academy / Chirikure support high-level local African construction. Identity details remain source-specific. |
 | Imported goods prove foreign builders. | Refuse | Trade contact is not authorship evidence. |
 | Colonial non-African origin theories are viable archaeological alternatives. | Refuse | Treat as colonial denial / cultural-memory artifact. |
 | Great Zimbabwe was simply "lost" or ownerless. | Refuse | Living memory, local claims, and national afterlife complicate loss language. |

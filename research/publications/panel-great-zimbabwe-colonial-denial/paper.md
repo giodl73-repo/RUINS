@@ -1,7 +1,7 @@
 # Great Zimbabwe Colonial Denial
 
 **Authors:** draft
-**Status:** working draft
+**Status:** stable working paper
 **Date:** 2026-07-04
 
 ## Abstract
@@ -32,6 +32,13 @@ The case asks:
 RUINS should not turn the site into mystery theater. The stronger question is
 how a monumental African city could be made "unthinkable" to colonial readers.
 
+For current locked values and source boundaries, use
+[`source-lock.md`](source-lock.md) and
+[`custody-register.md`](custody-register.md). UNESCO values, archaeological
+consensus claims, local-memory claims, population estimates, abandonment
+hypotheses, and political-economy interpretations remain source-labeled and
+need page-level anchors before publication-ready status.
+
 ## 2. What Survives
 
 | Surviving trace | Evidence condition | Claim grade |
@@ -59,7 +66,7 @@ how a monumental African city could be made "unthinkable" to colonial readers.
 | Claim | Grade | Reason |
 |---|---|---|
 | Great Zimbabwe preserves major drystone architecture. | Observed / corroborated | The built remains are the starting evidence surface. |
-| The site was built by local African societies. | Corroborated | Strong modern archaeological consensus target. |
+| The site was built by local African societies. | Corroborated | Source-locked at high level; detailed identity claims remain source-specific. |
 | Imported artifacts prove foreign builders. | Refuse | Trade evidence is not authorship evidence. |
 | Colonial non-African origin theories remain live alternatives. | Refuse | They belong to denial history, not current archaeology. |
 | Great Zimbabwe is simply a mysterious lost city. | Refuse | The phrase erases evidence, local memory, and modern custody. |
@@ -88,7 +95,7 @@ how a monumental African city could be made "unthinkable" to colonial readers.
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this foundation draft:
+RUINS refuses the following claims in this stable working paper:
 
 - It will not treat non-African origin theories as live archaeological
   alternatives.

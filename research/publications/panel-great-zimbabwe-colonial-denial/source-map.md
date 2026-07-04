@@ -1,7 +1,7 @@
 # Source Map: Great Zimbabwe Colonial Denial
 
 **Owner:** PALIMPSEST
-**Status:** working source map
+**Status:** source-locked map
 **Rule:** metadata-only; do not copy protected source content
 
 ## Evidence Surfaces

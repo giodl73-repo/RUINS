@@ -1,6 +1,6 @@
 paper: panel-great-zimbabwe-colonial-denial
 module: ruins
-status: working
+status: stable-working-paper
 roles:
   - id: R1
     name: Fragment Custodian

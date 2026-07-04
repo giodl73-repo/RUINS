@@ -19,11 +19,12 @@ and later nationalist and heritage memory?
 5. Refuse both colonial erasure and overcorrection that flattens local,
    scholarly, and heritage claims into one story.
 
-## First Pass Scope
+## Current Scope
 
-This pass is a working paper. It names major source targets and claim
-boundaries, but does not yet source-lock UNESCO values, archaeological
-consensus claims, colonial-denial historiography, or local-community memory.
+This pass is a stable working paper. It source-locks UNESCO public values,
+archaeological consensus on local African construction, colonial-denial
+framing, and local/community-memory surfaces. It does not yet include
+page-level anchors for publication-ready use of exact values or interpretations.
 
 ## Out Of Scope
 

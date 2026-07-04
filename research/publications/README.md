@@ -13,6 +13,6 @@ role reviews, and synthesis.
 | [`panel-indus-nondecipherment`](panel-indus-nondecipherment/) | Evidence and Absence | working plan and source map |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-knossos-restoration-projection`](panel-knossos-restoration-projection/) | Reconstruction and Modern Projection | publication-ready |
-| [`panel-great-zimbabwe-colonial-denial`](panel-great-zimbabwe-colonial-denial/) | Monumental Sites and Contested Interpretation | working draft |
+| [`panel-great-zimbabwe-colonial-denial`](panel-great-zimbabwe-colonial-denial/) | Monumental Sites and Contested Interpretation | stable working paper |
 | [`panel-cahokia-without-collapse-theater`](panel-cahokia-without-collapse-theater/) | Lost Techniques and Broken Transmission | publication-ready |
 | [`panel-roman-concrete-partial-survival`](panel-roman-concrete-partial-survival/) | Lost Techniques and Broken Transmission | publication-ready |

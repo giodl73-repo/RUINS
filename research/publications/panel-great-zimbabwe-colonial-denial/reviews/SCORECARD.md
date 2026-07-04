@@ -7,21 +7,21 @@
 
 ## Score
 
-**Score:** 35/50
-**Band:** Promising draft
-**Caps:** No source lock yet; maximum 42. No role review yet; maximum 37.
+**Score:** 41/50
+**Band:** Stable working paper
+**Caps:** Page-level anchors are not complete; do not raise above 44 until role review has no open P2 findings.
 
 ## Dimension Scores
 
 | Dimension | Score | Notes |
 |---|---:|---|
-| Evidence condition | 7/10 | Good separation of architecture, artifacts, stratigraphy, looting, local memory, heritage, and denial narratives. |
-| Loss/process clarity | 6/8 | Strong framing of interpretive violence and damaged custody; chronology needs source lock. |
-| Claim-grade discipline | 7/10 | Correctly refuses foreign-authorship and imported-object overclaims. |
-| Refusal quality | 5/7 | Clear refusal section, but no refusal register yet. |
-| Cultural-memory handling | 5/6 | Strong colonial denial / national symbolism / local memory framing; needs source posture. |
-| Sibling boundary | 3/5 | Handoffs named; needs boundary register if paper grows. |
-| Source posture | 2/4 | Source map exists; no source lock, custody register, or page audit. |
+| Evidence condition | 8/10 | Separates architecture, artifacts, stratigraphy, damaged custody, trade goods, local memory, heritage, and denial narratives. |
+| Loss/process clarity | 7/8 | Strong framing of interpretive violence and damaged custody with source-locked chronology targets. |
+| Claim-grade discipline | 8/10 | Refuses foreign-authorship, imported-object overclaims, simple abandonment, and heritage/national overclaims. |
+| Refusal quality | 6/7 | Refusal register operationalizes colonial denial, ownerless lost-city, and source-type boundaries. |
+| Cultural-memory handling | 5/6 | Cultural-memory register covers Queen of Sheba/Biblical legends, Zimbabwe Bird, sacred landscape, UNESCO, and postcolonial recovery. |
+| Sibling boundary | 4/5 | Boundary register names MAXIM, FONTES/MUNDUS, CANON, PORTO, CERES, and modern-politics limits. |
+| Source posture | 3/4 | First source lock and custody register exist. Page-level audit is still missing. |
 
 ## Blocking Findings
 
@@ -29,14 +29,15 @@ No `P1` findings.
 
 ## Open P2 Findings
 
-- Add source lock for UNESCO values, archaeological consensus on local African
-  construction, colonial-denial historiography, and local/community memory.
-- Add custody register separating material survival, damaged excavation
-  context, heritage custody, local memory, and national symbolism.
-- Add refusal register before raising above stable working paper.
+- Add page anchors before publication-ready use of exact UNESCO values,
+  British Academy / Chirikure claims, ICCROM local-memory claims, population
+  estimates, abandonment hypotheses, or political-economy interpretations.
+- Keep excavation detail, conservation advice, final population values, and
+  detailed identity/continuity mapping out of scope until separately audited.
 
 ## Next Lift
 
-1. PALIMPSEST creates `source-lock.md` and `custody-register.md`.
-2. ERRATA creates a refusal register and expands the claim audit.
-3. ASHLAR runs first role review.
+1. PALIMPSEST creates a page-level anchor audit for locked heritage,
+   consensus, local-memory, and denial-history claims.
+2. ERRATA updates `claim-audit.md` after page anchors are added.
+3. ASHLAR reruns role review for publication-ready status.
