@@ -42,7 +42,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 |---|---|---|
 | Evidence and Absence | `panel-epistemology-of-ruins` | working draft |
 | Evidence and Absence | `panel-library-alexandria-loss-memory` | planned |
-| Evidence and Absence | `panel-indus-nondecipherment` | working draft |
+| Evidence and Absence | `panel-indus-nondecipherment` | publication-ready |
 | Reconstruction and Modern Projection | `panel-antikythera-reconstruction` | planned |
 | Reconstruction and Modern Projection | `panel-knossos-restoration-projection` | planned |
 | Lost Techniques and Broken Transmission | `panel-roman-concrete-partial-survival` | planned |

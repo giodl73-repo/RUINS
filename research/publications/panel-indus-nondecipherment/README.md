@@ -12,7 +12,10 @@ Paper `panel-indus-nondecipherment` in the [RUINS](../../) module.
 - [**chronology.md** - survival and interpretation layers](chronology.md)
 - [**claim-audit.md** - decipherment and non-decipherment claim checks](claim-audit.md)
 - [**page-audit.md** - page anchors for current source claims](page-audit.md)
+- [**refusal-register.md** - operational refusal rules](refusal-register.md)
+- [**sibling-boundary.md** - handoff and scope boundaries](sibling-boundary.md)
 - [**cultural-memory.md** - public-memory examples and limits](cultural-memory.md)
+- [**reviews/ROLE_REVIEW.md** - role-panel signoff](reviews/ROLE_REVIEW.md)
 - [**_panel.yaml** - review panel](./_panel.yaml)
 
 ## Navigate

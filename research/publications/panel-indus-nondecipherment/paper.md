@@ -1,7 +1,7 @@
 # Indus Script Non-Decipherment
 
 **Authors:** draft
-**Status:** working draft
+**Status:** publication-ready for current RUINS case-study scope
 **Date:** 2026-07-04
 
 ## Abstract
@@ -114,6 +114,11 @@ RUINS refuses the following claims in this foundation paper:
 - It will not treat non-decipherment as total ignorance.
 - It will not use "mystery" where the exact missing bridge can be named.
 
+The operational refusal rules are recorded in
+[`refusal-register.md`](refusal-register.md). Any sentence that turns surviving
+signs, statistical structure, public attention, or corpus custody into semantic
+reading must be downgraded to a proposal, source-layer claim, or refusal.
+
 ## 8. Sibling Handoffs
 
 | Question | Handoff |
@@ -123,6 +128,12 @@ RUINS refuses the following claims in this foundation paper:
 | Source custody for quoted texts or corpus records | FONTES |
 | Identity management for sign-list traditions and variant labels | CANON |
 | Place/site context for Harappa, Mohenjo-daro, and regional sites | PORTO |
+
+The handoff rules are recorded in
+[`sibling-boundary.md`](sibling-boundary.md). RUINS owns the non-decipherment
+condition; sibling repos own broader civilization context, source repositories,
+sign identity, place geography, ritual systems, lineage, and production
+economics.
 
 ## 9. Conclusion
 

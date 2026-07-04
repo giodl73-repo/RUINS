@@ -26,6 +26,14 @@ evidence for how absence becomes public meaning.
    "unknowable."
 4. When public coverage uses breakthrough language, RUINS should restate the
    underlying evidence claim in claim-grade terms.
+5. When identity or prize framing appears, RUINS should name the incentive for
+   closure without taking ownership of the identity claim.
+
+## Review Result
+
+For this paper, later memory is treated as afterlife evidence only. None of the
+memory examples are used to strengthen a translation, language-family claim, or
+corpus value.
 
 ## References
 
