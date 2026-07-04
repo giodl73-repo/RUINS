@@ -19,3 +19,33 @@ event.
 | Ordinary decay | Loss through environment, neglect, material fragility, or time. |
 | Excavation loss | Modern recovery, documentation, or restoration damages or recontextualizes evidence. |
 | Restoration transformation | Restoration becomes part of the object and changes later interpretation. |
+
+## Seed Chronology Rows
+
+These rows are scaffolding for method testing, not final chronologies.
+
+| Case | Layer | Event or process | Evidence condition | RUINS caution |
+|---|---|---|---|---|
+| Indus script | survival layer | short inscriptions survive on portable artifacts | direct material through excavation reports and catalogs | Non-decipherment is not itself a loss event. |
+| Indus script | interpretation layer | modern proposals attempt language/sign mapping | reconstruction / speculative | Proposed readings must not become evidence. |
+| Antikythera mechanism | damage layer | shipwreck, corrosion, fragmentation, recovery | direct material plus reported recovery | Do not treat recovery as full restoration of context. |
+| Antikythera mechanism | reconstruction layer | imaging and gear models complete missing structure | reconstruction | Separate artifact constraint from model completion. |
+| Library of Alexandria | institutional layer | multiple libraries/collections and scholarly institutions are remembered | copied / reported textual | Do not collapse institutions into one object. |
+| Library of Alexandria | loss-memory layer | later narratives compress losses into a singular destruction | cultural memory | The famous story is itself a later object of study. |
+| Cahokia | settlement layer | urban occupation, construction, and later abandonment unfold over time | direct material through archaeology | Avoid a single collapse date unless evidence supports it. |
+| Cahokia | interpretation layer | modern models explain population change and abandonment | reconstruction | Keep environmental, social, and political explanations separate. |
+| Roman concrete | material layer | structures and samples survive | direct material | Surviving material can outlast written process knowledge. |
+| Roman concrete | transmission layer | practice, recipe, and modern recovery are unevenly connected | textual / contextual / reconstruction | "Lost" may mean partially documented or discontinuously transmitted. |
+
+## Chronology Template
+
+| Date/range | Layer | Evidence condition | What changed | Claim grade |
+|---|---|---|---|---|
+
+## Next Chronology Work
+
+1. Replace scaffold rows with case-specific dates or date ranges after source
+   gathering.
+2. Mark each row as event, process, later memory, or modern reconstruction.
+3. Flag any sentence in `paper.md` that uses singular "the loss" where a
+   process is more accurate.

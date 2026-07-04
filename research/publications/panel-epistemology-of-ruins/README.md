@@ -10,6 +10,7 @@ Paper `panel-epistemology-of-ruins` in the [RUINS](../../) module.
 - [**chronology.md** - loss-event and loss-process work surface](chronology.md)
 - [**claim-audit.md** - claim discipline and downgrade checks](claim-audit.md)
 - [**_panel.yaml** - review panel](./_panel.yaml)
+- [**reviews/** - first role review round](reviews/)
 
 ## Navigate
 

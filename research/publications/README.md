@@ -1,0 +1,11 @@
+# RUINS Publications
+
+Publication packages are working research folders. A package is not stable until
+it has a plan, paper draft, source map, chronology, claim audit, panel file,
+role reviews, and synthesis.
+
+## Active
+
+| Paper | Track | Status |
+|---|---|---|
+| [`panel-epistemology-of-ruins`](panel-epistemology-of-ruins/) | Evidence and Absence | working draft with first role review |
