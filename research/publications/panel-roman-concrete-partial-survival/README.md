@@ -10,6 +10,7 @@ Paper `panel-roman-concrete-partial-survival` in the [RUINS](../../) module.
 - [**chronology.md** - textual, material, and laboratory layers](chronology.md)
 - [**claim-audit.md** - lost-technique claim checks](claim-audit.md)
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
+- [**page-audit.md** - page and line anchors for current claims](page-audit.md)
 - [**custody-register.md** - custody and evidence-surface register](custody-register.md)
 - [**cultural-memory.md** - public memory and lost-secret handling](cultural-memory.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)

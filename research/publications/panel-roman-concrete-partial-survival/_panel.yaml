@@ -1,6 +1,6 @@
 paper: panel-roman-concrete-partial-survival
 module: ruins
-status: stable-working-paper
+status: publication-ready
 roles:
   - id: R1
     name: Fragment Custodian

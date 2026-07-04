@@ -1,7 +1,7 @@
 # Source Lock: Roman Concrete Partial Survival
 
 **Owner:** PALIMPSEST
-**Status:** first source lock
+**Status:** page-audited source lock
 **Date:** 2026-07-04
 
 This source lock defines what RUINS may say about Roman concrete in this paper.
@@ -46,6 +46,7 @@ source supports bounded claims only; it does not authorize construction advice.
    Roman concrete.
 6. Do not provide structural, restoration, or construction instructions.
 7. Treat modern green-concrete claims as afterlife / engineering translation.
+8. Use [`page-audit.md`](page-audit.md) for current source-locked anchors.
 
 ## References
 

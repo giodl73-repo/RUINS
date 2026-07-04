@@ -1,7 +1,7 @@
 # Roman Concrete Partial Survival
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-04
 
 ## Abstract
@@ -35,8 +35,9 @@ site workflow, environmental setting, and long-term performance.
 For current locked values and source boundaries, use
 [`source-lock.md`](source-lock.md) and
 [`custody-register.md`](custody-register.md). Vitruvius passages,
-mineral-phase claims, hot-mixing mechanisms, and Pompeii workflow claims remain
-source-labeled and need page-level anchors before publication-ready status.
+mineral-phase claims, hot-mixing mechanisms, and Pompeii workflow claims are
+anchored in [`page-audit.md`](page-audit.md), but remain source-labeled and
+bounded by use rules.
 
 ## 2. What Survives
 

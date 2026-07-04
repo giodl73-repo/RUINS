@@ -21,10 +21,11 @@ evidence?
 
 ## Current Scope
 
-This pass is a stable working paper. It source-locks Vitruvius as textual
-witness, marine concrete mineral claims, hot-mixing / self-healing claims, and
-Pompeii construction-site workflow evidence. It does not yet include page-level
-anchors for publication-ready use of exact passages or mechanisms.
+This pass is publication-ready for a RUINS evidence-boundary paper. It
+source-locks and page-audits Vitruvius as textual witness, marine concrete
+mineral claims, hot-mixing / self-healing claims, and Pompeii construction-site
+workflow evidence. Construction guidance, restoration guidance, and universal
+recipe claims remain out of scope.
 
 ## Out Of Scope
 
