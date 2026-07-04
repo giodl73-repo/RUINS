@@ -1,0 +1,19 @@
+paper: panel-epistemology-of-ruins
+module: ruins
+status: draft
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: surviving traces, evidence condition, preservation bias
+  - id: R2
+    name: Absence Historian
+    focus: loss event, institutional failure, archival gap, abandonment process
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: claim grades, alternate reconstructions, speculative inflation
+  - id: R4
+    name: Cultural Memory Reader
+    focus: later myth, identity, imitation, politics, symbolic afterlife
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: handoffs to sibling Knowledge Systems repos
