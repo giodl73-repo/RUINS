@@ -1,0 +1,19 @@
+paper: panel-great-zimbabwe-colonial-denial
+module: ruins
+status: working
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: drystone masonry, Hill Ruins, Great Enclosure, Valley Ruins, artifacts, stratigraphy, trade goods, and site damage
+  - id: R2
+    name: Absence Historian
+    focus: settlement chronology, abandonment, looting, colonial denial, nationalist recovery, and heritage management
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: non-African origin theories, biblical/Phoenician fantasies, overprecise population claims, and simple abandonment causes
+  - id: R4
+    name: Cultural Memory Reader
+    focus: Zimbabwe birds, national symbolism, colonial myth, local sacred landscape, and UNESCO afterlife
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM southern African history, PORTO site geography, CANON feature entities, FONTES/MUNDUS source custody
