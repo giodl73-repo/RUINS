@@ -20,10 +20,11 @@ evidence status, rather than a transparent window onto the Minoan Bronze Age?
 
 ## Current Scope
 
-This pass is a stable working paper. It source-locks UNESCO heritage framing,
-Ashmolean restoration chronology, BSA custody/research context, and Gere's
-modernism/projection frame. It does not yet include page-level anchors for
-publication-ready use of exact dates, phases, or feature-level claims.
+This pass is publication-ready for a RUINS evidence-boundary paper. It
+source-locks and page-audits UNESCO heritage framing, Ashmolean restoration
+chronology, BSA custody/research context, and Gere's modernism/projection frame.
+Room-level, fresco-level, conservation, and broad Minoan-history claims remain
+out of scope.
 
 ## Out Of Scope
 

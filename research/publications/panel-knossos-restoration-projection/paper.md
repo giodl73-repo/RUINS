@@ -1,7 +1,7 @@
 # Knossos Restoration Projection
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-04
 
 ## Abstract
@@ -35,8 +35,8 @@ For current locked values and source boundaries, use
 [`source-lock.md`](source-lock.md) and
 [`custody-register.md`](custody-register.md). Excavation dates, restoration
 phases, UNESCO serial-property claims, BSA custody claims, and modernism claims
-remain source-labeled and need page-level anchors before publication-ready
-status.
+are anchored in [`page-audit.md`](page-audit.md), but remain source-labeled and
+bounded by use rules.
 
 ## 2. What Survives
 

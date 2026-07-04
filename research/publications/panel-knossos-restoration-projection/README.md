@@ -10,6 +10,7 @@ Paper `panel-knossos-restoration-projection` in the [RUINS](../../) module.
 - [**chronology.md** - excavation, restoration, and heritage layers](chronology.md)
 - [**claim-audit.md** - restoration and projection claim checks](claim-audit.md)
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
+- [**page-audit.md** - page and line anchors for current claims](page-audit.md)
 - [**custody-register.md** - custody and evidence-surface register](custody-register.md)
 - [**cultural-memory.md** - myth, tourism, and modernism memory](cultural-memory.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)

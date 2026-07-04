@@ -1,7 +1,7 @@
 # Source Lock: Knossos Restoration Projection
 
 **Owner:** PALIMPSEST
-**Status:** first source lock
+**Status:** page-audited source lock
 **Date:** 2026-07-04
 
 This source lock defines what RUINS may say about Knossos in this paper. It
@@ -46,6 +46,7 @@ bounded use only; it does not validate every visible surface as ancient.
    audit.
 6. Treat Minos, Labyrinth, Minotaur, and bull imagery as cultural-memory
    surfaces unless independently source-locked.
+7. Use [`page-audit.md`](page-audit.md) for current source-locked anchors.
 
 ## References
 

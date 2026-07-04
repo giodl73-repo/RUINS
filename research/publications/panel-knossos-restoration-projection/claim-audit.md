@@ -1,15 +1,15 @@
 # Claim Audit: Knossos Restoration Projection
 
 **Owner:** ERRATA
-**Status:** source-locked working audit
+**Status:** page-audited claim audit
 
 ## Claim Grades
 
 | Claim | Max grade now | Audit note |
 |---|---|---|
-| Knossos preserves significant Bronze Age archaeological remains. | Corroborated | UNESCO and BSA support high-level site significance and date/custody framing. |
-| Evans excavated and restored large parts of the site in the early 20th century. | Corroborated | Ashmolean supports broad excavation/restoration chronology. |
-| Reinforced concrete restoration is part of what visitors see. | Corroborated | Ashmolean and Gere support modern-material/reconstitution framing. |
+| Knossos preserves significant Bronze Age archaeological remains. | Corroborated | UNESCO and BSA support high-level site significance and date/custody framing, now page-audited. |
+| Evans excavated and restored large parts of the site in the early 20th century. | Corroborated | Ashmolean supports broad excavation/restoration chronology, now page-audited. |
+| Reinforced concrete restoration is part of what visitors see. | Corroborated | Ashmolean and Gere support modern-material/reconstitution framing, now page-audited. |
 | Restored Knossos is a transparent view of Minoan architecture. | Refuse | Restoration is an interpretive modern layer. |
 | Knossos is fake because Evans restored it. | Refuse | Ancient remains and modern restoration coexist. |
 | Frescoes and colors can be treated as fully original. | Refuse as universalization | Fragment, replica, and completion must be separated. |
