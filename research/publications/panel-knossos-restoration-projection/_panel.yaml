@@ -1,0 +1,19 @@
+paper: panel-knossos-restoration-projection
+module: ruins
+status: working
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: Bronze Age fabric, excavation records, restored concrete, fresco fragments, casts, and visitor-facing surfaces
+  - id: R2
+    name: Absence Historian
+    focus: excavation sequence, Evans reconstruction, later conservation, UNESCO heritage, and modern site afterlife
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: restoration-as-original claims, Minoan palace interpretation, color/column/fresco reconstruction, and labyrinth mythology
+  - id: R4
+    name: Cultural Memory Reader
+    focus: Minos, labyrinth, bull imagery, modernism, tourist icon, and invention-of-Minoans narratives
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM Aegean context, CANON site entities, PORTO Crete geography, FONTES/MUNDUS source custody
