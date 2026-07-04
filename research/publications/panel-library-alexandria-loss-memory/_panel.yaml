@@ -1,0 +1,19 @@
+paper: panel-library-alexandria-loss-memory
+module: ruins
+status: working
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: ancient witnesses, later reports, institutional traces, direct versus legendary evidence
+  - id: R2
+    name: Absence Historian
+    focus: multiple loss events, decline, institutional displacement, myth of a single destruction
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: scroll-count claims, total-loss narratives, Caesar/Serapeum/Arab-conquest blame claims
+  - id: R4
+    name: Cultural Memory Reader
+    focus: universal-library myth, civilizational warning, modern knowledge-loss symbolism
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM context, FONTES source custody, MUNDUS bibliography, PORTO Alexandria place context
