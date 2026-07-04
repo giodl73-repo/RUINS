@@ -35,3 +35,4 @@
 | The 2021 Cosmos model solves the front display. | Refuse as closure | It is a model that aims to satisfy evidence, not the ancient object itself. |
 | NYU collection-level custody permits item-level PTM claims. | Refuse | Collection custody is established; item-level claims require item audit. |
 | Current source-locked claims lack page anchors. | Closed | `page-audit.md` anchors current high-level claims. |
+| Current paper needs detailed gear, inscription, or item-level claims. | Refuse | The paper identifies those as future-use claim surfaces and does not rely on them for its current thesis. |

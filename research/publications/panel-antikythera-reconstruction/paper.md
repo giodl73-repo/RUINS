@@ -1,7 +1,7 @@
 # Antikythera Reconstruction
 
 **Authors:** draft
-**Status:** working draft
+**Status:** publication-ready for current RUINS case-study scope
 **Date:** 2026-07-04
 
 ## Abstract
@@ -92,6 +92,11 @@ custody target.
 | Genius-object framing | Turns a damaged artifact into a singular miracle. | Preserve craft and source uncertainty. |
 | Replica spectacle | Makes reconstruction visually convincing. | Separate modern build from ancient evidence. |
 
+The cultural-memory register is recorded in
+[`cultural-memory.md`](cultural-memory.md). Its examples explain why the
+mechanism attracts strong claims; they do not strengthen any gear, inscription,
+or front-display claim.
+
 ## 7. Refusals
 
 RUINS refuses the following claims in this foundation draft:
@@ -103,6 +108,11 @@ RUINS refuses the following claims in this foundation draft:
 - It will not use "ancient computer" without explaining the analog and
   astronomical context.
 
+The operational refusal rules are recorded in
+[`refusal-register.md`](refusal-register.md). Any sentence that treats a model,
+replica, diagram, scan, animation, or dataset item as direct ancient evidence
+must be downgraded, sourced as a reconstruction, or removed.
+
 ## 8. Sibling Handoffs
 
 | Question | Handoff |
@@ -112,6 +122,11 @@ RUINS refuses the following claims in this foundation draft:
 | Fragment, gear, and inscription labels | CANON |
 | Shipwreck and site geography | PORTO |
 | Craft production and economic setting | CERES |
+
+The handoff rules are recorded in
+[`sibling-boundary.md`](sibling-boundary.md). RUINS owns the reconstruction
+boundary; sibling repos own ancient-technology context, data custody, part
+identity, shipwreck geography, and craft production.
 
 ## 9. Conclusion
 
