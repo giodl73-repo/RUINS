@@ -10,6 +10,7 @@ Paper `panel-cahokia-without-collapse-theater` in the [RUINS](../../) module.
 - [**chronology.md** - occupation, abandonment, and interpretation layers](chronology.md)
 - [**claim-audit.md** - abandonment and collapse claim checks](claim-audit.md)
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
+- [**page-audit.md** - page and line anchors for current claims](page-audit.md)
 - [**custody-register.md** - custody and evidence-surface register](custody-register.md)
 - [**cultural-memory.md** - public memory and collapse-story handling](cultural-memory.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)

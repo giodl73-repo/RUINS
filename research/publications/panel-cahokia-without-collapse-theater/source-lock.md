@@ -1,7 +1,7 @@
 # Source Lock: Cahokia Without Collapse Theater
 
 **Owner:** PALIMPSEST
-**Status:** first source lock
+**Status:** page-audited source lock
 **Date:** 2026-07-04
 
 This source lock defines what RUINS may say about Cahokia in this paper. It
@@ -47,6 +47,7 @@ single-cause collapse claim.
 5. Do not say Cahokia's people vanished.
 6. Treat "America's first city" and "lost civilization" as public-memory
    language, not as direct evidence of Cahokian self-description.
+7. Use [`page-audit.md`](page-audit.md) for current source-locked anchors.
 
 ## References
 

@@ -1,7 +1,7 @@
 # Cahokia Without Collapse Theater
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-04
 
 ## Abstract
@@ -48,9 +48,10 @@ one narrative.
 
 For current locked values and source boundaries, use
 [`source-lock.md`](source-lock.md) and
-[`custody-register.md`](custody-register.md). Exact population, area, mound
-count, Monks Mound, flood-frequency, and stratigraphic claims remain
-source-labeled and need page-level anchors before publication-ready status.
+[`custody-register.md`](custody-register.md). Current population, area, mound
+count, Monks Mound, flood-frequency, stratigraphic, and repopulation claims are
+anchored in [`page-audit.md`](page-audit.md), but remain source-labeled and
+bounded by use rules.
 
 ## 3. What Is Missing
 

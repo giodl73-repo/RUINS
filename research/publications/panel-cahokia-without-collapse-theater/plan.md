@@ -19,10 +19,10 @@ turning it into a theatrical "collapse" story?
 
 ## Current Scope
 
-This pass is a stable working paper. It source-locks major public-site values,
-environmental hypotheses, wood-overuse critique, and post-abandonment
-continuity framing. It does not yet include page-level anchors for exact
-numeric, proxy, or stratigraphic claims.
+This pass is publication-ready for a RUINS evidence-boundary paper. It
+source-locks and page-audits major public-site values, environmental
+hypotheses, wood-overuse critique, and post-abandonment continuity framing.
+Feature-level claims remain out of scope.
 
 ## Out Of Scope
 
