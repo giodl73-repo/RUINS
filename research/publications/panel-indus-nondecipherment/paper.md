@@ -140,3 +140,8 @@ but it should not merge competing catalog traditions into one universal count.
 The source custody pass is recorded in
 [`custody-register.md`](custody-register.md), and public-memory examples are
 bounded in [`cultural-memory.md`](cultural-memory.md).
+
+The third custody pass adds direct volume-level custody for M77 and CISI volumes
+1 and 2. That improves the paper's source posture, but it does not authorize
+new object-level claims. Any independent use of a seal, sign variant, site
+entry, or photograph from those volumes needs a page-specific audit note first.

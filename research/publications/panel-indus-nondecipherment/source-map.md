@@ -23,8 +23,8 @@ script's linguistic status.
 
 | Target | Use | Claim boundary |
 |---|---|---|
-| Parpola/Joshi/Pande corpus volumes and related catalog traditions | Corpus baseline and sign inventory history. | Cataloging signs is not decipherment. |
-| Mahadevan concordance and sign-list tradition | Sign frequencies, variants, and concordance framing. | Frequencies support structure claims only. |
+| CISI volumes 1-2 and later Parpola/Joshi/Pande corpus-volume targets | Corpus baseline and photographic-catalog history. | Volume-level custody is not permission to make un-audited object-level claims. |
+| Mahadevan concordance and sign-list tradition | Sign frequencies, variants, and concordance framing. | Frequencies support structure claims only; independent sign-list claims require page audit. |
 | Farmer, Sproat, and Witzel 2004 critique | Non-linguistic hypothesis and short-text argument. | Serious critique, not final proof of non-language. |
 | Rao/Yadav/Joglekar/Vahia/Mahadevan/Adhikari statistical work | Order, directionality, and information-theoretic structure. | Structure is not translation. |
 | Sinha/Ashraf/Pan/Wells network analysis | Syntactic-organization hypothesis. | Network pattern is not accepted reading. |

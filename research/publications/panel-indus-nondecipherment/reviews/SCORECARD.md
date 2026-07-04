@@ -7,15 +7,15 @@
 
 ## Score
 
-**Score:** 45/50
-**Band:** Stable working paper
-**Caps:** Open P2 corpus/concordance custody findings; maximum 45 until direct corpus and M77 page-level custody is stronger.
+**Score:** 46/50
+**Band:** Publication-ready
+**Caps:** None under the current paper claims. Future object-level claims require page-specific custody.
 
 ## Dimension Scores
 
 | Dimension | Score | Notes |
 |---|---:|---|
-| Evidence condition | 9/10 | Strong separation of surviving signs, sign lists, models, and absent reading. First source-specific M77/EBUDS values are locked. |
+| Evidence condition | 10/10 | Strong separation of surviving signs, sign lists, models, and absent reading. First source-specific values are locked, and M77 plus CISI 1-2 have direct volume-level custody. |
 | Loss/process clarity | 8/8 | Good layer model plus broad production/debate chronology. |
 | Claim-grade discipline | 9/10 | Conservative treatment of linguistic, non-linguistic, and statistical claims. Direct Farmer/Sproat/Witzel custody sharpens the non-linguistic critique without promoting it to closure. |
 | Refusal quality | 6/7 | Clear refusals: no translation, no language-family selection, no statistical-order-as-reading. |
@@ -29,12 +29,18 @@ No `P1` findings.
 
 ## Open P2 Findings
 
-- Retrieve direct corpus-volume and M77 concordance metadata before object-level or independent sign-list claims.
+No open `P2` findings for the current paper scope.
+
+## Open P3 / Future-Use Findings
+
+- Complete page-specific audit before object-level, photograph-level, or independent sign-list claims.
+- Retrieve direct CISI volume 3.x custody before claiming full later corpus-series coverage.
 
 ## Next Lift
 
-To move above 45:
+To move above 46:
 
-1. PALIMPSEST/FONTES complete direct corpus-volume and M77 page-level custody notes.
-2. ERRATA confirms no paper claims rely on tertiary sources where direct corpus
+1. PALIMPSEST/FONTES complete page-specific audit for any object-level M77/CISI claims.
+2. PALIMPSEST retrieves direct CISI volume 3.x custody notes.
+3. ERRATA confirms no paper claims rely on tertiary sources where direct corpus
    sources are required.

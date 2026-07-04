@@ -1,7 +1,7 @@
 # Custody Register: Indus Script Non-Decipherment
 
 **Owner:** PALIMPSEST
-**Status:** second custody pass
+**Status:** third custody pass
 **Date:** 2026-07-04
 
 This register separates direct artifact survival, catalog traditions, analytic
@@ -13,8 +13,8 @@ them as interchangeable.
 | Layer | Example | Evidence condition | RUINS use | Risk |
 |---|---|---|---|---|
 | Material artifacts | Seals, tablets, sealings, pottery marks, and related objects | Direct material evidence, mediated by excavation and collection records | Establish that signs survive on objects. | Site, collection, and publication access vary by object. |
-| Corpus volumes | Parpola/Joshi/Pande corpus traditions and related published corpora | Published catalog evidence | Track artifact records, sign drawings, provenience, and catalog numbers. | Requires direct access before quoting object-level details. |
-| Concordances | Mahadevan M77 and sign-list traditions | Secondary cataloging and normalization | Use source-specific sign counts and sequence values. | Sign identity and variant grouping are modern decisions. |
+| Corpus volumes | CISI volumes 1 and 2; later CISI 3.x targets | Published catalog evidence | Track artifact records, sign drawings, provenience, and catalog numbers. | Volumes 1 and 2 have direct PDF custody; object-level claims still require page-specific audit. |
+| Concordances | Mahadevan M77 and sign-list traditions | Secondary cataloging and normalization | Use source-specific sign counts and sequence values. | M77 has direct PDF custody; sign identity and variant grouping remain modern decisions. |
 | Analytic datasets | EBUDS subset in Yadav et al.; later digitized or deduplicated datasets | Derived research dataset | Test statistical order, directionality, and model behavior. | Dataset pruning choices cannot become universal corpus facts. |
 | Interpretive papers | Linguistic, non-linguistic, economic, and computational analyses | Argument built from corpus and model layers | Grade claims and refusals. | A model may support structure without translating meaning. |
 | Public summaries | Encyclopedic, news, and technology coverage | Tertiary/current framing | Track public memory and locate bibliography leads. | Not a primary authority for paper claims. |
@@ -27,8 +27,10 @@ them as interchangeable.
 | Rao 2018 economics paper | Direct public arXiv access | Administrative/economic interpretation as hypothesis. | Do not use as decipherment evidence. |
 | Nair 2026 preprint | Direct public arXiv access | Current method pressure; not consensus. | Check publication status before treating as peer-reviewed consensus. |
 | Farmer/Sproat/Witzel 2004 | Direct public PDF endpoint verified at `https://safarmer.com/fsw2.pdf`; temp inspection on 2026-07-04 confirmed 39-page PDF titled "The Collapse of the Indus-Script Thesis: The Myth of a Literate Harappan Civilization." | Debate-position summary; may summarize the authors' non-linguistic critique, lost-manuscript critique, and political/academic-sustaining-forces argument. | Quote sparingly from direct text; keep the conclusion graded as a serious critique, not field closure. |
-| Parpola/Joshi/Pande corpus volumes | Target identified; direct custody not yet complete | Name as corpus tradition only. | Retrieve volume metadata and object-level references before using catalog details. |
-| Mahadevan M77 | Used through Yadav et al. source lock; public archive target for Mahadevan's 1977 text/concordance/table volume identified through Mahadevan bibliography. | Source-specific values as reported by Yadav et al.; cite M77 independently only as a custody target until direct page-level work is done. | Retrieve direct page-level metadata before making independent M77 sign-list or object-level claims. |
+| CISI volume 1, *Collections in India* | Direct Internet Archive PDF custody verified from item `TheIndusScript.TextConcordanceAndTablesIravathanMahadevan`; temp inspection on 2026-07-04 confirmed 862-page image-container PDF, 31,508,998 bytes, SHA-1 `ecc3bdcf6a32e8aac80a4e1de1c9f2e1343a68db`. | Use as a direct custody target for the India corpus volume and for source-layer descriptions of the photographic corpus. | Do page-specific audit before citing object-level catalog entries, photographs, or provenience details. |
+| CISI volume 2, *Collections in Pakistan* | Direct Internet Archive PDF custody verified from item `TheIndusScript.TextConcordanceAndTablesIravathanMahadevan`; temp inspection on 2026-07-04 confirmed 486-page image-container PDF, 35,870,617 bytes, SHA-1 `e9f1ccbd523eb45cac5cdc90395f4ae22a369e9d`. | Use as a direct custody target for the Pakistan corpus volume and for source-layer descriptions of the photographic corpus. | Do page-specific audit before citing object-level catalog entries, photographs, or provenience details. |
+| CISI volume 3.x | Bibliographic targets identified for later new-material volumes, but direct PDF custody not completed in this pass. | Name as later corpus-volume target only. | Retrieve direct volume 3.x metadata before claiming full corpus-series coverage. |
+| Mahadevan M77 | Direct Internet Archive PDF custody verified from item `TheIndusScript.TextConcordanceAndTablesIravathanMahadevan`; temp inspection on 2026-07-04 confirmed 842-page image-container PDF, 36,288,883 bytes, SHA-1 `f13143f4fb458f1b4d6bd24201cc30291ce9ba80`. OCR text supports the source posture that the volume is a sourcebook of texts, concordance, and tables, with decipherment outside its scope. | Source-specific values as reported by Yadav et al.; independent M77 source-layer description; cautious citation of M77 as a concordance/sourcebook. | Do page-specific audit before making independent sign-list, variant, or object-level claims beyond the already locked Yadav values. |
 
 ## Rule
 
@@ -41,10 +43,15 @@ volume, concordance, or primary excavation report is the actual authority.
 |---|---|---|---|
 | 2026-07-04 | Steve Farmer downloads page | Verified public downloads page and link list. | Page reachable; `/fsw2.pdf` appears as the Indus-script thesis article endpoint. |
 | 2026-07-04 | `https://safarmer.com/fsw2.pdf` | Verified PDF endpoint and inspected metadata from a temporary local copy. | Endpoint returned `200 OK`; PDF is 39 pages and about 1.4 MB. |
-| 2026-07-04 | Mahadevan bibliography / archive target | Identified public archive target for *The Indus Script: Texts, Concordance and Tables*. | Treat as a direct-custody target, not as completed page-level custody. |
+| 2026-07-04 | Internet Archive metadata for item `TheIndusScript.TextConcordanceAndTablesIravathanMahadevan` | Verified direct file records for M77, CISI volume 1, and CISI volume 2. | Metadata includes stable file names, sizes, hashes, and derivative OCR files. |
+| 2026-07-04 | Mahadevan M77 PDF | Downloaded temporary copy and inspected with `pdfinfo`; checked derivative OCR for source-scope wording. | Direct custody complete at volume level; page-specific claim audit still required for sign-list details. |
+| 2026-07-04 | CISI volume 1 PDF | Downloaded temporary copy and inspected with `pdfinfo`; checked derivative OCR for corpus-purpose and archive-production wording. | Direct custody complete at volume level; object-level claims still require page-specific audit. |
+| 2026-07-04 | CISI volume 2 PDF | Downloaded temporary copy and inspected with `pdfinfo`; checked derivative OCR for Pakistan-collections scope and publication notes. | Direct custody complete at volume level; object-level claims still require page-specific audit. |
 
 ## Stronger-Use Boundary
 
-Farmer/Sproat/Witzel can now support a bounded summary of the critique. The
-Corpus volumes and M77 still cannot support independent object-level or
-sign-level assertions until page-level custody is complete.
+Farmer/Sproat/Witzel can now support a bounded summary of the critique. M77 and
+CISI volumes 1 and 2 now have direct volume-level custody. They still cannot
+support independent object-level or sign-level assertions until page-specific
+audit is complete. CISI volume 3.x remains a bibliographic target, not a locked
+direct source.

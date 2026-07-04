@@ -18,6 +18,7 @@ interpretation is accepted as final.
 | S4 | Nair, "How Non-Linguistic Is the Indus Sign System?" (arXiv:2604.17828) | current preprint / method stress test | Current synthetic-baseline pressure on linguistic versus non-linguistic classification. | Preprint; do not treat as field consensus. |
 | S5 | Indus script and Indus Valley Civilisation public summaries | tertiary/public framing | Public-current state, bibliography pointers, and cultural-memory framing. | Not primary authority for paper claims. |
 | S6 | Live Science / Wired / public prize coverage | public memory and technology-news framing | Examples of mystery, AI-breakthrough, and prize/challenge narratives. | Cultural-memory evidence only; not authority for translation or corpus facts. |
+| S7 | Internet Archive item `TheIndusScript.TextConcordanceAndTablesIravathanMahadevan` | direct volume-level custody target | M77 PDF and CISI volumes 1-2 PDF metadata, OCR surfaces, and custody boundaries. | Volume-level custody only; page-specific object/sign claims still need audit. |
 
 ## Locked Values And Claims
 
@@ -33,6 +34,8 @@ interpretation is accepted as final.
 | Economic/admin interpretation | Rao 2018 proposes rationing/administrative uses for some tablets and related seal inscriptions. | S3 | Speculative hypothesis |
 | Current-method pressure | Nair 2026 argues the corpus does not match tested synthetic non-linguistic baselines cleanly and replicates some prior quantitative metrics. | S4 | Plausible current-method pressure, not consensus |
 | Public-memory forms | Recent public coverage frames undecipherment through mystery, AI progress, prize/challenge, and identity stakes. | S5 / S6 | Cultural-memory evidence, not decipherment evidence |
+| M77 direct custody | M77 is available as a direct Internet Archive PDF in the same archive item used for custody; temporary inspection confirmed an 842-page image-container PDF. | S7 | Direct custody target; independent sign-list claims still require page audit |
+| CISI 1-2 direct custody | CISI *Collections in India* and *Collections in Pakistan* are available as direct Internet Archive PDFs in the same archive item; temporary inspection confirmed 862-page and 486-page image-container PDFs. | S7 | Direct volume-level custody; object-level claims still require page audit |
 
 ## Paper Use Rules
 
@@ -47,6 +50,8 @@ interpretation is accepted as final.
    authority.
 6. Use [`custody-register.md`](custody-register.md) before promoting a corpus,
    concordance, or public-summary claim to stronger evidence status.
+7. Do not cite M77 or CISI volumes for independent sign/object details unless a
+   page-specific audit note exists.
 
 ## References
 
@@ -67,3 +72,5 @@ interpretation is accepted as final.
   https://www.wired.com/2009/04/indusscript
 - Public prize/challenge coverage:
   https://nypost.com/2025/01/24/world-news/unlock-this-ancient-mystery-and-earn-1-million/
+- Internet Archive custody item for M77 and CISI volumes 1-2:
+  https://archive.org/details/TheIndusScript.TextConcordanceAndTablesIravathanMahadevan

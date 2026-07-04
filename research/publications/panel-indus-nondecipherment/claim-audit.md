@@ -26,6 +26,7 @@
 | Farmer/Sproat/Witzel establish the strongest non-linguistic critique in this first source set. | Corroborated as direct-custody debate position | Direct PDF custody supports summarizing the critique's lost-manuscript, brevity, rare-sign, sign-repetition, and institutional-incentive arguments; the conclusion remains speculative in RUINS. |
 | Nair 2026 changes the settled state of the field. | Refuse | Preprint is useful method pressure, not consensus. |
 | Public mystery, AI, or prize coverage strengthens a decipherment. | Refuse | These sources document cultural memory and closure incentives, not translation evidence. |
+| Direct volume custody of M77 or CISI permits object-level claims. | Refuse | Volume-level custody improves source posture, but independent sign, variant, seal, photograph, or provenience claims require page-specific audit. |
 
 ## Refusals
 
