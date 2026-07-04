@@ -32,6 +32,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | New to RUINS | [`MODULE.md`](MODULE.md) |
 | Looking for the first paper | [`research/publications/panel-epistemology-of-ruins/`](research/publications/panel-epistemology-of-ruins/) |
 | Reviewing the project | [`.roles/ROLE.md`](.roles/ROLE.md) |
+| Scoring a paper | [`QUALITY_RUBRIC.md`](QUALITY_RUBRIC.md) |
 | Working as an agent | [`agents/AGENT-ROSTER.md`](agents/AGENT-ROSTER.md) |
 | Picking first cases | [`research/seed-corpus.md`](research/seed-corpus.md) |
 

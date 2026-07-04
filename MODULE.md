@@ -79,6 +79,8 @@ Every RUINS publication should include:
 ## Review Board
 
 RUINS uses the panel in [`.roles/ROLE.md`](.roles/ROLE.md).
+Paper scoring uses [`QUALITY_RUBRIC.md`](QUALITY_RUBRIC.md). Scores calibrate
+readiness; they do not override `P1`/`P2`/`P3` role findings.
 
 ## Agents
 

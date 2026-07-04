@@ -1,0 +1,76 @@
+# RUINS Quality Rubric
+
+RUINS uses two different review instruments:
+
+- **Finding severity** (`P1`, `P2`, `P3`) for concrete issues.
+- **Paper score** (`0-50`) for readiness and calibration across papers.
+
+Scores do not replace role findings. A paper with any unresolved `P1` cannot be
+publication-ready, even if the numeric score is high.
+
+## Score Bands
+
+| Score | Band | Meaning |
+|---:|---|---|
+| 45-50 | Publication-ready | Strong evidence discipline, clear refusals, source posture locked. |
+| 38-44 | Stable working paper | Usable internally; needs source lock, examples, or polish. |
+| 30-37 | Promising draft | Correct shape, but important surfaces remain underdeveloped. |
+| 20-29 | Fragile draft | Core idea visible, but evidence/refusal/role alignment is weak. |
+| 0-19 | Not ready | Cannot be relied on; likely confuses evidence with speculation. |
+
+## Dimensions
+
+| Dimension | Points | Role owner | What earns full credit |
+|---|---:|---|---|
+| Evidence condition | 10 | Fragment Custodian | Surviving traces are classified by direct, copied, reported, contextual, reconstructed, and absent evidence. |
+| Loss/process clarity | 8 | Absence Historian | The paper distinguishes event, process, survival layer, interpretation layer, and later memory. |
+| Claim-grade discipline | 10 | Reconstruction Skeptic | Claims are graded conservatively; reconstruction, statistics, reports, and public images do not outrun evidence. |
+| Refusal quality | 7 | Reconstruction Skeptic / Safety Editor | The paper names specific claims it will not make and explains why. |
+| Cultural-memory handling | 6 | Cultural Memory Reader | Later memory is treated as evidence of afterlife, not as direct evidence of the original object. |
+| Sibling boundary | 5 | Sibling Boundary Editor | The paper names handoffs and does not expand into general encyclopedia, place, custody, identity, ritual, lineage, or production work. |
+| Source posture | 4 | Fragment Custodian / Paper Editor | Source targets are identified, metadata-only where needed, and publication claims wait for source lock. |
+
+## Automatic Caps
+
+| Condition | Maximum score |
+|---|---:|
+| Any unresolved `P1` finding | 29 |
+| No source map | 32 |
+| No claim audit | 34 |
+| No refusal section | 35 |
+| No role review | 37 |
+| No source lock for a case paper | 42 |
+| Publication makes a live translation, identification, or reconstruction claim without source lock | 29 |
+
+## Scoring Procedure
+
+1. Each role scores only its owned dimensions.
+2. ASHLAR records a synthesis score and identifies caps.
+3. The synthesis must list the next work needed to move up one band.
+4. Do not raise a paper above `42` until source candidates and numeric claims
+   are locked.
+5. Do not raise a paper above `44` until role review confirms there are no open
+   `P2` findings.
+
+## Review Output Template
+
+```text
+Score: NN/50
+Band: <band>
+Caps: <none or cap reason>
+
+Dimension scores:
+- Evidence condition: N/10
+- Loss/process clarity: N/8
+- Claim-grade discipline: N/10
+- Refusal quality: N/7
+- Cultural-memory handling: N/6
+- Sibling boundary: N/5
+- Source posture: N/4
+
+Blocking findings:
+- ...
+
+Next lift:
+- ...
+```

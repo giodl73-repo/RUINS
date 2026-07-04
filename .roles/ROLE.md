@@ -39,3 +39,9 @@ an artifact explains absence without filling it too quickly.
 | P1 | Blocks publication because the artifact confuses evidence with speculation, violates safety boundaries, or misplaces ownership. |
 | P2 | Should fix before relying on the artifact in a paper or downstream system. |
 | P3 | Useful refinement that can wait. |
+
+## Scoring
+
+Use [`../QUALITY_RUBRIC.md`](../QUALITY_RUBRIC.md) when a paper needs a numeric
+readiness score. Severity findings still govern action: a high score cannot
+override an unresolved `P1`.
