@@ -1,18 +1,18 @@
 # Claim Audit: Cahokia Without Collapse Theater
 
 **Owner:** ERRATA
-**Status:** working audit
+**Status:** source-locked working audit
 
 ## Claim Grades
 
 | Claim | Max grade now | Audit note |
 |---|---|---|
-| Cahokia preserves major earthworks and mound landscapes. | Observed | Direct material landscape exists; counts require source lock. |
-| Cahokia was a major pre-Columbian urban center north of Mexico. | Corroborated | Strong public and scholarly consensus target; exact population/extent require source labels. |
+| Cahokia preserves major earthworks and mound landscapes. | Observed | Direct material landscape exists; UNESCO and Illinois give source-specific counts and extent values. |
+| Cahokia was a major pre-Columbian urban center north of Mexico. | Corroborated | UNESCO and Illinois support this broad public-site claim; exact population/extent require source labels. |
 | Cahokia "collapsed" because of one cause. | Refuse | Single-cause collapse theater outruns evidence. |
-| Environmental stress contributed to abandonment. | Plausible | Flood/drought/resource hypotheses need source-specific treatment. |
-| Wood overuse caused flooding and collapse. | Speculative | Recent critique challenges this persistent model. |
-| Cahokia's people vanished. | Refuse | Abandonment is not disappearance; Indigenous continuity and migration require careful framing. |
+| Environmental stress contributed to abandonment. | Plausible | Flood/drought/resource hypotheses are source-specific and not standalone proof. |
+| Wood overuse caused flooding and collapse. | Speculative / contested | Rankin et al. and WashU's summary challenge this persistent model. |
+| Cahokia's people vanished. | Refuse | Abandonment is not disappearance; White et al. supports scoped post-Mississippian repopulation/continuity framing. |
 | Mound 72 proves the whole society was violent or sacrificial. | Refuse as generalization | Feature-level evidence cannot stand for the whole urban system. |
 | Cahokia is a modern symbol of North American urban antiquity. | Corroborated as cultural memory | Public heritage and media repeatedly use it this way. |
 

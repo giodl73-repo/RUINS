@@ -1,6 +1,6 @@
 paper: panel-cahokia-without-collapse-theater
 module: ruins
-status: working
+status: stable-working-paper
 roles:
   - id: R1
     name: Fragment Custodian

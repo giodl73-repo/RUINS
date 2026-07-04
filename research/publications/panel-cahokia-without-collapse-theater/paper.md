@@ -1,18 +1,18 @@
 # Cahokia Without Collapse Theater
 
 **Authors:** draft
-**Status:** working draft
+**Status:** stable working paper
 **Date:** 2026-07-04
 
 ## Abstract
 
 Cahokia is a strong RUINS case because the material traces are monumental, but
 the social process behind abandonment remains contested. Earthworks, mounds,
-excavated features, environmental proxies, and public heritage interpretation
-all survive in different ways. This paper treats Cahokia not as a "lost
-civilization" mystery, but as an abandoned and transformed urban system whose
-interpretation must separate trace, model, hypothesis, and modern collapse
-storytelling.
+excavated features, environmental proxies, demographic models, and public
+heritage interpretation all survive in different ways. This paper treats
+Cahokia not as a "lost civilization" mystery, but as an abandoned and
+transformed urban system whose interpretation must separate trace, model,
+hypothesis, source-specific value, and modern collapse storytelling.
 
 ## 1. Why This Is A RUINS Case
 
@@ -46,6 +46,12 @@ The important discipline is that a mound, a flood proxy, and a public "lost
 city" story are different evidence layers. They should not be collapsed into
 one narrative.
 
+For current locked values and source boundaries, use
+[`source-lock.md`](source-lock.md) and
+[`custody-register.md`](custody-register.md). Exact population, area, mound
+count, Monks Mound, flood-frequency, and stratigraphic claims remain
+source-labeled and need page-level anchors before publication-ready status.
+
 ## 3. What Is Missing
 
 | Missing or weak bridge | Why it matters |
@@ -61,10 +67,10 @@ one narrative.
 | Claim | Grade | Reason |
 |---|---|---|
 | Cahokia preserves major earthworks. | Observed | Surviving mounds and landscape traces exist. |
-| Cahokia was a major pre-Columbian urban center. | Corroborated | Strong source target, pending source-specific values. |
+| Cahokia was a major pre-Columbian urban center. | Corroborated | UNESCO and Illinois public-site sources support broad scale claims; exact values are source-specific. |
 | Cahokia was abandoned or transformed over time. | Plausible | Abandonment is visible as a settlement/process question. |
 | One factor caused Cahokia's collapse. | Refuse | Single-cause stories outrun the current evidence. |
-| Environmental stress mattered. | Plausible | Needs source-specific treatment; not standalone proof. |
+| Environmental stress mattered. | Plausible | Flood-frequency and environmental models are source-locked as hypotheses, not standalone proof. |
 | The people vanished. | Refuse | Abandonment is not disappearance. |
 
 ## 5. Reconstruction Status
@@ -88,7 +94,7 @@ one narrative.
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this foundation draft:
+RUINS refuses the following claims in this stable working paper:
 
 - It will not reduce Cahokia to a single collapse cause.
 - It will not say the people vanished.

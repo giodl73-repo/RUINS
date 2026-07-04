@@ -17,11 +17,12 @@ turning it into a theatrical "collapse" story?
    continuity or evidence limits.
 5. Explain how Cahokia became a public symbol of North American urban antiquity.
 
-## First Pass Scope
+## Current Scope
 
-This pass is a working paper. It names major source targets and claim
-boundaries, but does not yet source-lock population, mound-count, flood,
-wood-overuse, or post-abandonment continuity claims.
+This pass is a stable working paper. It source-locks major public-site values,
+environmental hypotheses, wood-overuse critique, and post-abandonment
+continuity framing. It does not yet include page-level anchors for exact
+numeric, proxy, or stratigraphic claims.
 
 ## Out Of Scope
 
