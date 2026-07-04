@@ -46,7 +46,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Reconstruction and Modern Projection | `panel-antikythera-reconstruction` | publication-ready |
 | Reconstruction and Modern Projection | `panel-knossos-restoration-projection` | planned |
 | Lost Techniques and Broken Transmission | `panel-roman-concrete-partial-survival` | planned |
-| Lost Techniques and Broken Transmission | `panel-cahokia-without-collapse-theater` | planned |
+| Lost Techniques and Broken Transmission | `panel-cahokia-without-collapse-theater` | working draft |
 
 ## Review Roles
 

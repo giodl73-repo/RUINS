@@ -12,3 +12,4 @@ role reviews, and synthesis.
 | [`panel-library-alexandria-loss-memory`](panel-library-alexandria-loss-memory/) | Evidence and Absence | publication-ready |
 | [`panel-indus-nondecipherment`](panel-indus-nondecipherment/) | Evidence and Absence | working plan and source map |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
+| [`panel-cahokia-without-collapse-theater`](panel-cahokia-without-collapse-theater/) | Lost Techniques and Broken Transmission | working draft |

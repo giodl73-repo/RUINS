@@ -1,0 +1,19 @@
+paper: panel-cahokia-without-collapse-theater
+module: ruins
+status: working
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: earthworks, settlement traces, botanical/faunal remains, burials, sediment and paleoenvironmental records
+  - id: R2
+    name: Absence Historian
+    focus: abandonment, population movement, site transformation, and refusal of single-cause collapse
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: collapse narratives, climate/resource hypotheses, violence/disease claims, demographic models
+  - id: R4
+    name: Cultural Memory Reader
+    focus: lost-city framing, mystery narratives, Indigenous continuity, heritage and public-site interpretation
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM Mississippian context, PORTO place/site context, FONTES/MUNDUS source custody, CANON site-feature identity
