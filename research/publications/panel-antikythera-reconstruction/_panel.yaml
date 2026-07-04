@@ -1,0 +1,19 @@
+paper: panel-antikythera-reconstruction
+module: ruins
+status: working
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: surviving fragments, gears, inscriptions, imaging traces, direct versus reconstructed parts
+  - id: R2
+    name: Absence Historian
+    focus: shipwreck recovery, corrosion, missing components, conservation and imaging history
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: gear-train models, front display reconstructions, planetary claims, replica certainty
+  - id: R4
+    name: Cultural Memory Reader
+    focus: ancient computer framing, technological discontinuity, public fascination
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM ancient technology context, MUNDUS/FONTES source custody, CANON part identity
