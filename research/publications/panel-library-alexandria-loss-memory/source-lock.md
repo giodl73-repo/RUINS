@@ -44,6 +44,7 @@ settles the Library's final fate.
 5. Treat the Arab-conquest story as a late source tradition until direct source
    custody is added.
 6. Treat public summaries as cultural-memory evidence only.
+7. Use [`page-audit.md`](page-audit.md) for current ancient-source anchors.
 
 ## References
 

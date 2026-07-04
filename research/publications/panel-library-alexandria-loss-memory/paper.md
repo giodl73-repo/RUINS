@@ -126,5 +126,6 @@ evidence.
 The first source lock is recorded in [`source-lock.md`](source-lock.md), and the
 first custody pass is recorded in [`custody-register.md`](custody-register.md).
 The current paper can compare Strabo, Plutarch, and Cassius Dio as named source
-traditions. It cannot yet make page-audited publication claims about the
-Serapeum, the Arab-conquest story, or the Library's holdings.
+traditions. The current source claims are anchored in
+[`page-audit.md`](page-audit.md). The paper still cannot make detailed
+Serapeum, Arab-conquest, or holdings claims.

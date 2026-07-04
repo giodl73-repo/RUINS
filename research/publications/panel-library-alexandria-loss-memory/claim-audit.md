@@ -24,6 +24,7 @@
 | Cassius Dio supports a different fire/book-loss framing. | Corroborated as narrative tradition | Direct text custody supports comparing Dio with Plutarch. |
 | Plutarch and Dio together prove one total destruction event. | Refuse | The accounts differ and do not settle final fate. |
 | El-Abbadi can be used for detailed modern synthesis claims. | Not yet | Bibliographic custody exists; page/text custody still needed. |
+| Current ancient-source claims lack page anchors. | Closed | `page-audit.md` anchors Strabo, Plutarch, and Cassius Dio claims. |
 
 ## Phrases To Challenge
 

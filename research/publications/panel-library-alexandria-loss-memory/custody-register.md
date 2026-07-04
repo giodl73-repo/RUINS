@@ -1,7 +1,7 @@
 # Custody Register: Library of Alexandria Loss and Memory
 
 **Owner:** PALIMPSEST
-**Status:** first custody pass
+**Status:** second custody pass
 **Date:** 2026-07-04
 
 This register separates ancient witnesses, later source traditions, modern
@@ -38,10 +38,11 @@ single custody layer.
 | 2026-07-04 | Plutarch, *Life of Caesar* 49 | Verified direct public text and line range for Caesar-fire passage. | Direct witness usable as a named narrative tradition. |
 | 2026-07-04 | Cassius Dio 42.38 | Verified direct public text and line range for docks/storehouses/library-books passage. | Direct witness usable as a separate narrative tradition. |
 | 2026-07-04 | UNESCO/UN El-Abbadi records | Verified bibliographic records. | Bibliographic custody only. |
+| 2026-07-04 | Current-claim page audit | Added [`page-audit.md`](page-audit.md) with line/page anchors for Strabo, Plutarch, Cassius Dio, El-Abbadi metadata, and Rohmann metadata. | Current ancient-source claims have anchors; detailed Serapeum and Arab-conquest claims remain blocked. |
 
 ## Stronger-Use Boundary
 
-The first locked source set is enough for a stable working paper about layered
-loss and memory. It is not enough for page-level publication claims, holdings
-reconstruction, Serapeum identity claims, or evaluation of the Arab-conquest
-story.
+The first locked source set and page audit are enough for a stable working
+paper about layered loss and memory. They are not enough for holdings
+reconstruction, detailed Serapeum identity claims, or evaluation of the
+Arab-conquest story.
