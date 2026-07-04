@@ -28,7 +28,10 @@ script's linguistic status.
 | Farmer, Sproat, and Witzel 2004 critique | Non-linguistic hypothesis and short-text argument. | Serious critique, not final proof of non-language. |
 | Rao/Yadav/Joglekar/Vahia/Mahadevan/Adhikari statistical work | Order, directionality, and information-theoretic structure. | Structure is not translation. |
 | Sinha/Ashraf/Pan/Wells network analysis | Syntactic-organization hypothesis. | Network pattern is not accepted reading. |
+| Nair 2026 synthetic-baseline scorecard | Current contested-method update to non-linguistic baseline testing. | Preprint; useful for method pressure, not settled authority. |
 | Recent public summaries of decipherment obstacles | Public-facing memory and current-state framing. | Treat as cultural-memory/current-summary evidence, not primary authority. |
+
+See [`source-lock.md`](source-lock.md) for the first locked source set.
 
 ## Source Questions
 

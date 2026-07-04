@@ -35,12 +35,17 @@ not primarily paper, stone, or site. The loss is interpretive continuity:
 | Surviving trace | Evidence condition | Claim grade |
 |---|---|---|
 | Inscribed artifacts such as seals, tablets, and pottery marks | direct material through cataloged artifacts | observed |
-| Sign lists and concordances | copied / reported catalog evidence | corroborated as modern cataloging |
+| Sign lists and concordances, including M77 as used by Yadav et al. | copied / reported catalog evidence | corroborated as modern cataloging |
 | Repeated sign sequences and ordering patterns | direct material interpreted through statistical models | plausible structure |
 | Archaeological contexts for some artifacts | contextual evidence | case-specific |
 
 The important discipline is that survival of signs is not survival of reading.
 RUINS can say that sign sequences survive. It cannot say what they say.
+
+In the first locked source set, Yadav et al.'s n-gram paper uses Mahadevan's M77
+concordance as 417 unique signs in 3,573 lines across 2,906 texts, then analyzes
+a pruned EBUDS dataset of 1,548 texts. RUINS treats those as source-specific
+catalog and method values, not as universal corpus totals.
 
 ## 3. What Is Missing
 
@@ -62,6 +67,12 @@ RUINS can say that sign sequences survive. It cannot say what they say.
 | The structure proves natural language. | Speculative | Structure is not translation. |
 | The system is definitely non-linguistic. | Speculative | Shortness and sign distribution support critique, not final closure. |
 | A given decipherment solves the script. | Refuse | RUINS records proposals as proposals unless acceptance changes. |
+
+The first source lock sharpens the structure claim. Yadav et al. report
+beginner/ender patterns, directionality, sign-order correlations, and groups
+with similar syntactic function, while also refusing to conclude that the system
+encodes natural language. Farmer/Sproat/Witzel's non-linguistic critique remains
+a serious counter-position; RUINS grades it as a claim to audit, not a closure.
 
 ## 5. Reconstruction Status
 
@@ -109,3 +120,9 @@ interpretation and withholds enough to punish overclaiming. Responsible
 non-decipherment is not silence. It is a structured account of what survives,
 what is missing, what models can show, and what must remain refused until better
 evidence appears.
+
+## Source Posture
+
+The first source lock is recorded in [`source-lock.md`](source-lock.md). This
+paper may use source-specific corpus values from Yadav et al. and M77 framing,
+but it should not merge competing catalog traditions into one universal count.

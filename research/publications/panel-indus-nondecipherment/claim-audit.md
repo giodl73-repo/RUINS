@@ -16,6 +16,16 @@
 | The system is definitely non-linguistic. | Speculative | Serious critique, but not settled by shortness alone. |
 | A proposed decipherment solves the script. | Refuse | Out of scope unless treated as an object of review. |
 
+## Source-Locked Claim Updates
+
+| Claim | Source-locked grade | Reason |
+|---|---|---|
+| M77 has 417 unique signs in 3,573 lines across 2,906 texts. | Corroborated as source-specific catalog value | Locked through Yadav et al.'s use of M77; do not generalize across all catalog traditions. |
+| Yadav et al.'s EBUDS subset has 1,548 texts. | Observed within source method | This is an analytic dataset, not the whole surviving corpus. |
+| S1 supports sign-order structure and directionality. | Plausible structure | The source itself says this does not conclusively establish natural language. |
+| Farmer/Sproat/Witzel establish the strongest non-linguistic critique in this first source set. | Corroborated as debate position | The critique is real and important; the conclusion remains graded as speculative in RUINS. |
+| Nair 2026 changes the settled state of the field. | Refuse | Preprint is useful method pressure, not consensus. |
+
 ## Refusals
 
 - RUINS will not translate signs.
