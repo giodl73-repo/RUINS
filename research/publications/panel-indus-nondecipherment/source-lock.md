@@ -54,6 +54,8 @@ interpretation is accepted as final.
    concordance, or public-summary claim to stronger evidence status.
 7. Do not cite M77 or CISI volumes for independent sign/object details unless a
    page-specific audit note exists.
+8. Use [`page-audit.md`](page-audit.md) for the current paper's page-anchored
+   claims.
 
 ## References
 

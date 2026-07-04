@@ -11,6 +11,7 @@ Paper `panel-indus-nondecipherment` in the [RUINS](../../) module.
 - [**custody-register.md** - source custody layers and access posture](custody-register.md)
 - [**chronology.md** - survival and interpretation layers](chronology.md)
 - [**claim-audit.md** - decipherment and non-decipherment claim checks](claim-audit.md)
+- [**page-audit.md** - page anchors for current source claims](page-audit.md)
 - [**cultural-memory.md** - public-memory examples and limits](cultural-memory.md)
 - [**_panel.yaml** - review panel](./_panel.yaml)
 

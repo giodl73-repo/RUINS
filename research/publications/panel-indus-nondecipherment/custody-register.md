@@ -1,7 +1,7 @@
 # Custody Register: Indus Script Non-Decipherment
 
 **Owner:** PALIMPSEST
-**Status:** fourth custody pass
+**Status:** fifth custody pass
 **Date:** 2026-07-04
 
 This register separates direct artifact survival, catalog traditions, analytic
@@ -51,12 +51,14 @@ volume, concordance, or primary excavation report is the actual authority.
 | 2026-07-04 | CISI volume 2 PDF | Downloaded temporary copy and inspected with `pdfinfo`; checked derivative OCR for Pakistan-collections scope and publication notes. | Direct custody complete at volume level; object-level claims still require page-specific audit. |
 | 2026-07-04 | Tiedekirja CISI 3.1-3.3 product targets | Located official publisher/product URLs and bibliographic metadata through search surfaces; direct page opening is blocked by the publisher's anti-bot challenge. | Bibliographic custody improved, but direct volume custody remains incomplete. |
 | 2026-07-04 | Fuls review of CISI 3.3 | Verified direct review PDF and public review surfaces. | Useful for series-level context and counts attributed to the review; not authority for object-level corpus claims. |
+| 2026-07-04 | Current-claim page audit | Added [`page-audit.md`](page-audit.md) with page anchors for the paper's existing source claims. | Current paper claims have page-location support; new object-level claims still require separate audit. |
 
 ## Stronger-Use Boundary
 
 Farmer/Sproat/Witzel can now support a bounded summary of the critique. M77 and
-CISI volumes 1 and 2 now have direct volume-level custody. CISI volumes 3.1-3.3
-have bibliographic custody through publisher targets and secondary review
-surfaces, but not direct volume custody. None of these sources support
-independent object-level or sign-level assertions until page-specific audit is
-complete.
+CISI volumes 1 and 2 now have direct volume-level custody, and the paper's
+current source claims have page anchors in [`page-audit.md`](page-audit.md).
+CISI volumes 3.1-3.3 have bibliographic custody through publisher targets and
+secondary review surfaces, but not direct volume custody. None of these sources
+support new independent object-level or sign-level assertions until a separate
+page-specific audit is complete.
