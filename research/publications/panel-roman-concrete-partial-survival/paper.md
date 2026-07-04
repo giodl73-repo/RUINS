@@ -1,7 +1,7 @@
 # Roman Concrete Partial Survival
 
 **Authors:** draft
-**Status:** working draft
+**Status:** stable working paper
 **Date:** 2026-07-04
 
 ## Abstract
@@ -31,6 +31,12 @@ The technique survives through:
 The absence is not total disappearance. It is the loss of a continuous,
 fully-documented practice chain connecting ancient material selection, labor,
 site workflow, environmental setting, and long-term performance.
+
+For current locked values and source boundaries, use
+[`source-lock.md`](source-lock.md) and
+[`custody-register.md`](custody-register.md). Vitruvius passages,
+mineral-phase claims, hot-mixing mechanisms, and Pompeii workflow claims remain
+source-labeled and need page-level anchors before publication-ready status.
 
 ## 2. What Survives
 
@@ -62,8 +68,8 @@ site workflow, environmental setting, and long-term performance.
 | Roman concrete is partially documented and materially preserved. | Corroborated | Texts, structures, and sampled material all survive. |
 | Roman concrete had one secret ingredient. | Refuse | Current evidence involves multiple materials, methods, and environments. |
 | Vitruvius provides useful recipe evidence. | Corroborated with limits | Textual witness, not complete practice record. |
-| Some marine Roman concretes show seawater-driven mineral evolution. | Plausible / source-specific | Needs source lock and marine limit. |
-| Some Roman mortars may preserve evidence of hot mixing and lime-clast self-healing. | Plausible / source-specific | Needs source lock and sample-context limit. |
+| Some marine Roman concretes show seawater-driven mineral evolution. | Plausible / source-specific | Source-locked with marine limit. |
+| Some Roman mortars may preserve evidence of hot mixing and lime-clast self-healing. | Plausible / source-specific | Source-locked with sample/context limit. |
 | Pompeii proves every Roman concrete was hot-mixed. | Refuse | One site cannot universalize empire-wide practice. |
 | Modern concrete should simply copy Roman concrete. | Refuse | Modern engineering requirements are different. |
 
@@ -88,7 +94,7 @@ site workflow, environmental setting, and long-term performance.
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this foundation draft:
+RUINS refuses the following claims in this stable working paper:
 
 - It will not say Roman concrete had one secret recipe.
 - It will not treat Vitruvius as a complete field manual.

@@ -19,11 +19,12 @@ evidence?
 5. Explain why media memory turns partial technical survival into a lost-secret
    story.
 
-## First Pass Scope
+## Current Scope
 
-This pass is a working paper. It names major source targets and claim
-boundaries, but does not yet source-lock Vitruvius passages, mineral claims,
-hot-mixing claims, or Pompeii construction-site claims.
+This pass is a stable working paper. It source-locks Vitruvius as textual
+witness, marine concrete mineral claims, hot-mixing / self-healing claims, and
+Pompeii construction-site workflow evidence. It does not yet include page-level
+anchors for publication-ready use of exact passages or mechanisms.
 
 ## Out Of Scope
 
