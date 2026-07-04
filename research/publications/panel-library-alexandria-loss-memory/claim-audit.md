@@ -25,6 +25,7 @@
 | Plutarch and Dio together prove one total destruction event. | Refuse | The accounts differ and do not settle final fate. |
 | El-Abbadi can be used for detailed modern synthesis claims. | Not yet | Bibliographic custody exists; page/text custody still needed. |
 | Current ancient-source claims lack page anchors. | Closed | `page-audit.md` anchors Strabo, Plutarch, and Cassius Dio claims. |
+| Current paper needs detailed Serapeum or Arab-conquest adjudication. | Refuse | The paper identifies these as future-use source problems and does not rely on them for its current thesis. |
 
 ## Phrases To Challenge
 

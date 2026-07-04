@@ -12,7 +12,11 @@ Paper `panel-library-alexandria-loss-memory` in the [RUINS](../../) module.
 - [**chronology.md** - loss-event and memory layers](chronology.md)
 - [**claim-audit.md** - destruction and memory claim checks](claim-audit.md)
 - [**page-audit.md** - page anchors for current source claims](page-audit.md)
+- [**cultural-memory.md** - public-memory examples and limits](cultural-memory.md)
+- [**refusal-register.md** - operational refusal rules](refusal-register.md)
+- [**sibling-boundary.md** - handoff and scope boundaries](sibling-boundary.md)
 - [**_panel.yaml** - review panel](./_panel.yaml)
+- [**reviews/ROLE_REVIEW.md** - role-panel signoff](reviews/ROLE_REVIEW.md)
 - [**reviews/SCORECARD.md** - first ASHLAR scorecard](reviews/SCORECARD.md)
 
 ## Navigate

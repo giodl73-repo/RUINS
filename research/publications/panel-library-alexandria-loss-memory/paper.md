@@ -1,7 +1,7 @@
 # Library of Alexandria Loss and Memory
 
 **Authors:** draft
-**Status:** working draft
+**Status:** publication-ready for current RUINS case-study scope
 **Date:** 2026-07-04
 
 ## Abstract
@@ -92,6 +92,10 @@ loss model, not a single final destruction story.
 | Universal knowledge myth | Imagines the Library as containing all ancient knowledge. | Treat as symbolic afterlife. |
 | Civilizational warning | Uses Alexandria to argue for protecting libraries and knowledge institutions. | Cultural-memory evidence, not ancient fact. |
 
+The cultural-memory register is recorded in
+[`cultural-memory.md`](cultural-memory.md). Its examples explain why the story
+persists; they do not strengthen any ancient event or holdings claim.
+
 ## 7. Refusals
 
 RUINS refuses the following claims in this foundation draft:
@@ -103,6 +107,11 @@ RUINS refuses the following claims in this foundation draft:
 - It will not treat the Arab-conquest burning story as direct evidence.
 - It will not treat modern grief over the Library as proof of ancient facts.
 
+The operational refusal rules are recorded in
+[`refusal-register.md`](refusal-register.md). Any sentence that assigns final
+blame, reconstructs holdings, or collapses Library, Museum, Serapeum, and
+warehouses must be downgraded, sourced as a tradition, or removed.
+
 ## 8. Sibling Handoffs
 
 | Question | Handoff |
@@ -112,6 +121,11 @@ RUINS refuses the following claims in this foundation draft:
 | Alexandria place geography and archaeological layout | PORTO |
 | Identity of Museum, Library, Serapeum, and related institutions | CANON |
 | Late antique religious conflict | RITE |
+
+The handoff rules are recorded in
+[`sibling-boundary.md`](sibling-boundary.md). RUINS owns the layered loss and
+memory problem; sibling repos own broader city history, source repositories,
+institution identity registries, place geography, and religious history.
 
 ## 9. Conclusion
 
