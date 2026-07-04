@@ -23,7 +23,7 @@
 | M77 has 417 unique signs in 3,573 lines across 2,906 texts. | Corroborated as source-specific catalog value | Locked through Yadav et al.'s use of M77; do not generalize across all catalog traditions. |
 | Yadav et al.'s EBUDS subset has 1,548 texts. | Observed within source method | This is an analytic dataset, not the whole surviving corpus. |
 | S1 supports sign-order structure and directionality. | Plausible structure | The source itself says this does not conclusively establish natural language. |
-| Farmer/Sproat/Witzel establish the strongest non-linguistic critique in this first source set. | Corroborated as debate position | The critique is real and important; the conclusion remains graded as speculative in RUINS. |
+| Farmer/Sproat/Witzel establish the strongest non-linguistic critique in this first source set. | Corroborated as direct-custody debate position | Direct PDF custody supports summarizing the critique's lost-manuscript, brevity, rare-sign, sign-repetition, and institutional-incentive arguments; the conclusion remains speculative in RUINS. |
 | Nair 2026 changes the settled state of the field. | Refuse | Preprint is useful method pressure, not consensus. |
 | Public mystery, AI, or prize coverage strengthens a decipherment. | Refuse | These sources document cultural memory and closure incentives, not translation evidence. |
 

@@ -13,7 +13,7 @@ interpretation is accepted as final.
 | ID | Source | Type | Locked use | Limits |
 |---|---|---|---|---|
 | S1 | Yadav, Joglekar, Rao, Vahia, Mahadevan, and Adhikari, "Statistical analysis of the Indus script using n-grams" (arXiv:0901.3017) | statistical analysis / corpus-method paper | Corpus constraints, M77/EBUDS working values, structure-without-translation language. | Supports structure claims, not semantic reading or natural-language proof. |
-| S2 | Farmer, Sproat, and Witzel, "The Collapse of the Indus-Script Thesis" (Electronic Journal of Vedic Studies, 2004) | critique / non-linguistic hypothesis | Short-text and non-linguistic critique as a serious position to audit. | Does not by itself settle that the system is non-linguistic. |
+| S2 | Farmer, Sproat, and Witzel, "The Collapse of the Indus-Script Thesis" (Electronic Journal of Vedic Studies, 2004) | critique / non-linguistic hypothesis | Short-text, lost-manuscript, and non-linguistic critique as a serious position to audit. | Direct PDF custody is verified; does not by itself settle that the system is non-linguistic. |
 | S3 | Rao, "The Indus Script and Economics" (arXiv:1812.00049) | interpretive economic hypothesis | Example of administrative/economic interpretation of seals and tablets. | Hypothesis, not decipherment. |
 | S4 | Nair, "How Non-Linguistic Is the Indus Sign System?" (arXiv:2604.17828) | current preprint / method stress test | Current synthetic-baseline pressure on linguistic versus non-linguistic classification. | Preprint; do not treat as field consensus. |
 | S5 | Indus script and Indus Valley Civilisation public summaries | tertiary/public framing | Public-current state, bibliography pointers, and cultural-memory framing. | Not primary authority for paper claims. |
@@ -29,7 +29,7 @@ interpretation is accepted as final.
 | Short texts | Indus texts are generally short; in S1, the authors state that usage is usually short texts and give a maximum of 14 signs in a single line for their framing. | S1 | Corroborated for S1 framing |
 | Statistical structure | S1 reports text beginner/ender patterns, directionality, sign-order correlations, and groups with similar syntactic function. | S1 | Plausible structure |
 | Natural language | S1 explicitly does not conclusively establish that the system encodes natural language. | S1 | Refusal support |
-| Non-linguistic critique | Farmer/Sproat/Witzel argue for a non-linguistic interpretation using brevity, rare signs, and sign-repetition arguments. | S2 / S5 | Speculative critique to audit |
+| Non-linguistic critique | Farmer/Sproat/Witzel argue for a non-linguistic interpretation using brevity, rare signs, sign-repetition, and lost-manuscript arguments. | S2 | Serious critique to audit; conclusion remains speculative |
 | Economic/admin interpretation | Rao 2018 proposes rationing/administrative uses for some tablets and related seal inscriptions. | S3 | Speculative hypothesis |
 | Current-method pressure | Nair 2026 argues the corpus does not match tested synthetic non-linguistic baselines cleanly and replicates some prior quantitative metrics. | S4 | Plausible current-method pressure, not consensus |
 | Public-memory forms | Recent public coverage frames undecipherment through mystery, AI progress, prize/challenge, and identity stakes. | S5 / S6 | Cultural-memory evidence, not decipherment evidence |
@@ -53,7 +53,8 @@ interpretation is accepted as final.
 - Yadav et al., "Statistical analysis of the Indus script using n-grams":
   https://arxiv.org/abs/0901.3017
 - Farmer, Sproat, and Witzel, "The Collapse of the Indus-Script Thesis":
-  Electronic Journal of Vedic Studies 11(2), 2004.
+  Electronic Journal of Vedic Studies 11(2), 2004:
+  https://safarmer.com/fsw2.pdf
 - Rao, "The Indus Script and Economics":
   https://arxiv.org/abs/1812.00049
 - Nair, "How Non-Linguistic Is the Indus Sign System?":

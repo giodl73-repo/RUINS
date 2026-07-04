@@ -73,6 +73,11 @@ beginner/ender patterns, directionality, sign-order correlations, and groups
 with similar syntactic function, while also refusing to conclude that the system
 encodes natural language. Farmer/Sproat/Witzel's non-linguistic critique remains
 a serious counter-position; RUINS grades it as a claim to audit, not a closure.
+Direct custody of the Farmer/Sproat/Witzel PDF allows RUINS to describe the
+critique more precisely: it attacks the lost-manuscript assumption, the
+linguistic-script assumption, and the academic or political incentives that can
+keep decipherment narratives attractive. RUINS still does not promote that
+critique into proof that the signs are non-linguistic.
 
 ## 5. Reconstruction Status
 
