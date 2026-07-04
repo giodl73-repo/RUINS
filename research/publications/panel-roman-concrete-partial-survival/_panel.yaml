@@ -1,0 +1,19 @@
+paper: panel-roman-concrete-partial-survival
+module: ruins
+status: working
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: surviving mortars, marine concrete, lime clasts, pozzolanic aggregates, raw-material contexts
+  - id: R2
+    name: Absence Historian
+    focus: ancient textual recipes, practice loss, material continuity, and modern rediscovery claims
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: self-healing, hot-mixing, seawater-mineral claims, modern replication, secret-recipe narratives
+  - id: R4
+    name: Cultural Memory Reader
+    focus: lost Roman secret, miracle concrete, green-concrete afterlife, and media simplification
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM Roman engineering context, CERES material production, FONTES/MUNDUS source custody, CANON built-feature identities
