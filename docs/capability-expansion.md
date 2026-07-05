@@ -34,21 +34,21 @@ core. Concrete promotion records live under
 | `ruins-capability:functional-reconstruction-boundary` | Functional reconstruction boundary | Core | Reconstruction-status checks and Antikythera scorecard; see `docs/capability-promotions/functional-reconstruction-boundary.md`. | Antikythera |
 | `ruins-capability:famous-loss-compression` | Famous loss compression | Core | Loss event/process separation amendment; see `docs/capability-promotions/famous-loss-compression.md`. | Alexandria |
 | `ruins-capability:abandonment-without-collapse` | Abandonment without collapse theater | Core | Loss/process refinement and collapse-language refusals; see `docs/capability-promotions/abandonment-without-collapse.md`. | Cahokia |
-| `ruins-capability:partial-technical-transmission` | Partial technical transmission | Active | Roman concrete custody register and recipe/restoration refusal. | Roman concrete |
-| `ruins-capability:restoration-as-modern-projection` | Restoration as modern projection | Core | Modern restoration/reconstruction amendment and Knossos scorecard. | Knossos |
-| `ruins-capability:interpretive-violence` | Interpretive violence | Core | Great Zimbabwe amendment for damaged interpretation as ruin condition. | Great Zimbabwe |
-| `ruins-capability:colonial-denial-register` | Colonial denial register | Active | Great Zimbabwe refusal/cultural-memory handling. | Great Zimbabwe |
-| `ruins-capability:institutional-memory-boundary` | Institutional memory boundary | Core | House of Wisdom amendment and primary-source custody gate. | House of Wisdom |
-| `ruins-capability:catastrophe-image-audit` | Catastrophe image audit | Active | Alexandria/House refusal patterns for vivid loss imagery. | House of Wisdom / Alexandria |
-| `ruins-capability:fragment-custody-ladder` | Fragment custody ladder | Core | Dead Sea Scrolls publication-scope gate and automatic source-lock cap logic. | Indus / Dead Sea Scrolls |
+| `ruins-capability:partial-technical-transmission` | Partial technical transmission | Active | Roman concrete custody register and recipe/restoration refusal; see `docs/capability-promotions/partial-technical-transmission.md`. | Roman concrete |
+| `ruins-capability:restoration-as-modern-projection` | Restoration as modern projection | Core | Modern restoration/reconstruction amendment and Knossos scorecard; see `docs/capability-promotions/restoration-as-modern-projection.md`. | Knossos |
+| `ruins-capability:interpretive-violence` | Interpretive violence | Core | Great Zimbabwe amendment for damaged interpretation as ruin condition; see `docs/capability-promotions/interpretive-violence.md`. | Great Zimbabwe |
+| `ruins-capability:colonial-denial-register` | Colonial denial register | Active | Great Zimbabwe refusal/cultural-memory handling; see `docs/capability-promotions/colonial-denial-register.md`. | Great Zimbabwe |
+| `ruins-capability:institutional-memory-boundary` | Institutional memory boundary | Core | House of Wisdom amendment and primary-source custody gate; see `docs/capability-promotions/institutional-memory-boundary.md`. | House of Wisdom |
+| `ruins-capability:catastrophe-image-audit` | Catastrophe image audit | Active | Alexandria/House refusal patterns for vivid loss imagery; see `docs/capability-promotions/catastrophe-image-audit.md`. | House of Wisdom / Alexandria |
+| `ruins-capability:fragment-custody-ladder` | Fragment custody ladder | Core | Dead Sea Scrolls publication-scope gate and automatic source-lock cap logic; see `docs/capability-promotions/fragment-custody-ladder.md`. | Indus / Dead Sea Scrolls |
 | `ruins-capability:mediated-recovery-custody` | Mediated recovery custody | Core | Herculaneum amendment; rubric check and automatic cap; see `docs/capability-promotions/mediated-recovery-custody.md`. | Herculaneum papyri |
-| `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Active | Maya destruction chronology and refusal gates. | Maya codices |
+| `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Active | Maya destruction chronology and refusal gates; see `docs/capability-promotions/deliberate-textual-destruction.md`. | Maya codices |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
 | `ruins-capability:scope-gated-publication` | Scope-gated publication | Core | House and Dead Sea Scrolls promote by refusing exact claims under explicit gates; see `docs/capability-promotions/scope-gated-publication.md`. | House of Wisdom / Dead Sea Scrolls |
 | `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | Candidate | Antikythera pressure identified; needs future wreck-specific paper. | Antikythera / future wreck cases |
-| `ruins-capability:source-lock-escalation` | Source-lock escalation | Core | Automatic caps and repeated scorecard practice. | Great Zimbabwe / House of Wisdom |
+| `ruins-capability:source-lock-escalation` | Source-lock escalation | Core | Automatic caps and repeated scorecard practice; see `docs/capability-promotions/source-lock-escalation.md`. | Great Zimbabwe / House of Wisdom |
 
 ## Repeated Rubric Gaps
 
