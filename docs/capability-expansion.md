@@ -30,10 +30,10 @@ core. Concrete promotion records live under
 
 | Capability id | Title | State | Promotion basis | First paper |
 |---|---|---|---|---|
-| `ruins-capability:non-decipherment-discipline` | Non-decipherment discipline | Core | Rubric evidence-layer and refusal checks; Indus scorecard. | Indus |
-| `ruins-capability:functional-reconstruction-boundary` | Functional reconstruction boundary | Core | Reconstruction-status checks and Antikythera scorecard. | Antikythera |
-| `ruins-capability:famous-loss-compression` | Famous loss compression | Core | Loss event/process separation amendment. | Alexandria |
-| `ruins-capability:abandonment-without-collapse` | Abandonment without collapse theater | Core | Loss/process refinement and collapse-language refusals. | Cahokia |
+| `ruins-capability:non-decipherment-discipline` | Non-decipherment discipline | Core | Rubric evidence-layer and refusal checks; see `docs/capability-promotions/non-decipherment-discipline.md`. | Indus |
+| `ruins-capability:functional-reconstruction-boundary` | Functional reconstruction boundary | Core | Reconstruction-status checks and Antikythera scorecard; see `docs/capability-promotions/functional-reconstruction-boundary.md`. | Antikythera |
+| `ruins-capability:famous-loss-compression` | Famous loss compression | Core | Loss event/process separation amendment; see `docs/capability-promotions/famous-loss-compression.md`. | Alexandria |
+| `ruins-capability:abandonment-without-collapse` | Abandonment without collapse theater | Core | Loss/process refinement and collapse-language refusals; see `docs/capability-promotions/abandonment-without-collapse.md`. | Cahokia |
 | `ruins-capability:partial-technical-transmission` | Partial technical transmission | Active | Roman concrete custody register and recipe/restoration refusal. | Roman concrete |
 | `ruins-capability:restoration-as-modern-projection` | Restoration as modern projection | Core | Modern restoration/reconstruction amendment and Knossos scorecard. | Knossos |
 | `ruins-capability:interpretive-violence` | Interpretive violence | Core | Great Zimbabwe amendment for damaged interpretation as ruin condition. | Great Zimbabwe |
