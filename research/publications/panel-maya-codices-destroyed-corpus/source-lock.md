@@ -20,6 +20,9 @@ authenticity status, translation custody, and cultural memory.
 | S6 | Coe, Houston, Miller, Taube, "The Fourth Maya Codex" | scholarly article / facsimile study | Lines 0-22 describe the fourth manuscript controversy and study scope; lines 40-51 describe ten surviving pages and loss; lines 126-138 give radiocarbon/authenticity and destruction-risk framing; lines 192-200 describe lost Venus-calendar pages and damage. | Scholarly custody for Grolier/Mexico history; not a general Maya corpus inventory. |
 | S7 | Brown University news on the Grolier study | university research news | Lines 58-67 summarize forgery difficulty, ten painted pages, Venus calendar, and use/readership framing. | Secondary research-news support only; prefer S6/S4 for authentication claims. |
 | S8 | FAMSI, "The Paris Codex" | scholarly web resource | Lines 5-16 describe Paris acquisition/discovery and facsimile history; lines 21-30 identify photographic/facsimile mediation. | Paris facsimile custody, not direct BnF object custody. |
+| S9 | Diego de Landa, *Relacion de las cosas de Yucatan*, Wayeb PDF | direct Spanish text witness | Lines 359-370 describe books, writing, and codex form; lines 2337-2344 give direct Spanish passage custody for Landa's report of finding and burning many Maya books. | Paraphrase custody only; no English translation lock, count claim, or total-corpus ledger. |
+| S10 | HathiTrust catalog, Tozzer translation/reprint | bibliographic catalog record | Lines 6-34 identify the Tozzer translation/reprint metadata and physical description. | Bibliographic target; limited/search-only, not quotation custody. |
+| S11 | Ardren, Chuchiak, Solari, Restall, *The Friar and the Maya* record | modern scholarly bibliographic/abstract record | Lines 30-33 caution that the *Account* is a complex transmitted source and not simple Landa-only eyewitness transparency. | Source-posture caution; not passage quotation custody. |
 
 ## Locked Values And Claims
 
@@ -30,15 +33,15 @@ authenticity status, translation custody, and cultural memory.
 | Madrid | Madrid/Tro-Cortesianus is a separate surviving manuscript with a two-part modern custody history and calendrical/ritual contents. | S3 | Source-specific |
 | Paris | Paris/Codex Peresianus is a fragile fragmentary witness with facsimile and photographic mediation issues. | S3 / S8 | Source-specific |
 | Mexico codex | Codice Maya de Mexico may be used as a surviving witness when the authentication and custody layer is named. | S4 / S5 / S6 / S7 | Source-specific |
-| Destruction | A 1562 destruction episode associated with Diego de Landa may be named only as a source-scoped destruction context. | S3 | Source target |
+| Destruction | Landa's *Relacion* may be paraphrased as reporting the finding and burning of many Maya books under Christian polemical judgment, with Maya grief noted. | S3 / S9 / S11 | Direct Spanish text custody |
 | Corpus absence | The destroyed broader Maya book corpus cannot be counted or reconstructed from the four witnesses. | S1 / S3 / RUINS inference | RUINS refusal |
 
 ## Paper Use Rules
 
 1. Always distinguish object, image, facsimile, transcription, translation, and
    cultural-memory claims.
-2. Do not quote Landa or give destroyed-book counts until direct edition custody
-   is added.
+2. Do not quote Landa, translate the passage, or give destroyed-book counts
+   until quotation and translation custody are added.
 3. Do not treat "four surviving codices" as evidence for total corpus content.
 4. Do not treat the Mexico codex authenticity debate as a casual sidebar; name
    the source layer.
@@ -62,3 +65,9 @@ authenticity status, translation custody, and cultural memory.
   https://www.brown.edu/news/2016-09-07/mayacodex
 - FAMSI, "The Paris Codex":
   https://www.famsi.org/mayawriting/codices/paris.html
+- Diego de Landa, *Relacion de las cosas de Yucatan*:
+  https://www.wayeb.org/download/resources/landa.pdf
+- HathiTrust catalog, Tozzer translation/reprint:
+  https://catalog.hathitrust.org/Record/101042338
+- Ardren, Chuchiak, Solari, Restall, *The Friar and the Maya*:
+  https://scholarship.miami.edu/esploro/outputs/book/The-Friar-and-the-Maya-Diego/991031993018302976

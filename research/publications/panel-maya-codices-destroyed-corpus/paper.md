@@ -25,9 +25,9 @@ authentication work.
 For current locked source boundaries, use [`source-lock.md`](source-lock.md),
 [`page-anchor-audit.md`](page-anchor-audit.md), and
 [`destruction-corpus-custody-gate.md`](destruction-corpus-custody-gate.md). The
-paper remains below publication-ready status because direct edition custody for
-Landa, direct facsimile-source custody, and quotation permissions are not yet
-closed.
+paper remains below publication-ready status because critical edition or
+translation custody for Landa quotations, direct facsimile-source custody, and
+quotation permissions are not yet closed.
 
 ## 2. What Survives
 
@@ -38,7 +38,7 @@ closed.
 | Paris Codex | direct material / fragmentary object custody | object-specific |
 | Codice Maya de Mexico | direct material with authentication history | object-specific, source-scoped |
 | Facsimiles, photographs, and digital copies | mediated witness | custody-specific |
-| Reports of book destruction | copied / translated textual report | source target |
+| Reports of book destruction | copied / transmitted textual report | source-scoped paraphrase |
 | Stone inscriptions and ceramics with book-like imagery | contextual evidence | handoff/contextual |
 
 ## 3. What Is Missing Or Damaged
@@ -58,7 +58,8 @@ closed.
 | A very small set of pre-Hispanic Maya manuscripts survives. | Source-locked | Institutional sources identify four extant witnesses. |
 | The Dresden, Madrid, Paris, and Mexico codices have different custody and damage histories. | Corroborated | Current source lock separates the objects and their custody layers. |
 | The surviving codices represent the full range of Maya book culture. | Refuse | Survival is too filtered and uneven. |
-| Diego de Landa destroyed all Maya books. | Refuse | One reported destruction event is not a total corpus ledger. |
+| Landa's *Relacion* reports the burning of many Maya books. | Source-specific | Direct Spanish text custody supports careful paraphrase, not counts or total-corpus proof. |
+| Diego de Landa destroyed all Maya books. | Refuse | One reported destruction context is not a total corpus ledger. |
 | The Mexico codex is usable as a surviving Maya codex. | Source-specific | Allowed through INAH/Getty/Coe-Houston-Miller-Taube custody, with authenticity history named. |
 | A facsimile page is equivalent to the surviving object. | Refuse | Facsimiles are mediated witnesses. |
 
@@ -86,8 +87,8 @@ closed.
 RUINS refuses the following claims in this stable working paper:
 
 - It will not infer total Maya book culture from four surviving witnesses.
-- It will not quote or paraphrase Landa as primary proof without direct edition
-  custody.
+- It will not quote Landa or lock English wording without quotation and
+  translation custody.
 - It will not claim a complete destruction count.
 - It will not treat facsimiles, photos, or digital pages as the objects
   themselves.

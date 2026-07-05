@@ -7,21 +7,21 @@
 
 ## Score
 
-**Score:** 41/50
+**Score:** 42/50
 **Band:** Stable working paper
-**Caps:** Direct Landa edition custody, direct Paris/Madrid repository custody, and quotation/translation custody remain incomplete; do not raise above 44 until open P2 findings are closed.
+**Caps:** Direct Paris/Madrid repository custody and quotation/translation custody remain incomplete; do not raise above 44 until open P2 findings are closed.
 
 ## Dimension Scores
 
 | Dimension | Score | Notes |
 |---|---:|---|
-| Evidence condition | 8/10 | Separates four surviving witnesses, destroyed corpus, facsimile mediation, and authentication history. |
+| Evidence condition | 9/10 | Separates four surviving witnesses, destroyed corpus, Landa passage custody, facsimile mediation, and authentication history. |
 | Loss/process clarity | 7/8 | Production, destruction, custody, rediscovery, reproduction, and authentication are distinct. |
 | Claim-grade discipline | 8/10 | The destruction-corpus gate blocks total corpus and destruction-ledger overclaims. |
 | Refusal quality | 6/7 | Refusals are concrete and operational. |
 | Cultural-memory handling | 5/6 | Lost-books, oldest-book, and authenticity memory are classified as afterlife evidence. |
 | Sibling boundary | 4/5 | Handoffs are clear. |
-| Source posture | 3/4 | Source lock and page-anchor audit exist; direct edition/repository custody remains future work. |
+| Source posture | 3/4 | Source lock, page-anchor audit, and Landa passage audit exist; direct repository and quotation/translation custody remains future work. |
 
 ## Blocking Findings
 
@@ -29,16 +29,13 @@ No `P1` findings.
 
 ## Open P2 Findings
 
-- Direct Landa edition custody is required before quoting or upgrading
-  destruction claims.
 - Direct Paris and Madrid repository/digital-catalog custody is required before
   publication-ready status.
 - Direct quotation/translation custody is required before publishing codex
-  readings or translated passages.
+  readings, Landa quotations, or translated passages.
 
 ## Next Lift
 
-1. PALIMPSEST audits direct Landa edition/translation custody.
-2. PALIMPSEST adds direct Paris and Madrid repository anchors.
-3. ERRATA adds a quotation/translation gate for any exact codex or destruction
+1. PALIMPSEST adds direct Paris and Madrid repository anchors.
+2. ERRATA adds a quotation/translation gate for any exact codex or destruction
    passage.

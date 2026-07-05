@@ -14,7 +14,8 @@ complete inventory of loss.
 |---|---|
 | Naming the four extant Maya manuscript witnesses | Allowed, source-scoped to institutional pages. |
 | Saying colonial-era destruction is part of the loss history | Allowed as context, source-scoped. |
-| Quoting Landa or any translation of the destruction passage | Not allowed until direct edition/translation custody is added. |
+| Carefully paraphrasing Landa's destruction passage | Allowed, source-scoped to the direct Spanish text audit. |
+| Quoting Landa or any translation of the destruction passage | Not allowed until quotation/translation custody is added. |
 | Estimating the number of destroyed Maya books | Not allowed. |
 | Inferring full Maya book genres from the four codices | Refuse. |
 | Treating a facsimile as object-equivalent | Refuse unless the claim is explicitly about the facsimile. |
@@ -22,7 +23,7 @@ complete inventory of loss.
 
 ## Minimum Custody For Future Publication-Ready Use
 
-1. Direct edition custody for Landa's relevant passage.
+1. Critical-edition comparison for Landa's relevant passage.
 2. Translation custody and quotation boundary for any English wording.
 3. Direct repository or digital-catalog custody for each codex.
 4. Facsimile edition identification when using reproduced pages.

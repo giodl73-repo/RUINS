@@ -12,11 +12,12 @@
 | INAH / Museo Nacional de Antropologia Mexico codex page | Mexico codex authenticity and current custody. | Source-locked. |
 | Getty exhibition page | Mexico codex public/scholarly afterlife and oldest-book framing. | Source-locked. |
 | Coe, Houston, Miller, Taube, "The Fourth Maya Codex" | Mexico codex authentication, provenance caveat, damage, Venus-calendar scope. | Source-locked. |
-| Direct edition of Landa, Relacion de las cosas de Yucatan | Destruction quotation and book-burning claim. | Targeted; not yet quote-authorized. |
+| Direct Spanish text of Landa, Relacion de las cosas de Yucatan | Destruction-passage paraphrase. | Source-locked for paraphrase; not yet quote- or translation-authorized. |
+| Critical edition / modern translation of Landa | Quotation, English wording, and transmission caution. | Targeted; still required before publication-ready quotation. |
 
 ## Source Need
 
-Before publication-ready status, this paper needs direct edition custody for
-Landa and direct digital/facsimile custody for Paris and Madrid. Current claims
-are stable only because they avoid exact quotations, translations, and destroyed
-corpus counts.
+Before publication-ready status, this paper needs direct digital/facsimile
+custody for Paris and Madrid, plus quotation/translation custody for any exact
+Landa or codex wording. Current claims are stable only because they avoid exact
+quotations, translations, and destroyed corpus counts.
