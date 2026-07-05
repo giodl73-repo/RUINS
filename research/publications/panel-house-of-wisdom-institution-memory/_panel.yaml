@@ -1,6 +1,6 @@
 paper: panel-house-of-wisdom-institution-memory
 module: ruins
-status: working-draft
+status: stable-working-paper
 roles:
   - id: R1
     name: Fragment Custodian

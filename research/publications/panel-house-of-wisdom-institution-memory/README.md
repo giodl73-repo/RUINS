@@ -9,6 +9,7 @@ Paper `panel-house-of-wisdom-institution-memory` in the [RUINS](../../) module.
 - [**source-map.md** - source and trace work surface](source-map.md)
 - [**chronology.md** - institution, destruction, and memory layers](chronology.md)
 - [**claim-audit.md** - institution and destruction claim checks](claim-audit.md)
+- [**source-lock.md** - locked source uses and claim limits](source-lock.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)
 - [**cultural-memory.md** - golden-age and catastrophe memory register](cultural-memory.md)
 - [**sibling-boundary.md** - repo boundary and handoff register](sibling-boundary.md)

@@ -1,7 +1,7 @@
 # Source Map: House of Wisdom Institution Memory
 
 **Owner:** PALIMPSEST
-**Status:** first-pass work surface
+**Status:** source-locked map
 **Rule:** metadata-only; do not copy protected source content
 
 ## Evidence Surfaces
@@ -15,12 +15,14 @@
 | 1258 fall of Baghdad sources | reported catastrophe / historiography | Bound destruction claims. |
 | Modern popular House of Wisdom narratives | cultural memory | Track golden-age/catastrophe afterlife. |
 
+Current source boundaries are locked in [`source-lock.md`](source-lock.md).
+
 ## Source Targets
 
 | Target | Use | Claim boundary |
 |---|---|---|
-| Dimitri Gutas, *Greek Thought, Arabic Culture* | Skeptical frame for over-centralizing Bayt al-Hikma in the translation movement. | Use to limit claims; do not make denial absolute without direct page audit. |
-| Gutas and van Bladel, "Bayt al-Hikma," *Encyclopaedia of Islam Three* | Direct scholarly target for the institution between myth and source evidence. | Needs direct page custody before publication-ready status. |
+| Dimitri Gutas, *Greek Thought, Arabic Culture* | Skeptical frame for over-centralizing Bayt al-Hikma in the translation movement. | Bibliographic source target; page audit still needed. |
+| Gutas and van Bladel, "Bayt al-Hikma," *Encyclopaedia of Islam Three* | Direct scholarly target for the institution between myth and source evidence. | Source-locked from accessible copy; direct Brill/page custody still needed before publication-ready status. |
 | Ibn al-Nadim, *al-Fihrist* | Medieval source target for books, translators, and named references. | Translation/edition custody required. |
 | al-Qifti and related biographical traditions | Later reported source target. | Copied/reported status; no direct institutional observation. |
 | Scholarship on the 1258 fall of Baghdad | Destruction/catastrophe context. | Do not infer exact library losses without source support. |

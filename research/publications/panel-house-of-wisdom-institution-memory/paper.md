@@ -1,7 +1,7 @@
 # House of Wisdom Institution Memory
 
 **Authors:** draft
-**Status:** working draft
+**Status:** stable working paper
 **Date:** 2026-07-04
 
 ## Abstract
@@ -33,11 +33,16 @@ RUINS should not deny Abbasid scholarship in order to correct the myth. It
 should separate broader scholarly ecology, named institutional evidence,
 library/archive custody, destruction history, and cultural memory.
 
+For current locked source boundaries, use [`source-lock.md`](source-lock.md).
+The paper remains below publication-ready status because direct Brill/page
+custody for Gutas and van Bladel, direct Gutas monograph pages, Biran page
+anchors, and primary-source references still need audit.
+
 ## 2. What Survives
 
 | Surviving trace | Evidence condition | Claim grade now |
 |---|---|---|
-| Medieval references to Bayt al-Hikma / Khizanat al-Hikma | copied / reported textual | source target |
+| Medieval references to Bayt al-Hikma / Khizanat al-Hikma | copied / reported textual | source-specific |
 | Works produced in Abbasid Baghdad's scholarly and translation world | direct/copy textual through manuscript transmission | contextual |
 | Biographical notices of translators, scholars, patrons, and librarians | copied / reported textual | source-specific |
 | Later reports about the fall of Baghdad | reported / historiographic | source-specific |
@@ -58,9 +63,9 @@ library/archive custody, destruction history, and cultural memory.
 | Claim | Grade | Reason |
 |---|---|---|
 | Abbasid Baghdad was a major center of scholarship and translation. | Corroborated | Broad textual and historical surface, but not identical with one institution. |
-| A named Bayt al-Hikma / House of Wisdom existed in some Abbasid source traditions. | Plausible / source-specific | Needs direct source lock before stronger wording. |
-| The House of Wisdom was the single center of the translation movement. | Refuse for now | Over-centralizes a broad social and patronage process. |
-| The House of Wisdom was a modern-style university or public academy. | Refuse for now | Institutional category may be anachronistic. |
+| A named Bayt al-Hikma / House of Wisdom existed in some Abbasid source traditions. | Source-specific | Locked as a source tradition, not as a full modern institution. |
+| The House of Wisdom was the single center of the translation movement. | Refuse | Over-centralizes a broad social and patronage process. |
+| The House of Wisdom was a modern-style university or public academy. | Refuse | Institutional category is anachronistic without source-specific framing. |
 | The Mongols destroyed all ancient knowledge by destroying this one library. | Refuse | Catastrophe memory outruns source-specific evidence. |
 | The river ran black with ink as a literal audited fact. | Legendary / source target | Preserve as memory unless source-locked. |
 
