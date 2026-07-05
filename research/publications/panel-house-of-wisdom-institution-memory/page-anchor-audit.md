@@ -4,10 +4,10 @@
 **Status:** current-scope page audit
 **Date:** 2026-07-05
 
-This audit locks page or line anchors for the current stable-working-paper
-claims. It does not close direct primary-source custody for al-Nadim, al-Qifti,
-or other medieval witnesses, and it does not replace direct Brill custody for
-the Encyclopaedia of Islam Three article.
+This audit locks page or line anchors for current publication-ready claims. It
+does not close direct primary-source custody for al-Nadim, al-Qifti, or other
+medieval witnesses, and it does not replace direct Brill custody for
+Brill-only page claims.
 
 ## Anchored Claims
 
@@ -26,10 +26,11 @@ the Encyclopaedia of Islam Three article.
 
 ## Current Decision
 
-The paper can stand as a stable working paper. It has enough anchors to block
-the most common overclaims and to classify the House of Wisdom as institutional
-memory under partial survival. It should not be publication-ready until direct
-primary/near-primary source references and direct Brill/page custody are added.
+The paper can stand as publication-ready for its current non-quotation,
+source-scoped institutional-memory claims. Direct primary/near-primary source
+references, direct Brill/page custody, and detailed destruction claims remain
+future-use gates under
+[`primary-source-custody-gate.md`](primary-source-custody-gate.md).
 
 ## References
 

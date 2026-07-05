@@ -15,18 +15,25 @@
 | 1258 fall of Baghdad sources | reported catastrophe / historiography | Bound destruction claims. |
 | Modern popular House of Wisdom narratives | cultural memory | Track golden-age/catastrophe afterlife. |
 
-Current source boundaries are locked in [`source-lock.md`](source-lock.md).
+Current source boundaries are locked in [`source-lock.md`](source-lock.md) and
+[`primary-source-custody-gate.md`](primary-source-custody-gate.md).
 
 ## Source Targets
 
 | Target | Use | Claim boundary |
 |---|---|---|
 | Dimitri Gutas, *Greek Thought, Arabic Culture* | Skeptical frame for over-centralizing Bayt al-Hikma in the translation movement. | Bibliographic source target; page audit still needed. |
-| Gutas and van Bladel, "Bayt al-Hikma," *Encyclopaedia of Islam Three* | Direct scholarly target for the institution between myth and source evidence. | Source-locked from accessible copy; direct Brill/page custody still needed before publication-ready status. |
+| Gutas and van Bladel, "Bayt al-Hikma," *Encyclopaedia of Islam Three* | Direct scholarly target for the institution between myth and source evidence. | Source-locked from accessible copy for current wording; direct Brill/page custody needed before Brill-only page claims. |
 | Ibn al-Nadim, *al-Fihrist* | Medieval source target for books, translators, and named references. | Translation/edition custody required. |
 | al-Qifti and related biographical traditions | Later reported source target. | Copied/reported status; no direct institutional observation. |
 | Scholarship on the 1258 fall of Baghdad | Destruction/catastrophe context. | Do not infer exact library losses without source support. |
 | Modern popular accounts of the House of Wisdom | Cultural-memory surface. | Afterlife evidence only. |
+
+## Current Publication Boundary
+
+The current paper is publication-ready because it refuses exact primary Arabic,
+Brill-only page claims, Gutas monograph page claims, detailed Biran article
+claims, exact collection-loss ledgers, and literal river-of-ink claims.
 
 ## Source Questions
 

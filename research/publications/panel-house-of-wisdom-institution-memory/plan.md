@@ -2,7 +2,7 @@
 
 **Module:** RUINS
 **Track:** Evidence and Absence
-**Status:** working draft
+**Status:** publication-ready
 **Position in chain:** next-tranche case after the first RUINS method set
 
 ## Research Question
@@ -33,9 +33,9 @@ and both from later civilizational-loss memory.
 
 ## Next Work
 
-1. PALIMPSEST locks direct references to Bayt al-Hikma / Khizanat al-Hikma.
-2. STRATA separates Abbasid patronage, translation activity, Baghdad's fall, and
+1. STRATA separates Abbasid patronage, translation activity, Baghdad's fall, and
    later memory.
-3. ERRATA audits whether the paper may say academy, library, archive, bureau,
+2. ERRATA audits whether the paper may say academy, library, archive, bureau,
    collection, or metaphor.
-4. ASHLAR reruns the role review after source-locking.
+3. PALIMPSEST adds direct primary/Brill/article custody before any future exact
+   quotation, source-page, or destruction-detail claim.

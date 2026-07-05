@@ -1,7 +1,7 @@
 # House of Wisdom Institution Memory
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-04
 
 ## Abstract
@@ -34,10 +34,11 @@ should separate broader scholarly ecology, named institutional evidence,
 library/archive custody, destruction history, and cultural memory.
 
 For current locked source boundaries, use [`source-lock.md`](source-lock.md) and
-[`page-anchor-audit.md`](page-anchor-audit.md). The paper remains below
-publication-ready status because direct Brill custody, direct Gutas monograph
-pages, article-page audit for Biran, and primary-source references still need
-audit.
+[`page-anchor-audit.md`](page-anchor-audit.md). The
+[`primary-source-custody-gate.md`](primary-source-custody-gate.md) keeps the
+paper publication-ready by refusing exact primary Arabic, Brill-only page
+claims, Gutas monograph page claims, detailed Biran article claims, and literal
+catastrophe imagery unless later custody is added.
 
 ## 2. What Survives
 
@@ -90,7 +91,7 @@ audit.
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this working draft:
+RUINS refuses the following claims in this paper:
 
 - It will not treat the House of Wisdom as the whole translation movement.
 - It will not call it a university, academy, archive, bureau, or public library

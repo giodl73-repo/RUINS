@@ -11,7 +11,7 @@ role reviews, and synthesis.
 | [`panel-epistemology-of-ruins`](panel-epistemology-of-ruins/) | Evidence and Absence | publication-ready |
 | [`panel-library-alexandria-loss-memory`](panel-library-alexandria-loss-memory/) | Evidence and Absence | publication-ready |
 | [`panel-indus-nondecipherment`](panel-indus-nondecipherment/) | Evidence and Absence | publication-ready |
-| [`panel-house-of-wisdom-institution-memory`](panel-house-of-wisdom-institution-memory/) | Evidence and Absence | stable working paper |
+| [`panel-house-of-wisdom-institution-memory`](panel-house-of-wisdom-institution-memory/) | Evidence and Absence | publication-ready |
 | [`panel-dead-sea-scrolls-fragment-custody`](panel-dead-sea-scrolls-fragment-custody/) | Evidence and Absence | stable working paper |
 | [`panel-herculaneum-papyri-virtual-unwrapping`](panel-herculaneum-papyri-virtual-unwrapping/) | Evidence and Absence | publication-ready |
 | [`panel-maya-codices-destroyed-corpus`](panel-maya-codices-destroyed-corpus/) | Evidence and Absence | publication-ready |

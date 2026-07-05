@@ -10,12 +10,15 @@ the broader Abbasid translation movement, the 1258 destruction context, and
 later golden-age/catastrophe memory.
 
 Current paper claims are anchored in [`page-anchor-audit.md`](page-anchor-audit.md).
+Use [`primary-source-custody-gate.md`](primary-source-custody-gate.md) for
+primary-source, Brill/page, article-detail, and exact destruction-detail
+refusals.
 
 ## Locked Sources
 
 | ID | Source | Type | Locked use | Limits |
 |---|---|---|---|---|
-| S1 | Dimitri Gutas and Kevin van Bladel, "Bayt al-Hikma," *Encyclopaedia of Islam Three* | scholarly reference article | Core institutional boundary: palace library, sparse source record, terms Bayt/Khizanat al-Hikma, critique of modern academy/university/translation-center myth. | Accessible copy page-audited; direct Brill custody still needed before publication-ready status. |
+| S1 | Dimitri Gutas and Kevin van Bladel, "Bayt al-Hikma," *Encyclopaedia of Islam Three* | scholarly reference article | Core institutional boundary: palace library, sparse source record, terms Bayt/Khizanat al-Hikma, critique of modern academy/university/translation-center myth. | Accessible copy page-audited for current wording; direct Brill custody needed before Brill-only page claims. |
 | S2 | Dimitri Gutas, *Greek Thought, Arabic Culture* | monograph / source target | Source target for broader Graeco-Arabic translation-movement context and critique of over-centralizing Bayt al-Hikma. | Bibliographic lock only in this pass; no page-specific claims. |
 | S3 | Chandio et al., "The Significance of the Bayt al-Hikma..." | synthetic article / contrary tradition | Evidence that a more expansive scholarly tradition presents Bayt al-Hikma as institute, observatory, translation office, and library. | Use as interpretive contrast, not final authority. |
 | S4 | Michal Biran, "Libraries, Books, and Transmission of Knowledge in Ilkhanid Baghdad" | peer-reviewed article / destruction-memory corrective | Caution that library-destruction imagery after 1258 should not be treated as total intellectual closure. | Abstract/metadata page-audited; article-page audit needed for detailed claims. |
@@ -33,6 +36,7 @@ Current paper claims are anchored in [`page-anchor-audit.md`](page-anchor-audit.
 | Expansive tradition | Some modern scholarship and public accounts describe Bayt al-Hikma as a library, translation office, observatory, or research center. | S3 / S6 | Cultural-memory / historiographic contrast |
 | 1258 destruction context | The Mongol sack of Baghdad is a valid destruction context, but it does not by itself prove exact House of Wisdom collection-loss details. | S4 / S5 | Source-specific context |
 | River-of-ink image | The river-of-ink story remains catastrophe memory unless directly source-audited. | S4 / S6 | Legendary / memory |
+| Exact source claims | The current paper publishes no exact primary Arabic, Brill-only page claims, Gutas monograph page claims, detailed Biran article claims, or literal river-of-ink/destruction-ledger claims. | Primary-source custody gate | Current-scope refusal |
 
 ## Paper Use Rules
 
