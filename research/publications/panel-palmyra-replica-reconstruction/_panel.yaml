@@ -1,0 +1,19 @@
+paper: panel-palmyra-replica-reconstruction
+module: ruins
+status: stable-working-paper
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: original site fabric, damaged features, replica objects, digital models, and governance records
+  - id: R2
+    name: Absence Historian
+    focus: destruction chronology, emergency conservation, replica circulation, and recovery process
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: replica-as-original, model-as-restoration, and public-display-as-recovery overclaims
+  - id: R4
+    name: Cultural Memory Reader
+    focus: heritage-loss memory, replica touring, digital salvation narratives, and global public art
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: PORTO site geography, CANON monument identity, FONTES/MUNDUS image/model custody, CERES conservation methods

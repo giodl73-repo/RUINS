@@ -1,0 +1,39 @@
+# Role Review: Palmyra Replica Reconstruction
+
+**Date:** 2026-07-05
+**Review status:** stable working paper
+**Synthesis owner:** ASHLAR
+
+## Panel Findings
+
+| Role | Finding | Severity |
+|---|---|---|
+| Fragment Custodian | The packet separates original site fabric, damaged features, public replica, digital model, and governance record. | Clear |
+| Absence Historian | The chronology keeps destruction, documentation, replica display, emergency conservation, and restoration governance distinct. | Clear |
+| Reconstruction Skeptic | The replica-status register blocks replica-as-original, model-as-restoration, and public-display-as-recovery overclaims. | Clear |
+| Cultural Memory Reader | Public replica circulation and anti-erasure rhetoric are treated as afterlife surfaces. | Clear |
+| Sibling Boundary Editor | Handoffs prevent drift into Syrian history, conservation engineering, site geography, and dataset custody. | Clear |
+
+## P1 Findings
+
+None.
+
+## P2 Findings
+
+- Add direct page-anchor audit for exact feature-damage claims beyond the Arch
+  of Triumph.
+- Add direct project documentation before exact replica dimensions, materials,
+  or machining claims are treated as publication-ready.
+- Add a restoration-methodology source audit before any claim about authorized
+  on-site reconstruction.
+
+## P3 Carry-Forward
+
+- Test replica-status custody against Palmyra, Knossos, and future digital
+  reconstruction cases before making a mandatory template.
+
+## ASHLAR Decision
+
+The paper is a stable working paper. It adds the replica-status custody method,
+but publication-ready status requires page anchors for exact damage,
+replica-specification, and restoration-methodology claims.
