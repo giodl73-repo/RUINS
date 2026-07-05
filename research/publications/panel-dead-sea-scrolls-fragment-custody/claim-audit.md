@@ -4,7 +4,9 @@
 **Status:** source-locked working audit
 
 Use [`source-lock.md`](source-lock.md) for current claim boundaries and the
-fragment-custody ladder.
+fragment-custody ladder. Use
+[`authenticity-report-audit.md`](authenticity-report-audit.md) for MOTB
+authenticity-report custody.
 
 ## Claim Grades
 
@@ -27,6 +29,8 @@ fragment-custody ladder.
 | Manuscript labels can reflect modern grouping, errors, or disagreements. | Corroborated as public classification caution | IAA content page states this explicitly. |
 | Language identification can be impossible for very fragmentary manuscripts. | Corroborated as public classification caution | IAA language/script page states this explicitly. |
 | MOTB authenticity results apply to all Dead Sea Scrolls. | Refuse | MOTB describes analysis of its 16 fragments; RUINS keeps this fragment-set-specific. |
+| The MOTB report concluded that none of the museum's textual DSS fragments were authentic. | Direct report custody, MOTB set only | The final report and museum press page support this for the tested MOTB collection only. |
+| The MOTB findings prove IAA / Leon Levy fragments are forged. | Refuse | MOTB authenticity custody is not transferable to official IAA archive fragments. |
 
 ## Phrases To Challenge
 

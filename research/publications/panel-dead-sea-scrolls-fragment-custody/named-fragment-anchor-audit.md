@@ -33,7 +33,7 @@ The named-fragment image/metadata blocker is closed for current stable claims.
 RUINS may now use 11Q5 / 11Q Psalms image records as an example of mediated
 image custody and public metadata structure. The paper remains capped at stable
 working paper because exact readings, edition pages, translation examples, and
-direct authenticity-report custody remain unaudited.
+broader named-fragment coverage remain unaudited.
 
 ## References
 

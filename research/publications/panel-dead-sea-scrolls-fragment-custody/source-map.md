@@ -22,6 +22,8 @@ Current public-page anchors are audited in
 [`page-anchor-audit.md`](page-anchor-audit.md).
 Named image/metadata anchors are audited in
 [`named-fragment-anchor-audit.md`](named-fragment-anchor-audit.md).
+MOTB authenticity-report custody is audited in
+[`authenticity-report-audit.md`](authenticity-report-audit.md).
 
 ## Source Targets
 
@@ -44,7 +46,7 @@ Named image/metadata anchors are audited in
 | Publication-history anchors | Complete for current public-history claims. |
 | Specific fragment image/metadata anchors | Complete for first 11Q5 / 11Q Psalms example only. |
 | Direct edition-page / transcription / translation anchors | Not yet complete. |
-| Direct authenticity-report anchors | Not yet complete beyond public MOTB summary. |
+| Direct authenticity-report anchors | Complete for MOTB 16-fragment set only. |
 
 ## Source Questions
 

@@ -20,6 +20,7 @@ history, and modern-market authenticity reports.
 | S5 | IAA "Scrolls Content" | official public classification guide | Manuscript categories, multiple-composition labels, modern errors/disagreements about classification, and examples of textual/object categories. | Navigation/category source; not a final scholarly taxonomy. |
 | S6 | IAA "Languages and Scripts" | official public explanation | Hebrew/Aramaic/Greek language and script cautions, paleographic and carbon-14 dating note, fragmentary language uncertainty, and failed New Testament identification attempts for Cave 7. | Public explanation; detailed paleographic claims need scholarly custody. |
 | S7 | Museum of the Bible, "A Journey for the Truth" | museum authenticity-report summary | Modern-market fragment authenticity is fragment-set specific; the 16 MOTB fragments received independent imaging/materials analysis. | Applies to the MOTB collection, not the whole Dead Sea Scrolls corpus. |
+| S8 | Museum of the Bible / Art Fraud Insights final report and Museum press page | direct authenticity-report custody | The MOTB report and press page support the tested-set finding that none of the 16 MOTB textual fragments were authentic and that the report identified deliberate-forgery characteristics. | Applies only to the MOTB tested set; do not generalize to the whole corpus, all post-2002 fragments, or IAA fragments. |
 
 ## Fragment-Custody Ladder
 
@@ -45,7 +46,8 @@ history, and modern-market authenticity reports.
 | Classification uncertainty | Manuscript labels and categories can reflect modern grouping, errors, or disagreements. | S5 | Source-specific caution |
 | Language/script uncertainty | Some very fragmentary manuscripts cannot be confidently assigned language; some identification attempts have failed. | S6 | Source-specific caution |
 | Publication history | Initial publication was delayed/monopolized, then expanded under IAA/Emanuel Tov with most official editions published by 2001 in IAA framing. | S4 | Public-history source |
-| Authenticity boundary | MOTB authenticity findings apply to a specific collection/set of 16 fragments and must not be generalized to the whole corpus. | S7 | Fragment-set-specific |
+| Authenticity boundary | MOTB authenticity findings apply to a specific collection/set of 16 fragments and must not be generalized to the whole corpus. | S7 / S8 | Fragment-set-specific |
+| MOTB report conclusion | The MOTB final report concluded that none of the museum's textual DSS fragments were authentic and that each showed deliberate-forgery characteristics. | S8 | Direct report custody, MOTB set only |
 
 ## Paper Use Rules
 
@@ -74,3 +76,8 @@ history, and modern-market authenticity reports.
   https://www.deadseascrolls.org.il/learn-about-the-scrolls/languages-and-scripts
 - Museum of the Bible, "A Journey for the Truth":
   https://www.museumofthebible.org/magazine/collections/a-journey-for-the-truth
+- Museum of the Bible press page, "Dead Sea Scroll Conference Has Been
+  Postponed":
+  https://www.museumofthebible.org/newsroom/museum-of-the-bible-hosts-two-day-conference-on-testing-of-its-dead-sea-scrolls-collection
+- Museum of the Bible / Art Fraud Insights final report PDF:
+  https://d2f7x7uhr2xem7.cloudfront.net/sixteen_by_nine/MOTB-DSS-Report-FINAL-web.pdf

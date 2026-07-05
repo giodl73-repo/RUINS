@@ -35,10 +35,11 @@ For current source boundaries and the fragment-custody ladder, use
 [`source-lock.md`](source-lock.md). For current public-page anchors, use
 [`page-anchor-audit.md`](page-anchor-audit.md). For a first named
 image/metadata example, use
-[`named-fragment-anchor-audit.md`](named-fragment-anchor-audit.md). The paper
-remains below publication-ready status because edition-page custody,
-translation examples, and direct authenticity reports still need audit before
-specific readings or authenticity claims are used.
+[`named-fragment-anchor-audit.md`](named-fragment-anchor-audit.md). For direct
+MOTB authenticity-report custody, use
+[`authenticity-report-audit.md`](authenticity-report-audit.md). The paper
+remains below publication-ready status because edition-page custody and
+translation examples still need audit before specific readings are used.
 
 ## 2. What Survives
 
@@ -74,6 +75,7 @@ specific readings or authenticity claims are used.
 | A translation equals surviving wording. | Refuse | Translation is interpretation. |
 | A reconstructed lacuna is ancient text. | Refuse | Reconstruction is not survival unless marked and constrained. |
 | A fragment's cave provenance is settled by a collection label. | Speculative / source-specific | Provenance needs custody, not assumption. |
+| The MOTB report concluded its textual DSS fragments were not authentic. | Direct report custody, MOTB set only | The report applies to the museum's tested set, not the whole corpus. |
 | A modern authenticity dispute invalidates the entire corpus. | Refuse | Authenticity concerns are fragment/set-specific. |
 
 ## 5. Reconstruction Status

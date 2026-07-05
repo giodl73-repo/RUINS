@@ -9,19 +9,19 @@
 
 **Score:** 44/50
 **Band:** Stable working paper
-**Caps:** Edition-level, broader named-fragment image/metadata coverage, and direct authenticity-report custody remain incomplete; do not raise above 44 until all open P2 findings are closed.
+**Caps:** Edition-level custody and broader named-fragment image/metadata coverage remain incomplete; do not raise above 44 until all open P2 findings are closed.
 
 ## Dimension Scores
 
 | Dimension | Score | Notes |
 |---|---:|---|
-| Evidence condition | 9/10 | Source lock, page-anchor audit, and first named image/metadata audit separate fragment, image, metadata, edition, translation, reconstruction, provenance, authenticity, and public memory. |
+| Evidence condition | 9/10 | Source lock, page-anchor audit, first named image/metadata audit, and MOTB authenticity-report audit separate fragment, image, metadata, edition, translation, reconstruction, provenance, authenticity, and public memory. |
 | Loss/process clarity | 7/8 | Layered chronology separates fragmentation, discovery, publication, reconstruction, and authenticity disputes. |
 | Claim-grade discipline | 9/10 | Source-specific permissions and page anchors now govern fragment, image, edition, translation, reconstruction, and authenticity claims. |
 | Refusal quality | 6/7 | Refusal register blocks the main fragment/translation/reconstruction overclaims. |
 | Cultural-memory handling | 5/6 | Key afterlife surfaces are named with source limits and public-page anchors. |
 | Sibling boundary | 4/5 | Handoffs are clear. |
-| Source posture | 4/4 | Source lock, page-anchor audit, and first named image/metadata audit are complete for current stable-working-paper claims; cap prevents publication-ready overreach. |
+| Source posture | 4/4 | Source lock, page-anchor audit, first named image/metadata audit, and MOTB authenticity-report audit are complete for current stable-working-paper claims; cap prevents publication-ready overreach. |
 
 ## Blocking Findings
 
@@ -31,8 +31,6 @@ No `P1` findings.
 
 - Add direct edition-page custody before making specific fragment,
   transcription, or translation claims.
-- Add direct authenticity-report custody before exact fragment-level
-  authenticity claims.
 - Expand named-fragment image/metadata anchors beyond the 11Q5 / 11Q Psalms
   example before making broader fragment-level claims.
 - Keep Museum of the Bible authenticity findings fragment-set-specific.
@@ -41,6 +39,6 @@ No `P1` findings.
 
 1. PALIMPSEST adds direct edition-page anchors for any exact reading,
    transcription, translation, join, or lacuna claim.
-2. ERRATA adds direct authenticity-report custody before exact authenticity
-   claims.
+2. ERRATA expands named-fragment image/metadata coverage beyond the first 11Q5
+   / 11Q Psalms example before broader fragment-level claims.
 3. ASHLAR reruns role review for publication-ready eligibility.
