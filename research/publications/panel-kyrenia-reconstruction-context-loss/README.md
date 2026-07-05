@@ -10,6 +10,7 @@ Paper `panel-kyrenia-reconstruction-context-loss` in the [RUINS](../../) module.
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
 - [**page-anchor-audit.md** - public/source-summary line anchors](page-anchor-audit.md)
 - [**dating-custody-audit.md** - PLOS ONE sample-method custody](dating-custody-audit.md)
+- [**final-report-custody-audit.md** - report-scope custody boundary](final-report-custody-audit.md)
 - [**context-loss-gate.md** - shipwreck context-loss boundary](context-loss-gate.md)
 - [**reconstruction-boundary.md** - reconstruction and replica status](reconstruction-boundary.md)
 - [**claim-audit.md** - cargo, route, hull, and reconstruction claim checks](claim-audit.md)

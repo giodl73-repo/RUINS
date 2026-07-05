@@ -1,7 +1,7 @@
 # Kyrenia Reconstruction Context Loss
 
 **Module:** RUINS
-**Status:** working draft
+**Status:** activation-ready working paper
 **Date:** 2026-07-05
 
 ## Abstract

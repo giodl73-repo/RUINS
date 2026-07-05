@@ -5,7 +5,7 @@
 **Date:** 2026-07-05
 
 This audit anchors the current public and source-summary claims in the Kyrenia
-working draft. It does not authorize exact amphora counts, object identities,
+current draft. It does not authorize exact amphora counts, object identities,
 coin claims, timber claims, route closure, crew identity, owner identity,
 replica-performance claims, or site/recovery guidance.
 

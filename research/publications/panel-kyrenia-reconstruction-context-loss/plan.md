@@ -2,7 +2,7 @@
 
 **Module:** RUINS
 **Track:** Shipwrecks and Context Loss
-**Status:** working draft
+**Status:** activation-ready working paper
 **Position in chain:** second shipwreck case after Uluburun activation
 
 ## Research Question
