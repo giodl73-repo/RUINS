@@ -1,7 +1,7 @@
 # Maya Codices Destroyed Corpus
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-05
 
 ## Abstract
@@ -25,9 +25,9 @@ authentication work.
 For current locked source boundaries, use [`source-lock.md`](source-lock.md),
 [`page-anchor-audit.md`](page-anchor-audit.md), and
 [`destruction-corpus-custody-gate.md`](destruction-corpus-custody-gate.md). The
-paper remains below publication-ready status because critical edition or
-translation custody for Landa quotations, codex readings, and quotation
-permissions are not yet closed.
+[`quotation-translation-gate.md`](quotation-translation-gate.md) keeps the paper
+publication-ready by refusing exact Landa quotations, codex readings, and
+translations unless later custody is added.
 
 ## 2. What Survives
 
@@ -84,7 +84,7 @@ permissions are not yet closed.
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this stable working paper:
+RUINS refuses the following claims in this paper:
 
 - It will not infer total Maya book culture from four surviving witnesses.
 - It will not quote Landa or lock English wording without quotation and

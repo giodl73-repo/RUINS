@@ -47,7 +47,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Evidence and Absence | `panel-house-of-wisdom-institution-memory` | stable working paper |
 | Evidence and Absence | `panel-dead-sea-scrolls-fragment-custody` | stable working paper |
 | Evidence and Absence | `panel-herculaneum-papyri-virtual-unwrapping` | publication-ready |
-| Evidence and Absence | `panel-maya-codices-destroyed-corpus` | stable working paper |
+| Evidence and Absence | `panel-maya-codices-destroyed-corpus` | publication-ready |
 | Reconstruction and Modern Projection | `panel-antikythera-reconstruction` | publication-ready |
 | Reconstruction and Modern Projection | `panel-knossos-restoration-projection` | publication-ready |
 | Monumental Sites and Contested Interpretation | `panel-great-zimbabwe-colonial-denial` | publication-ready |

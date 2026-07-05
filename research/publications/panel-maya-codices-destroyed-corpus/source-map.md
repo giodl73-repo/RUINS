@@ -17,6 +17,7 @@
 
 ## Source Need
 
-Before publication-ready status, this paper needs quotation/translation custody
-for any exact Landa or codex wording. Current claims are stable only because
-they avoid exact quotations, translations, and destroyed corpus counts.
+The current paper is publication-ready because it avoids exact Landa or codex
+wording. Future exact quotations, translations, or codex readings require the
+separate custody steps listed in
+[`quotation-translation-gate.md`](quotation-translation-gate.md).

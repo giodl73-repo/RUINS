@@ -44,6 +44,6 @@ RUINS may not yet:
 
 ## Decision
 
-The direct repository-custody P2 is closed for current stable claims. The
-remaining publication-ready blockers are quotation/translation custody and
-facsimile/status controls for any exact page use.
+The direct repository-custody P2 is closed for current publication-ready claims.
+Future exact page use still requires quotation/translation custody and
+facsimile/status controls.

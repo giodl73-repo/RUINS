@@ -7,6 +7,8 @@
 This source lock defines what RUINS may say about the Maya codices in this
 paper. It separates surviving objects, destroyed corpus, facsimile history,
 authenticity status, translation custody, and cultural memory.
+Use [`quotation-translation-gate.md`](quotation-translation-gate.md) for exact
+text, translation, and glyphic-reading refusals.
 
 ## Locked Sources
 
@@ -38,6 +40,7 @@ authenticity status, translation custody, and cultural memory.
 | Mexico codex | Codice Maya de Mexico may be used as a surviving witness when the authentication and custody layer is named. | S4 / S5 / S6 / S7 | Source-specific |
 | Destruction | Landa's *Relacion* may be paraphrased as reporting the finding and burning of many Maya books under Christian polemical judgment, with Maya grief noted. | S3 / S9 / S11 | Direct Spanish text custody |
 | Corpus absence | The destroyed broader Maya book corpus cannot be counted or reconstructed from the four witnesses. | S1 / S3 / RUINS inference | RUINS refusal |
+| Exact text | The current paper publishes no codex readings, Landa quotations, or English translations. | Quotation gate | Current-scope refusal |
 
 ## Paper Use Rules
 

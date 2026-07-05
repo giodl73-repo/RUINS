@@ -1,7 +1,7 @@
 # Destruction Corpus Custody Gate: Maya Codices Destroyed Corpus
 
 **Owner:** PALIMPSEST / ERRATA
-**Status:** open publication-ready gate
+**Status:** current-scope gate closed
 **Date:** 2026-07-05
 
 This gate prevents a surviving-witness paper from silently becoming a total
@@ -32,7 +32,7 @@ complete inventory of loss.
 
 ## Current Decision
 
-The paper is stable because it is methodological and avoids exact quotations,
-counts, translations, and total-corpus reconstruction. Repository custody for
-Paris and Madrid is closed for current stable claims. The publication-ready gate
-remains open for quotation/translation custody.
+The paper is publication-ready for its current methodology scope because it
+avoids exact quotations, counts, translations, and total-corpus reconstruction.
+Repository custody for Paris and Madrid is closed for current claims; future
+exact text remains gated by [`quotation-translation-gate.md`](quotation-translation-gate.md).

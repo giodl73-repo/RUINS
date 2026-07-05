@@ -18,5 +18,6 @@
 
 ## Promotion Finding
 
-The paper can stand as a stable working paper. It should not be
-publication-ready until exact quotation or translation gates are closed.
+The paper can stand as publication-ready while it stays within the current
+non-quotation scope closed by
+[`quotation-translation-gate.md`](quotation-translation-gate.md).

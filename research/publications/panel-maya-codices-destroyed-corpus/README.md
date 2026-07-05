@@ -12,6 +12,7 @@ Paper `panel-maya-codices-destroyed-corpus` in the [RUINS](../../) module.
 - [**destruction-corpus-custody-gate.md** - destruction and corpus claim boundaries](destruction-corpus-custody-gate.md)
 - [**repository-custody-audit.md** - direct repository custody for Paris and Madrid](repository-custody-audit.md)
 - [**landa-destruction-source-audit.md** - Landa destruction-passage custody](landa-destruction-source-audit.md)
+- [**quotation-translation-gate.md** - exact text, translation, and reading boundaries](quotation-translation-gate.md)
 - [**chronology.md** - production, destruction, rediscovery, authentication](chronology.md)
 - [**claim-audit.md** - codex, corpus, destruction, and memory claim checks](claim-audit.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)

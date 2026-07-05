@@ -2,7 +2,7 @@
 
 **Module:** RUINS
 **Track:** Evidence and Absence
-**Status:** stable working paper
+**Status:** publication-ready
 **Position in chain:** post-Herculaneum case testing deliberate textual destruction
 
 ## Research Question
