@@ -1,13 +1,14 @@
 # Capability Promotion: Shipwreck Context Loss
 
 Capability id: `ruins-capability:shipwreck-context-loss`
-Promotion: Candidate -> Active
+Promotion: Candidate -> Active; Active -> Core
 Date: 2026-07-05
 Owner: ASHLAR
 
-Trigger paper:
+Trigger papers:
 
 - `panel-uluburun-shipwreck-context-loss`
+- `panel-kyrenia-reconstruction-context-loss`
 
 ## Overclaim Pressure
 
@@ -27,6 +28,9 @@ equivalent of original context.
 | Page-anchor audit | `research/publications/panel-uluburun-shipwreck-context-loss/page-anchor-audit.md` | Anchors INA and NEH public claims without converting them into object-level or route claims. |
 | Publication custody audits | `research/publications/panel-uluburun-shipwreck-context-loss/publication-custody-audit.md` and `research/publications/panel-uluburun-shipwreck-context-loss/overview-campaign-audit.md` | Anchor Pulak context-loss and overview claims while keeping campaign reports as future exact-claim sources. |
 | Museum custody audit | `research/publications/panel-uluburun-shipwreck-context-loss/museum-custody-audit.md` | Treats Bodrum display as modern custody and public afterlife, not original operating context. |
+| Kyrenia context-loss gate | `research/publications/panel-kyrenia-reconstruction-context-loss/context-loss-gate.md` | Tests the same capability on reconstruction, replica, digital catalog, dating, and final-report custody surfaces. |
+| Kyrenia custody audits | `research/publications/panel-kyrenia-reconstruction-context-loss/page-anchor-audit.md`, `dating-custody-audit.md`, and `final-report-custody-audit.md` | Close current-draft public, dating, and report-scope claims while future-locking exact object, route, sample, and replica-performance claims. |
+| Cross-case checklist | `docs/shipwreck-context-loss-checklist.md` | Turns Uluburun/Kyrenia practice into reusable core method. |
 
 ## Review Evidence
 
@@ -34,6 +38,8 @@ equivalent of original context.
 |---|---|
 | `reviews/ROLE_REVIEW.md` | ASHLAR records current-draft P2s closed and promotes the capability to active; exact campaign, object, route, destination, owner, crew, hull, and stowage claims remain future-locked. |
 | `reviews/SCORECARD.md` | Score `48/50`, band `Activation-ready working paper`; no open P2 findings for the current draft; caps block final publication and exact campaign/object claims without future custody. |
+| Kyrenia `reviews/ROLE_REVIEW.md` | Current-draft P2s are closed; exact object, cargo, hull, route, crew, stowage, sample, and replica-performance claims remain future-locked. |
+| Kyrenia `reviews/SCORECARD.md` | Score `46/50`, band `Activation-ready working paper`; no current-draft P2 findings; future exact claims require direct custody. |
 
 ## Scope Decision
 
@@ -57,19 +63,18 @@ Current paper permission:
 
 Update `docs/capability-expansion.md`:
 
-- State: Active.
-- Promotion basis: Uluburun context-loss gate, source lock, source audits,
-  refusal register, scorecard, and role review.
-- First paper: Uluburun.
+- State: Core.
+- Promotion basis: Uluburun and Kyrenia cross-case checklist plus rubric v1.7
+  check/cap.
+- First papers: Uluburun / Kyrenia.
 
-No `QUALITY_RUBRIC.md` change yet. This promotion changes capability registry
-state, not global scoring semantics. Core promotion should wait for a second
-shipwreck paper or a rubric amendment that turns context-loss custody into a
-general check/cap.
+`QUALITY_RUBRIC.md` v1.7 adds a shipwreck context-loss check and automatic cap.
+`docs/rubric-amendments.md` records the forward-only amendment.
 
 ## ASHLAR Decision
 
-Promote `shipwreck-context-loss` to active. Uluburun supplies a concrete
-shipwreck-specific gate and enough custody for current-draft claims while
-preserving future locks for exact campaign, object, route, destination, owner,
-crew, hull, and stowage claims.
+Promote `shipwreck-context-loss` to core. Uluburun proves the cargo-abundance
+case; Kyrenia proves the reconstruction/dating/display case. Together they
+support a reusable checklist and rubric cap without loosening future custody
+requirements for exact object, route, owner, crew, hull, stowage, sample, or
+replica-performance claims.

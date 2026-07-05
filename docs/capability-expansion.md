@@ -49,7 +49,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
 | `ruins-capability:scope-gated-publication` | Scope-gated publication | Core | House and Dead Sea Scrolls promote by refusing exact claims under explicit gates; see `docs/capability-promotions/scope-gated-publication.md`. | House of Wisdom / Dead Sea Scrolls |
-| `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | Active | Uluburun context-loss gate, source audits, refusal register, role review, and scorecard; see `docs/capability-promotions/shipwreck-context-loss.md`. | Uluburun |
+| `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | Core | Uluburun and Kyrenia cross-case checklist plus rubric v1.7 check/cap; see `docs/capability-promotions/shipwreck-context-loss.md`. | Uluburun / Kyrenia |
 | `ruins-capability:source-lock-escalation` | Source-lock escalation | Core | Automatic caps and repeated scorecard practice; see `docs/capability-promotions/source-lock-escalation.md`. | Great Zimbabwe / House of Wisdom |
 
 ## Repeated Rubric Gaps
@@ -88,6 +88,10 @@ activate candidates or promote active capabilities to core.
     archaeological site without becoming a site identification, route map,
     event ledger, or proof of named actors unless those custody layers are
     separately locked.
+13. **Shipwreck context loss:** recovered cargo, hull remains, reconstruction,
+    replica performance, museum display, digital catalog, and dating output are
+    separate evidence layers; none may stand in for original operating context,
+    route, destination, owner, crew, or economy without a gate.
 
 ## Fast Promotion Path
 
@@ -116,6 +120,7 @@ Use the promotion packet checklist before changing a capability state.
 | Maya codices | Deliberate textual destruction and small surviving witness set. | Corpus-survival map, destruction-process chronology, destruction-corpus custody gate, refusal register. | LUCIA/MAXIM own broader Maya history; FONTES owns codex custody. |
 | Palmyra | Damaged heritage and replica/digital reconstruction. | Replica-status register, destruction chronology, memory register, restoration-governance gate. | PORTO owns site geography; CANON owns named features; FONTES owns image/model custody. |
 | Vinland / Norse North Atlantic traces | Saga memory versus archaeological site evidence. | Saga-memory crosscheck, source map, claim-grade table, route/name refusal gate. | PORTO owns route/geography; LUCIA/MAXIM own Norse history; CANON owns site/entity identity. |
+| Uluburun / Kyrenia shipwrecks | Cargo and reconstruction survival versus lost operating context. | Shipwreck context-loss checklist, source locks, context-loss gates, refusal registers, page/source audits, museum/reconstruction/dating custody audits. | PORTO owns route/geography; CANON owns object identity; FONTES/MUNDUS own exact reports/catalogues; CERES owns material and sample interpretation; MAXIM/LUCIA own broader history. |
 
 ## Promotion Rule
 
