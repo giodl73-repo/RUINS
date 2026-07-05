@@ -82,6 +82,18 @@ RUINS uses the panel in [`.roles/ROLE.md`](.roles/ROLE.md).
 Paper scoring uses [`QUALITY_RUBRIC.md`](QUALITY_RUBRIC.md). Scores calibrate
 readiness; they do not override `P1`/`P2`/`P3` role findings.
 
+## Method Evolution
+
+RUINS borrows the portfolio's forward-only evolution pattern. Papers create
+findings; repeated findings become rubric amendments, capability candidates, or
+new required registers. Use:
+
+- [`docs/rubric-amendments.md`](docs/rubric-amendments.md) for amendment policy,
+- [`docs/capability-expansion.md`](docs/capability-expansion.md) for
+  case-derived capabilities and repeated gaps.
+- [`skills/README.md`](skills/README.md) for executable paper, source-lock,
+  role-review, and method-evolution workflows.
+
 ## Agents
 
 RUINS uses agents as research operators, not personas with authority. Roles

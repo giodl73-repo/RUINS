@@ -34,6 +34,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Reviewing the project | [`.roles/ROLE.md`](.roles/ROLE.md) |
 | Scoring a paper | [`QUALITY_RUBRIC.md`](QUALITY_RUBRIC.md) |
 | Working as an agent | [`agents/AGENT-ROSTER.md`](agents/AGENT-ROSTER.md) |
+| Running repo-local skills | [`skills/README.md`](skills/README.md) |
 | Picking first cases | [`research/seed-corpus.md`](research/seed-corpus.md) |
 
 ## Current Paper Chain
@@ -61,6 +62,18 @@ RUINS uses repository-local review roles:
 - Sibling Boundary Editor,
 - Paper Editor,
 - Safety Editor.
+
+## Method Evolution
+
+RUINS follows the portfolio pattern: build the artifact, review it against an
+explicit rubric, then let repeated findings improve the process.
+
+- [`docs/rubric-amendments.md`](docs/rubric-amendments.md) defines the
+  forward-only amendment policy.
+- [`docs/capability-expansion.md`](docs/capability-expansion.md) tracks
+  case-derived RUINS capabilities and repeated rubric gaps.
+- [`skills/README.md`](skills/README.md) operationalizes paper scaffolding,
+  source locking, role review, and method evolution.
 
 ## Non-Goals
 

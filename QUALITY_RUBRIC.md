@@ -1,5 +1,7 @@
 # RUINS Quality Rubric
 
+**Version:** v1.1
+
 RUINS uses two different review instruments:
 
 - **Finding severity** (`P1`, `P2`, `P3`) for concrete issues.
@@ -7,6 +9,11 @@ RUINS uses two different review instruments:
 
 Scores do not replace role findings. A paper with any unresolved `P1` cannot be
 publication-ready, even if the numeric score is high.
+
+Rubric evolution is forward-only. Use
+[`docs/rubric-amendments.md`](docs/rubric-amendments.md) for amendment rules and
+[`docs/capability-expansion.md`](docs/capability-expansion.md) for repeated
+case-derived capability gaps.
 
 ## Score Bands
 
@@ -30,6 +37,20 @@ publication-ready, even if the numeric score is high.
 | Sibling boundary | 5 | Sibling Boundary Editor | The paper names handoffs and does not expand into general encyclopedia, place, custody, identity, ritual, lineage, or production work. |
 | Source posture | 4 | Fragment Custodian / Paper Editor | Source targets are identified, metadata-only where needed, and publication claims wait for source lock. |
 
+## Case-Derived Capability Checks
+
+Before promotion, ASHLAR should ask whether the paper exercises a known RUINS
+capability or exposes a new one:
+
+| Check | Question |
+|---|---|
+| Evidence layer granularity | Does the paper use the right evidence layers for this ruin condition? |
+| Custody damage | Did recovery, looting, restoration, dispersal, interpretation, or edition history damage the evidence bridge? |
+| Memory afterlife | Is later memory classified without upgrading original-state claims? |
+| Reconstruction status | Are models, restorations, replicas, translations, and public images labeled separately? |
+| Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
+| Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
+
 ## Automatic Caps
 
 | Condition | Maximum score |
@@ -51,6 +72,9 @@ publication-ready, even if the numeric score is high.
    are locked.
 5. Do not raise a paper above `44` until role review confirms there are no open
    `P2` findings.
+6. If review exposes a repeated gap, record it in
+   `docs/capability-expansion.md` or `docs/rubric-amendments.md` before relying
+   on it as a future scoring rule.
 
 ## Review Output Template
 
