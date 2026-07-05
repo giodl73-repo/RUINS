@@ -77,6 +77,8 @@ explicit rubric, then let repeated findings improve the process.
   forward-only amendment policy.
 - [`docs/capability-expansion.md`](docs/capability-expansion.md) tracks
   case-derived RUINS capabilities and repeated rubric gaps.
+- [`docs/capability-promotion-packet.md`](docs/capability-promotion-packet.md)
+  gives ASHLAR the fast-promotion checklist for new capabilities.
 - [`skills/README.md`](skills/README.md) operationalizes paper scaffolding,
   source locking, role review, and method evolution.
 

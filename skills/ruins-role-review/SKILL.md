@@ -16,7 +16,8 @@ Before reviewing, read:
 2. Each role file in `.roles/panel/`
 3. `QUALITY_RUBRIC.md`
 4. `docs/capability-expansion.md`
-5. The full paper package, including registers and source-lock files if present
+5. `docs/capability-promotion-packet.md`
+6. The full paper package, including registers and source-lock files if present
 
 ## The Five Roles
 
@@ -58,7 +59,8 @@ The scorecard must include:
 - Do not let a strong topic compensate for weak source posture.
 - Do not raise above `44/50` while open P2 findings remain.
 - Treat future-scope work as P3 only if current claims are already bounded.
-- If a review exposes a repeated method gap, invoke `ruins-method-evolve`.
+- If a review exposes a repeated method gap or a one-paper capability with a
+  concrete control artifact, invoke `ruins-method-evolve`.
 
 ## Output Checklist
 
@@ -68,3 +70,4 @@ The scorecard must include:
 - [ ] Caps match `QUALITY_RUBRIC.md`
 - [ ] Next lift is actionable
 - [ ] Method gaps are routed to `ruins-method-evolve`
+- [ ] Candidate capability promotions cite a control artifact

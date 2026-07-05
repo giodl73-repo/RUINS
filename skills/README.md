@@ -16,7 +16,7 @@ source posture, and forward-only method evolution.
 | Skill | Purpose |
 |---|---|
 | [ruins-role-review](ruins-role-review/SKILL.md) | Run the RUINS role panel and score a paper against `QUALITY_RUBRIC.md`. |
-| [ruins-method-evolve](ruins-method-evolve/SKILL.md) | Convert repeated findings into forward-only rubric amendments or capability-map entries. |
+| [ruins-method-evolve](ruins-method-evolve/SKILL.md) | Convert findings into forward-only rubric amendments, capability promotions, or capability-map entries. |
 
 ## Operating Rule
 

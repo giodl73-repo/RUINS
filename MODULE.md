@@ -91,6 +91,8 @@ new required registers. Use:
 - [`docs/rubric-amendments.md`](docs/rubric-amendments.md) for amendment policy,
 - [`docs/capability-expansion.md`](docs/capability-expansion.md) for
   case-derived capabilities and repeated gaps.
+- [`docs/capability-promotion-packet.md`](docs/capability-promotion-packet.md)
+  for fast candidate-to-active or active-to-core promotion checks.
 - [`skills/README.md`](skills/README.md) for executable paper, source-lock,
   role-review, and method-evolution workflows.
 

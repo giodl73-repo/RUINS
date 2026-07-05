@@ -13,6 +13,10 @@ RUINS keeps source custody, geography, economy, identity, ritual, lineage, and
 general history in sibling repos. A capability is a RUINS method only when it
 improves evidence grading or refusal discipline inside that boundary.
 
+Use [`capability-promotion-packet.md`](capability-promotion-packet.md) when a
+paper promotes a capability or when ASHLAR upgrades an active capability to
+core.
+
 ## Promotion States
 
 | State | Meaning | Required evidence |
@@ -97,6 +101,7 @@ a paper to publication-ready when all of these are true:
 
 Fast promotion does not rescore older papers. It updates the capability
 registry and, when scoring behavior changes, the rubric-amendment log.
+Use the promotion packet checklist before changing a capability state.
 
 ## Validated Case Matrix
 

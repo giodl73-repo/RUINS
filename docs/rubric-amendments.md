@@ -40,6 +40,9 @@ cannot be scored honestly without a new distinction.
 | Source-custody gap | Add source-lock or page-anchor requirements before raising the score. |
 | Register gap | Add a new register only if it removes repeated ambiguity across papers. |
 
+Use [`capability-promotion-packet.md`](capability-promotion-packet.md) before
+changing a capability state in the registry.
+
 ## Amendment Record Template
 
 ```text
