@@ -8,7 +8,7 @@
 
 | Role | Finding | Severity |
 |---|---|---|
-| Fragment Custodian | The packet separates original site fabric, damaged features, public replica, digital model, and governance record. | Clear |
+| Fragment Custodian | The packet separates original site fabric, damaged features, public replica, digital model, and governance record, with current page anchors for stable claims. | Clear |
 | Absence Historian | The chronology keeps destruction, documentation, replica display, emergency conservation, and restoration governance distinct. | Clear |
 | Reconstruction Skeptic | The replica-status register blocks replica-as-original, model-as-restoration, and public-display-as-recovery overclaims. | Clear |
 | Cultural Memory Reader | Public replica circulation and anti-erasure rhetoric are treated as afterlife surfaces. | Clear |
@@ -20,8 +20,6 @@ None.
 
 ## P2 Findings
 
-- Add direct page-anchor audit for exact feature-damage claims beyond the Arch
-  of Triumph.
 - Add direct project documentation before exact replica dimensions, materials,
   or machining claims are treated as publication-ready.
 - Add a restoration-methodology source audit before any claim about authorized
@@ -34,6 +32,7 @@ None.
 
 ## ASHLAR Decision
 
-The paper is a stable working paper. It adds the replica-status custody method,
-but publication-ready status requires page anchors for exact damage,
-replica-specification, and restoration-methodology claims.
+The paper is a high stable working paper. It adds the replica-status custody
+method, and current claims are page-anchored. Publication-ready status requires
+either refusing exact replica specifications and on-site restoration-methodology
+claims or locking them through dedicated gates.

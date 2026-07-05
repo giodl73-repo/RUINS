@@ -6,6 +6,7 @@
 
 This source lock separates site value, destruction, documentation, replica,
 restoration governance, and public memory.
+Use [`page-anchor-audit.md`](page-anchor-audit.md) for current page anchors.
 
 ## Locked Sources
 
@@ -16,7 +17,7 @@ restoration governance, and public memory.
 | S3 | UNESCO 2020 recovery meeting news | UNESCO recovery governance | Lines 268-271 state that restoration should be limited to first aid until security improves, and that reconstruction should not be implemented in the immediate phase before detailed assessment. | Governance posture, not final site plan. |
 | S4 | UNESCO Decision 46 COM 7A.32 | World Heritage Committee decision | Lines 303-318 commend Triumphal Arch restoration/reconstruction documentation and require methodologies, assessments, emergency measures, and conservation plans. | Formal governance custody; not permission for generic replicas. |
 | S5 | Institute for Digital Archaeology, "The Triumphal Arch" | project/public source | Lines 142-149 announce a scale reproduction for Trafalgar Square, 3D technology, public launch, and Million Image Database rhetoric. | Project/public replica custody, not site restoration. |
-| S6 | IDA media page | project/media source | Lines 553-555 describe a 13-tonne replica made with photogrammetry-based 3D modelling and 3D machining in stone, installed in Trafalgar Square and later New York, Dubai, and Florence. | Public/project custody; exact dimensions/materials need direct project audit. |
+| S6 | IDA media page | project/media source | Lines 553-555 describe a 13-tonne replica made with photogrammetry-based 3D modelling and 3D machining in stone, installed in Trafalgar Square and later New York, Dubai, and Florence. | Public/project description; exact dimensions/materials need replica-specification audit before publication-ready use. |
 | S7 | Oxford Physics, "Preserving Palmyra" | institutional impact story | Lines 53-60 describe 1:3 scale facsimile, crowdsourced images, digital model, marble milling, Trafalgar Square unveiling, travel, and debate around monumental heritage reconstruction. | Institutional impact custody; not conservation approval. |
 
 ## Locked Claims
@@ -25,7 +26,7 @@ restoration governance, and public memory.
 |---|---|---|---|
 | Site status | Palmyra is a UNESCO World Heritage property inscribed in 1980 and on the Danger List from 2013-present. | S1 | Source-locked |
 | Arch destruction | UNESCO condemned the 2015 destruction of the Arch of Triumph. | S2 | Source-locked |
-| Replica | IDA/Oxford produced a public scale facsimile/replica of the Triumphal Arch using digital modelling and machining. | S5 / S6 / S7 | Replica-scoped |
+| Replica | IDA/Oxford produced a public scale facsimile/replica of the Triumphal Arch using digital modelling and machining. | S5 / S6 / S7 | Replica-scoped; exact specs gated |
 | Recovery governance | UNESCO recovery language separates emergency measures, assessment, methodology, restoration, and reconstruction. | S3 / S4 | Governance-scoped |
 | Object boundary | The replica is not the original arch and does not by itself restore Palmyra. | S3 / S4 / S5 / RUINS inference | RUINS refusal |
 

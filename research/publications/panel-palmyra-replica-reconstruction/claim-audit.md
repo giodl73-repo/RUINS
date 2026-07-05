@@ -8,8 +8,8 @@
 | Claim | Grade | Boundary |
 |---|---|---|
 | Palmyra is a UNESCO World Heritage property on the Danger List. | Source-locked | UNESCO property page only. |
-| UNESCO condemned the 2015 destruction of the Arch of Triumph. | Source-locked | Do not extend to every feature without feature custody. |
-| IDA/Oxford produced a public scale facsimile/replica. | Replica-scoped | Do not call it the original or site restoration. |
+| UNESCO condemned the 2015 destruction of the Arch of Triumph. | Page-anchored | Do not extend to every feature without feature custody. |
+| IDA/Oxford produced a public scale facsimile/replica. | Page-anchored / replica-scoped | Do not call it the original or site restoration; exact specs remain gated. |
 | UNESCO recovery governance distinguishes assessment, emergency measures, restoration, and reconstruction. | Governance-scoped | Do not infer approval for any project not named. |
 
 ## Refused Replacements

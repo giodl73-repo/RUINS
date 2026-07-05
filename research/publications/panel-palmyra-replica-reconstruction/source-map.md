@@ -11,9 +11,11 @@
 | UNESCO 46 COM 7A.32 decision | Restoration/reconstruction governance and Triumphal Arch methodology boundary. | Source-locked. |
 | Institute for Digital Archaeology Triumphal Arch page | Public replica announcement and 3D-technology framing. | Source-locked. |
 | IDA media page / Oxford impact story | Replica scale/status, photogrammetry, machining, travel, public art debate. | Source-locked. |
+| Page-anchor audit | Current stable claims and remaining specification/methodology gates. | Complete. |
 
 ## Source Need
 
-Before publication-ready status, add a page-anchor audit and direct project
-documentation for exact dimensions/materials, plus source separation for Temple
-of Bel, theatre, Tetrapylon, museum, and other damaged features.
+Before publication-ready status, add direct project documentation for exact
+dimensions/materials and a restoration-methodology audit. Add source separation
+before extending beyond the current Arch of Triumph claim to Temple of Bel,
+theatre, Tetrapylon, museum, or other damaged features.

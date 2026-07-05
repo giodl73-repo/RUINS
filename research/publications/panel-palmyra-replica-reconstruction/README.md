@@ -8,6 +8,7 @@ Paper `panel-palmyra-replica-reconstruction` in the [RUINS](../../) module.
 - [**plan.md** - paper plan](plan.md)
 - [**source-map.md** - source and trace work surface](source-map.md)
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
+- [**page-anchor-audit.md** - page anchors for current stable claims](page-anchor-audit.md)
 - [**replica-status-register.md** - replica, model, restoration, and original boundaries](replica-status-register.md)
 - [**restoration-governance-gate.md** - UNESCO/committee reconstruction boundaries](restoration-governance-gate.md)
 - [**chronology.md** - destruction, documentation, replica, recovery governance](chronology.md)

@@ -1,7 +1,7 @@
 # Restoration Governance Gate: Palmyra Replica Reconstruction
 
 **Owner:** PALIMPSEST / ASHLAR
-**Status:** open publication-ready gate
+**Status:** current governance gate, publication-ready gate open for exact methods
 **Date:** 2026-07-05
 
 This gate blocks reconstruction claims that outrun UNESCO and World Heritage
@@ -21,6 +21,7 @@ Committee custody.
 
 ## Publication-Ready Need
 
-Before publication-ready status, add direct page-anchor audits for all exact
-feature-damage claims and any claimed restoration methodology, including
-materials, scale, datasets, approval status, and field-assessment relationship.
+Before publication-ready status, add direct source audits for any claimed
+restoration methodology, including materials, scale, datasets, approval status,
+and field-assessment relationship. Current Arch of Triumph destruction and
+governance-boundary claims are page-anchored.
