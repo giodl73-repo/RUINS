@@ -56,6 +56,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Lost Techniques and Broken Transmission | `panel-roman-concrete-partial-survival` | publication-ready |
 | Lost Techniques and Broken Transmission | `panel-cahokia-without-collapse-theater` | publication-ready |
 | Shipwrecks and Context Loss | `panel-uluburun-shipwreck-context-loss` | activation-ready working paper |
+| Shipwrecks and Context Loss | `panel-kyrenia-reconstruction-context-loss` | working draft |
 
 ## Review Roles
 

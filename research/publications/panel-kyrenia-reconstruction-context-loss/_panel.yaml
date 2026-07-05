@@ -1,0 +1,18 @@
+paper: panel-kyrenia-reconstruction-context-loss
+module: RUINS
+status: working-draft
+capability_tests:
+  - ruins-capability:shipwreck-context-loss
+roles:
+  - id: ASHLAR
+    focus: synthesis, capability promotion, and scoring
+  - id: PALIMPSEST
+    focus: source custody, final-report boundaries, and page anchors
+  - id: ERRATA
+    focus: overclaim refusal and claim-grade checks
+  - id: Reconstruction Skeptic
+    focus: hull reconstruction, replica status, and display boundaries
+  - id: Cultural Memory Reader
+    focus: museum, replica, digital catalog, and dating afterlife
+  - id: Sibling Boundary Editor
+    focus: route, object, material, and history handoffs
