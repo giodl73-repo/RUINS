@@ -1,0 +1,19 @@
+paper: panel-uluburun-shipwreck-context-loss
+module: ruins
+status: working-draft
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: wreck site, cargo, hull traces, excavation custody, conservation, and source posture
+  - id: R2
+    name: Absence Historian
+    focus: operating context loss, route uncertainty, recovery history, and display afterlife
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: cargo-as-route, cargo-as-owner, destination closure, and trade-network overclaims
+  - id: R4
+    name: Cultural Memory Reader
+    focus: treasure, oldest/richest shipwreck framing, Bronze Age globalization, and underwater archaeology memory
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: PORTO route geography, CANON object identity, FONTES source custody, CERES materials, and MAXIM/LUCIA history

@@ -22,3 +22,4 @@ role reviews, and synthesis.
 | [`panel-great-zimbabwe-colonial-denial`](panel-great-zimbabwe-colonial-denial/) | Monumental Sites and Contested Interpretation | publication-ready |
 | [`panel-cahokia-without-collapse-theater`](panel-cahokia-without-collapse-theater/) | Lost Techniques and Broken Transmission | publication-ready |
 | [`panel-roman-concrete-partial-survival`](panel-roman-concrete-partial-survival/) | Lost Techniques and Broken Transmission | publication-ready |
+| [`panel-uluburun-shipwreck-context-loss`](panel-uluburun-shipwreck-context-loss/) | Shipwrecks and Context Loss | working draft |
