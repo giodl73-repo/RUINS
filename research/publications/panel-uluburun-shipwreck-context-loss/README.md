@@ -11,6 +11,7 @@ Paper `panel-uluburun-shipwreck-context-loss` in the [RUINS](../../) module.
 - [**page-anchor-audit.md** - public-source line anchors](page-anchor-audit.md)
 - [**publication-custody-audit.md** - Pulak/Bass scholarly custody](publication-custody-audit.md)
 - [**museum-custody-audit.md** - Bodrum display and afterlife custody](museum-custody-audit.md)
+- [**overview-campaign-audit.md** - Pulak 1998 and campaign-report custody boundary](overview-campaign-audit.md)
 - [**context-loss-gate.md** - shipwreck context-loss boundary](context-loss-gate.md)
 - [**chronology.md** - discovery, excavation, conservation, and afterlife layers](chronology.md)
 - [**claim-audit.md** - cargo, route, context, and reconstruction claim checks](claim-audit.md)

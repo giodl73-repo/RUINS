@@ -1,7 +1,7 @@
 # Context-Loss Gate: Uluburun Shipwreck
 
 **Owner:** ASHLAR / PALIMPSEST / ERRATA
-**Status:** candidate capability gate
+**Status:** activation-ready capability gate
 **Date:** 2026-07-05
 
 This gate tests `ruins-capability:shipwreck-context-loss`. It separates what a
@@ -15,7 +15,7 @@ destination, ownership, cargo-function, and operating-system custody.
 | Wreck as Late Bronze Age underwater excavation case | Allowed, source-scoped to INA / NEH. |
 | Broad cargo classes | Allowed as public summary categories. |
 | Cargo diversity as evidence of exchange-network questions | Allowed as cautious method claim. |
-| Exact cargo counts or object identities | Refuse until publication/catalogue custody is added. |
+| Exact cargo counts or object identities | Refuse unless the relevant publication/catalogue custody is added. |
 | Route map, origin, or destination | Refuse for current draft. |
 | Owner, captain, crew identity, passengers, or political sponsor | Refuse for current draft. |
 | Royal gift, merchant cargo, tribute, or diplomatic shipment closure | Refuse unless source-specific and qualified. |
@@ -37,7 +37,7 @@ Before RUINS adds stronger shipwreck-context claims, it must record:
 
 ## Decision
 
-This gate activates the shipwreck context-loss test surface, but it does not yet
-promote the capability. The paper remains a working draft until direct
-campaign-report and Pulak 1998 overview custody close route, cargo, and context
-P2s.
+This gate has enough source custody for the current draft and is ready for a
+role-panel activation decision. Exact campaign, object, route, destination,
+owner, crew, hull, and stowage claims remain locked behind future direct
+publication or catalogue custody.

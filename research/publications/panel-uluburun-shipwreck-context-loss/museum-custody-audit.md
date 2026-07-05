@@ -35,9 +35,9 @@ before display-specific claims."
 
 ## Remaining Source Locks
 
-- Direct campaign-report page audit is still required before campaign-specific
-  finds, grid, object-number, hull, or stowage claims.
-- Direct Pulak 1998 page audit is still required before exact overview claims.
+- Direct campaign-report page audit is required before future
+  campaign-specific finds, grid, object-number, hull, or stowage claims.
+- Direct Pulak 1998 page audit is required before future exact overview claims.
 
 ## References
 

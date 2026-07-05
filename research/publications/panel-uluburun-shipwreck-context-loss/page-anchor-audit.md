@@ -27,8 +27,8 @@ claims."
 
 ## Remaining Source Locks
 
-- Direct Pulak/Bass page custody is still required before detailed cargo,
-  hull, route, destination, or stowage claims.
+- Future detailed cargo, hull, route, destination, or stowage claims still
+  require the relevant publication, catalogue, or specialist-study custody.
 - Scientific studies remain source targets only until sample/method custody is
   locked.
 

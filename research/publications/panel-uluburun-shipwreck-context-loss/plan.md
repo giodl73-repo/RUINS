@@ -32,10 +32,7 @@ public treasure/globalization memory.
 
 ## Next Work
 
-1. PALIMPSEST adds direct page custody for Pulak 1998 and core Pulak/Bass
-   campaign publications.
-2. ERRATA tests the new context-loss gate against route, cargo, and network
+1. ERRATA tests the new context-loss gate against route, cargo, and network
    overclaims.
-3. ASHLAR reruns review for candidate-to-active promotion of
-   `ruins-capability:shipwreck-context-loss` only after direct publication and
-   campaign and overview custody findings close current P2s.
+2. ASHLAR reruns review for candidate-to-active promotion of
+   `ruins-capability:shipwreck-context-loss`.
