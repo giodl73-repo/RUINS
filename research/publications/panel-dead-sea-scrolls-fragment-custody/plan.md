@@ -2,7 +2,7 @@
 
 **Module:** RUINS
 **Track:** Evidence and Absence
-**Status:** stable working paper
+**Status:** publication-ready
 **Position in chain:** next-tranche textual-fragment case after Indus and House of Wisdom
 
 ## Research Question
@@ -31,7 +31,9 @@ translation to public memory and refuse any claim that skips rungs.
 
 ## Next Work
 
-1. PALIMPSEST builds a source lock for official digital-library, edition, and
-   authenticity-report sources.
-2. ERRATA defines a fragment-custody ladder with claim permissions.
-3. ASHLAR reruns role review after the first source lock.
+1. PALIMPSEST obtains lawful DJD page access before any exact reading,
+   transcription, translation, join, lacuna, or textual-variant claim.
+2. ERRATA keeps the publication-ready paper inside the custody-ladder scope:
+   fragment, image, metadata, authenticity-set, and cultural-memory boundaries.
+3. ASHLAR reruns review only if future drafts add exact textual or edition-page
+   claims.

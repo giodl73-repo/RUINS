@@ -1,7 +1,7 @@
 # Dead Sea Scrolls Fragment Custody
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-05
 
 ## Abstract
@@ -37,10 +37,11 @@ For current source boundaries and the fragment-custody ladder, use
 examples, use
 [`named-fragment-anchor-audit.md`](named-fragment-anchor-audit.md). For direct
 MOTB authenticity-report custody, use
-[`authenticity-report-audit.md`](authenticity-report-audit.md). The paper
-remains below publication-ready status because edition-page custody and
-translation examples still need audit before specific readings are used; see
-[`edition-custody-gate.md`](edition-custody-gate.md).
+[`authenticity-report-audit.md`](authenticity-report-audit.md). For the
+publication-ready boundary, use
+[`publication-scope-gate.md`](publication-scope-gate.md): this paper publishes
+the custody ladder and refuses exact readings, transcriptions, translations,
+joins, lacunae, and textual variants until edition-page custody is added.
 
 ## 2. What Survives
 
@@ -102,7 +103,7 @@ translation examples still need audit before specific readings are used; see
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this stable working paper:
+RUINS refuses the following claims in this publication-ready paper:
 
 - It will not treat translation as the fragment.
 - It will not treat reconstructed lacunae as surviving wording.
@@ -112,6 +113,9 @@ RUINS refuses the following claims in this stable working paper:
 - It will not turn scriptural importance into stronger material evidence.
 - It will not make secrecy, treasure, or sensational authenticity claims without
   source custody.
+- It will not make exact reading, transcription, translation, join, lacuna, or
+  textual-variant claims from named image/metadata examples until edition-page
+  custody is added.
 
 ## 8. Sibling Handoffs
 

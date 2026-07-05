@@ -4,11 +4,11 @@
 **Status:** current-scope page audit
 **Date:** 2026-07-05
 
-This audit locks page and line anchors for the current stable-working-paper
-claims. It supports general corpus, imaging, classification, language/script,
-publication-history, and modern-market authenticity-boundary claims. It does
-not close edition-page custody for exact readings, joins, lacunae, translations,
-or named fragments.
+This audit locks page and line anchors for the current publication-ready
+custody-ladder claims. It supports general corpus, imaging, classification,
+language/script, publication-history, and modern-market authenticity-boundary
+claims. It does not close edition-page custody for exact readings, joins,
+lacunae, translations, or named fragments.
 
 ## Anchored Claims
 
@@ -29,11 +29,10 @@ or named fragments.
 
 ## Current Decision
 
-The paper can stand at the top of stable-working-paper range for its current
-claim surface. It has page anchors for the public official claims that support
-the fragment-custody ladder and the main refusals. It should not be
-publication-ready until direct edition-page custody is added for exact textual
-claims.
+The paper can stand as publication-ready for its current custody-ladder scope.
+It has page anchors for the public official claims that support the
+fragment/image/metadata/authenticity boundaries and the main refusals. Direct
+edition-page custody remains required before future exact textual claims.
 
 ## References
 

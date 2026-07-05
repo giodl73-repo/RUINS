@@ -28,6 +28,8 @@ Edition custody remains gated in
 [`edition-custody-gate.md`](edition-custody-gate.md).
 Edition acquisition targets are listed in
 [`edition-acquisition-packet.md`](edition-acquisition-packet.md).
+The current publication-ready boundary is locked in
+[`publication-scope-gate.md`](publication-scope-gate.md).
 
 ## Source Targets
 
@@ -44,13 +46,20 @@ Edition acquisition targets are listed in
 
 | Surface | Status |
 |---|---|
-| Official IAA public overview anchors | Complete for current stable-working-paper claims. |
+| Official IAA public overview anchors | Complete for current publication-ready claims. |
 | Official digital-library project anchors | Complete for current image/metadata/process claims. |
 | Classification and language/script caution anchors | Complete for current public-boundary claims. |
 | Publication-history anchors | Complete for current public-history claims. |
 | Specific fragment image/metadata anchors | Complete for current 11Q5 / 11Q Psalms, 4Q7 / 4Q Genesis, and multi-manuscript boundary examples. |
-| Direct edition-page / transcription / translation anchors | Open gate; targets identified, page custody not complete. |
+| Direct edition-page / transcription / translation anchors | Future exact-text gate; targets identified, page custody not complete. |
 | Direct authenticity-report anchors | Complete for MOTB 16-fragment set only. |
+
+## Current Publication Boundary
+
+The current paper is publication-ready because it publishes the custody ladder,
+not exact text. It refuses exact readings, transcriptions, translations, joins,
+lacunae, textual variants, whole-corpus forgery claims, and identifier certainty
+that outruns the named source surface.
 
 ## Source Questions
 

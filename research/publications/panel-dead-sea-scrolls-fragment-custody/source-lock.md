@@ -1,13 +1,18 @@
 # Source Lock: Dead Sea Scrolls Fragment Custody
 
 **Owner:** PALIMPSEST
-**Status:** first source lock
+**Status:** publication-ready source lock
 **Date:** 2026-07-05
 
 This source lock defines what RUINS may say about Dead Sea Scrolls fragment
 custody in this paper. It separates physical fragments, digital images,
 metadata, editions, translations, reconstructions, discovery/publication
 history, and modern-market authenticity reports.
+
+Use [`publication-scope-gate.md`](publication-scope-gate.md) for the current
+publication-ready boundary and [`edition-custody-gate.md`](edition-custody-gate.md)
+for future exact reading, transcription, translation, join, lacuna, or
+textual-variant claims.
 
 ## Locked Sources
 
@@ -48,6 +53,7 @@ history, and modern-market authenticity reports.
 | Publication history | Initial publication was delayed/monopolized, then expanded under IAA/Emanuel Tov with most official editions published by 2001 in IAA framing. | S4 | Public-history source |
 | Authenticity boundary | MOTB authenticity findings apply to a specific collection/set of 16 fragments and must not be generalized to the whole corpus. | S7 / S8 | Fragment-set-specific |
 | MOTB report conclusion | The MOTB final report concluded that none of the museum's textual DSS fragments were authentic and that each showed deliberate-forgery characteristics. | S8 | Direct report custody, MOTB set only |
+| Exact textual claims | The current paper publishes no exact readings, transcriptions, translations, joins, lacuna completions, or textual variants from named image/metadata examples. | Publication-scope gate / edition-custody gate | Current-scope refusal |
 
 ## Paper Use Rules
 

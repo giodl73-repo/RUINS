@@ -37,12 +37,12 @@ manuscript label, and fragment relation.
 
 ## Current Decision
 
-The named-fragment image/metadata blocker is closed for current stable claims.
-RUINS may now use the 11Q5 / 11Q Psalms and 4Q7 / 4Q Genesis records as
-examples of mediated image custody and public metadata structure, and may use
-B-298939 as a boundary example for multi-manuscript image metadata. The paper
-remains capped at stable working paper because exact readings, edition pages,
-and translation examples remain unaudited.
+The named-fragment image/metadata blocker is closed for current
+publication-ready custody-ladder claims. RUINS may use the 11Q5 / 11Q Psalms
+and 4Q7 / 4Q Genesis records as examples of mediated image custody and public
+metadata structure, and may use B-298939 as a boundary example for
+multi-manuscript image metadata. Exact readings, edition pages, joins, lacunae,
+and translation examples remain outside current scope.
 
 ## References
 

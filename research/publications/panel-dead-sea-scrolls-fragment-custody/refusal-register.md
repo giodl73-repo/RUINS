@@ -11,8 +11,10 @@
 | One forgery finding invalidates the whole corpus. | Authenticity findings are fragment-set specific. | Bound the finding to the tested fragment or collection. |
 | Secrecy narratives prove hidden doctrine. | Publication/access history is not automatically conspiracy evidence. | Treat secrecy as cultural memory unless source-locked. |
 | Scriptural importance raises evidence grade. | Religious value and material evidence are different layers. | Keep interpretation and evidence condition separate. |
+| Publication-ready status permits exact readings, transcriptions, translations, joins, lacunae, or textual variants. | Publication-ready status is scoped to the custody ladder, not edition-level textual claims. | Add lawful edition-page custody before exact textual claims. |
 
 ## Escalation Rule
 
-Any sentence that moves from image, edition, translation, or reconstruction into
-direct ancient wording must be downgraded unless source-locking supports it.
+Any sentence that moves from image, metadata, edition target, translation, or
+reconstruction into direct ancient wording must be downgraded unless
+edition-page source-locking supports it.

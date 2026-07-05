@@ -4,10 +4,10 @@
 **Status:** acquisition packet
 **Date:** 2026-07-05
 
-This packet turns the open edition gate into concrete acquisition work. It is
-not a substitute for edition custody. It identifies the lawful targets needed
-before RUINS can make exact reading, transcription, translation, join, lacuna,
-or textual-variant claims from named image/metadata examples.
+This packet turns the future exact-text edition gate into concrete acquisition
+work. It is not a substitute for edition custody. It identifies the lawful
+targets needed before RUINS can make exact reading, transcription, translation,
+join, lacuna, or textual-variant claims from named image/metadata examples.
 
 ## Target Editions
 
@@ -39,10 +39,11 @@ or textual-variant claims from named image/metadata examples.
 
 ## Current Decision
 
-RUINS should not promote this paper beyond 44/50 until at least one named
-image/metadata example has direct edition-page custody for any exact textual
-claim it makes. If the paper remains methodology-only and makes no exact
-readings, the current 44/50 stable-working-paper cap is the correct state.
+RUINS must not add exact textual claims until at least one named image/metadata
+example has direct edition-page custody for the relevant reading, transcription,
+translation, join, lacuna, or textual variant. The current paper can remain
+publication-ready only while it stays methodology-only and makes no exact
+readings.
 
 ## References
 

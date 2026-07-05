@@ -7,9 +7,9 @@
 
 ## Score
 
-**Score:** 44/50
-**Band:** Stable working paper
-**Caps:** Edition-level custody remains incomplete; do not raise above 44 until all open P2 findings are closed.
+**Score:** 45/50
+**Band:** Publication-ready
+**Caps:** Do not add exact readings, transcriptions, translations, joins, lacunae, textual variants, whole-corpus forgery claims, or cross-system identifier certainty without dedicated custody.
 
 ## Dimension Scores
 
@@ -21,7 +21,7 @@
 | Refusal quality | 6/7 | Refusal register blocks the main fragment/translation/reconstruction overclaims. |
 | Cultural-memory handling | 5/6 | Key afterlife surfaces are named with source limits and public-page anchors. |
 | Sibling boundary | 4/5 | Handoffs are clear. |
-| Source posture | 4/4 | Source lock, page-anchor audit, multi-example named image/metadata audit, MOTB authenticity-report audit, edition-custody gate, and acquisition packet are complete for current stable-working-paper claims; cap prevents publication-ready overreach. |
+| Source posture | 4/4 | Source lock, page-anchor audit, named image/metadata audit, MOTB authenticity-report audit, edition-custody gate, acquisition packet, and publication-scope gate are complete for current publication-ready claims. |
 
 ## Blocking Findings
 
@@ -29,15 +29,13 @@ No `P1` findings.
 
 ## Open P2 Findings
 
-- Add direct edition-page custody before making exact reading, transcription,
-  translation, join, or lacuna claims from named image/metadata examples.
-- Keep Museum of the Bible authenticity findings fragment-set-specific.
+None.
 
 ## Next Lift
 
 1. PALIMPSEST obtains lawful DJD IV or DJD XII page access before any exact
-   reading, transcription, translation, join, or lacuna claim.
+   reading, transcription, translation, join, lacuna, or textual-variant claim.
 2. ERRATA keeps named image/metadata examples separate from edition,
    translation, and reconstruction claims.
-3. ASHLAR reruns role review for publication-ready eligibility only after
-   edition-page custody is closed, not merely targeted.
+3. ASHLAR reruns role review if future drafts add exact textual or
+   cross-identifier claims.

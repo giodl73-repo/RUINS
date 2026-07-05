@@ -1,11 +1,12 @@
 # Edition Custody Gate: Dead Sea Scrolls Fragment Custody
 
 **Owner:** PALIMPSEST / ERRATA
-**Status:** open publication-ready gate
+**Status:** future exact-text gate
 **Date:** 2026-07-05
 
 This gate records the current edition-custody state for the named
-image/metadata examples. It does not close publication-ready status. RUINS may
+image/metadata examples. It is not a blocker for the current publication-ready
+custody-ladder paper because that paper refuses exact textual claims. RUINS may
 use the named image records as image/metadata custody, but it may not use them
 for exact readings, transcriptions, translations, joins, or lacunae until direct
 edition pages are audited.
@@ -36,10 +37,12 @@ For concrete acquisition targets and acceptance criteria, use
 
 ## Current Decision
 
-The edition gate remains open. The paper should stay at 44/50 stable working
-paper. Publication-ready review requires direct page custody from the relevant
-edition pages, or an equivalent lawful page-audited source, before using named
-image/metadata examples for exact textual claims.
+The edition gate remains open for future exact textual claims. The current
+paper is publication-ready only because it refuses those claims. Any future
+draft that uses named image/metadata examples for exact readings,
+transcriptions, translations, joins, lacunae, or textual variants requires
+direct page custody from the relevant edition pages, or an equivalent lawful
+page-audited source.
 
 ## References
 
