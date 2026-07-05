@@ -33,8 +33,8 @@ museum claims."
 
 - Direct final-report page custody is still required before exact amphora,
   pottery, coin, timber, cargo-distribution, route, crew, or stowage claims.
-- Direct PLOS ONE/sample-table custody is still required before exact dating,
-  PEG-cleaning, calibration-curve, or sample claims.
+- Direct table-level audit is still required before exact sample values,
+  laboratory IDs, or calibration datasets are quoted.
 - Direct replica-study custody is still required before sailing-performance
   claims.
 

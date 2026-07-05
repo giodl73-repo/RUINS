@@ -1,7 +1,7 @@
 # Role Review: Kyrenia Reconstruction Context Loss
 
 **Date:** 2026-07-05
-**Review status:** public/source-summary P2 closed
+**Review status:** public/source-summary and dating-method P2s closed
 **Synthesis owner:** ASHLAR
 
 ## Panel Findings
@@ -22,13 +22,13 @@ None.
 
 - Add direct final-report page custody before exact amphora, pottery, coin,
   timber, cargo-distribution, route, crew, or stowage claims.
-- Add direct PLOS ONE/sample-table custody before exact dating, PEG-cleaning,
-  calibration-curve, or sample claims.
 
 ## Closed P2 Findings
 
 - INA, Casemate/Oxbow, Cornell, and virtual museum claims are line-anchored in
   [`../page-anchor-audit.md`](../page-anchor-audit.md).
+- PLOS ONE dating and sample-method claims are anchored in
+  [`../dating-custody-audit.md`](../dating-custody-audit.md).
 
 ## ASHLAR Decision
 

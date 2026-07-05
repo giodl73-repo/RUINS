@@ -1,7 +1,7 @@
 # Source Lock: Kyrenia Reconstruction Context Loss
 
 **Owner:** PALIMPSEST
-**Status:** public/source-summary anchors locked
+**Status:** public and dating-method anchors locked
 **Date:** 2026-07-05
 
 This source lock permits broad, source-scoped Kyrenia claims. It does not
@@ -10,6 +10,8 @@ owner identity, replica-performance claims, or excavation/campaign detail.
 
 Current public and source-summary claims are line-anchored in
 [`page-anchor-audit.md`](page-anchor-audit.md).
+PLOS ONE dating and sample-method claims are anchored in
+[`dating-custody-audit.md`](dating-custody-audit.md).
 
 ## Locked Sources
 
@@ -19,6 +21,7 @@ Current public and source-summary claims are line-anchored in
 | K2 | Casemate/Oxbow, "The Kyrenia Ship Final Excavation Report, Volume I" | publisher metadata and summary | Publication identity, chapter scope, broad dating/cargo/hull significance summary; line-anchored in page-anchor audit. | Not direct chapter/page custody. |
 | K3 | Cornell Chronicle, "Almonds, pottery and wood help date famed Kyrenia shipwreck" | university research summary | Revised dating, PEG contamination issue, reassembly/study afterlife, and science-summary context; line-anchored in page-anchor audit. | Not a substitute for the PLOS ONE article or sample table. |
 | K4 | Kyrenia Ship virtual museum | public digital catalog surface | Modern catalog/research database afterlife and object-count surface; line-anchored in page-anchor audit. | Not original context or object-level custody. |
+| K5 | Manning et al. 2024, "A revised radiocarbon calibration curve 350-250 BCE impacts high-precision dating of the Kyrenia Ship" | direct scholarly dating source | PEG/sample-method boundary, calibration-curve problem, model/probability date ranges, and dating uncertainty. | Does not authorize route, crew, owner, cargo-use, or final-voyage narrative closure. |
 
 ## Locked Claims
 
@@ -28,6 +31,7 @@ Current public and source-summary claims are line-anchored in
 | The wreck preserves hull/cargo evidence and was conserved/reconstructed. | K1 / K3 | Source-specific |
 | Final report Volume I covers excavation history, amphoras, pottery, coins, and dating evidence. | K2 | Publication-scope claim |
 | Dating work remains a sample/method layer affected by conservation treatment and revised calibration. | K3 | Science-summary claim |
+| PLOS ONE dating work supports qualified model/probability date-range claims and PEG/sample-method boundaries. | K5 | Direct scholarly method claim |
 | The virtual museum/research database is a modern catalog and research surface. | K4 | Afterlife/custody claim |
 
 ## Paper Use Rules
@@ -52,3 +56,7 @@ Current public and source-summary claims are line-anchored in
   https://news.cornell.edu/stories/2024/06/almonds-pottery-and-wood-help-date-famed-kyrenia-shipwreck
 - Kyrenia Ship virtual museum:
   https://www.kyreniaship.com/
+- Manning SW, Lorentzen B, Bridge M, Dee MW, Southon J, Wenger M. "A revised
+  radiocarbon calibration curve 350-250 BCE impacts high-precision dating of
+  the Kyrenia Ship." PLOS ONE:
+  https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302645
