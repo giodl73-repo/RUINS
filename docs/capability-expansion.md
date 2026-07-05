@@ -1,35 +1,49 @@
 # RUINS Capability Expansion
 
-Status: proposal set for rubric-driven expansion  
+Status: active capability registry
 Pattern sources: FAUNA/FLORA capability expansion, CANON consumer-boundary
 capabilities, GENES community-lineage matrix
 
-RUINS should expand through validated partial-survival capabilities while
-keeping source custody, geography, economy, identity, ritual, lineage, and
-general history in sibling repos.
+RUINS expands through partial-survival capabilities that have been exercised in
+reviewed papers. The registry is allowed to move quickly: a capability can
+become active after one publication-ready paper if it introduces a concrete
+gate, register, cap, or sibling-boundary rule that prevents overclaiming.
 
-## Capability Candidates
+RUINS keeps source custody, geography, economy, identity, ritual, lineage, and
+general history in sibling repos. A capability is a RUINS method only when it
+improves evidence grading or refusal discipline inside that boundary.
 
-| Capability id | Title | Pressure | First paper |
-|---|---|---|---|
-| `ruins-capability:non-decipherment-discipline` | Non-decipherment discipline | readable-looking signs without accepted reading | Indus |
-| `ruins-capability:functional-reconstruction-boundary` | Functional reconstruction boundary | working model exceeds surviving artifact | Antikythera |
-| `ruins-capability:famous-loss-compression` | Famous loss compression | multiple losses become one story | Alexandria |
-| `ruins-capability:abandonment-without-collapse` | Abandonment without collapse theater | settlement transformation gets forced into collapse | Cahokia |
-| `ruins-capability:partial-technical-transmission` | Partial technical transmission | technique is partly material, textual, experimental, and continuous | Roman concrete |
-| `ruins-capability:restoration-as-modern-projection` | Restoration as modern projection | restored object becomes public evidence surface | Knossos |
-| `ruins-capability:interpretive-violence` | Interpretive violence | surviving evidence is made illegible by ideology | Great Zimbabwe |
-| `ruins-capability:colonial-denial-register` | Colonial denial register | non-local authorship fantasy persists as public memory | Great Zimbabwe |
-| `ruins-capability:institutional-memory-boundary` | Institutional memory boundary | named institution, broader ecology, and later symbol diverge | House of Wisdom |
-| `ruins-capability:catastrophe-image-audit` | Catastrophe image audit | vivid destruction image outruns source custody | House of Wisdom / Alexandria |
-| `ruins-capability:fragment-custody-ladder` | Fragment custody ladder | direct fragment, copy, report, translation, and edition need different grades | Indus / Dead Sea Scrolls candidate |
-| `ruins-capability:mediated-recovery-custody` | Mediated recovery custody | scans, segmentations, model outputs, preprints, editions, and public milestones can be mistaken for the same evidence layer | Herculaneum papyri |
-| `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | destruction of witness set shapes surviving corpus | Maya codices |
-| `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | tiny surviving witness set is mistaken for the range, scale, or genre map of the lost corpus | Maya codices |
-| `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | replacement, replica, and digital model compete with damaged original | Palmyra |
-| `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | literary memory and site evidence partially overlap | Vinland |
-| `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | recovered cargo/artifact loses operating context | Antikythera / future wreck cases |
-| `ruins-capability:source-lock-escalation` | Source-lock escalation | paper cannot rise above stable until exact claims are locked | Great Zimbabwe / House of Wisdom |
+## Promotion States
+
+| State | Meaning | Required evidence |
+|---|---|---|
+| Candidate | Named pressure surface, not yet exercised enough to steer scoring. | Source map or plan names the pressure. |
+| Active | Used by at least one reviewed publication-ready paper and backed by a gate, register, cap, or repeated refusal pattern. | Scorecard, role review, and artifact link. |
+| Core | Used by two or more papers or added to `QUALITY_RUBRIC.md` as a case-derived check or automatic cap. | Rubric entry or amendment log entry. |
+
+## Active Capability Registry
+
+| Capability id | Title | State | Promotion basis | First paper |
+|---|---|---|---|---|
+| `ruins-capability:non-decipherment-discipline` | Non-decipherment discipline | Core | Rubric evidence-layer and refusal checks; Indus scorecard. | Indus |
+| `ruins-capability:functional-reconstruction-boundary` | Functional reconstruction boundary | Core | Reconstruction-status checks and Antikythera scorecard. | Antikythera |
+| `ruins-capability:famous-loss-compression` | Famous loss compression | Core | Loss event/process separation amendment. | Alexandria |
+| `ruins-capability:abandonment-without-collapse` | Abandonment without collapse theater | Core | Loss/process refinement and collapse-language refusals. | Cahokia |
+| `ruins-capability:partial-technical-transmission` | Partial technical transmission | Active | Roman concrete custody register and recipe/restoration refusal. | Roman concrete |
+| `ruins-capability:restoration-as-modern-projection` | Restoration as modern projection | Core | Modern restoration/reconstruction amendment and Knossos scorecard. | Knossos |
+| `ruins-capability:interpretive-violence` | Interpretive violence | Core | Great Zimbabwe amendment for damaged interpretation as ruin condition. | Great Zimbabwe |
+| `ruins-capability:colonial-denial-register` | Colonial denial register | Active | Great Zimbabwe refusal/cultural-memory handling. | Great Zimbabwe |
+| `ruins-capability:institutional-memory-boundary` | Institutional memory boundary | Core | House of Wisdom amendment and primary-source custody gate. | House of Wisdom |
+| `ruins-capability:catastrophe-image-audit` | Catastrophe image audit | Active | Alexandria/House refusal patterns for vivid loss imagery. | House of Wisdom / Alexandria |
+| `ruins-capability:fragment-custody-ladder` | Fragment custody ladder | Core | Dead Sea Scrolls publication-scope gate and automatic source-lock cap logic. | Indus / Dead Sea Scrolls |
+| `ruins-capability:mediated-recovery-custody` | Mediated recovery custody | Core | Herculaneum amendment; rubric check and automatic cap. | Herculaneum papyri |
+| `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Active | Maya destruction chronology and refusal gates. | Maya codices |
+| `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap. | Maya codices |
+| `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap. | Palmyra |
+| `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap. | Vinland |
+| `ruins-capability:scope-gated-publication` | Scope-gated publication | Active | House and Dead Sea Scrolls promote by refusing exact claims under explicit gates. | House of Wisdom / Dead Sea Scrolls |
+| `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | Candidate | Antikythera pressure identified; needs future wreck-specific paper. | Antikythera / future wreck cases |
+| `ruins-capability:source-lock-escalation` | Source-lock escalation | Core | Automatic caps and repeated scorecard practice. | Great Zimbabwe / House of Wisdom |
 
 ## Repeated Rubric Gaps
 
@@ -68,12 +82,28 @@ general history in sibling repos.
     event ledger, or proof of named actors unless those custody layers are
     separately locked.
 
-## Candidate Matrix
+## Fast Promotion Path
 
-| Candidate case | Capability pressure | Required RUINS artifacts | Boundary notes |
+ASHLAR may promote a candidate directly to active in the same pass that promotes
+a paper to publication-ready when all of these are true:
+
+1. The capability names a specific overclaim pressure.
+2. The paper contains an artifact that controls it: gate, register, source lock,
+   page-anchor audit, refusal register, or sibling-boundary rule.
+3. The role review or scorecard names the boundary.
+4. The capability does not require sibling-repo ownership to do RUINS work.
+5. Future exact-claim work is demoted to `P3` instead of left as an open `P2`
+   only when the current paper explicitly refuses that claim surface.
+
+Fast promotion does not rescore older papers. It updates the capability
+registry and, when scoring behavior changes, the rubric-amendment log.
+
+## Validated Case Matrix
+
+| Case | Capability pressure | Required RUINS artifacts | Boundary notes |
 |---|---|---|---|
-| House of Wisdom | Institutional memory and catastrophe image. | Source lock, claim audit, refusal register, cultural-memory register, page-anchor audit. | MAXIM/LUCIA own Abbasid history; FONTES owns Arabic source custody; CANON owns institution identity. |
-| Dead Sea Scrolls fragments | Fragment custody, reconstruction, translation, authenticity, and edition status. | Fragment-custody ladder, translation boundary, authenticity refusal register. | FONTES owns source editions; CANON owns manuscript/work identity. |
+| House of Wisdom | Institutional memory, catastrophe image, and scope-gated publication. | Source lock, claim audit, refusal register, cultural-memory register, page-anchor audit, primary-source custody gate. | MAXIM/LUCIA own Abbasid history; FONTES owns Arabic source custody; CANON owns institution identity. |
+| Dead Sea Scrolls fragments | Fragment custody, reconstruction, translation, authenticity, edition status, and non-reading publication scope. | Fragment-custody ladder, translation boundary, authenticity refusal register, edition custody gate, publication-scope gate. | FONTES owns source editions; CANON owns manuscript/work identity. |
 | Herculaneum papyri virtual unwrapping | CT, segmentation, model output, transcription, preprint, and prize-page status. | Data-custody gate, model-output custody gate, scholarly-text custody gate, quotation/source audit before exact text. | FONTES owns exact textual editions; MUNDUS/MAXIM own philological or Roman intellectual-history interpretation; ML systems own implementation details. |
 | Maya codices | Deliberate textual destruction and small surviving witness set. | Corpus-survival map, destruction-process chronology, destruction-corpus custody gate, refusal register. | LUCIA/MAXIM own broader Maya history; FONTES owns codex custody. |
 | Palmyra | Damaged heritage and replica/digital reconstruction. | Replica-status register, destruction chronology, memory register, restoration-governance gate. | PORTO owns site geography; CANON owns named features; FONTES owns image/model custody. |
@@ -81,10 +111,13 @@ general history in sibling repos.
 
 ## Promotion Rule
 
-A capability becomes part of RUINS method only after it appears in a reviewed
-paper and produces either:
+A capability becomes active RUINS method after it appears in a reviewed paper
+and produces either:
 
 - a new rubric distinction,
 - a new required register,
 - a repeated refusal pattern, or
 - a sibling-boundary rule that prevents scope drift.
+
+A capability becomes core RUINS method when it is used by two papers or when it
+adds a case-derived check or automatic cap to `QUALITY_RUBRIC.md`.

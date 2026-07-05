@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.5
+**Version:** v1.6
 
 RUINS uses two different review instruments:
 
@@ -52,6 +52,7 @@ capability or exposes a new one:
 | Destroyed corpus custody | If a tiny witness set survives from a larger lost corpus, does the paper prevent surviving examples from standing in for the absent whole? |
 | Replica-status custody | If a replica, facsimile, restoration, or digital model exists, is it prevented from becoming object-equivalent without explicit status and provenance? |
 | Saga-memory crosscheck | If literary memory and archaeological evidence partially overlap, are text, site, route, name, and public identity claims kept in separate grades? |
+| Scope-gated publication | If exact source, text, route, reading, specification, or reconstruction claims remain unaudited, does the paper explicitly refuse those surfaces and keep future work as P3 rather than current scope? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -70,6 +71,7 @@ capability or exposes a new one:
 | Publication infers corpus-wide content, scale, or genre range from a tiny surviving witness set without corpus-custody controls | 34 |
 | Publication treats a replica, facsimile, restoration, or digital model as the damaged original without replica-status custody | 34 |
 | Publication lets a saga, chronicle, legend, or place-name identify a site/route/event without independent evidence custody | 34 |
+| Publication claims scope-gated readiness while still making the exact claim that the gate refuses | 34 |
 
 ## Scoring Procedure
 
@@ -80,9 +82,9 @@ capability or exposes a new one:
    are locked.
 5. Do not raise a paper above `44` until role review confirms there are no open
    `P2` findings.
-6. If review exposes a repeated gap, record it in
-   `docs/capability-expansion.md` or `docs/rubric-amendments.md` before relying
-   on it as a future scoring rule.
+6. If review exposes a repeated gap or a new one-paper capability with a
+   concrete control artifact, record it in `docs/capability-expansion.md` or
+   `docs/rubric-amendments.md` before relying on it as a future scoring rule.
 
 ## Review Output Template
 

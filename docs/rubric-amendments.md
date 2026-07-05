@@ -34,8 +34,8 @@ cannot be scored honestly without a new distinction.
 
 | Trigger | Required artifact |
 |---|---|
-| Repeated scoring gap | Add a row to `docs/capability-expansion.md` and update `QUALITY_RUBRIC.md` if scoring changes. |
-| New ruin condition | Add a capability candidate and identify which paper exposed it. |
+| Repeated scoring gap | Add or promote a row in `docs/capability-expansion.md` and update `QUALITY_RUBRIC.md` if scoring changes. |
+| New ruin condition | Add a capability candidate or fast-promote it to active if a publication-ready paper already contains the controlling artifact. |
 | Scope drift | Add or update a sibling-boundary register before expanding the paper. |
 | Source-custody gap | Add source-lock or page-anchor requirements before raising the score. |
 | Register gap | Add a new register only if it removes repeated ambiguity across papers. |
@@ -68,6 +68,8 @@ Follow-up:
 | 2026-07-05 | Extension | Maya codices destroyed corpus | Add destroyed corpus custody: a tiny surviving witness set cannot define the range, scale, genre map, or destroyed inventory of the absent corpus without separate controls. |
 | 2026-07-05 | Extension | Palmyra replica reconstruction | Add replica-status custody: replicas, facsimiles, restorations, and digital models need provenance, scale, material, method, and authority boundaries before they can support reconstruction claims. |
 | 2026-07-05 | Extension | Vinland saga site crosscheck | Add saga-memory crosscheck: literary tradition, archaeological site evidence, routes, names, events, and public identity claims must stay separately graded. |
+| 2026-07-05 | Refinement | House of Wisdom and Dead Sea Scrolls fragment custody | Add scope-gated publication: a paper can become publication-ready when exact-claim surfaces are explicitly refused and demoted to P3 future gates rather than left as current P2 blockers. |
+| 2026-07-05 | Refinement | Capability expansion process | Replace proposal-only capability tracking with candidate, active, and core states plus fast promotion for reviewed publication-ready papers. |
 
 ## Re-Scoring Rule
 
