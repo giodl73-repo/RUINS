@@ -1,0 +1,19 @@
+paper: panel-dead-sea-scrolls-fragment-custody
+module: ruins
+status: promising-draft
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: physical fragments, cave provenance, editions, photographs, conservation state, and authenticity custody
+  - id: R2
+    name: Absence Historian
+    focus: discovery, dispersal, publication history, fragment loss, reconstruction, and modern forgery disputes
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: fragment joins, reconstructed lacunae, translation certainty, sectarian attribution, and sensational claims
+  - id: R4
+    name: Cultural Memory Reader
+    focus: scripture, secrecy, conspiracy, museum display, national heritage, and public authenticity drama
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: FONTES/MUNDUS source custody, CANON manuscript identity, RITE scripture/ritual status, MAXIM/LUCIA history
