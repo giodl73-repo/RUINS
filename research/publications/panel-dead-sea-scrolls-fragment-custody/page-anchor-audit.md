@@ -32,8 +32,8 @@ or named fragments.
 The paper can stand at the top of stable-working-paper range for its current
 claim surface. It has page anchors for the public official claims that support
 the fragment-custody ladder and the main refusals. It should not be
-publication-ready until direct edition-page custody, broader named-fragment
-image/metadata coverage, and direct authenticity-report custody are added.
+publication-ready until direct edition-page custody is added for exact textual
+claims.
 
 ## References
 

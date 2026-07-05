@@ -44,7 +44,7 @@ MOTB authenticity-report custody is audited in
 | Official digital-library project anchors | Complete for current image/metadata/process claims. |
 | Classification and language/script caution anchors | Complete for current public-boundary claims. |
 | Publication-history anchors | Complete for current public-history claims. |
-| Specific fragment image/metadata anchors | Complete for first 11Q5 / 11Q Psalms example only. |
+| Specific fragment image/metadata anchors | Complete for current 11Q5 / 11Q Psalms, 4Q7 / 4Q Genesis, and multi-manuscript boundary examples. |
 | Direct edition-page / transcription / translation anchors | Not yet complete. |
 | Direct authenticity-report anchors | Complete for MOTB 16-fragment set only. |
 

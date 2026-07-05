@@ -33,8 +33,8 @@ This case asks:
 
 For current source boundaries and the fragment-custody ladder, use
 [`source-lock.md`](source-lock.md). For current public-page anchors, use
-[`page-anchor-audit.md`](page-anchor-audit.md). For a first named
-image/metadata example, use
+[`page-anchor-audit.md`](page-anchor-audit.md). For named image/metadata
+examples, use
 [`named-fragment-anchor-audit.md`](named-fragment-anchor-audit.md). For direct
 MOTB authenticity-report custody, use
 [`authenticity-report-audit.md`](authenticity-report-audit.md). The paper
@@ -70,7 +70,7 @@ translation examples still need audit before specific readings are used.
 |---|---|---|
 | Dead Sea Scrolls fragments survive materially. | Observed / source-specific | Direct fragments exist, but exact fragment claims need source custody. |
 | A photograph or digital image preserves a useful witness. | Source-specific | Image custody is mediated and must name source/plate. |
-| 11Q5 / 11Q Psalms image records can illustrate image custody. | Source-specific | Named IAA/Leon Levy records anchor image id, plate, image type, side, manuscript label, and fragment relation only. |
+| 11Q5 / 11Q Psalms and 4Q7 / 4Q Genesis image records can illustrate image custody. | Source-specific | Named IAA/Leon Levy records anchor image id, plate, image type, side, manuscript label, and fragment relation only. |
 | A transcription or edition equals the fragment. | Refuse | Edition is scholarly mediation. |
 | A translation equals surviving wording. | Refuse | Translation is interpretation. |
 | A reconstructed lacuna is ancient text. | Refuse | Reconstruction is not survival unless marked and constrained. |
