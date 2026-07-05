@@ -32,10 +32,10 @@ public treasure/globalization memory.
 
 ## Next Work
 
-1. PALIMPSEST adds page-anchor audits for INA, NEH, and core Pulak/Bass
+1. PALIMPSEST adds direct publication custody for core Pulak/Bass
    publications.
 2. ERRATA tests the new context-loss gate against route, cargo, and network
    overclaims.
 3. ASHLAR reruns review for candidate-to-active promotion of
-   `ruins-capability:shipwreck-context-loss` only after page anchors and role
-   findings close current P2s.
+   `ruins-capability:shipwreck-context-loss` only after direct publication and
+   museum custody findings close current P2s.

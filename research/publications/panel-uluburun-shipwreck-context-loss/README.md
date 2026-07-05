@@ -8,6 +8,7 @@ Paper `panel-uluburun-shipwreck-context-loss` in the [RUINS](../../) module.
 - [**plan.md** - paper plan](plan.md)
 - [**source-map.md** - source and trace work surface](source-map.md)
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
+- [**page-anchor-audit.md** - public-source line anchors](page-anchor-audit.md)
 - [**context-loss-gate.md** - shipwreck context-loss boundary](context-loss-gate.md)
 - [**chronology.md** - discovery, excavation, conservation, and afterlife layers](chronology.md)
 - [**claim-audit.md** - cargo, route, context, and reconstruction claim checks](claim-audit.md)

@@ -38,5 +38,6 @@ Before RUINS adds stronger shipwreck-context claims, it must record:
 ## Decision
 
 This gate activates the shipwreck context-loss test surface, but it does not yet
-promote the capability. The paper remains a working draft until page-anchor
-audit and role review close route, cargo, and context P2s.
+promote the capability. The paper remains a working draft until direct
+publication custody, museum custody, and role review close route, cargo, and
+context P2s.

@@ -1,7 +1,7 @@
 # Source Lock: Uluburun Shipwreck Context Loss
 
 **Owner:** PALIMPSEST
-**Status:** first source lock
+**Status:** public anchors locked
 **Date:** 2026-07-05
 
 This source lock defines what RUINS may say in the first Uluburun working
@@ -9,12 +9,15 @@ draft. It permits high-level source-scoped claims from official/public project
 summaries. It does not authorize detailed object counts, route maps, destination
 claims, ownership claims, or sample-specific scientific conclusions.
 
+Public INA and NEH claims are line-anchored in
+[`page-anchor-audit.md`](page-anchor-audit.md).
+
 ## Locked Sources
 
 | ID | Source | Type | Locked use | Limits |
 |---|---|---|---|---|
-| S1 | Institute of Nautical Archaeology, "Uluburun Late Bronze Age Shipwreck Excavation" | official project page | Public project custody for excavation years, location region, Late Bronze Age date framing, broad cargo classes, anchors/hull traces, and bibliography. | Not a detailed object catalogue or page-audited scholarly report. |
-| S2 | National Endowment for the Humanities, "Underwater Archaeology" | public institutional summary | Public context for INA development, Uluburun significance, broad cargo classes, funding, and Bodrum Museum partnership. | Public summary, not excavation or object-level custody. |
+| S1 | Institute of Nautical Archaeology, "Uluburun Late Bronze Age Shipwreck Excavation" | official project page | Public project custody for excavation years, location region, Late Bronze Age date framing, broad cargo classes, anchors/hull traces, and bibliography; line-anchored in page-anchor audit. | Not a detailed object catalogue or scholarly report. |
+| S2 | National Endowment for the Humanities, "Underwater Archaeology" | public institutional summary | Public context for INA development, Uluburun significance, broad cargo classes, funding, and Bodrum Museum partnership; line-anchored in page-anchor audit. | Public summary, not excavation or object-level custody. |
 | S3 | Pulak 1998, "The Uluburun Shipwreck: An Overview" | scholarly overview target | Core target for future detailed cargo, hull, route, and interpretation claims. | Bibliographic target only until direct page audit. |
 | S4 | Bass / Pulak campaign reports | excavation-report targets | Future campaign-level excavation custody. | Not used for exact claims in this draft. |
 | S5 | Bodrum Museum of Underwater Archaeology | museum-custody target | Future display/conservation custody. | Direct museum-page audit needed before display-specific claims. |
