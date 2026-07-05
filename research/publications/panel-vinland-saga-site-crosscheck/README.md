@@ -9,6 +9,7 @@ Paper `panel-vinland-saga-site-crosscheck` in the [RUINS](../../) module.
 - [**source-map.md** - source and trace work surface](source-map.md)
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
 - [**saga-site-crosscheck.md** - saga/site/name/route boundary gate](saga-site-crosscheck.md)
+- [**route-name-quotation-gate.md** - current scope refusals for routes, names, and exact saga text](route-name-quotation-gate.md)
 - [**chronology.md** - saga, site, excavation, and dating layers](chronology.md)
 - [**claim-audit.md** - site, saga, route, and identity claim checks](claim-audit.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)

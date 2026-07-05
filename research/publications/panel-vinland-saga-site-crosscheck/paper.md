@@ -1,7 +1,7 @@
 # Vinland Saga Site Crosscheck
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-05
 
 ## Abstract
@@ -24,9 +24,10 @@ voyage memory but cannot automatically identify the site, route, actors, or
 event sequence.
 
 For current locked source boundaries, use [`source-lock.md`](source-lock.md) and
-[`saga-site-crosscheck.md`](saga-site-crosscheck.md). The paper remains below
-publication-ready status because direct saga-edition custody and exact
-translation/quotation boundaries are not closed.
+[`saga-site-crosscheck.md`](saga-site-crosscheck.md). The
+[`route-name-quotation-gate.md`](route-name-quotation-gate.md) keeps the paper
+publication-ready by refusing exact saga quotations, translations, route maps,
+place-name identity claims, and named actor identifications.
 
 ## 2. What Survives
 

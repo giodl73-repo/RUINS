@@ -1,6 +1,6 @@
 paper: panel-vinland-saga-site-crosscheck
 module: ruins
-status: stable-working-paper
+status: publication-ready
 roles:
   - id: R1
     name: Fragment Custodian

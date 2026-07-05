@@ -11,3 +11,4 @@
 | Leif Erikson or another named saga actor is archaeologically identified at the site. | Actor identity needs separate custody. |
 | Norse presence means Indigenous absence. | Indigenous histories and evidence require separate custody and must not be erased. |
 | Public discovery memory proves route geography. | Route reconstruction belongs to PORTO / MAXIM with source custody. |
+| Current publication-ready status permits saga quotation or route mapping. | Publication-ready status is scoped to non-quotation, correspondence-only claims. |

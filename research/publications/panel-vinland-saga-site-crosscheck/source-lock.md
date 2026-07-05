@@ -6,6 +6,8 @@
 
 This source lock separates site evidence, scientific dating, saga memory,
 place-name identity, route reconstruction, and public discovery memory.
+Use [`route-name-quotation-gate.md`](route-name-quotation-gate.md) for exact
+saga, route, name, and actor refusals.
 
 ## Locked Sources
 
@@ -27,6 +29,7 @@ place-name identity, route reconstruction, and public discovery memory.
 | Saga relation | The site/remnants may be described as corresponding with Vinland saga traditions. | S1 / S4 | Correspondence only |
 | Saga identity | L'Anse aux Meadows may not be identified as all of Vinland without separate source custody. | S1 / S4 / RUINS inference | Refuse / qualify |
 | Route claims | The site does not by itself map all Norse routes or later public discovery claims. | S4 / RUINS inference | Refuse |
+| Exact saga claims | The current paper publishes no saga quotations, translations, named actor identifications, route maps, or place-name identity claims. | Route-name gate | Current-scope refusal |
 
 ## Paper Use Rules
 

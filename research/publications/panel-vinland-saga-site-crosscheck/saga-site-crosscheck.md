@@ -1,7 +1,7 @@
 # Saga Site Crosscheck: Vinland Saga Site Crosscheck
 
 **Owner:** PALIMPSEST / ERRATA
-**Status:** open publication-ready gate
+**Status:** current-scope gate closed
 **Date:** 2026-07-05
 
 This gate prevents literary memory from becoming site identification by default.
@@ -18,8 +18,8 @@ This gate prevents literary memory from becoming site identification by default.
 | Named saga actors at the site | Refuse without separate custody. |
 | Route reconstruction from saga to site | Refuse; hand off to PORTO / MAXIM. |
 
-## Publication-Ready Need
+## Current Decision
 
-Before publication-ready status, either add direct saga-edition custody and a
-quotation/translation gate, or keep the paper explicitly non-quotation and
-correspondence-only.
+The paper is publication-ready because it is explicitly non-quotation and
+correspondence-only. Exact saga, route, name, and actor claims are refused
+through [`route-name-quotation-gate.md`](route-name-quotation-gate.md).

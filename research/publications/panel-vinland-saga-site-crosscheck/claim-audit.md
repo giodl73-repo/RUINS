@@ -11,6 +11,7 @@
 | Norse activity at the site can be source-scoped to AD 1021. | Scientific custody | Does not date all saga events. |
 | The site corresponds with Vinland saga traditions. | Correspondence | Not site identity. |
 | Parks Canada/UNESCO public framing treats the site as first known European presence in North America. | Public/institutional custody | Do not erase Indigenous histories. |
+| The current paper publishes no exact saga, route, place-name identity, or named actor claims. | Current-scope refusal | Future exact claims require route/name/quotation custody. |
 
 ## Refused Replacements
 

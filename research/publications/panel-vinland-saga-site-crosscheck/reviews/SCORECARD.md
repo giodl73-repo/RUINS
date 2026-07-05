@@ -7,9 +7,9 @@
 
 ## Score
 
-**Score:** 40/50
-**Band:** Stable working paper
-**Caps:** Direct saga-edition custody and route/name refusal gates remain incomplete; do not raise above 44 until open P2 findings are closed.
+**Score:** 45/50
+**Band:** Publication-ready
+**Caps:** Do not add exact saga quotation, translation, route reconstruction, place-name identity, event, or named actor claims without dedicated custody.
 
 ## Dimension Scores
 
@@ -17,11 +17,11 @@
 |---|---:|---|
 | Evidence condition | 8/10 | Separates site, artifacts, dating, saga memory, route, name, and public interpretation. |
 | Loss/process clarity | 7/8 | Norse activity, saga transmission, excavation, dating, and public memory are distinct. |
-| Claim-grade discipline | 8/10 | Saga-site gate blocks the main overclaims. |
-| Refusal quality | 6/7 | Refusals are concrete, including Indigenous-erasure refusal. |
+| Claim-grade discipline | 9/10 | Saga-site and route/name/quotation gates block the main site, text, route, name, date, actor, and memory overclaims. |
+| Refusal quality | 7/7 | Refusals are concrete, including Indigenous-erasure and route/name/quotation refusals. |
 | Cultural-memory handling | 5/6 | First-European and Viking discovery frames are classified. |
 | Sibling boundary | 4/5 | Handoffs are clear. |
-| Source posture | 2/4 | Source lock exists; direct saga custody and route/name gate remain future work. |
+| Source posture | 4/4 | Source lock, saga-site gate, and route/name/quotation gate exist for current publication-ready claims. |
 
 ## Blocking Findings
 
@@ -29,12 +29,10 @@ No `P1` findings.
 
 ## Open P2 Findings
 
-- Add direct saga-edition and translation custody before exact saga use.
-- Add route/name refusal gate or source audit before publication-ready status.
+None.
 
 ## Next Lift
 
-1. ERRATA adds a non-quotation saga/route/name refusal gate for current scope,
-   or PALIMPSEST adds direct saga-edition custody.
-2. ASHLAR reruns review after exact saga and route claims are either refused or
-   source-locked.
+1. Add direct saga-edition and translation custody before any exact saga use.
+2. Add route/name source custody before any route map, place-name identity,
+   event ledger, or named actor claim.
