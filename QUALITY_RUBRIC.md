@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.4
+**Version:** v1.5
 
 RUINS uses two different review instruments:
 
@@ -51,6 +51,7 @@ capability or exposes a new one:
 | Mediated recovery custody | If evidence passes through scans, models, transcriptions, editions, or public announcements, are those custody layers gated separately before publication claims? |
 | Destroyed corpus custody | If a tiny witness set survives from a larger lost corpus, does the paper prevent surviving examples from standing in for the absent whole? |
 | Replica-status custody | If a replica, facsimile, restoration, or digital model exists, is it prevented from becoming object-equivalent without explicit status and provenance? |
+| Saga-memory crosscheck | If literary memory and archaeological evidence partially overlap, are text, site, route, name, and public identity claims kept in separate grades? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -68,6 +69,7 @@ capability or exposes a new one:
 | Publication treats a scan, model output, preprint, prize page, or public announcement as final scholarly text/status without a custody gate | 34 |
 | Publication infers corpus-wide content, scale, or genre range from a tiny surviving witness set without corpus-custody controls | 34 |
 | Publication treats a replica, facsimile, restoration, or digital model as the damaged original without replica-status custody | 34 |
+| Publication lets a saga, chronicle, legend, or place-name identify a site/route/event without independent evidence custody | 34 |
 
 ## Scoring Procedure
 

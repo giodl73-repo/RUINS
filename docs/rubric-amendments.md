@@ -67,6 +67,7 @@ Follow-up:
 | 2026-07-05 | Extension | Herculaneum papyri virtual unwrapping | Add mediated recovery custody: scan, segmentation, model output, scholarly transcription, edition status, and public milestone must be gated separately before publication claims. |
 | 2026-07-05 | Extension | Maya codices destroyed corpus | Add destroyed corpus custody: a tiny surviving witness set cannot define the range, scale, genre map, or destroyed inventory of the absent corpus without separate controls. |
 | 2026-07-05 | Extension | Palmyra replica reconstruction | Add replica-status custody: replicas, facsimiles, restorations, and digital models need provenance, scale, material, method, and authority boundaries before they can support reconstruction claims. |
+| 2026-07-05 | Extension | Vinland saga site crosscheck | Add saga-memory crosscheck: literary tradition, archaeological site evidence, routes, names, events, and public identity claims must stay separately graded. |
 
 ## Re-Scoring Rule
 

@@ -27,7 +27,7 @@ general history in sibling repos.
 | `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | destruction of witness set shapes surviving corpus | Maya codices |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | tiny surviving witness set is mistaken for the range, scale, or genre map of the lost corpus | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | replacement, replica, and digital model compete with damaged original | Palmyra |
-| `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | literary memory and site evidence partially overlap | Vinland candidate |
+| `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | literary memory and site evidence partially overlap | Vinland |
 | `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | recovered cargo/artifact loses operating context | Antikythera / future wreck cases |
 | `ruins-capability:source-lock-escalation` | Source-lock escalation | paper cannot rise above stable until exact claims are locked | Great Zimbabwe / House of Wisdom |
 
@@ -63,6 +63,10 @@ general history in sibling repos.
     model can be evidence of documentation and reception, but it cannot become
     object-equivalent without explicit provenance, scale, material, method, and
     authority boundaries.
+12. **Saga-memory crosscheck:** a literary tradition can overlap with an
+    archaeological site without becoming a site identification, route map,
+    event ledger, or proof of named actors unless those custody layers are
+    separately locked.
 
 ## Candidate Matrix
 
@@ -73,7 +77,7 @@ general history in sibling repos.
 | Herculaneum papyri virtual unwrapping | CT, segmentation, model output, transcription, preprint, and prize-page status. | Data-custody gate, model-output custody gate, scholarly-text custody gate, quotation/source audit before exact text. | FONTES owns exact textual editions; MUNDUS/MAXIM own philological or Roman intellectual-history interpretation; ML systems own implementation details. |
 | Maya codices | Deliberate textual destruction and small surviving witness set. | Corpus-survival map, destruction-process chronology, destruction-corpus custody gate, refusal register. | LUCIA/MAXIM own broader Maya history; FONTES owns codex custody. |
 | Palmyra | Damaged heritage and replica/digital reconstruction. | Replica-status register, destruction chronology, memory register, restoration-governance gate. | PORTO owns site geography; CANON owns named features; FONTES owns image/model custody. |
-| Vinland / Norse North Atlantic traces | Saga memory versus archaeological site evidence. | Saga-memory crosscheck, source map, claim-grade table. | PORTO owns route/geography; LUCIA/MAXIM own Norse history; CANON owns site/entity identity. |
+| Vinland / Norse North Atlantic traces | Saga memory versus archaeological site evidence. | Saga-memory crosscheck, source map, claim-grade table, route/name refusal gate. | PORTO owns route/geography; LUCIA/MAXIM own Norse history; CANON owns site/entity identity. |
 
 ## Promotion Rule
 

@@ -1,0 +1,19 @@
+paper: panel-vinland-saga-site-crosscheck
+module: ruins
+status: stable-working-paper
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: site evidence, artifact custody, scientific dating, saga text custody, and public interpretation
+  - id: R2
+    name: Absence Historian
+    focus: Norse activity, saga transmission, excavation history, dating history, and public memory
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: saga-as-site, date-as-event, name-as-identity, and one-site-as-route overclaims
+  - id: R4
+    name: Cultural Memory Reader
+    focus: Vinland identity, Viking discovery memory, first-European framing, and living-history interpretation
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: PORTO route geography, FONTES/MUNDUS saga custody, CANON actor/site identity, MAXIM/LUCIA Norse and Indigenous histories
