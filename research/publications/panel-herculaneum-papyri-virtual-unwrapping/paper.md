@@ -31,6 +31,8 @@ This case asks RUINS to separate:
 
 For current source boundaries, use [`source-lock.md`](source-lock.md). For
 current public-page anchors, use [`page-anchor-audit.md`](page-anchor-audit.md).
+For sample, volume, segment, representation, and ink-output IDs, use
+[`data-custody-gate.md`](data-custody-gate.md).
 
 ## 2. What Survives
 

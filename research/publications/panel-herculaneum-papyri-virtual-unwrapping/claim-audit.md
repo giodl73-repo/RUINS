@@ -3,7 +3,9 @@
 **Owner:** ERRATA
 **Status:** source-locked working audit
 
-Use [`source-lock.md`](source-lock.md) for current claim boundaries.
+Use [`source-lock.md`](source-lock.md) for current claim boundaries. Use
+[`data-custody-gate.md`](data-custody-gate.md) for sample, volume, segment,
+representation, and ink-output IDs.
 
 ## Claim Grades
 
@@ -15,6 +17,8 @@ Use [`source-lock.md`](source-lock.md) for current claim boundaries.
 | Ink detection equals transcription. | Refuse | Detection is model output and needs review. |
 | A recovered passage identifies an author/work/doctrine. | Source-specific | Requires papyrological or edition custody. |
 | "AI read the library" is an evidence claim. | Refuse | Treat as public recovery memory. |
+| A sample or volume ID can be cited as a dataset artifact. | Dataset-path custody | Allowed only as path/metadata custody, not text custody. |
+| An ink-output path is a transcription. | Refuse | It is model-output custody. |
 
 ## Phrases To Challenge
 

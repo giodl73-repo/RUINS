@@ -19,12 +19,15 @@
 Current source boundaries are locked in [`source-lock.md`](source-lock.md).
 Current public-page anchors are audited in
 [`page-anchor-audit.md`](page-anchor-audit.md).
+Object-level scan/data custody is gated in
+[`data-custody-gate.md`](data-custody-gate.md).
 
 ## Source Targets
 
 | Target | Use | Claim boundary |
 |---|---|---|
 | Vesuvius Challenge overview and milestone pages | Public project state, open problems, timeline, and milestone claims. | Project/public custody; not final scholarly edition. |
+| ScrollPrize open-data documentation | Sample, volume, segment, representation, and ink-output path custody. | Dataset artifact custody, not textual interpretation. |
 | Parsons et al., EduceLab-Scrolls arXiv paper | Method, dataset, label, and verification boundary. | Technical preprint; exact readings still need scholarly custody. |
 | AWS Open Data registry | Open CT-volume dataset custody and license/access metadata. | Dataset custody, not textual interpretation. |
 | University of Kentucky Digital Restoration Initiative | Virtual unwrapping lineage and noninvasive restoration framing. | Institutional project context, not textual proof. |
