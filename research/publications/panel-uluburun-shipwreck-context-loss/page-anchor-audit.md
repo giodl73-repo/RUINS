@@ -29,8 +29,6 @@ claims."
 
 - Direct Pulak/Bass page custody is still required before detailed cargo,
   hull, route, destination, or stowage claims.
-- Direct museum custody is still required before display-specific or
-  conservation-specific claims.
 - Scientific studies remain source targets only until sample/method custody is
   locked.
 

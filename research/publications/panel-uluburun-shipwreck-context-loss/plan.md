@@ -38,4 +38,4 @@ public treasure/globalization memory.
    overclaims.
 3. ASHLAR reruns review for candidate-to-active promotion of
    `ruins-capability:shipwreck-context-loss` only after direct publication and
-   museum custody findings close current P2s.
+   campaign and overview custody findings close current P2s.

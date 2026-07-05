@@ -25,7 +25,7 @@
 | Cemal Pulak, "The Uluburun Shipwreck and Late Bronze Age Trade" | Direct scholarly custody for context-loss method, interpretive complexity, and bibliography bridge. | Supports method claims; does not authorize exact object, route, or destination closure. |
 | Cemal Pulak, "The Uluburun Shipwreck: An Overview" | Core scholarly overview target for cargo, hull, and interpretation. | Direct page audit needed before detailed values. |
 | Bass / Pulak AJA campaign reports | Excavation campaign custody. | Page audit needed before campaign-specific claims. |
-| Bodrum Museum of Underwater Archaeology | Museum custody and display. | Direct page needed before display or conservation claims. |
+| Bodrum Museum of Underwater Archaeology / Turkish Museums | Museum custody, display, and public afterlife. | Supports display framing; not original context, route closure, or object catalogue custody. |
 | Scientific studies of metals, glass, resin, wood, and dating | Sample-specific analysis. | No general source claims until source-locked. |
 
 ## Source Questions

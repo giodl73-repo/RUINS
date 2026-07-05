@@ -1,7 +1,7 @@
 # Cultural Memory: Uluburun Shipwreck Context Loss
 
 **Owner:** Cultural Memory Reader
-**Status:** first register
+**Status:** museum custody anchored
 
 | Memory form | Evidence surface | RUINS treatment |
 |---|---|---|
@@ -10,4 +10,4 @@
 | Bronze Age globalization | Scholarly/public synthesis. | Useful interpretive pressure; keep source-specific. |
 | Royal gift / elite exchange story | Interpretation of cargo assemblage. | Hypothesis unless source-locked and qualified. |
 | Heroic underwater archaeology | Discipline history. | Method afterlife; separate excavation achievement from wreck interpretation. |
-| Museum reconstruction/display | Public access and pedagogy. | Modern custody and reception surface. |
+| Museum reconstruction/display | Bodrum museum and Turkish Museums public framing. | Modern custody and reception surface, not original operating context. |

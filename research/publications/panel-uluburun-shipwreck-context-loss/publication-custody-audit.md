@@ -44,8 +44,6 @@ cargo, hull, route, destination, stowage, or object-catalogue claims.
 - Direct campaign-report page audit is still required before campaign-specific
   finds, grid, object-number, hull, or stowage claims.
 - Direct Pulak 1998 page audit is still required before exact overview claims.
-- Direct museum custody is still required before display-specific or
-  conservation-specific claims.
 
 ## Reference
 

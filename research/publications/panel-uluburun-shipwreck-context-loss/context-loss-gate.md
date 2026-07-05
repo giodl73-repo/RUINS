@@ -39,5 +39,5 @@ Before RUINS adds stronger shipwreck-context claims, it must record:
 
 This gate activates the shipwreck context-loss test surface, but it does not yet
 promote the capability. The paper remains a working draft until direct
-publication custody, museum custody, and role review close route, cargo, and
-context P2s.
+campaign-report and Pulak 1998 overview custody close route, cargo, and context
+P2s.
