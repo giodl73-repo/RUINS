@@ -32,10 +32,11 @@ This case asks:
 - how public memory around scripture and secrecy changes reception.
 
 For current source boundaries and the fragment-custody ladder, use
-[`source-lock.md`](source-lock.md). The paper remains below publication-ready
-status because edition-page custody, translation examples, and page-anchored
-authenticity reports still need audit before specific readings or fragments are
-used.
+[`source-lock.md`](source-lock.md). For current public-page anchors, use
+[`page-anchor-audit.md`](page-anchor-audit.md). The paper remains below
+publication-ready status because edition-page custody, translation examples,
+named-fragment image/metadata anchors, and direct authenticity reports still
+need audit before specific readings or fragments are used.
 
 ## 2. What Survives
 

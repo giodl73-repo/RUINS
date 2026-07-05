@@ -8,7 +8,7 @@
 
 | Role | Finding | Severity |
 |---|---|---|
-| Fragment Custodian | The source lock makes the fragment, image, metadata, edition, translation, reconstruction, provenance, and authenticity ladder operational. | Clear |
+| Fragment Custodian | The source lock and page-anchor audit make the fragment, image, metadata, edition, translation, reconstruction, provenance, and authenticity ladder operational for current public claims. | Clear |
 | Absence Historian | The chronology treats fragmentation, discovery, publication, reconstruction, and authenticity disputes as separate layers. | Clear |
 | Reconstruction Skeptic | Refusals block translation-as-fragment, lacuna-as-survival, identifier certainty, and corpus-wide forgery overclaims. | Clear |
 | Cultural Memory Reader | Scripture, secrecy, treasure, museum display, and forgery drama are treated as afterlife surfaces with source-specific limits. | Clear |
@@ -20,16 +20,18 @@ None.
 
 ## P2 Findings
 
-- Build `page-anchor-audit.md` before publication-ready review.
 - Add direct edition-page custody before making specific fragment,
   transcription, or translation claims.
-- Add official image/metadata page anchors and authenticity-report page anchors
-  before exact fragment-level claims.
+- Add named-fragment official image/metadata anchors before exact
+  fragment-level claims.
+- Add direct authenticity-report custody before exact fragment-level
+  authenticity claims.
 - Keep Museum of the Bible authenticity findings fragment-set-specific.
 
 ## ASHLAR Decision
 
-The paper is a stable working paper. The source lock now makes the
-fragment/image/metadata/edition/translation/reconstruction/provenance/
-authenticity ladder operational, but the paper is not publication-ready until
-page anchors, edition-page custody, and authenticity-report custody are audited.
+The paper remains a stable working paper. The source lock and page-anchor audit
+now make the fragment/image/metadata/edition/translation/reconstruction/
+provenance/authenticity ladder operational for current public claims, but the
+paper is not publication-ready until edition-page custody, named-fragment
+anchors, and direct authenticity-report custody are audited.

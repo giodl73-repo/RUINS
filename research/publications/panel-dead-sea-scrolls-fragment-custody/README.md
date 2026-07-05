@@ -8,6 +8,7 @@ Paper `panel-dead-sea-scrolls-fragment-custody` in the [RUINS](../../) module.
 - [**plan.md** - paper plan](plan.md)
 - [**source-map.md** - source and trace work surface](source-map.md)
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
+- [**page-anchor-audit.md** - page anchors for current stable claims](page-anchor-audit.md)
 - [**chronology.md** - discovery, publication, reconstruction, and authenticity layers](chronology.md)
 - [**claim-audit.md** - fragment, edition, translation, and authenticity claim checks](claim-audit.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)

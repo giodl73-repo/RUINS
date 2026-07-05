@@ -18,6 +18,8 @@
 | Museum/public narratives | cultural memory | Track scripture, secrecy, treasure, and heritage afterlife. |
 
 Current source boundaries are locked in [`source-lock.md`](source-lock.md).
+Current public-page anchors are audited in
+[`page-anchor-audit.md`](page-anchor-audit.md).
 
 ## Source Targets
 
@@ -29,6 +31,18 @@ Current source boundaries are locked in [`source-lock.md`](source-lock.md).
 | Emanuel Tov, textual criticism and scrolls synthesis | Manuscript, edition, and textual-status synthesis. | Secondary synthesis; source-lock before detailed claims. |
 | Museum of the Bible authentication reports | Modern-market fragment authenticity caution. | Fragment-set specific; no generalization to corpus. |
 | Scholarship on publication history and access debates | Secrecy/publication-memory boundary. | Treat as historiography, not conspiracy proof. |
+
+## Current Page Anchor Status
+
+| Surface | Status |
+|---|---|
+| Official IAA public overview anchors | Complete for current stable-working-paper claims. |
+| Official digital-library project anchors | Complete for current image/metadata/process claims. |
+| Classification and language/script caution anchors | Complete for current public-boundary claims. |
+| Publication-history anchors | Complete for current public-history claims. |
+| Specific fragment image/metadata anchors | Not yet complete. |
+| Direct edition-page / transcription / translation anchors | Not yet complete. |
+| Direct authenticity-report anchors | Not yet complete beyond public MOTB summary. |
 
 ## Source Questions
 
