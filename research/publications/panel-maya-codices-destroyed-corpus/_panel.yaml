@@ -1,0 +1,19 @@
+paper: panel-maya-codices-destroyed-corpus
+module: ruins
+status: stable-working-paper
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: surviving codices, facsimiles, institutional custody, authentication, and corpus absence
+  - id: R2
+    name: Absence Historian
+    focus: production, destruction, colonial custody, rediscovery, facsimile history, and authentication chronology
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: four-witness overclaim, total-destruction claims, facsimile equivalence, and translation drift
+  - id: R4
+    name: Cultural Memory Reader
+    focus: lost books, burning imagery, oldest-book framing, Maya science memory, and authenticity afterlife
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM/LUCIA history, FONTES/MUNDUS text custody, CANON codex identity, PORTO repository custody, CERES material production
