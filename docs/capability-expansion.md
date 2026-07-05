@@ -15,7 +15,8 @@ improves evidence grading or refusal discipline inside that boundary.
 
 Use [`capability-promotion-packet.md`](capability-promotion-packet.md) when a
 paper promotes a capability or when ASHLAR upgrades an active capability to
-core.
+core. Concrete promotion records live under
+[`capability-promotions/`](capability-promotions/).
 
 ## Promotion States
 
@@ -45,7 +46,7 @@ core.
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap. | Vinland |
-| `ruins-capability:scope-gated-publication` | Scope-gated publication | Active | House and Dead Sea Scrolls promote by refusing exact claims under explicit gates. | House of Wisdom / Dead Sea Scrolls |
+| `ruins-capability:scope-gated-publication` | Scope-gated publication | Core | House and Dead Sea Scrolls promote by refusing exact claims under explicit gates; see `docs/capability-promotions/scope-gated-publication.md`. | House of Wisdom / Dead Sea Scrolls |
 | `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | Candidate | Antikythera pressure identified; needs future wreck-specific paper. | Antikythera / future wreck cases |
 | `ruins-capability:source-lock-escalation` | Source-lock escalation | Core | Automatic caps and repeated scorecard practice. | Great Zimbabwe / House of Wisdom |
 
