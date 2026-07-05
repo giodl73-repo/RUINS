@@ -5,7 +5,9 @@
 
 Use [`source-lock.md`](source-lock.md) for current claim boundaries. Use
 [`data-custody-gate.md`](data-custody-gate.md) for sample, volume, segment,
-representation, and ink-output IDs.
+representation, and ink-output IDs. Use
+[`model-output-custody-gate.md`](model-output-custody-gate.md) for model-output
+claim boundaries.
 
 ## Claim Grades
 
@@ -18,7 +20,8 @@ representation, and ink-output IDs.
 | A recovered passage identifies an author/work/doctrine. | Source-specific | Requires papyrological or edition custody. |
 | "AI read the library" is an evidence claim. | Refuse | Treat as public recovery memory. |
 | A sample or volume ID can be cited as a dataset artifact. | Dataset-path custody | Allowed only as path/metadata custody, not text custody. |
-| An ink-output path is a transcription. | Refuse | It is model-output custody. |
+| An ink-output path is a transcription. | Refuse | It is model-output custody, not text custody. |
+| A model output can support candidate ink evidence. | Model/path-scoped | Allowed only with model, artifact, and uncertainty boundaries. |
 
 ## Phrases To Challenge
 

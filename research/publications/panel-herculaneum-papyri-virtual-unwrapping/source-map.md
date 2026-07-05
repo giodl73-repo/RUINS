@@ -21,6 +21,8 @@ Current public-page anchors are audited in
 [`page-anchor-audit.md`](page-anchor-audit.md).
 Object-level scan/data custody is gated in
 [`data-custody-gate.md`](data-custody-gate.md).
+Model-output claim boundaries are gated in
+[`model-output-custody-gate.md`](model-output-custody-gate.md).
 
 ## Source Targets
 
