@@ -7,9 +7,9 @@
 
 ## Score
 
-**Score:** 43/50
-**Band:** Stable working paper
-**Caps:** Restoration-methodology claims remain gated; do not raise above 44 until open P2 findings are closed.
+**Score:** 45/50
+**Band:** Publication-ready
+**Caps:** Do not add on-site restoration methodology, engineering advice, material recommendations, intervention sequencing, or structural claims without dedicated custody.
 
 ## Dimension Scores
 
@@ -18,10 +18,10 @@
 | Evidence condition | 9/10 | Separates site, damaged feature, model, replica, restoration governance, and public memory, with current stable claims page-anchored. |
 | Loss/process clarity | 7/8 | Destruction, documentation, replica display, emergency conservation, and reconstruction governance are distinct. |
 | Claim-grade discipline | 9/10 | Replica-status register and replica-specification gate block the main replica, model, specification, and recovery overclaims. |
-| Refusal quality | 6/7 | Refusals are operational and safety-aware. |
+| Refusal quality | 7/7 | Refusals are operational and safety-aware, including restoration-methodology refusal. |
 | Cultural-memory handling | 5/6 | Replica circulation and anti-erasure memory are classified as afterlife evidence. |
 | Sibling boundary | 4/5 | Handoffs are clear. |
-| Source posture | 3/4 | Source lock, page-anchor audit, and replica-specification gate exist; restoration-methodology gate remains future work. |
+| Source posture | 4/4 | Source lock, page-anchor audit, replica-specification gate, and restoration-methodology gate exist for current publication-ready claims. |
 
 ## Blocking Findings
 
@@ -29,11 +29,12 @@ No `P1` findings.
 
 ## Open P2 Findings
 
-- Add restoration-methodology audit before publication-ready on-site
-  reconstruction claims.
+None.
 
 ## Next Lift
 
-1. PALIMPSEST adds restoration-methodology audit or refusal gate.
-2. ASHLAR reruns role review after exact reconstruction claims are either
-   refused or source-locked.
+1. Add restoration-methodology custody before any future on-site reconstruction
+   claim.
+2. Add source separation before extending beyond the current Arch of Triumph
+   claim to Temple of Bel, theatre, Tetrapylon, museum, or other damaged
+   features.

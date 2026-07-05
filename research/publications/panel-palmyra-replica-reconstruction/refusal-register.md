@@ -11,5 +11,6 @@
 | Replica specifications are original-monument specifications. | Public replica specs describe a modern facsimile, not original fabric. |
 | Replica specifications are engineering or conservation evidence. | Current custody is project-public description only. |
 | Palmyra has been rebuilt. | Recovery is feature-specific and process-bound. |
+| RUINS can recommend on-site restoration methodology. | The paper refuses conservation, engineering, material, sequencing, and intervention advice. |
 | One monument stands for the whole site. | The site has multiple attributes and damage layers. |
 | RUINS can advise site conservation. | Conservation advice belongs to qualified heritage authorities. |

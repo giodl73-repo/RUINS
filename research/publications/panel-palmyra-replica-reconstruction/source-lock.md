@@ -9,6 +9,8 @@ restoration governance, and public memory.
 Use [`page-anchor-audit.md`](page-anchor-audit.md) for current page anchors.
 Use [`replica-specification-gate.md`](replica-specification-gate.md) for public
 replica specification boundaries.
+Use [`restoration-methodology-gate.md`](restoration-methodology-gate.md) for
+on-site restoration-method refusals.
 
 ## Locked Sources
 
@@ -32,6 +34,7 @@ replica specification boundaries.
 | Replica specifications | Public project sources describe the replica as 1:3 scale / 13-tonne and made through photogrammetry-based modelling and machining in stone/marble. | S6 / S7 | Project-public specification only |
 | Recovery governance | UNESCO recovery language separates emergency measures, assessment, methodology, restoration, and reconstruction. | S3 / S4 | Governance-scoped |
 | Object boundary | The replica is not the original arch and does not by itself restore Palmyra. | S3 / S4 / S5 / RUINS inference | RUINS refusal |
+| Restoration methodology | The current paper publishes no on-site restoration methods, engineering plans, material recommendations, or conservation instructions. | Restoration-methodology gate | Current-scope refusal |
 
 ## Paper Use Rules
 

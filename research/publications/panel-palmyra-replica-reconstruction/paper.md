@@ -1,7 +1,7 @@
 # Palmyra Replica Reconstruction
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-05
 
 ## Abstract
@@ -30,7 +30,10 @@ reconstruction signals are powerful enough to overtake the damaged site:
 
 For current locked source boundaries, use [`source-lock.md`](source-lock.md),
 [`replica-status-register.md`](replica-status-register.md), and
-[`restoration-governance-gate.md`](restoration-governance-gate.md).
+[`restoration-governance-gate.md`](restoration-governance-gate.md). The
+[`restoration-methodology-gate.md`](restoration-methodology-gate.md) keeps the
+paper publication-ready by refusing on-site restoration methods, engineering
+claims, and conservation recommendations.
 
 ## 2. What Survives
 

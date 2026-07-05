@@ -23,8 +23,8 @@ methodology.
 
 ## Promotion Finding
 
-The paper can move to a high stable working-paper score because current claims
-now have page anchors. Project-public replica specifications are bounded by
-[`replica-specification-gate.md`](replica-specification-gate.md). It remains
-below publication-ready status until restoration-methodology claims are either
-refused or locked by a dedicated gate.
+The paper can move to publication-ready status for its current scope because
+current claims have page anchors, project-public replica specifications are
+bounded by [`replica-specification-gate.md`](replica-specification-gate.md), and
+on-site restoration methods are refused through
+[`restoration-methodology-gate.md`](restoration-methodology-gate.md).
