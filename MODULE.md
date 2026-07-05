@@ -93,6 +93,8 @@ new required registers. Use:
   case-derived capabilities and repeated gaps.
 - [`docs/capability-promotion-packet.md`](docs/capability-promotion-packet.md)
   for fast candidate-to-active or active-to-core promotion checks.
+- [`docs/capability-roadmap.md`](docs/capability-roadmap.md) for selecting
+  cases that activate candidates or promote active capabilities to core.
 - [`skills/README.md`](skills/README.md) for executable paper, source-lock,
   role-review, and method-evolution workflows.
 

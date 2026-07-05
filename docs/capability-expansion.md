@@ -17,6 +17,8 @@ Use [`capability-promotion-packet.md`](capability-promotion-packet.md) when a
 paper promotes a capability or when ASHLAR upgrades an active capability to
 core. Concrete promotion records live under
 [`capability-promotions/`](capability-promotions/).
+Use [`capability-roadmap.md`](capability-roadmap.md) to choose papers that
+activate candidates or promote active capabilities to core.
 
 ## Promotion States
 

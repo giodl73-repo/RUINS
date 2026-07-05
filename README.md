@@ -79,6 +79,8 @@ explicit rubric, then let repeated findings improve the process.
   case-derived RUINS capabilities and repeated rubric gaps.
 - [`docs/capability-promotion-packet.md`](docs/capability-promotion-packet.md)
   gives ASHLAR the fast-promotion checklist for new capabilities.
+- [`docs/capability-roadmap.md`](docs/capability-roadmap.md) identifies the
+  next papers and method artifacts that promote active capabilities to core.
 - [`skills/README.md`](skills/README.md) operationalizes paper scaffolding,
   source locking, role review, and method evolution.
 
