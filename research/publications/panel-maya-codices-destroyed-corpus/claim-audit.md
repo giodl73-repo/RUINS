@@ -9,6 +9,7 @@
 |---|---|---|
 | Four pre-Hispanic Maya codices are treated as extant witnesses in current institutional/scholarly custody. | Source-locked | Do not infer complete corpus shape. |
 | Dresden, Madrid, Paris, and Mexico have different object histories. | Source-specific | Use object-by-object wording. |
+| Paris is BnF Mexicain 386 and Madrid is Museo de America inventory 70300. | Repository custody | Object identity only, not readings or translations. |
 | Codice Maya de Mexico has an authenticity and custody history that must be named. | Source-specific | Use INAH/Getty/Coe et al. custody. |
 | Facsimiles and photographs are important witnesses. | Mediated | Label them as reproductions. |
 | Landa's *Relacion* reports the burning of many Maya books under Christian polemical framing. | Direct Spanish text custody | Paraphrase only; no exact quotation, translation lock, or count. |

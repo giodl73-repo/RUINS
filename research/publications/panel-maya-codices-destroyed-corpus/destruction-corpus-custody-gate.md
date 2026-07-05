@@ -33,5 +33,6 @@ complete inventory of loss.
 ## Current Decision
 
 The paper is stable because it is methodological and avoids exact quotations,
-counts, translations, and total-corpus reconstruction. The publication-ready
-gate remains open.
+counts, translations, and total-corpus reconstruction. Repository custody for
+Paris and Madrid is closed for current stable claims. The publication-ready gate
+remains open for quotation/translation custody.

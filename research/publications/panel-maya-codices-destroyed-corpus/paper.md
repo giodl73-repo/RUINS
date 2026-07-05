@@ -26,16 +26,16 @@ For current locked source boundaries, use [`source-lock.md`](source-lock.md),
 [`page-anchor-audit.md`](page-anchor-audit.md), and
 [`destruction-corpus-custody-gate.md`](destruction-corpus-custody-gate.md). The
 paper remains below publication-ready status because critical edition or
-translation custody for Landa quotations, direct facsimile-source custody, and
-quotation permissions are not yet closed.
+translation custody for Landa quotations, codex readings, and quotation
+permissions are not yet closed.
 
 ## 2. What Survives
 
 | Surviving trace | Evidence condition | Claim grade now |
 |---|---|---|
 | Dresden Codex | direct material / digitized object custody | object-specific |
-| Madrid Codex | direct material / institutional custody | object-specific |
-| Paris Codex | direct material / fragmentary object custody | object-specific |
+| Madrid Codex | direct material / Museo de America inventory custody | object-specific |
+| Paris Codex | direct material / BnF Mexicain 386 custody | object-specific |
 | Codice Maya de Mexico | direct material with authentication history | object-specific, source-scoped |
 | Facsimiles, photographs, and digital copies | mediated witness | custody-specific |
 | Reports of book destruction | copied / transmitted textual report | source-scoped paraphrase |

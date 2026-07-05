@@ -8,7 +8,7 @@
 
 | Role | Finding | Severity |
 |---|---|---|
-| Fragment Custodian | The package separates surviving codices, facsimiles, authentication sources, Landa passage custody, and absent corpus rather than treating four witnesses as the whole tradition. | Clear |
+| Fragment Custodian | The package separates surviving codices, repository custody, facsimiles, authentication sources, Landa passage custody, and absent corpus rather than treating four witnesses as the whole tradition. | Clear |
 | Absence Historian | The chronology distinguishes production, destruction, European/Mexican custody, rediscovery, facsimile mediation, and authentication. | Clear |
 | Reconstruction Skeptic | The destruction-corpus gate blocks the main overclaims: four-books-as-total-corpus, Landa-as-total-ledger, facsimile-as-object, and image-as-translation. | Clear |
 | Cultural Memory Reader | Lost-library memory, oldest-book memory, and authenticity controversy are handled as afterlife surfaces. | Clear |
@@ -20,8 +20,6 @@ None.
 
 ## P2 Findings
 
-- Add direct Paris and Madrid repository/digital-catalog custody before
-  publication-ready status.
 - Add quotation and translation custody before publishing codex readings,
   glyphic interpretation, Landa quotations, or English translations.
 
@@ -34,5 +32,4 @@ None.
 ## ASHLAR Decision
 
 The paper is a stable working paper. It adds a strong destroyed-corpus case, but
-publication-ready status requires direct repository and quotation/translation
-custody.
+publication-ready status requires quotation/translation custody.

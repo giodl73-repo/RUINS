@@ -23,6 +23,9 @@ authenticity status, translation custody, and cultural memory.
 | S9 | Diego de Landa, *Relacion de las cosas de Yucatan*, Wayeb PDF | direct Spanish text witness | Lines 359-370 describe books, writing, and codex form; lines 2337-2344 give direct Spanish passage custody for Landa's report of finding and burning many Maya books. | Paraphrase custody only; no English translation lock, count claim, or total-corpus ledger. |
 | S10 | HathiTrust catalog, Tozzer translation/reprint | bibliographic catalog record | Lines 6-34 identify the Tozzer translation/reprint metadata and physical description. | Bibliographic target; limited/search-only, not quotation custody. |
 | S11 | Ardren, Chuchiak, Solari, Restall, *The Friar and the Maya* record | modern scholarly bibliographic/abstract record | Lines 30-33 caution that the *Account* is a complex transmitted source and not simple Landa-only eyewitness transparency. | Source-posture caution; not passage quotation custody. |
+| S12 | AGORHA / INHA, "Codex Peresianus, Paris, BnF, Mexicain 386" | catalog/object custody record | Lines 67-89 identify title, Paris/BnF custody, and shelfmark; lines 114-115 identify accordion-fold plant-fiber support; lines 338-369 identify BnF source links and Gallica manuscript digitization. | Paris repository and material custody; not textual reading or translation. |
+| S13 | Ministerio de Cultura / Museo de America, "Codice Trocortesiano" | official repository object page | Search result identifies the Museo de America page, inventory 70300, and describes the Madrid Codex as one of the few original Maya books preserved. | Official identity/inventory custody; page fetch rate-limited, not line-quotation custody. |
+| S14 | CER.es, "Ficha Completa," Museo de America, inventary 70300 | official museum-network catalog record | Search result identifies inventory 70300, generic classification codex, title "Codice Trocortesiano o de Madrid," pigment and paper support. | Catalog metadata custody; not facsimile, reading, or translation custody. |
 
 ## Locked Values And Claims
 
@@ -30,8 +33,8 @@ authenticity status, translation custody, and cultural memory.
 |---|---|---|---|
 | Surviving set | Four pre-Hispanic Maya manuscript witnesses are currently treated as extant: Dresden, Madrid, Paris, and Codice Maya de Mexico. | S1 / S3 / S4 / S5 | Source-locked |
 | Dresden | Dresden is a screenfold manuscript held by SLUB Dresden, with 39 leaves and ritual, calendrical, astronomical, and divinatory content. | S1 / S2 | Object-specific |
-| Madrid | Madrid/Tro-Cortesianus is a separate surviving manuscript with a two-part modern custody history and calendrical/ritual contents. | S3 | Source-specific |
-| Paris | Paris/Codex Peresianus is a fragile fragmentary witness with facsimile and photographic mediation issues. | S3 / S8 | Source-specific |
+| Madrid | Madrid/Tro-Cortesianus is a separate surviving manuscript held by Museo de America under inventory 70300, with catalog metadata identifying it as the Codice Trocortesiano o de Madrid. | S3 / S13 / S14 | Repository custody |
+| Paris | Paris/Codex Peresianus is held by BnF Manuscripts as Mexicain 386, with catalog and digitization links that identify object custody and material support. | S3 / S8 / S12 | Repository custody |
 | Mexico codex | Codice Maya de Mexico may be used as a surviving witness when the authentication and custody layer is named. | S4 / S5 / S6 / S7 | Source-specific |
 | Destruction | Landa's *Relacion* may be paraphrased as reporting the finding and burning of many Maya books under Christian polemical judgment, with Maya grief noted. | S3 / S9 / S11 | Direct Spanish text custody |
 | Corpus absence | The destroyed broader Maya book corpus cannot be counted or reconstructed from the four witnesses. | S1 / S3 / RUINS inference | RUINS refusal |
@@ -71,3 +74,9 @@ authenticity status, translation custody, and cultural memory.
   https://catalog.hathitrust.org/Record/101042338
 - Ardren, Chuchiak, Solari, Restall, *The Friar and the Maya*:
   https://scholarship.miami.edu/esploro/outputs/book/The-Friar-and-the-Maya-Diego/991031993018302976
+- AGORHA / INHA, "Codex Peresianus, Paris, BnF, Mexicain 386":
+  https://agorha.inha.fr/ark:/54721/02089c28-7e6f-4de0-b20c-a199791533dc
+- Ministerio de Cultura / Museo de America, "Codice Trocortesiano":
+  https://www.cultura.gob.es/museodeamerica/coleccion/america-prehispanica/c-dice-trocortesiano.html
+- CER.es, "Ficha Completa," Museo de America, inventary 70300:
+  https://ceres.mcu.es/pages/Main?idt=23432&inventary=70300&museum=MAM&table=FMUS

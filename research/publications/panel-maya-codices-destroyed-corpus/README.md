@@ -10,6 +10,7 @@ Paper `panel-maya-codices-destroyed-corpus` in the [RUINS](../../) module.
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
 - [**page-anchor-audit.md** - page anchors for current stable claims](page-anchor-audit.md)
 - [**destruction-corpus-custody-gate.md** - destruction and corpus claim boundaries](destruction-corpus-custody-gate.md)
+- [**repository-custody-audit.md** - direct repository custody for Paris and Madrid](repository-custody-audit.md)
 - [**landa-destruction-source-audit.md** - Landa destruction-passage custody](landa-destruction-source-audit.md)
 - [**chronology.md** - production, destruction, rediscovery, authentication](chronology.md)
 - [**claim-audit.md** - codex, corpus, destruction, and memory claim checks](claim-audit.md)

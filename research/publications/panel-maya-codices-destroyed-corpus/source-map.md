@@ -7,8 +7,8 @@
 |---|---|---|
 | Library of Congress / WDL Dresden Codex record | Four-witness frame and Dresden object description. | Source-locked. |
 | SLUB Dresden Dresden and other-codices pages | Dresden custody, other codices overview, Madrid/Paris/Mexico distinctions, 1562 destruction reference. | Source-locked for stable claims. |
-| Museo de America / Spanish ministry Madrid Codex page | Madrid institutional custody. | Targeted; direct line audit still needed, with SLUB anchors used for current stable claims. |
-| Bibliotheque nationale / Gallica Paris images | Paris object and digital custody. | Targeted; not yet direct-audited. |
+| Museo de America / Spanish ministry Madrid Codex page | Madrid institutional custody. | Source-locked for identity and inventory custody. |
+| Bibliotheque nationale / Gallica Paris images | Paris object and digital custody. | Source-locked through AGORHA/BnF-linked catalog custody. |
 | INAH / Museo Nacional de Antropologia Mexico codex page | Mexico codex authenticity and current custody. | Source-locked. |
 | Getty exhibition page | Mexico codex public/scholarly afterlife and oldest-book framing. | Source-locked. |
 | Coe, Houston, Miller, Taube, "The Fourth Maya Codex" | Mexico codex authentication, provenance caveat, damage, Venus-calendar scope. | Source-locked. |
@@ -17,7 +17,6 @@
 
 ## Source Need
 
-Before publication-ready status, this paper needs direct digital/facsimile
-custody for Paris and Madrid, plus quotation/translation custody for any exact
-Landa or codex wording. Current claims are stable only because they avoid exact
-quotations, translations, and destroyed corpus counts.
+Before publication-ready status, this paper needs quotation/translation custody
+for any exact Landa or codex wording. Current claims are stable only because
+they avoid exact quotations, translations, and destroyed corpus counts.

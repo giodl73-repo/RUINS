@@ -43,5 +43,4 @@ RUINS may not yet:
 
 The Landa destruction source gap is partially closed for careful paraphrase.
 The publication-ready gate remains open because translation custody,
-critical-edition comparison, direct Paris/Madrid repository custody, and
-quotation boundaries remain incomplete.
+critical-edition comparison, and quotation boundaries remain incomplete.
