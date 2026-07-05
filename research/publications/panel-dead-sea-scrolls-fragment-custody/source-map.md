@@ -26,6 +26,8 @@ MOTB authenticity-report custody is audited in
 [`authenticity-report-audit.md`](authenticity-report-audit.md).
 Edition custody remains gated in
 [`edition-custody-gate.md`](edition-custody-gate.md).
+Edition acquisition targets are listed in
+[`edition-acquisition-packet.md`](edition-acquisition-packet.md).
 
 ## Source Targets
 

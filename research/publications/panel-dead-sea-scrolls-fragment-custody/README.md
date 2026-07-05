@@ -12,6 +12,7 @@ Paper `panel-dead-sea-scrolls-fragment-custody` in the [RUINS](../../) module.
 - [**named-fragment-anchor-audit.md** - named image/metadata anchors](named-fragment-anchor-audit.md)
 - [**authenticity-report-audit.md** - MOTB authenticity-report custody](authenticity-report-audit.md)
 - [**edition-custody-gate.md** - open edition-page custody gate](edition-custody-gate.md)
+- [**edition-acquisition-packet.md** - lawful edition-page acquisition targets](edition-acquisition-packet.md)
 - [**chronology.md** - discovery, publication, reconstruction, and authenticity layers](chronology.md)
 - [**claim-audit.md** - fragment, edition, translation, and authenticity claim checks](claim-audit.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)

@@ -10,12 +10,15 @@ use the named image records as image/metadata custody, but it may not use them
 for exact readings, transcriptions, translations, joins, or lacunae until direct
 edition pages are audited.
 
+For concrete acquisition targets and acceptance criteria, use
+[`edition-acquisition-packet.md`](edition-acquisition-packet.md).
+
 ## Current Edition Targets
 
 | Named example | Current target | What is anchored | What remains open |
 |---|---|---|---|
 | 11Q5 / 11Q Psalms | James A. Sanders, *The Psalms Scroll of Qumran Cave 11 (11QPsa)*, Discoveries in the Judaean Desert IV, Oxford, 1965. | Library of Congress exhibition lines 31-33 identify Sanders's DJD IV edition as the reference for the Psalms Scroll. | Direct edition-page custody for the exact column, line, reading, translation, reconstruction, and displayed-image relation. |
-| 4Q7 / 4Q Genesis | *Qumran Cave 4.VII: Genesis to Numbers*, Discoveries in the Judaean Desert 12, Oxford, 1994, indexed by IAA search as DJD 12:57-60 for 4Q7 / 4Q Gen g. | Current public metadata identifies the edition target, but this audit does not yet have stable rendered page text. | Direct edition-page custody from DJD 12 pages 57-60 before any exact Genesis reading, transcription, translation, reconstruction, or join claim. |
+| 4Q7 / 4Q Genesis | *Qumran Cave 4.VII: Genesis to Numbers*, Discoveries in the Judaean Desert 12, Oxford, 1994, indexed by IAA search as DJD 12:57-60 for 4Q7 / 4Q Gen g. | Public bibliographic sources identify the edition target, publisher, date, ISBN, and Genesis-section custody range, but this audit does not yet have stable rendered page text for the 4Q7 section. | Direct edition-page custody from DJD 12 pages 57-60 before any exact Genesis reading, transcription, translation, reconstruction, or join claim. |
 | B-298939 multi-manuscript boundary | Multiple manuscript labels on an IAA image record. | IAA image metadata supports the multi-manuscript image boundary. | Each listed manuscript needs its own edition custody before exact textual claims. |
 
 ## Claim Permissions

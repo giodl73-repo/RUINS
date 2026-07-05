@@ -21,7 +21,7 @@
 | Refusal quality | 6/7 | Refusal register blocks the main fragment/translation/reconstruction overclaims. |
 | Cultural-memory handling | 5/6 | Key afterlife surfaces are named with source limits and public-page anchors. |
 | Sibling boundary | 4/5 | Handoffs are clear. |
-| Source posture | 4/4 | Source lock, page-anchor audit, multi-example named image/metadata audit, MOTB authenticity-report audit, and edition-custody gate are complete for current stable-working-paper claims; cap prevents publication-ready overreach. |
+| Source posture | 4/4 | Source lock, page-anchor audit, multi-example named image/metadata audit, MOTB authenticity-report audit, edition-custody gate, and acquisition packet are complete for current stable-working-paper claims; cap prevents publication-ready overreach. |
 
 ## Blocking Findings
 
@@ -35,8 +35,8 @@ No `P1` findings.
 
 ## Next Lift
 
-1. PALIMPSEST adds direct edition-page anchors for any exact reading,
-   transcription, translation, join, or lacuna claim.
+1. PALIMPSEST obtains lawful DJD IV or DJD XII page access before any exact
+   reading, transcription, translation, join, or lacuna claim.
 2. ERRATA keeps named image/metadata examples separate from edition,
    translation, and reconstruction claims.
 3. ASHLAR reruns role review for publication-ready eligibility only after
