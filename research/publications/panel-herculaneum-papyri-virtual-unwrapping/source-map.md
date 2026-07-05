@@ -17,6 +17,8 @@
 | Prize/milestone pages | public research organization | Track afterlife and method-memory claims. |
 
 Current source boundaries are locked in [`source-lock.md`](source-lock.md).
+Current public-page anchors are audited in
+[`page-anchor-audit.md`](page-anchor-audit.md).
 
 ## Source Targets
 

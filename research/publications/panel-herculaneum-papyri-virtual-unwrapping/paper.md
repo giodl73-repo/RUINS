@@ -29,7 +29,8 @@ This case asks RUINS to separate:
 - recovered text from interpretation,
 - public lost-library memory from original-state evidence.
 
-For current source boundaries, use [`source-lock.md`](source-lock.md).
+For current source boundaries, use [`source-lock.md`](source-lock.md). For
+current public-page anchors, use [`page-anchor-audit.md`](page-anchor-audit.md).
 
 ## 2. What Survives
 
