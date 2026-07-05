@@ -32,8 +32,8 @@ public treasure/globalization memory.
 
 ## Next Work
 
-1. PALIMPSEST adds direct publication custody for core Pulak/Bass
-   publications.
+1. PALIMPSEST adds direct page custody for Pulak 1998 and core Pulak/Bass
+   campaign publications.
 2. ERRATA tests the new context-loss gate against route, cargo, and network
    overclaims.
 3. ASHLAR reruns review for candidate-to-active promotion of

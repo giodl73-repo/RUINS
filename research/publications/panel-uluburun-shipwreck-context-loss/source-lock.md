@@ -1,7 +1,7 @@
 # Source Lock: Uluburun Shipwreck Context Loss
 
 **Owner:** PALIMPSEST
-**Status:** public anchors locked
+**Status:** public and scholarly context anchors locked
 **Date:** 2026-07-05
 
 This source lock defines what RUINS may say in the first Uluburun working
@@ -11,6 +11,8 @@ claims, ownership claims, or sample-specific scientific conclusions.
 
 Public INA and NEH claims are line-anchored in
 [`page-anchor-audit.md`](page-anchor-audit.md).
+Scholarly context-loss method claims are anchored in
+[`publication-custody-audit.md`](publication-custody-audit.md).
 
 ## Locked Sources
 
@@ -18,9 +20,10 @@ Public INA and NEH claims are line-anchored in
 |---|---|---|---|---|
 | S1 | Institute of Nautical Archaeology, "Uluburun Late Bronze Age Shipwreck Excavation" | official project page | Public project custody for excavation years, location region, Late Bronze Age date framing, broad cargo classes, anchors/hull traces, and bibliography; line-anchored in page-anchor audit. | Not a detailed object catalogue or scholarly report. |
 | S2 | National Endowment for the Humanities, "Underwater Archaeology" | public institutional summary | Public context for INA development, Uluburun significance, broad cargo classes, funding, and Bodrum Museum partnership; line-anchored in page-anchor audit. | Public summary, not excavation or object-level custody. |
-| S3 | Pulak 1998, "The Uluburun Shipwreck: An Overview" | scholarly overview target | Core target for future detailed cargo, hull, route, and interpretation claims. | Bibliographic target only until direct page audit. |
-| S4 | Bass / Pulak campaign reports | excavation-report targets | Future campaign-level excavation custody. | Not used for exact claims in this draft. |
-| S5 | Bodrum Museum of Underwater Archaeology | museum-custody target | Future display/conservation custody. | Direct museum-page audit needed before display-specific claims. |
+| S3 | Pulak, "The Uluburun Shipwreck and Late Bronze Age Trade" | direct scholarly context source | Context-loss method, interpretive complexity, conservation/analysis afterlife, and bibliography bridge to campaign reports. | Does not authorize exact object counts, route closure, destination closure, ownership claims, or operational guidance. |
+| S4 | Pulak 1998, "The Uluburun Shipwreck: An Overview" | scholarly overview target | Core target for future detailed cargo, hull, route, and interpretation claims. | Bibliographic target only until direct page audit. |
+| S5 | Bass / Pulak campaign reports | excavation-report targets | Future campaign-level excavation custody. | Bibliographic bridge only; not used for exact claims in this draft. |
+| S6 | Bodrum Museum of Underwater Archaeology | museum-custody target | Future display/conservation custody. | Direct museum-page audit needed before display-specific claims. |
 
 ## Locked Claims
 
@@ -30,6 +33,8 @@ Public INA and NEH claims are line-anchored in
 | Excavation span | INA presents the excavation as running from 1984 to 1994. | S1 | Official public value |
 | Cargo classes | The wreck carried copper and tin ingots plus pottery, luxury goods, raw materials, personal effects, anchors, and hull traces in public project framing. | S1 / S2 | Source-specific public summary |
 | Context-loss rule | Cargo diversity supports questions about exchange and movement, not a complete route, destination, ownership, or economy. | Context-loss gate | RUINS refusal |
+| Wreck-context displacement | Excavation and conservation mediate the evidence because depth, slope, scatter, collapse, erosion, and object movement affect original context. | S3 | Source-specific scholarly method claim |
+| Interpretation boundary | Elite-dispatch or flow-of-goods language may be recorded as source-specific interpretation, not settled route, owner, or destination closure. | S3 / context-loss gate | Qualified interpretation only |
 | Museum / display boundary | Museum access and public display are modern custody and afterlife surfaces, not original operating context. | S2 / context-loss gate | Source-specific boundary |
 
 ## Paper Use Rules
@@ -50,3 +55,5 @@ Public INA and NEH claims are line-anchored in
   https://nauticalarch.org/projects/uluburun-late-bronze-age-shipwreck-excavation/
 - National Endowment for the Humanities, "Underwater Archaeology":
   https://www.neh.gov/project/underwater-archaeology
+- Cemal Pulak, "The Uluburun Shipwreck and Late Bronze Age Trade":
+  https://www.blackwoodconservation.org/wp-content/uploads/2019/07/Uluburun-Shipwreck-and-Late-Bronze-Age-Trade.pdf
