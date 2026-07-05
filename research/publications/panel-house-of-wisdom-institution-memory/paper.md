@@ -33,10 +33,11 @@ RUINS should not deny Abbasid scholarship in order to correct the myth. It
 should separate broader scholarly ecology, named institutional evidence,
 library/archive custody, destruction history, and cultural memory.
 
-For current locked source boundaries, use [`source-lock.md`](source-lock.md).
-The paper remains below publication-ready status because direct Brill/page
-custody for Gutas and van Bladel, direct Gutas monograph pages, Biran page
-anchors, and primary-source references still need audit.
+For current locked source boundaries, use [`source-lock.md`](source-lock.md) and
+[`page-anchor-audit.md`](page-anchor-audit.md). The paper remains below
+publication-ready status because direct Brill custody, direct Gutas monograph
+pages, article-page audit for Biran, and primary-source references still need
+audit.
 
 ## 2. What Survives
 

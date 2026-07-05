@@ -1,7 +1,7 @@
 # Source Lock: House of Wisdom Institution Memory
 
 **Owner:** PALIMPSEST
-**Status:** first source lock
+**Status:** page-audited source lock
 **Date:** 2026-07-04
 
 This source lock defines what RUINS may say about the Baghdad House of Wisdom in
@@ -9,14 +9,16 @@ this paper. It separates the named Bayt al-Hikma / Khizanat al-Hikma evidence,
 the broader Abbasid translation movement, the 1258 destruction context, and
 later golden-age/catastrophe memory.
 
+Current paper claims are anchored in [`page-anchor-audit.md`](page-anchor-audit.md).
+
 ## Locked Sources
 
 | ID | Source | Type | Locked use | Limits |
 |---|---|---|---|---|
-| S1 | Dimitri Gutas and Kevin van Bladel, "Bayt al-Hikma," *Encyclopaedia of Islam Three* | scholarly reference article | Core institutional boundary: palace library, sparse source record, terms Bayt/Khizanat al-Hikma, critique of modern academy/university/translation-center myth. | Academia copy used for access; direct Brill/page custody still needed before publication-ready status. |
+| S1 | Dimitri Gutas and Kevin van Bladel, "Bayt al-Hikma," *Encyclopaedia of Islam Three* | scholarly reference article | Core institutional boundary: palace library, sparse source record, terms Bayt/Khizanat al-Hikma, critique of modern academy/university/translation-center myth. | Accessible copy page-audited; direct Brill custody still needed before publication-ready status. |
 | S2 | Dimitri Gutas, *Greek Thought, Arabic Culture* | monograph / source target | Source target for broader Graeco-Arabic translation-movement context and critique of over-centralizing Bayt al-Hikma. | Bibliographic lock only in this pass; no page-specific claims. |
 | S3 | Chandio et al., "The Significance of the Bayt al-Hikma..." | synthetic article / contrary tradition | Evidence that a more expansive scholarly tradition presents Bayt al-Hikma as institute, observatory, translation office, and library. | Use as interpretive contrast, not final authority. |
-| S4 | Michal Biran, "Libraries, Books, and Transmission of Knowledge in Ilkhanid Baghdad" | peer-reviewed article / destruction-memory corrective | Source target for caution that library-destruction imagery after 1258 should not be treated as total intellectual closure. | Abstract/metadata lock only; page audit needed for detailed claims. |
+| S4 | Michal Biran, "Libraries, Books, and Transmission of Knowledge in Ilkhanid Baghdad" | peer-reviewed article / destruction-memory corrective | Caution that library-destruction imagery after 1258 should not be treated as total intellectual closure. | Abstract/metadata page-audited; article-page audit needed for detailed claims. |
 | S5 | University of Delhi course PDF, "House of Wisdom" | public teaching summary | Public-facing summary of dispute over function, lack of physical evidence, 1258 destruction context, and broader Baghdad scholarly ecology. | Teaching summary; not primary source custody. |
 | S6 | 1001 Inventions, "The House of Wisdom: Baghdad's Intellectual Powerhouse" | public-memory surface | Modern golden-age and public-intellectual image of the House of Wisdom. | Use as cultural-memory evidence, not medieval evidence. |
 

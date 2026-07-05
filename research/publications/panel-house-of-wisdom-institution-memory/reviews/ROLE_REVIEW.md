@@ -8,7 +8,7 @@
 
 | Role | Finding | Severity |
 |---|---|---|
-| Fragment Custodian | The paper now source-locks the institution as a named source tradition and palace-library problem rather than a bounded surviving object. | Clear |
+| Fragment Custodian | The paper now source-locks and page-audits the institution as a named source tradition and palace-library problem rather than a bounded surviving object. | Clear |
 | Absence Historian | The chronology separates Abbasid scholarly ecology, named institution, 1258 destruction, and later memory. | Clear |
 | Reconstruction Skeptic | Refusals block university, sole-center, total-loss, and river-of-ink overclaims. | Clear |
 | Cultural Memory Reader | Golden-age and catastrophe memory are treated as afterlife evidence. | Clear |
@@ -24,14 +24,15 @@ None.
   near-primary source traditions.
 - Add direct Brill/page custody for Gutas / van Bladel and direct Gutas
   monograph pages before publication-ready status.
-- Add Biran page anchors and at least one source-specific 1258 destruction
-  audit before publication-ready status.
+- Add article-page audit for Biran and at least one source-specific 1258
+  destruction audit before publication-ready status.
 - Separate 1258 destruction evidence from later catastrophe images with source
   custody.
 
 ## ASHLAR Decision
 
-The paper is a stable working paper. It adds a useful RUINS case type:
-institutional memory under partial survival. The first source lock distinguishes
-named-institution evidence from public memory, but publication-ready status
-requires direct page custody for the institution and destruction claims.
+The paper is a high stable working paper. It adds a useful RUINS case type:
+institutional memory under partial survival. The source lock and page-anchor
+audit distinguish named-institution evidence from public memory, but
+publication-ready status requires direct primary/near-primary and Brill/article
+page custody.
