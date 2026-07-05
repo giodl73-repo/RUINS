@@ -1,21 +1,24 @@
 # Source Lock: Kyrenia Reconstruction Context Loss
 
 **Owner:** PALIMPSEST
-**Status:** first source lock
+**Status:** public/source-summary anchors locked
 **Date:** 2026-07-05
 
 This source lock permits broad, source-scoped Kyrenia claims. It does not
 authorize exact amphora counts, object identities, route closure, crew identity,
 owner identity, replica-performance claims, or excavation/campaign detail.
 
+Current public and source-summary claims are line-anchored in
+[`page-anchor-audit.md`](page-anchor-audit.md).
+
 ## Locked Sources
 
 | ID | Source | Type | Locked use | Limits |
 |---|---|---|---|---|
-| K1 | Institute of Nautical Archaeology, "Kyrenia Shipwreck Excavation" | official project page | Discovery/excavation summary, broad cargo classes, hull preservation, conservation, reconstruction, and bibliography. | Public project custody only. |
-| K2 | Casemate/Oxbow, "The Kyrenia Ship Final Excavation Report, Volume I" | publisher metadata and summary | Publication identity, chapter scope, broad dating/cargo/hull significance summary. | Not direct chapter/page custody. |
-| K3 | Cornell Chronicle, "Almonds, pottery and wood help date famed Kyrenia shipwreck" | university research summary | Revised dating, PEG contamination issue, reassembly/study afterlife, and science-summary context. | Not a substitute for the PLOS ONE article or sample table. |
-| K4 | Kyrenia Ship virtual museum | public digital catalog surface | Modern catalog/research database afterlife and object-count surface. | Not original context or object-level custody. |
+| K1 | Institute of Nautical Archaeology, "Kyrenia Shipwreck Excavation" | official project page | Discovery/excavation summary, broad cargo classes, hull preservation, conservation, reconstruction, and bibliography; line-anchored in page-anchor audit. | Public project custody only. |
+| K2 | Casemate/Oxbow, "The Kyrenia Ship Final Excavation Report, Volume I" | publisher metadata and summary | Publication identity, chapter scope, broad dating/cargo/hull significance summary; line-anchored in page-anchor audit. | Not direct chapter/page custody. |
+| K3 | Cornell Chronicle, "Almonds, pottery and wood help date famed Kyrenia shipwreck" | university research summary | Revised dating, PEG contamination issue, reassembly/study afterlife, and science-summary context; line-anchored in page-anchor audit. | Not a substitute for the PLOS ONE article or sample table. |
+| K4 | Kyrenia Ship virtual museum | public digital catalog surface | Modern catalog/research database afterlife and object-count surface; line-anchored in page-anchor audit. | Not original context or object-level custody. |
 
 ## Locked Claims
 
