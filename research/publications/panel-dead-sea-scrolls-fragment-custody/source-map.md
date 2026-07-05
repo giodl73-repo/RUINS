@@ -24,6 +24,8 @@ Named image/metadata anchors are audited in
 [`named-fragment-anchor-audit.md`](named-fragment-anchor-audit.md).
 MOTB authenticity-report custody is audited in
 [`authenticity-report-audit.md`](authenticity-report-audit.md).
+Edition custody remains gated in
+[`edition-custody-gate.md`](edition-custody-gate.md).
 
 ## Source Targets
 
@@ -45,7 +47,7 @@ MOTB authenticity-report custody is audited in
 | Classification and language/script caution anchors | Complete for current public-boundary claims. |
 | Publication-history anchors | Complete for current public-history claims. |
 | Specific fragment image/metadata anchors | Complete for current 11Q5 / 11Q Psalms, 4Q7 / 4Q Genesis, and multi-manuscript boundary examples. |
-| Direct edition-page / transcription / translation anchors | Not yet complete. |
+| Direct edition-page / transcription / translation anchors | Open gate; targets identified, page custody not complete. |
 | Direct authenticity-report anchors | Complete for MOTB 16-fragment set only. |
 
 ## Source Questions

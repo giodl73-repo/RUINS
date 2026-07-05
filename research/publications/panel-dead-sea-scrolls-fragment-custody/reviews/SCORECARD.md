@@ -21,7 +21,7 @@
 | Refusal quality | 6/7 | Refusal register blocks the main fragment/translation/reconstruction overclaims. |
 | Cultural-memory handling | 5/6 | Key afterlife surfaces are named with source limits and public-page anchors. |
 | Sibling boundary | 4/5 | Handoffs are clear. |
-| Source posture | 4/4 | Source lock, page-anchor audit, multi-example named image/metadata audit, and MOTB authenticity-report audit are complete for current stable-working-paper claims; cap prevents publication-ready overreach. |
+| Source posture | 4/4 | Source lock, page-anchor audit, multi-example named image/metadata audit, MOTB authenticity-report audit, and edition-custody gate are complete for current stable-working-paper claims; cap prevents publication-ready overreach. |
 
 ## Blocking Findings
 
@@ -39,4 +39,5 @@ No `P1` findings.
    transcription, translation, join, or lacuna claim.
 2. ERRATA keeps named image/metadata examples separate from edition,
    translation, and reconstruction claims.
-3. ASHLAR reruns role review for publication-ready eligibility.
+3. ASHLAR reruns role review for publication-ready eligibility only after
+   edition-page custody is closed, not merely targeted.

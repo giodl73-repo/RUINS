@@ -8,7 +8,7 @@
 
 | Role | Finding | Severity |
 |---|---|---|
-| Fragment Custodian | The source lock, page-anchor audit, multi-example named image/metadata audit, and MOTB authenticity-report audit make the custody ladder operational for current public claims. | Clear |
+| Fragment Custodian | The source lock, page-anchor audit, multi-example named image/metadata audit, MOTB authenticity-report audit, and edition-custody gate make the custody ladder operational for current public claims. | Clear |
 | Absence Historian | The chronology treats fragmentation, discovery, publication, reconstruction, and authenticity disputes as separate layers. | Clear |
 | Reconstruction Skeptic | Refusals block translation-as-fragment, lacuna-as-survival, identifier certainty, and corpus-wide forgery overclaims. | Clear |
 | Cultural Memory Reader | Scripture, secrecy, treasure, museum display, and forgery drama are treated as afterlife surfaces with source-specific limits. | Clear |
@@ -27,7 +27,8 @@ None.
 ## ASHLAR Decision
 
 The paper remains a stable working paper. The source lock, page-anchor audit,
-multi-example named image/metadata audit, and MOTB authenticity-report audit now
-make the fragment/image/metadata/edition/translation/reconstruction/provenance/
+multi-example named image/metadata audit, MOTB authenticity-report audit, and
+edition-custody gate now make the
+fragment/image/metadata/edition/translation/reconstruction/provenance/
 authenticity ladder operational for current public claims. The paper is not
-publication-ready until edition-page custody is audited.
+publication-ready until edition-page custody is closed, not merely targeted.

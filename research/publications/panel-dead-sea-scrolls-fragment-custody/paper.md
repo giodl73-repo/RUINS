@@ -39,7 +39,8 @@ examples, use
 MOTB authenticity-report custody, use
 [`authenticity-report-audit.md`](authenticity-report-audit.md). The paper
 remains below publication-ready status because edition-page custody and
-translation examples still need audit before specific readings are used.
+translation examples still need audit before specific readings are used; see
+[`edition-custody-gate.md`](edition-custody-gate.md).
 
 ## 2. What Survives
 
