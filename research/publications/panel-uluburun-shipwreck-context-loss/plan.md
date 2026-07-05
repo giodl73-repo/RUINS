@@ -2,7 +2,7 @@
 
 **Module:** RUINS
 **Track:** Shipwrecks and Context Loss
-**Status:** working draft
+**Status:** activation-ready working paper
 **Position in chain:** first shipwreck context-loss case after capability roadmap
 
 ## Research Question

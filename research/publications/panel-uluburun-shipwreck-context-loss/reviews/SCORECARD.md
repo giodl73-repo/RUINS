@@ -44,8 +44,8 @@ None for the current draft.
 
 ## Next Lift
 
-1. ASHLAR reruns role review for possible activation of
-   `ruins-capability:shipwreck-context-loss`.
+1. Test `ruins-capability:shipwreck-context-loss` on a second shipwreck paper
+   before core promotion.
 2. If future drafts add exact cargo, route, hull, stowage, or object claims,
    PALIMPSEST adds direct page custody for the relevant campaign report,
    catalogue, or specialist study before the claim appears.

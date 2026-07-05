@@ -49,7 +49,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
 | `ruins-capability:scope-gated-publication` | Scope-gated publication | Core | House and Dead Sea Scrolls promote by refusing exact claims under explicit gates; see `docs/capability-promotions/scope-gated-publication.md`. | House of Wisdom / Dead Sea Scrolls |
-| `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | Candidate | Antikythera pressure identified; needs future wreck-specific paper. | Antikythera / future wreck cases |
+| `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | Active | Uluburun context-loss gate, source audits, refusal register, role review, and scorecard; see `docs/capability-promotions/shipwreck-context-loss.md`. | Uluburun |
 | `ruins-capability:source-lock-escalation` | Source-lock escalation | Core | Automatic caps and repeated scorecard practice; see `docs/capability-promotions/source-lock-escalation.md`. | Great Zimbabwe / House of Wisdom |
 
 ## Repeated Rubric Gaps

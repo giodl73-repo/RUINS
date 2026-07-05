@@ -25,4 +25,5 @@ active to core.
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |
 | Scope-gated publication | Active -> Core | [`scope-gated-publication.md`](scope-gated-publication.md) |
+| Shipwreck context loss | Candidate -> Active | [`shipwreck-context-loss.md`](shipwreck-context-loss.md) |
 | Source-lock escalation | Candidate -> Core | [`source-lock-escalation.md`](source-lock-escalation.md) |

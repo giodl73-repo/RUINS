@@ -16,12 +16,13 @@ Candidate capabilities need a trigger paper.
 | `ruins-capability:colonial-denial-register` | Active from Great Zimbabwe. | A second colonial-denial paper shows the register works beyond Great Zimbabwe and is not just topic-specific. | Benin bronzes provenance memory, Mound Builder denial, Mapungubwe, Great Serpent Mound, or Zimbabwe-adjacent regional cases. |
 | `ruins-capability:catastrophe-image-audit` | Active from Alexandria / House of Wisdom. | Add a dedicated catastrophe-image checklist or a third paper that separates vivid destruction image, source tradition, material loss, and later memory. | Nalanda, Qin book burning, Baghdad 1258 companion, Timbuktu manuscripts, or Lisbon earthquake libraries. |
 | `ruins-capability:deliberate-textual-destruction` | Active from Maya codices. | A second deliberate-destruction paper tests whether this is distinct from broader destroyed-corpus custody. | Qin book burning, Nalanda manuscript loss, Timbuktu manuscript threat, Reformation image/book destruction, or wartime archives. |
+| `ruins-capability:shipwreck-context-loss` | Active from Uluburun. | A second shipwreck paper proves the context-loss gate works beyond a spectacular cargo assemblage and can handle another recovery/display/context pattern. | Kyrenia ship, Antikythera wreck companion, Belitung shipwreck, Mary Rose, or Yenikapi wrecks. |
 
 ## Candidate To Active
 
 | Capability | Candidate pressure | Activation trigger | Good next paper pressure |
 |---|---|---|---|
-| `ruins-capability:shipwreck-context-loss` | Recovered cargo/artifact survives while operating context is damaged or displaced. | A shipwreck paper creates a context-loss gate separating object, cargo, wreck site, recovery, market/display custody, and original operating system. | Uluburun shipwreck, Kyrenia ship, Antikythera wreck companion, Belitung shipwreck, or Mary Rose. |
+| _None currently queued_ | Add the next candidate when a paper plan names a new pressure surface. | A reviewed paper creates a gate, register, cap, or refusal pattern. | Prefer cases that stress a new evidence condition. |
 
 ## Paper Selection Heuristic
 
@@ -38,9 +39,9 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Shipwreck context-loss paper** - best new candidate activation; likely
-   first target is Uluburun or Kyrenia because cargo, recovery, reconstruction,
-   and display/context boundaries are visible.
+1. **Second shipwreck context-loss paper** - tests whether the Uluburun gate
+   generalizes; likely targets are Kyrenia, Antikythera companion, Belitung,
+   Mary Rose, or Yenikapi.
 2. **Second partial-technical-transmission paper** - turns Roman concrete's
    active capability into a cross-technique method.
 3. **Second colonial-denial paper** - tests whether the Great Zimbabwe register

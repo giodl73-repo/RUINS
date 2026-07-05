@@ -1,7 +1,7 @@
 # Role Review: Uluburun Shipwreck Context Loss
 
 **Date:** 2026-07-05
-**Review status:** current-draft P2s closed
+**Review status:** capability activated
 **Synthesis owner:** ASHLAR
 
 ## Panel Findings
@@ -35,15 +35,14 @@ None for the current draft.
 
 ## P3 Carry-Forward
 
-- Decide whether `ruins-capability:shipwreck-context-loss` can move from
-  candidate to active after a second role review.
+- Test `ruins-capability:shipwreck-context-loss` on a second shipwreck paper
+  before core promotion.
 - Add route/destination source custody only if a future paper version makes
   route claims.
 - Add object-level catalogue custody only if specific artifacts become central.
 
 ## ASHLAR Decision
 
-The paper is ready for an activation review of
-`ruins-capability:shipwreck-context-loss`. Current-draft claims have custody;
-exact campaign, object, route, destination, owner, crew, hull, and stowage
-claims remain future-locked.
+Promote `ruins-capability:shipwreck-context-loss` to active. Current-draft
+claims have custody; exact campaign, object, route, destination, owner, crew,
+hull, and stowage claims remain future-locked.

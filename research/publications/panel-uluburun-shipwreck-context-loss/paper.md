@@ -1,7 +1,7 @@
 # Uluburun Shipwreck Context Loss
 
 **Authors:** draft
-**Status:** working draft
+**Status:** activation-ready working paper
 **Date:** 2026-07-05
 
 ## Abstract
@@ -91,7 +91,7 @@ shipwreck-specific capability test, use
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this working draft:
+RUINS refuses the following claims in this activation-ready draft:
 
 - It will not publish a route map.
 - It will not identify the ship's destination as settled.
