@@ -64,6 +64,7 @@ Follow-up:
 | 2026-07-04 | Extension | Great Zimbabwe | Add interpretive violence, damaged custody, and colonial denial as valid RUIN conditions. |
 | 2026-07-04 | Extension | House of Wisdom | Add institutional memory where a named institution, broader ecology, destruction, and later public image diverge. |
 | 2026-07-04 | Refinement | All publication-ready case papers | Require operational refusal registers for mature case papers. |
+| 2026-07-05 | Extension | Herculaneum papyri virtual unwrapping | Add mediated recovery custody: scan, segmentation, model output, scholarly transcription, edition status, and public milestone must be gated separately before publication claims. |
 
 ## Re-Scoring Rule
 

@@ -21,6 +21,7 @@ custody, segmentation, ink detection, scholarly reading, and public memory.
 | S7 | AWS Open Data registry | dataset registry | Lines 4-8 and 14-24 identify reconstructed micro-CT volumes, carbonized Herculaneum papyri, OME-Zarr distribution, license, docs, and manager. | Dataset custody, not interpretation. |
 | S8 | UK Digital Restoration Initiative | institutional project source | Lines 73-74 define damaged texts, invisible-library framing, and virtual unwrapping as noninvasive tools. | Institutional context, not textual proof. |
 | S9 | ScrollPrize open-data documentation | dataset documentation | Lines 220-338 and 374-439 identify sample directories, volumes, segments, representations, ink-output filenames, ID conventions, access, citation, and license. | Object/data custody only; not recovered-text custody. |
+| S10 | Angelotti et al., arXiv:2606.29085 | scholarly/technical preprint | Lines 14-22 identify title, authors, submission date, PHerc. 1667 complete virtual unwrapping/read claim under papyrological-review criteria, PHerc. Paris 4 validation, and PHerc. 139 title/author-attribution evidence. | Source-scoped scholarly custody; not final critical edition or extended quotation permission. |
 
 ## Locked Values And Claims
 
@@ -30,6 +31,7 @@ custody, segmentation, ink detection, scholarly reading, and public memory.
 | Method layers | Representation, geometric reconstruction, and ink detection are distinct problems. | S1 / S2 | Project/source-specific |
 | Dataset custody | Vesuvius Challenge scan data includes reconstructed micro-CT volumes distributed as OME-Zarr. | S7 | Dataset custody |
 | Object/path custody | Sample, volume, segment, representation, and ink-output IDs may be named as dataset artifacts when path-scoped. | S9 | Dataset artifact custody |
+| Scholarly text custody | PHerc. 1667, PHerc. Paris 4, and PHerc. 139 claims may be named only as source-scoped claims from the 2026 preprint. | S10 | Scholarly preprint custody |
 | EduceLab method | The technical pipeline combines CT images, machine learning, geometry, labels, and verification methods. | S4 / S6 | Technical source custody |
 | Destructive opening caution | Earlier physical opening produced text and scholarship but also destroyed or fragmented scroll material. | S3 / S5 | Source-specific caution |
 | AI miracle refusal | Public AI-recovery narratives cannot substitute for scan, model, text, and scholarly custody. | S1 / S6 / S8 | RUINS refusal |
@@ -56,3 +58,6 @@ custody, segmentation, ink detection, scholarly reading, and public memory.
   https://registry.opendata.aws/vesuvius-challenge-herculaneum-scrolls/
 - University of Kentucky Digital Restoration Initiative:
   https://www2.cs.uky.edu/dri/
+- Angelotti et al., *Complete virtual unwrapping and reading of a rolled
+  Herculaneum papyrus*:
+  https://arxiv.org/abs/2606.29085

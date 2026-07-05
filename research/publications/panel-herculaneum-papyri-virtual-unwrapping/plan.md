@@ -1,6 +1,6 @@
 # Plan: Herculaneum Papyri Virtual Unwrapping
 
-**Status:** stable working paper
+**Status:** publication-ready
 **Owner:** ASHLAR
 **Date:** 2026-07-05
 

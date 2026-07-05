@@ -23,6 +23,8 @@ Object-level scan/data custody is gated in
 [`data-custody-gate.md`](data-custody-gate.md).
 Model-output claim boundaries are gated in
 [`model-output-custody-gate.md`](model-output-custody-gate.md).
+Scholarly recovered-text and work-identity boundaries are gated in
+[`scholarly-text-custody-gate.md`](scholarly-text-custody-gate.md).
 
 ## Source Targets
 
@@ -31,6 +33,7 @@ Model-output claim boundaries are gated in
 | Vesuvius Challenge overview and milestone pages | Public project state, open problems, timeline, and milestone claims. | Project/public custody; not final scholarly edition. |
 | ScrollPrize open-data documentation | Sample, volume, segment, representation, and ink-output path custody. | Dataset artifact custody, not textual interpretation. |
 | Parsons et al., EduceLab-Scrolls arXiv paper | Method, dataset, label, and verification boundary. | Technical preprint; exact readings still need scholarly custody. |
+| Angelotti et al., 2026 arXiv preprint | Source-scoped scholarly custody for complete virtual unwrapping, papyrological review criteria, validation, and title/author-attribution claims. | Preprint custody; no extended quotation or independent interpretation. |
 | AWS Open Data registry | Open CT-volume dataset custody and license/access metadata. | Dataset custody, not textual interpretation. |
 | University of Kentucky Digital Restoration Initiative | Virtual unwrapping lineage and noninvasive restoration framing. | Institutional project context, not textual proof. |
 | NEH and other public accounts | Public funding/recovery memory. | Context only unless primary technical or scholarly custody is needed. |

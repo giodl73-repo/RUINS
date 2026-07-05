@@ -7,7 +7,9 @@ Use [`source-lock.md`](source-lock.md) for current claim boundaries. Use
 [`data-custody-gate.md`](data-custody-gate.md) for sample, volume, segment,
 representation, and ink-output IDs. Use
 [`model-output-custody-gate.md`](model-output-custody-gate.md) for model-output
-claim boundaries.
+claim boundaries. Use
+[`scholarly-text-custody-gate.md`](scholarly-text-custody-gate.md) for
+source-scoped recovered-text and work-identity boundaries.
 
 ## Claim Grades
 
@@ -22,6 +24,8 @@ claim boundaries.
 | A sample or volume ID can be cited as a dataset artifact. | Dataset-path custody | Allowed only as path/metadata custody, not text custody. |
 | An ink-output path is a transcription. | Refuse | It is model-output custody, not text custody. |
 | A model output can support candidate ink evidence. | Model/path-scoped | Allowed only with model, artifact, and uncertainty boundaries. |
+| PHerc. 1667 was fully virtually unwrapped/read under review criteria. | Source-scoped scholarly custody | Allowed only as a claim from Angelotti et al.; do not quote extended text here. |
+| PHerc. 139 title/author attribution identifies Philodemus, On Gods, Book 8. | Source-scoped scholarly custody | Allowed only as a claim from Angelotti et al.; no independent interpretation. |
 
 ## Phrases To Challenge
 

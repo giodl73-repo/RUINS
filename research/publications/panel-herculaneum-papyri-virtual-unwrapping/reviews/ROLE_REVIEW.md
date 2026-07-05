@@ -1,7 +1,7 @@
 # Role Review: Herculaneum Papyri Virtual Unwrapping
 
 **Date:** 2026-07-05
-**Review status:** stable working paper
+**Review status:** publication-ready
 **Synthesis owner:** ASHLAR
 
 ## Panel Findings
@@ -10,7 +10,7 @@
 |---|---|---|
 | Fragment Custodian | The source lock, page-anchor audit, and data-custody gate separate scroll object, CT volume, segmentation, labels, model output, text reading, and public milestone. | Clear |
 | Absence Historian | The chronology keeps burial, destructive opening, noninvasive scanning, and computational recovery distinct. | Clear |
-| Reconstruction Skeptic | Refusals and the model-output gate block CT-as-text, model-output-as-transcription, and AI-recovered-library overclaims. | Clear |
+| Reconstruction Skeptic | Refusals, the model-output gate, and the scholarly-text gate block CT-as-text, model-output-as-transcription, and AI-recovered-library overclaims. | Clear |
 | Cultural Memory Reader | Lost-library and AI-miracle narratives are treated as afterlife surfaces. | Clear |
 | Sibling Boundary Editor | Handoffs prevent drift into ML implementation, Greek text editions, work identity, Roman history, and site geography. | Clear |
 
@@ -20,15 +20,18 @@ None.
 
 ## P2 Findings
 
-- Add direct scholarly custody before any exact recovered text, author, title,
-  work, doctrine, or translation claim.
-- Keep model outputs below exact text status until review, transcription, and
-  scholarly custody are named.
+None.
+
+## P3 Carry-Forward
+
+- Do not add extended Greek quotations, translations, or independent
+  philological interpretation without a separate quotation/source audit.
+- Treat Angelotti et al. as preprint custody, not final critical-edition
+  custody.
 
 ## ASHLAR Decision
 
-The paper is a stable working paper. It adds a needed digitally mediated
-survival case to RUINS, and the page-anchor audit, data-custody gate, and
-model-output custody gate now support current public, dataset-artifact, and
-model-output claims. It is not publication-ready until scholarly text custody
-is audited.
+The paper is publication-ready as a RUINS methodology case. It does not publish
+exact recovered Greek text or independent philological interpretation, and its
+current scholarly recovered-text/work claims are source-scoped through the 2026
+preprint.

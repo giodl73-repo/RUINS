@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.1
+**Version:** v1.2
 
 RUINS uses two different review instruments:
 
@@ -48,6 +48,7 @@ capability or exposes a new one:
 | Custody damage | Did recovery, looting, restoration, dispersal, interpretation, or edition history damage the evidence bridge? |
 | Memory afterlife | Is later memory classified without upgrading original-state claims? |
 | Reconstruction status | Are models, restorations, replicas, translations, and public images labeled separately? |
+| Mediated recovery custody | If evidence passes through scans, models, transcriptions, editions, or public announcements, are those custody layers gated separately before publication claims? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -62,6 +63,7 @@ capability or exposes a new one:
 | No role review | 37 |
 | No source lock for a case paper | 42 |
 | Publication makes a live translation, identification, or reconstruction claim without source lock | 29 |
+| Publication treats a scan, model output, preprint, prize page, or public announcement as final scholarly text/status without a custody gate | 34 |
 
 ## Scoring Procedure
 

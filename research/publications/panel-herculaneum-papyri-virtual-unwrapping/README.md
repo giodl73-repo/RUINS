@@ -11,6 +11,7 @@ Paper `panel-herculaneum-papyri-virtual-unwrapping` in the [RUINS](../../) modul
 - [**page-anchor-audit.md** - page anchors for current stable claims](page-anchor-audit.md)
 - [**data-custody-gate.md** - object-level scan/data custody gate](data-custody-gate.md)
 - [**model-output-custody-gate.md** - model-output claim boundaries](model-output-custody-gate.md)
+- [**scholarly-text-custody-gate.md** - scholarly text/work claim boundaries](scholarly-text-custody-gate.md)
 - [**chronology.md** - burial, damage, opening, scanning, and reading layers](chronology.md)
 - [**claim-audit.md** - scan, model, ink, text, and interpretation claim checks](claim-audit.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)

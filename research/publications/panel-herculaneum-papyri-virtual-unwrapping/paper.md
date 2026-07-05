@@ -1,7 +1,7 @@
 # Herculaneum Papyri Virtual Unwrapping
 
 **Authors:** draft
-**Status:** stable working paper
+**Status:** publication-ready
 **Date:** 2026-07-05
 
 ## Abstract
@@ -34,6 +34,8 @@ current public-page anchors, use [`page-anchor-audit.md`](page-anchor-audit.md).
 For sample, volume, segment, representation, and ink-output IDs, use
 [`data-custody-gate.md`](data-custody-gate.md). For model-output claim
 boundaries, use [`model-output-custody-gate.md`](model-output-custody-gate.md).
+For source-scoped scholarly recovered-text and work-identity boundaries, use
+[`scholarly-text-custody-gate.md`](scholarly-text-custody-gate.md).
 
 ## 2. What Survives
 
