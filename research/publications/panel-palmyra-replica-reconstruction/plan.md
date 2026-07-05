@@ -32,8 +32,7 @@ authorize reconstruction at the World Heritage property.
 
 ## Next Work
 
-1. PALIMPSEST adds direct project documentation for any exact replica dimensions
-   or material claims.
+1. PALIMPSEST adds a restoration-methodology audit or refusal gate.
 2. STRATA expands the destruction chronology across Temple of Bel, Arch of
    Triumph, theatre, Tetrapylon, museum, and recovery governance.
 3. ASHLAR reruns review if the paper adds exact reconstruction plans or site

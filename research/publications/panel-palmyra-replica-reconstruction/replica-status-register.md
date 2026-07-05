@@ -9,6 +9,7 @@
 | Arch of Triumph original | Destroyed/damaged original feature | Destruction can be named through UNESCO. | Replica-as-original. |
 | IDA/Oxford arch | Public replica / scale facsimile | Public reconstruction/memory object. | Site restoration or replacement original. |
 | Digital model | Mediated documentation/model | Documentation and modelling evidence. | Conservation approval or exact reconstruction truth. |
+| Public replica specifications | Project-public description | May describe source-scoped scale, weight, modelling, and machining claims. | Engineering/conservation specs or original-monument specs. |
 | Future restoration | Governance-bound intervention | Needs assessment, methodology, and state-party/World Heritage process. | Public project approval by default. |
 
 ## Rule

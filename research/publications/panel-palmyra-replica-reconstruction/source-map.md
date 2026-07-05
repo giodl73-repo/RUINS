@@ -12,10 +12,12 @@
 | Institute for Digital Archaeology Triumphal Arch page | Public replica announcement and 3D-technology framing. | Source-locked. |
 | IDA media page / Oxford impact story | Replica scale/status, photogrammetry, machining, travel, public art debate. | Source-locked. |
 | Page-anchor audit | Current stable claims and remaining specification/methodology gates. | Complete. |
+| Replica-specification gate | Project-public specs versus engineering/conservation claims. | Complete for current paper scope. |
 
 ## Source Need
 
-Before publication-ready status, add direct project documentation for exact
-dimensions/materials and a restoration-methodology audit. Add source separation
-before extending beyond the current Arch of Triumph claim to Temple of Bel,
-theatre, Tetrapylon, museum, or other damaged features.
+Before publication-ready status, add a restoration-methodology audit or refusal
+gate. Add direct project documentation before making engineering, conservation,
+or structural claims from replica specifications. Add source separation before
+extending beyond the current Arch of Triumph claim to Temple of Bel, theatre,
+Tetrapylon, museum, or other damaged features.
