@@ -41,11 +41,11 @@ core. Concrete promotion records live under
 | `ruins-capability:institutional-memory-boundary` | Institutional memory boundary | Core | House of Wisdom amendment and primary-source custody gate. | House of Wisdom |
 | `ruins-capability:catastrophe-image-audit` | Catastrophe image audit | Active | Alexandria/House refusal patterns for vivid loss imagery. | House of Wisdom / Alexandria |
 | `ruins-capability:fragment-custody-ladder` | Fragment custody ladder | Core | Dead Sea Scrolls publication-scope gate and automatic source-lock cap logic. | Indus / Dead Sea Scrolls |
-| `ruins-capability:mediated-recovery-custody` | Mediated recovery custody | Core | Herculaneum amendment; rubric check and automatic cap. | Herculaneum papyri |
+| `ruins-capability:mediated-recovery-custody` | Mediated recovery custody | Core | Herculaneum amendment; rubric check and automatic cap; see `docs/capability-promotions/mediated-recovery-custody.md`. | Herculaneum papyri |
 | `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Active | Maya destruction chronology and refusal gates. | Maya codices |
-| `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap. | Maya codices |
-| `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap. | Palmyra |
-| `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap. | Vinland |
+| `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
+| `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
+| `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
 | `ruins-capability:scope-gated-publication` | Scope-gated publication | Core | House and Dead Sea Scrolls promote by refusing exact claims under explicit gates; see `docs/capability-promotions/scope-gated-publication.md`. | House of Wisdom / Dead Sea Scrolls |
 | `ruins-capability:shipwreck-context-loss` | Shipwreck context loss | Candidate | Antikythera pressure identified; needs future wreck-specific paper. | Antikythera / future wreck cases |
 | `ruins-capability:source-lock-escalation` | Source-lock escalation | Core | Automatic caps and repeated scorecard practice. | Great Zimbabwe / House of Wisdom |
