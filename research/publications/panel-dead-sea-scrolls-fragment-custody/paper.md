@@ -33,10 +33,12 @@ This case asks:
 
 For current source boundaries and the fragment-custody ladder, use
 [`source-lock.md`](source-lock.md). For current public-page anchors, use
-[`page-anchor-audit.md`](page-anchor-audit.md). The paper remains below
-publication-ready status because edition-page custody, translation examples,
-named-fragment image/metadata anchors, and direct authenticity reports still
-need audit before specific readings or fragments are used.
+[`page-anchor-audit.md`](page-anchor-audit.md). For a first named
+image/metadata example, use
+[`named-fragment-anchor-audit.md`](named-fragment-anchor-audit.md). The paper
+remains below publication-ready status because edition-page custody,
+translation examples, and direct authenticity reports still need audit before
+specific readings or authenticity claims are used.
 
 ## 2. What Survives
 
@@ -67,6 +69,7 @@ need audit before specific readings or fragments are used.
 |---|---|---|
 | Dead Sea Scrolls fragments survive materially. | Observed / source-specific | Direct fragments exist, but exact fragment claims need source custody. |
 | A photograph or digital image preserves a useful witness. | Source-specific | Image custody is mediated and must name source/plate. |
+| 11Q5 / 11Q Psalms image records can illustrate image custody. | Source-specific | Named IAA/Leon Levy records anchor image id, plate, image type, side, manuscript label, and fragment relation only. |
 | A transcription or edition equals the fragment. | Refuse | Edition is scholarly mediation. |
 | A translation equals surviving wording. | Refuse | Translation is interpretation. |
 | A reconstructed lacuna is ancient text. | Refuse | Reconstruction is not survival unless marked and constrained. |

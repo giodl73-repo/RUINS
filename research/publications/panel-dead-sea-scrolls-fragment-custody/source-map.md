@@ -20,6 +20,8 @@
 Current source boundaries are locked in [`source-lock.md`](source-lock.md).
 Current public-page anchors are audited in
 [`page-anchor-audit.md`](page-anchor-audit.md).
+Named image/metadata anchors are audited in
+[`named-fragment-anchor-audit.md`](named-fragment-anchor-audit.md).
 
 ## Source Targets
 
@@ -40,7 +42,7 @@ Current public-page anchors are audited in
 | Official digital-library project anchors | Complete for current image/metadata/process claims. |
 | Classification and language/script caution anchors | Complete for current public-boundary claims. |
 | Publication-history anchors | Complete for current public-history claims. |
-| Specific fragment image/metadata anchors | Not yet complete. |
+| Specific fragment image/metadata anchors | Complete for first 11Q5 / 11Q Psalms example only. |
 | Direct edition-page / transcription / translation anchors | Not yet complete. |
 | Direct authenticity-report anchors | Not yet complete beyond public MOTB summary. |
 
