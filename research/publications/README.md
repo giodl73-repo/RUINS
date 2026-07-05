@@ -13,6 +13,7 @@ role reviews, and synthesis.
 | [`panel-indus-nondecipherment`](panel-indus-nondecipherment/) | Evidence and Absence | publication-ready |
 | [`panel-house-of-wisdom-institution-memory`](panel-house-of-wisdom-institution-memory/) | Evidence and Absence | stable working paper |
 | [`panel-dead-sea-scrolls-fragment-custody`](panel-dead-sea-scrolls-fragment-custody/) | Evidence and Absence | stable working paper |
+| [`panel-herculaneum-papyri-virtual-unwrapping`](panel-herculaneum-papyri-virtual-unwrapping/) | Evidence and Absence | stable working paper |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-knossos-restoration-projection`](panel-knossos-restoration-projection/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-great-zimbabwe-colonial-denial`](panel-great-zimbabwe-colonial-denial/) | Monumental Sites and Contested Interpretation | publication-ready |

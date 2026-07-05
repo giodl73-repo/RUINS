@@ -1,0 +1,19 @@
+paper: panel-herculaneum-papyri-virtual-unwrapping
+module: ruins
+status: stable-working-paper
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: scroll material, CT volumes, surface meshes, labels, images, and dataset custody
+  - id: R2
+    name: Absence Historian
+    focus: burial, carbonization, destructive opening, noninvasive scanning, and recovery sequence
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: virtual unwrapping, ink detection, model outputs, OCR-like overclaims, and text certainty
+  - id: R4
+    name: Cultural Memory Reader
+    focus: lost library, AI miracle, recovered classics, prize culture, and media afterlife
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: FONTES/MUNDUS source custody, CANON work identity, METIS/AI method handoff, LUCIA/MAXIM history

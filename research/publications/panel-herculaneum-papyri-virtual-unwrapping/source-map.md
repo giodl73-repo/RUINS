@@ -1,0 +1,47 @@
+# Source Map: Herculaneum Papyri Virtual Unwrapping
+
+**Owner:** PALIMPSEST
+**Status:** source-locked map
+**Rule:** metadata-only; do not copy protected source content
+
+## Evidence Surfaces
+
+| Surface | Evidence condition | RUINS use |
+|---|---|---|
+| Carbonized scrolls/fragments | direct material | Establish physical survival and damage. |
+| CT volumes | mediated volumetric record | Establish scan custody and noninvasive witness status. |
+| OME-Zarr open data | dataset custody | Track reproducible scan-data access. |
+| Surface segmentations / meshes | computational reconstruction | Separate geometry from text. |
+| Ink labels / predictions | model-mediated evidence | Keep detection separate from reading. |
+| Scholarly readings | papyrological interpretation | Require separate custody before exact text claims. |
+| Prize/milestone pages | public research organization | Track afterlife and method-memory claims. |
+
+Current source boundaries are locked in [`source-lock.md`](source-lock.md).
+
+## Source Targets
+
+| Target | Use | Claim boundary |
+|---|---|---|
+| Vesuvius Challenge overview and milestone pages | Public project state, open problems, timeline, and milestone claims. | Project/public custody; not final scholarly edition. |
+| Parsons et al., EduceLab-Scrolls arXiv paper | Method, dataset, label, and verification boundary. | Technical preprint; exact readings still need scholarly custody. |
+| AWS Open Data registry | Open CT-volume dataset custody and license/access metadata. | Dataset custody, not textual interpretation. |
+| University of Kentucky Digital Restoration Initiative | Virtual unwrapping lineage and noninvasive restoration framing. | Institutional project context, not textual proof. |
+| NEH and other public accounts | Public funding/recovery memory. | Context only unless primary technical or scholarly custody is needed. |
+
+## Source Questions
+
+1. Is the claim about an object, scan, surface, model, text, or interpretation?
+2. Is the source a dataset, a method paper, a prize page, or a scholarly edition?
+3. Does the claim require papyrological review?
+4. Does a model output have independent validation?
+5. Is the public story about recovery being mistaken for recovered text?
+
+## Handoff Notes
+
+| Need | Handoff |
+|---|---|
+| Greek text, editions, translations, and quotations | FONTES / MUNDUS |
+| Work and author identity | CANON |
+| Computer vision, ML, and CT pipeline evaluation | METIS |
+| Roman philosophical interpretation | MAXIM / LUCIA |
+| Villa and Herculaneum site context | PORTO |
