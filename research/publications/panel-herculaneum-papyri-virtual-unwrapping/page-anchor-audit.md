@@ -4,11 +4,12 @@
 **Status:** current-scope page audit
 **Date:** 2026-07-05
 
-This audit locks page or line anchors for the current stable-working-paper
-claims. It supports claims about project state, evidence layers, scan/data
-custody, method boundaries, destructive opening history, and public recovery
-memory. It does not authorize exact Greek readings, work identifications,
-translations, or claims about specific scroll IDs beyond source-scoped examples.
+This audit locks page or line anchors for the current publication-ready
+methodology claims. It supports claims about project state, evidence layers,
+scan/data custody, method boundaries, destructive opening history, and public
+recovery memory. It does not authorize exact Greek readings, work
+identifications, translations, or claims about specific scroll IDs beyond
+source-scoped examples.
 
 ## Anchored Claims
 
@@ -30,11 +31,12 @@ translations, or claims about specific scroll IDs beyond source-scoped examples.
 
 ## Current Decision
 
-The paper can rise within stable-working-paper range. It has page anchors for
-the core RUINS claim that Herculaneum virtual unwrapping must separate object,
-scan, segmentation, labels, model output, scholarly reading, and public memory.
-It should not be publication-ready until exact recovered-text claims have direct
-scholarly custody and specific scroll/dataset IDs have object-level custody.
+The paper can stand as publication-ready for its current methodology scope. It
+has page anchors for the core RUINS claim that Herculaneum virtual unwrapping
+must separate object, scan, segmentation, labels, model output, scholarly
+reading, and public memory. Exact recovered-text quotation, translation, and
+independent philological claims remain gated by
+[`scholarly-text-custody-gate.md`](scholarly-text-custody-gate.md).
 
 ## References
 

@@ -83,7 +83,7 @@ For source-scoped scholarly recovered-text and work-identity boundaries, use
 
 ## 6. Refusals
 
-RUINS refuses the following claims in this stable working paper:
+RUINS refuses the following claims in this publication-ready paper:
 
 - It will not treat CT volumes as readable text.
 - It will not treat segmentation as unrolling without reconstruction status.

@@ -95,7 +95,7 @@ anchored in [`page-anchor-audit.md`](page-anchor-audit.md).
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this stable working paper:
+RUINS refuses the following claims in this publication-ready paper:
 
 - It will not treat non-African origin theories as live archaeological
   alternatives.

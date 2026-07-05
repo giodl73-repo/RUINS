@@ -95,7 +95,7 @@ bounded by use rules.
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this stable working paper:
+RUINS refuses the following claims in this publication-ready paper:
 
 - It will not reduce Cahokia to a single collapse cause.
 - It will not say the people vanished.

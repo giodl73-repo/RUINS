@@ -93,7 +93,7 @@ bounded by use rules.
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this stable working paper:
+RUINS refuses the following claims in this publication-ready paper:
 
 - It will not say restored Knossos is simply what Minoans built.
 - It will not say Knossos is fake because Evans restored it.

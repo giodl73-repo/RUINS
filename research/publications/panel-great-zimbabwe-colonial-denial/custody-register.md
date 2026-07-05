@@ -29,7 +29,7 @@
 
 ## Custody Decision
 
-This pass is cleared for a stable working paper about monumental survival,
-colonial denial, and custody layers. It is not cleared for excavation detail,
-conservation advice, final population values, detailed identity mapping, or
-single-cause abandonment explanation.
+This pass is cleared for a publication-ready evidence-boundary paper about
+monumental survival, colonial denial, and custody layers. It is not cleared for
+excavation detail, conservation advice, final population values, detailed
+identity mapping, or single-cause abandonment explanation.

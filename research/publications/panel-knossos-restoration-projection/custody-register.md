@@ -28,6 +28,7 @@
 
 ## Custody Decision
 
-This pass is cleared for a stable working paper about restoration as modern
-evidence layer. It is not cleared for detailed room inventories, fresco
-reconstructions, Linear A/Linear B interpretation, or conservation guidance.
+This pass is cleared for a publication-ready evidence-boundary paper about
+restoration as modern evidence layer. It is not cleared for detailed room
+inventories, fresco reconstructions, Linear A/Linear B interpretation, or
+conservation guidance.

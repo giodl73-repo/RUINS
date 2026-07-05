@@ -21,10 +21,11 @@ and later nationalist and heritage memory?
 
 ## Current Scope
 
-This pass is a stable working paper. It source-locks UNESCO public values,
-archaeological consensus on local African construction, colonial-denial
-framing, and local/community-memory surfaces. It does not yet include
-page-level anchors for publication-ready use of exact values or interpretations.
+This pass is publication-ready for its current evidence-boundary scope. It
+source-locks UNESCO public values, archaeological consensus on local African
+construction, colonial-denial framing, and local/community-memory surfaces.
+Detailed population, identity, abandonment, and room-level site interpretations
+remain future page-audit work.
 
 ## Out Of Scope
 

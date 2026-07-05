@@ -1,7 +1,7 @@
 # Page Anchor Audit: Palmyra Replica Reconstruction
 
 **Owner:** PALIMPSEST
-**Status:** stable-working-paper anchor audit
+**Status:** publication-ready anchor audit
 **Date:** 2026-07-05
 
 This audit closes the current page-anchor gap for site status, Arch of Triumph

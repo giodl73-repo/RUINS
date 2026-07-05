@@ -27,7 +27,7 @@
 
 ## Custody Decision
 
-This pass is cleared for a stable working paper about evidence boundaries and
-collapse-language refusal. It is not cleared for a detailed excavation history,
-object inventory, burial interpretation, descendant-community mapping, or
-general Mississippian synthesis.
+This pass is cleared for a publication-ready evidence-boundary paper about
+evidence boundaries and collapse-language refusal. It is not cleared for a
+detailed excavation history, object inventory, burial interpretation,
+descendant-community mapping, or general Mississippian synthesis.

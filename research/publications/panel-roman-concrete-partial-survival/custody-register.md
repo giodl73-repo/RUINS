@@ -28,6 +28,7 @@
 
 ## Custody Decision
 
-This pass is cleared for a stable working paper about partial technical
-survival. It is not cleared for recipe publication, restoration guidance,
-structural recommendations, or universal claims about Roman concrete.
+This pass is cleared for a publication-ready evidence-boundary paper about
+partial technical survival. It is not cleared for recipe publication,
+restoration guidance, structural recommendations, or universal claims about
+Roman concrete.

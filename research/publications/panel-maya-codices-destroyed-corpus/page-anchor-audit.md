@@ -1,7 +1,7 @@
 # Page Anchor Audit: Maya Codices Destroyed Corpus
 
 **Owner:** PALIMPSEST
-**Status:** stable-working-paper anchor audit
+**Status:** publication-ready anchor audit
 **Date:** 2026-07-05
 
 ## Anchored Claims
