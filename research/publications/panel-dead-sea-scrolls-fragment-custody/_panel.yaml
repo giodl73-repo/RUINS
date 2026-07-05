@@ -1,6 +1,6 @@
 paper: panel-dead-sea-scrolls-fragment-custody
 module: ruins
-status: promising-draft
+status: stable-working-paper
 roles:
   - id: R1
     name: Fragment Custodian

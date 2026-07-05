@@ -1,7 +1,7 @@
 # Dead Sea Scrolls Fragment Custody
 
 **Authors:** draft
-**Status:** promising draft
+**Status:** stable working paper
 **Date:** 2026-07-05
 
 ## Abstract
@@ -31,12 +31,18 @@ This case asks:
 - how provenance and authenticity affect claim grade,
 - how public memory around scripture and secrecy changes reception.
 
+For current source boundaries and the fragment-custody ladder, use
+[`source-lock.md`](source-lock.md). The paper remains below publication-ready
+status because edition-page custody, translation examples, and page-anchored
+authenticity reports still need audit before specific readings or fragments are
+used.
+
 ## 2. What Survives
 
 | Surviving trace | Evidence condition | Claim grade now |
 |---|---|---|
-| Physical fragments from cave and collection contexts | direct material | source target |
-| Plates, photographs, and digital images | mediated material record | source target |
+| Physical fragments from cave and collection contexts | direct material | source-specific |
+| Plates, photographs, and digital images | mediated material record | source-specific |
 | Scholarly editions and transcriptions | edited textual custody | source-specific |
 | Translations | interpretation / translation | source-specific |
 | Reconstructed columns, joins, and lacunae | scholarly reconstruction | plausible or speculative |
@@ -58,7 +64,7 @@ This case asks:
 
 | Claim | Grade | Reason |
 |---|---|---|
-| Dead Sea Scrolls fragments survive materially. | Observed / source target | Direct fragments exist, but exact claims need source custody. |
+| Dead Sea Scrolls fragments survive materially. | Observed / source-specific | Direct fragments exist, but exact fragment claims need source custody. |
 | A photograph or digital image preserves a useful witness. | Source-specific | Image custody is mediated and must name source/plate. |
 | A transcription or edition equals the fragment. | Refuse | Edition is scholarly mediation. |
 | A translation equals surviving wording. | Refuse | Translation is interpretation. |
@@ -89,7 +95,7 @@ This case asks:
 
 ## 7. Refusals
 
-RUINS refuses the following claims in this promising draft:
+RUINS refuses the following claims in this stable working paper:
 
 - It will not treat translation as the fragment.
 - It will not treat reconstructed lacunae as surviving wording.

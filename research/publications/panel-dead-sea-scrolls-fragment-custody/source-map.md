@@ -1,7 +1,7 @@
 # Source Map: Dead Sea Scrolls Fragment Custody
 
 **Owner:** PALIMPSEST
-**Status:** first-pass work surface
+**Status:** source-locked map
 **Rule:** metadata-only; do not copy protected source content
 
 ## Evidence Surfaces
@@ -16,6 +16,8 @@
 | Fragment joins and lacuna reconstructions | scholarly reconstruction | Mark supplied text and confidence. |
 | Authentication reports | material analysis / custody dispute | Bound modern-market fragment claims. |
 | Museum/public narratives | cultural memory | Track scripture, secrecy, treasure, and heritage afterlife. |
+
+Current source boundaries are locked in [`source-lock.md`](source-lock.md).
 
 ## Source Targets
 

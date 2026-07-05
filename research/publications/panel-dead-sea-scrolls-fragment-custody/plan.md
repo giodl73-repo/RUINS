@@ -2,7 +2,7 @@
 
 **Module:** RUINS
 **Track:** Evidence and Absence
-**Status:** promising draft
+**Status:** stable working paper
 **Position in chain:** next-tranche textual-fragment case after Indus and House of Wisdom
 
 ## Research Question

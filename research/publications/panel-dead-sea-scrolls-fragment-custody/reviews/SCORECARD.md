@@ -7,21 +7,21 @@
 
 ## Score
 
-**Score:** 36/50
-**Band:** Promising draft
-**Caps:** No source lock yet; do not raise above 42 until source candidates and fragment-custody claims are locked.
+**Score:** 41/50
+**Band:** Stable working paper
+**Caps:** Page-level, edition-level, and authenticity-report custody remain incomplete; do not raise above 44 until all open P2 findings are closed.
 
 ## Dimension Scores
 
 | Dimension | Score | Notes |
 |---|---:|---|
-| Evidence condition | 7/10 | Strong first separation of fragment, image, edition, translation, reconstruction, provenance, authenticity, and public memory. |
-| Loss/process clarity | 6/8 | Good layered chronology for fragmentation, discovery, publication, reconstruction, and authenticity disputes. |
-| Claim-grade discipline | 7/10 | Conservative refusals are present, but source-specific permissions need locking. |
+| Evidence condition | 8/10 | Source lock separates fragment, image, metadata, edition, translation, reconstruction, provenance, authenticity, and public memory. |
+| Loss/process clarity | 7/8 | Layered chronology separates fragmentation, discovery, publication, reconstruction, and authenticity disputes. |
+| Claim-grade discipline | 8/10 | Source-specific permissions now govern fragment, image, edition, translation, reconstruction, and authenticity claims. |
 | Refusal quality | 6/7 | Refusal register blocks the main fragment/translation/reconstruction overclaims. |
-| Cultural-memory handling | 4/6 | Key afterlife surfaces are named but need source examples. |
+| Cultural-memory handling | 4/6 | Key afterlife surfaces are named with first source limits; page-anchored examples remain incomplete. |
 | Sibling boundary | 4/5 | Handoffs are clear. |
-| Source posture | 2/4 | Source targets exist, but no lock or page audit. |
+| Source posture | 4/4 | First source lock is complete and source uses are explicitly limited. |
 
 ## Blocking Findings
 
@@ -29,14 +29,15 @@ No `P1` findings.
 
 ## Open P2 Findings
 
-- Build `source-lock.md` around official digital-library, edition, and
-  authenticity-report sources.
-- Define a fragment-custody ladder with claim permissions.
-- Add page anchors before any specific fragment, edition, translation, or
-  authenticity claim.
+- Build `page-anchor-audit.md` before publication-ready review.
+- Add direct edition-page custody before making specific fragment,
+  transcription, or translation claims.
+- Add official image/metadata page anchors and authenticity-report page anchors
+  before exact fragment-level claims.
+- Keep Museum of the Bible authenticity findings fragment-set-specific.
 
 ## Next Lift
 
-1. PALIMPSEST builds `source-lock.md`.
-2. ERRATA updates `claim-audit.md` with custody-ladder claim grades.
-3. ASHLAR reruns role review for stable working paper status.
+1. PALIMPSEST builds `page-anchor-audit.md`.
+2. ERRATA adds edition-page and authenticity-report custody before exact claims.
+3. ASHLAR reruns role review for publication-ready eligibility.
