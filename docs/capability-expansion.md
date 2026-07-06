@@ -57,6 +57,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:partial-excavation-shelter-custody` | Partial excavation shelter custody | Core | Gobekli Tepe and Catalhoyuk checklist plus rubric v1.21 cap; see `docs/capability-promotions/partial-excavation-shelter-custody.md` and `docs/partial-excavation-shelter-checklist.md`. | Gobekli Tepe |
 | `ruins-capability:rock-cut-facade-erosion-custody` | Rock-cut facade erosion custody | Core | Petra and Lalibela checklist plus rubric v1.22 cap; see `docs/capability-promotions/rock-cut-facade-erosion-custody.md` and `docs/rock-cut-facade-erosion-checklist.md`. | Petra |
 | `ruins-capability:urban-overbuild-window-custody` | Urban overbuild window custody | Core | Templo Mayor and London Mithraeum checklist plus rubric v1.23 cap; see `docs/capability-promotions/urban-overbuild-window-custody.md` and `docs/urban-overbuild-window-checklist.md`. | Templo Mayor / Huei Tzompantli |
+| `ruins-capability:monumental-void-reconstruction-custody` | Monumental void reconstruction custody | Active | Bamiyan empty-niche gate and refusal register; see `docs/capability-promotions/monumental-void-reconstruction-custody.md`. | Bamiyan |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -194,6 +195,13 @@ activate candidates or promote active capabilities to core.
     city, complete sacred precinct, complete building plan, solved ritual
     program, finished conservation, direct access to the original urban fabric,
     or object-equivalent reconstruction without separate custody.
+30. **Monumental void reconstruction custody:** empty niches, blast scars,
+    fragments, surviving artefacts, stabilization, demining, cultural landscape,
+    reconstruction debate, projection/replica, and destruction memory are
+    separate layers; an empty niche or proposed reconstruction must not become
+    the original monument, finished conservation, community consensus, complete
+    iconographic reading, or total heritage-recovery story without separate
+    custody.
 
 ## Fast Promotion Path
 
@@ -250,6 +258,7 @@ Use the promotion packet checklist before changing a capability state.
 | Petra / Lalibela | Sandstone rock-cut caravan city and living-rock church complex versus iconic facade/church image, interior, trench, drainage, water damage, temporary shelter, mural/sculpture condition, pilgrimage use, and whole-site memory. | Rock-cut facade/church erosion gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, sibling-boundary registers, cross-case checklist. | PORTO owns Petra/Lalibela geography and routes; CERES owns sandstone, basalt, drainage, water damage, shelters, stabilization, paintings, and conservation science; CANON owns tomb/church/object identities; RITE owns pilgrimage and ritual meaning; MAXIM/LUCIA own Nabataean/Ethiopian history; tourism/policy systems own access, infrastructure, and local governance. |
 | Templo Mayor / Huei Tzompantli | Buried Tenochtitlan remains inside modern Mexico City versus excavation window, under-building fragment, museum object, colonial reuse, partial sacred-precinct discovery, conservation monitoring, and national-memory image. | Urban-overbuild window gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Mexico City/Tenochtitlan geography; CANON owns named buildings, deities, monoliths, and museum objects; CERES owns stone, stucco, bone, soil, construction, and conservation science; RITE owns ritual/sacrifice interpretation; MAXIM/LUCIA own Mexica and colonial history; policy/urban systems own property, access, construction, and governance. |
 | Templo Mayor / London Mithraeum | Overbuilt urban remains in Mexico City and London versus excavation window, relocation, reconstructed fabric, immersive display, museum route, removed object, modern headquarters, official listing, and public rediscovery memory. | Urban-overbuild window gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, sibling-boundary registers, cross-case checklist. | PORTO owns Mexico City/London geography; CANON owns named temples, structures, deities, objects, and listing identities; CERES owns stone, mortar, bone, waterlogged soil, conservation, and reconstruction materials; RITE owns ritual/Mithraic interpretation; MAXIM/LUCIA own Mexica, Roman, and urban history; policy/urban systems own development, access, listing, and governance; experience systems own immersive display. |
+| Bamiyan | Destroyed monumental Buddhas versus empty niches, surviving artefacts, fragment custody, structural stabilization, demining, mural/cave remains, reconstruction debate, cultural centre, and global destruction memory. | Monumental-void gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Bamiyan landscape geography; CANON owns named Buddha/niche/object identities; CERES owns cliff stability, fragments, mural conservation, demining, and stabilization; RITE owns Buddhist meaning and pilgrimage interpretation; MAXIM/LUCIA own Afghan, Silk Road, and conflict history; policy/legal systems own World Heritage, intentional-destruction law, and recovery governance. |
 
 ## Promotion Rule
 
