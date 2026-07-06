@@ -29,6 +29,7 @@ role reviews, and synthesis.
 | [`panel-cairo-genizah-storeroom-cache-custody`](panel-cairo-genizah-storeroom-cache-custody/) | Evidence and Absence | publication-ready |
 | [`panel-akrotiri-catastrophic-snapshot-custody`](panel-akrotiri-catastrophic-snapshot-custody/) | Evidence and Absence | publication-ready |
 | [`panel-joya-de-ceren-catastrophic-snapshot-custody`](panel-joya-de-ceren-catastrophic-snapshot-custody/) | Evidence and Absence | publication-ready |
+| [`panel-nasca-geoglyph-scale-visibility-custody`](panel-nasca-geoglyph-scale-visibility-custody/) | Surface Landscapes and Scale Mediation | publication-ready |
 | [`panel-lascaux-fragile-access-replica-custody`](panel-lascaux-fragile-access-replica-custody/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-chauvet-fragile-access-replica-custody`](panel-chauvet-fragile-access-replica-custody/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-palmyra-replica-reconstruction`](panel-palmyra-replica-reconstruction/) | Reconstruction and Modern Projection | publication-ready |

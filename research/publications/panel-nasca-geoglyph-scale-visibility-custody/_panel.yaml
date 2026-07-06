@@ -1,0 +1,19 @@
+paper: panel-nasca-geoglyph-scale-visibility-custody
+status: publication-ready
+track: Surface Landscapes and Scale Mediation
+rubric: v1.19
+score: 45
+capabilities:
+  - ruins-capability:scale-mediated-surface-visibility-custody
+promotion_decision: candidate-to-active
+roles:
+  fragment_custodian:
+    focus: surface trace, aerial image, radar/satellite data, AI candidate, field confirmation
+  absence_historian:
+    focus: desert preservation, road damage, maintenance, monitoring, survey history
+  reconstruction_skeptic:
+    focus: aerial-viewpoint, complete inventory, final function, model-as-discovery overclaims
+  cultural_memory_reader:
+    focus: mystery, giant image, alien/puzzle framing, public outline memory
+  sibling_boundary_editor:
+    focus: PORTO, CERES, CANON, RITE, MAXIM/LUCIA, AI/remote-sensing handoffs

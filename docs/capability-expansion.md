@@ -53,6 +53,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:sealed-cache-representativeness-custody` | Sealed cache representativeness custody | Core | Dunhuang Library Cave and Cairo Genizah checklist plus rubric v1.17 cap; see `docs/capability-promotions/sealed-cache-representativeness-custody.md` and `docs/sealed-cache-representativeness-checklist.md`. | Dunhuang Library Cave |
 | `ruins-capability:catastrophic-snapshot-preservation-custody` | Catastrophic snapshot preservation custody | Core | Akrotiri and Joya de Ceren checklist plus rubric v1.18 cap; see `docs/capability-promotions/catastrophic-snapshot-preservation-custody.md` and `docs/catastrophic-snapshot-preservation-checklist.md`. | Akrotiri |
 | `ruins-capability:fragile-site-access-replica-custody` | Fragile site access replica custody | Core | Lascaux and Chauvet checklist plus rubric v1.19 cap; see `docs/capability-promotions/fragile-site-access-replica-custody.md` and `docs/fragile-site-access-replica-checklist.md`. | Lascaux |
+| `ruins-capability:scale-mediated-surface-visibility-custody` | Scale-mediated surface visibility custody | Active | Nasca geoglyph visibility and remote-sensing gate; see `docs/capability-promotions/scale-mediated-surface-visibility-custody.md`. | Nasca |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -164,6 +165,13 @@ activate candidates or promote active capabilities to core.
     separate layers; a replica or virtual access point must not become the
     original site, complete conservation status, final chronology, ritual
     meaning, or whole-culture interpretation without separate custody.
+26. **Scale-mediated surface visibility custody:** surface trace, ground
+    visibility, path visibility, aerial visibility, satellite/radar/AI detection,
+    map outline, damage map, and ritual interpretation are separate layers; an
+    aerial image, remote-sensing candidate, or public outline must not become
+    ancient intended viewpoint, complete inventory, final function, complete
+    damage assessment, or whole-landscape interpretation without separate
+    custody.
 
 ## Fast Promotion Path
 
@@ -212,6 +220,7 @@ Use the promotion packet checklist before changing a capability state.
 | Akrotiri / Joya de Ceren | Urban ash-preserved settlement and Maya village/agricultural preservation versus frozen-moment, daily-life, absence-of-bodies, household, crop, and Pompeii-comparison overclaims. | Catastrophic-snapshot custody gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | PORTO owns geography; CERES owns volcanology, ash, agriculture, soil, plant, and conservation science; CANON owns named site/object identity; MAXIM/LUCIA own Aegean and Maya history; RITE owns ritual interpretation; food/agriculture systems own crop economy. |
 | Lascaux | Fragile decorated cave versus original access closure, conservation, replicas, virtual tours, animal imagery, dating, and public "prehistoric art" memory. | Fragile-access replica gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Vézère geography; CERES owns cave environment, pigments, conservation, and replication materials; CANON owns cave/replica/object identity; RITE owns ritual interpretation; MAXIM/LUCIA own prehistory; digital/experience systems own visitor media. |
 | Lascaux / Chauvet | Opened-after-discovery cave memory versus never-opened, sealed-cave preventive conservation, restricted research entry, partial/condensed replica, digital survey, image dating, animal imagery, and visitor-experience memory. | Fragile-access replica gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, sibling-boundary registers, cross-case checklist. | PORTO owns Dordogne/Ardeche geography; CERES owns cave climate, pigments, conservation, and replica materials; CANON owns cave/replica/object identity; RITE owns ritual meaning; MAXIM/LUCIA own Aurignacian/prehistory synthesis; digital/experience systems own visitor media and immersion design. |
+| Nasca Lines and Geoglyphs | Vast desert surface traces versus ground walking, path visibility, aerial photography, satellite/radar imagery, AI candidate discovery, conservation monitoring, damage mapping, and public mystery imagery. | Scale-visibility custody gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Ica/Nasca/Palpa geography; CERES owns desert geomorphology, rainfall, radar, LiDAR, and conservation science; CANON owns named geoglyph identity; RITE owns ritual/astronomical interpretation; MAXIM/LUCIA own broader Paracas/Nasca history; AI/remote-sensing systems own model implementation. |
 
 ## Promotion Rule
 
