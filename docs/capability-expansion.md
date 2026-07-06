@@ -52,6 +52,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:submerged-landscape-proxy-custody` | Submerged landscape proxy custody | Core | Doggerland and Atlit-Yam checklist plus rubric v1.16 cap; see `docs/capability-promotions/submerged-landscape-proxy-custody.md` and `docs/submerged-landscape-proxy-checklist.md`. | Doggerland |
 | `ruins-capability:sealed-cache-representativeness-custody` | Sealed cache representativeness custody | Core | Dunhuang Library Cave and Cairo Genizah checklist plus rubric v1.17 cap; see `docs/capability-promotions/sealed-cache-representativeness-custody.md` and `docs/sealed-cache-representativeness-checklist.md`. | Dunhuang Library Cave |
 | `ruins-capability:catastrophic-snapshot-preservation-custody` | Catastrophic snapshot preservation custody | Core | Akrotiri and Joya de Ceren checklist plus rubric v1.18 cap; see `docs/capability-promotions/catastrophic-snapshot-preservation-custody.md` and `docs/catastrophic-snapshot-preservation-checklist.md`. | Akrotiri |
+| `ruins-capability:fragile-site-access-replica-custody` | Fragile site access replica custody | Active | Lascaux access/replica gate and publication-ready scorecard; see `docs/capability-promotions/fragile-site-access-replica-custody.md`. | Lascaux |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -157,6 +158,12 @@ activate candidates or promote active capabilities to core.
     surface must not become complete daily life, exact final moment, whole
     society, certain evacuation story, or civilizational-collapse proof without
     separate custody.
+25. **Fragile site access replica custody:** original fragile site, restricted
+    access, conservation intervention, environmental monitoring, replica,
+    facsimile, digital tour, public interpretation, and image meaning are
+    separate layers; a replica or virtual access point must not become the
+    original site, complete conservation status, final chronology, ritual
+    meaning, or whole-culture interpretation without separate custody.
 
 ## Fast Promotion Path
 
@@ -203,6 +210,7 @@ Use the promotion packet checklist before changing a capability state.
 | Dunhuang Library Cave / Cairo Genizah | Sealed chamber cache versus long-use religious storeroom, fragment dispersal, cataloguing, digital reaggregation, and whole-community memory. | Sealed-cache custody gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | FONTES/MUNDUS own editions, translations, languages, transcriptions, and exact readings; CANON owns named collection/site identity; MAXIM/LUCIA own Mediterranean, Jewish, Islamic, and Silk Road history; legal/policy systems own acquisition and ownership; digital-library systems own database implementation. |
 | Akrotiri | Ash-preserved Bronze Age settlement versus frozen-moment, evacuation, wall-painting, everyday-life, and Pompeii-of-the-Aegean overclaims. | Catastrophic-snapshot custody gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Thera/Santorini geography; CERES owns volcanic geology, ash, conservation, and material analysis; CANON owns site/object identity; MAXIM/LUCIA own Aegean Bronze Age history; RITE owns ritual interpretation; script/text systems own Linear A claims. |
 | Akrotiri / Joya de Ceren | Urban ash-preserved settlement and Maya village/agricultural preservation versus frozen-moment, daily-life, absence-of-bodies, household, crop, and Pompeii-comparison overclaims. | Catastrophic-snapshot custody gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | PORTO owns geography; CERES owns volcanology, ash, agriculture, soil, plant, and conservation science; CANON owns named site/object identity; MAXIM/LUCIA own Aegean and Maya history; RITE owns ritual interpretation; food/agriculture systems own crop economy. |
+| Lascaux | Fragile decorated cave versus original access closure, conservation, replicas, virtual tours, animal imagery, dating, and public "prehistoric art" memory. | Fragile-access replica gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Vézère geography; CERES owns cave environment, pigments, conservation, and replication materials; CANON owns cave/replica/object identity; RITE owns ritual interpretation; MAXIM/LUCIA own prehistory; digital/experience systems own visitor media. |
 
 ## Promotion Rule
 
