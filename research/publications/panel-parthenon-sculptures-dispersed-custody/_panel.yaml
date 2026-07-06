@@ -1,0 +1,16 @@
+paper: panel-parthenon-sculptures-dispersed-custody
+module: ruins
+status: publication-ready
+capability_tests:
+  - ruins-capability:dispersed-object-provenance-custody
+roles:
+  - id: ASHLAR
+    focus: synthesis, capability promotion, and scoring
+  - id: PALIMPSEST
+    focus: source custody, object grouping, museum claims, and page anchors
+  - id: ERRATA
+    focus: legal title, loan, reunification, replica, and display overclaims
+  - id: Cultural Memory Reader
+    focus: national symbol, world museum, reunification, and public memory layers
+  - id: Sibling Boundary Editor
+    focus: Greek history, legal policy, object identity, geography, conservation, and museum governance handoffs

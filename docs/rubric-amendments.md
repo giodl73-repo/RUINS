@@ -78,6 +78,7 @@ Follow-up:
 | 2026-07-05 | Extension | Great Zimbabwe and Mound Builder denial papers | Add colonial denial register: colonial, racialized, settler, lost-race, foreign-builder, and ownerless-history narratives must not be presented as live archaeological alternatives. |
 | 2026-07-05 | Extension | Alexandria and House of Wisdom catastrophe-image controls | Add catastrophe image audit: vivid destruction images must not become complete loss events, destroyed inventories, final blame accounts, or civilizational closure without separate custody. |
 | 2026-07-05 | Extension | Maya codices and Qin book burning deliberate-destruction controls | Add deliberate textual destruction: destruction reports, edicts, and traditions must not become complete inventories, corpus maps, exact quotations, or total intellectual-loss explanations without separate custody. |
+| 2026-07-05 | Extension | Benin Bronzes and Parthenon Sculptures dispersed-object papers | Add dispersed object provenance custody: possession, title, loan, return, replica, digital record, and display must not become complete provenance, original context, restitution, or reunification without separate custody. |
 
 ## Re-Scoring Rule
 

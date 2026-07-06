@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| `ruins-capability:dispersed-object-provenance-custody` | Active from Benin Bronzes. | A second dispersed-object paper tests whether object/provenance/return/digital-memory controls work beyond Benin. | Parthenon Marbles, Maqdala treasures, Cambodian temple sculpture, Native American repatriation collections, or Nazi-looted art. |
+| _None currently queued_ | Promote the next active capability after a future paper exposes one. | Add a cross-case checklist or rubric cap when the pattern repeats. | Prefer unlike evidence conditions. |
 
 ## Candidate To Active
 
@@ -35,5 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Second dispersed-object paper** - tests whether Benin's provenance,
-   return, display, and digital-reconnection controls generalize.
+1. **New pressure discovery** - choose a case that exposes a genuinely new
+   evidence condition rather than only reinforcing an existing Core capability.
