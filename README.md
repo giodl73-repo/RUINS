@@ -57,6 +57,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Evidence and Absence | `panel-tollund-man-preserved-body-custody` | publication-ready |
 | Evidence and Absence | `panel-lindow-man-preserved-body-custody` | publication-ready |
 | Evidence and Absence | `panel-doggerland-submerged-landscape-proxy` | publication-ready |
+| Evidence and Absence | `panel-atlit-yam-submerged-settlement-custody` | publication-ready |
 | Reconstruction and Modern Projection | `panel-palmyra-replica-reconstruction` | publication-ready |
 | Reconstruction and Modern Projection | `panel-antikythera-reconstruction` | publication-ready |
 | Reconstruction and Modern Projection | `panel-knossos-restoration-projection` | publication-ready |

@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.15
+**Version:** v1.16
 
 RUINS uses two different review instruments:
 
@@ -62,6 +62,7 @@ capability or exposes a new one:
 | Cast void identity custody | If a body void, footprint, trackway, cast, scan, or impression stands in for a vanished living actor, are substrate, impression, cast/model, taxon, gait, identity, group relation, and public memory separately gated? |
 | Palimpsest overwrite custody | If erased or overwritten text is recovered through conservation, imaging, processing, or cataloguing, are undertext, overtext, material damage, imaging modality, processing, reading, edition, and public access separately gated? |
 | Preserved body taphonomy custody | If human remains are unusually preserved, are taphonomy, recovery, forensic finding, conservation, sampling, display, identity, death cause, motive, and public memory separately gated? |
+| Submerged landscape proxy custody | If a drowned landscape or settlement survives underwater, are bathymetry, survey, excavation, in-situ context, displaced finds, organic remains, human remains, sea-level process, model, and public image separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -90,6 +91,7 @@ capability or exposes a new one:
 | Publication treats a body void, footprint, trackway, cast, scan, or impression as complete identity, species certainty, gait reconstruction, social relation, emotional state, or population history without cast-void identity controls | 34 |
 | Publication treats erased text, spectral image, processed image, catalogue record, or public digital library as complete recovery, edition, translation, authorship, date, or textual history without palimpsest-overwrite controls | 34 |
 | Publication treats preserved human tissue, forensic injury, gut content, conservation treatment, facial appearance, or display as complete identity, biography, death motive, ritual meaning, social role, or population history without preserved-body taphonomy controls | 34 |
+| Publication treats submerged topography, seismic maps, cores, trawled finds, in-situ remains, burials, organic material, sea-level models, or public reconstructions as complete settlement history, route, culture, catastrophe event, population identity, or lost-civilization proof without submerged-landscape proxy controls | 34 |
 
 ## Scoring Procedure
 

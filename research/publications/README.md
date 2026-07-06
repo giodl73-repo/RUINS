@@ -24,6 +24,7 @@ role reviews, and synthesis.
 | [`panel-tollund-man-preserved-body-custody`](panel-tollund-man-preserved-body-custody/) | Evidence and Absence | publication-ready |
 | [`panel-lindow-man-preserved-body-custody`](panel-lindow-man-preserved-body-custody/) | Evidence and Absence | publication-ready |
 | [`panel-doggerland-submerged-landscape-proxy`](panel-doggerland-submerged-landscape-proxy/) | Evidence and Absence | publication-ready |
+| [`panel-atlit-yam-submerged-settlement-custody`](panel-atlit-yam-submerged-settlement-custody/) | Evidence and Absence | publication-ready |
 | [`panel-palmyra-replica-reconstruction`](panel-palmyra-replica-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-knossos-restoration-projection`](panel-knossos-restoration-projection/) | Reconstruction and Modern Projection | publication-ready |
