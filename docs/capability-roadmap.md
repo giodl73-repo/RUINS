@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| `ruins-capability:fragile-site-access-replica-custody` | Active after Lascaux. | Add a cross-case checklist or rubric cap after one unlike fragile-access case. | Chauvet, Altamira, or another closed/restricted decorated cave where facsimile, conservation, dating, and public image diverge. |
+| _None currently queued_ | Fragile site access replica custody promoted to Core after Lascaux/Chauvet. | Add the next active capability after a paper creates a pressure surface. | Prefer a case with a different evidence condition than closed decorated caves. |
 
 ## Candidate To Active
 
@@ -35,6 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Fragile access second test** - choose an unlike closed or restricted site
-   where access, conservation, replica, and digital public knowledge must remain
-   separate from original-site evidence.
+1. **Next pressure discovery** - choose a case outside decorated-cave access
+   where public knowledge is mediated by a different survival condition.

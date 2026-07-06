@@ -1,0 +1,19 @@
+paper: panel-chauvet-fragile-access-replica-custody
+status: publication-ready
+track: Reconstruction and Modern Projection
+rubric: v1.19
+score: 46
+capabilities:
+  - ruins-capability:fragile-site-access-replica-custody
+promotion_decision: active-to-core
+roles:
+  fragment_custodian:
+    focus: original cave, restricted entry, conservation monitoring, replica, digital survey, image inventory
+  absence_historian:
+    focus: sealed cave, rediscovery, non-opening, preventive conservation, visitor substitution
+  reconstruction_skeptic:
+    focus: replica-as-original, final chronology, ritual meaning, whole-prehistory overclaims
+  cultural_memory_reader:
+    focus: earliest art, masterpiece, never-opened cave, largest replica, discovery language
+  sibling_boundary_editor:
+    focus: PORTO, CERES, CANON, RITE, MAXIM/LUCIA, digital/experience handoffs

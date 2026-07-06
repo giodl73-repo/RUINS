@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.18
+**Version:** v1.19
 
 RUINS uses two different review instruments:
 
@@ -65,6 +65,7 @@ capability or exposes a new one:
 | Submerged landscape proxy custody | If a drowned landscape or settlement survives underwater, are bathymetry, survey, excavation, in-situ context, displaced finds, organic remains, human remains, sea-level process, model, and public image separately gated? |
 | Sealed cache representativeness custody | If a manuscript, object, document, or mixed cache survives through storage, hiding, disposal, or ritual retirement, are deposition practice, original order, removal, dispersal, catalogue, digital image, representativeness, and public memory separately gated? |
 | Catastrophic snapshot preservation custody | If sudden destruction preserves buildings, objects, fields, bodies, absences, or activity surfaces, are disaster process, preservation bias, excavated context, final-moment inference, daily-life reconstruction, and public Pompeii-style comparison separately gated? |
+| Fragile site access replica custody | If a fragile original site is closed or restricted, are original access, conservation monitoring, research entry, replica/facsimile, digital visit, visitor experience, dating, and image meaning separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -96,6 +97,7 @@ capability or exposes a new one:
 | Publication treats submerged topography, seismic maps, cores, trawled finds, in-situ remains, burials, organic material, sea-level models, or public reconstructions as complete settlement history, route, culture, catastrophe event, population identity, or lost-civilization proof without submerged-landscape proxy controls | 34 |
 | Publication treats a sealed, stored, hidden, buried, discarded, dispersed, catalogued, digitized, or fragmentary cache as a complete library, archive, community record, institutional inventory, canonical corpus, original order, full social history, or digitally reunited whole without sealed-cache representativeness controls | 34 |
 | Publication treats ash burial, sudden destruction, preserved buildings, fields, objects, food, wall paintings, absent bodies, casts, voids, or public Pompeii-style comparison as complete daily life, exact final moment, whole household, total society, certain escape/death story, or civilizational collapse without catastrophic-snapshot controls | 34 |
+| Publication treats a closed or restricted fragile site, research visit, replica, facsimile, digital tour, public image, conservation summary, or visitor experience as direct public access to the original, complete conservation status, final chronology, ritual meaning, or whole-culture interpretation without fragile-access controls | 34 |
 
 ## Scoring Procedure
 
