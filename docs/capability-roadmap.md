@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| Monumental void reconstruction custody | Active after Bamiyan. | Add a second intentionally destroyed monumental-void paper and a cross-case checklist, then decide whether to add a rubric cap. | Prefer a case where absence, fragments, reconstruction, memorialization, and legal/policy recovery claims collide without becoming the original monument. |
+| _None currently queued_ | Monumental void reconstruction custody promoted to Core after Bamiyan / Mostar. | Add the next active capability after a paper creates a pressure surface. | Prefer a case with a different evidence condition than monumental void or reconstructed-loss custody. |
 
 ## Candidate To Active
 
@@ -35,6 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Monumental void second test** - choose a second case where a destroyed
-   monument is known through an empty setting, fragments, reconstruction debate,
-   memorialization, or recovery law rather than through the original monument.
+1. **Next pressure discovery** - choose a case outside monumental voids where
+   public knowledge is mediated by a different survival condition.

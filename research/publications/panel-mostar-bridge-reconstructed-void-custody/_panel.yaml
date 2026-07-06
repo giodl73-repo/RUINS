@@ -1,0 +1,19 @@
+paper: panel-mostar-bridge-reconstructed-void-custody
+status: publication-ready
+track: Evidence and Absence
+rubric: v1.24
+score: 46
+capabilities:
+  - ruins-capability:monumental-void-reconstruction-custody
+promotion_decision: active-to-core
+roles:
+  fragment_custodian:
+    focus: original bridge destruction, exposed remnants, reconstructed fabric, materials, documentation
+  absence_historian:
+    focus: 1990s destruction, missing-span memory, reconstruction, restored surroundings, management
+  reconstruction_skeptic:
+    focus: reconstruction-as-original, symbol-as-consensus, restored-setting-as-total-recovery overclaims
+  cultural_memory_reader:
+    focus: reconciliation, international cooperation, coexistence, ruined bridge memory
+  sibling_boundary_editor:
+    focus: PORTO, CANON, CERES, MAXIM/LUCIA, policy/legal, community memory handoffs

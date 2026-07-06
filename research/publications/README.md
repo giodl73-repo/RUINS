@@ -30,6 +30,7 @@ role reviews, and synthesis.
 | [`panel-akrotiri-catastrophic-snapshot-custody`](panel-akrotiri-catastrophic-snapshot-custody/) | Evidence and Absence | publication-ready |
 | [`panel-joya-de-ceren-catastrophic-snapshot-custody`](panel-joya-de-ceren-catastrophic-snapshot-custody/) | Evidence and Absence | publication-ready |
 | [`panel-bamiyan-empty-niche-reconstruction-custody`](panel-bamiyan-empty-niche-reconstruction-custody/) | Evidence and Absence | publication-ready |
+| [`panel-mostar-bridge-reconstructed-void-custody`](panel-mostar-bridge-reconstructed-void-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |
