@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | Promote the next active capability after a future paper exposes one. | Add a cross-case checklist or rubric cap when the pattern repeats. | Prefer unlike evidence conditions. |
+| `ruins-capability:catastrophic-snapshot-preservation-custody` | Active after Akrotiri. | Add a cross-case checklist or rubric cap after one unlike catastrophic-preservation case. | Herculaneum urban strata, Joya de Ceren, or another case where sudden preservation tempts frozen-life or final-moment overclaims. |
 
 ## Candidate To Active
 
@@ -35,5 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **New pressure discovery** - choose a case that exposes a genuinely new
-   evidence condition rather than only reinforcing an existing Core capability.
+1. **Catastrophic snapshot second test** - choose an unlike preserved-disaster
+   case that tests whether excellent preservation can be kept separate from
+   whole-life, final-moment, exact-cause, and collapse claims.

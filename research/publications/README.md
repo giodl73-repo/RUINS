@@ -27,6 +27,7 @@ role reviews, and synthesis.
 | [`panel-atlit-yam-submerged-settlement-custody`](panel-atlit-yam-submerged-settlement-custody/) | Evidence and Absence | publication-ready |
 | [`panel-dunhuang-library-cave-cache-custody`](panel-dunhuang-library-cave-cache-custody/) | Evidence and Absence | publication-ready |
 | [`panel-cairo-genizah-storeroom-cache-custody`](panel-cairo-genizah-storeroom-cache-custody/) | Evidence and Absence | publication-ready |
+| [`panel-akrotiri-catastrophic-snapshot-custody`](panel-akrotiri-catastrophic-snapshot-custody/) | Evidence and Absence | publication-ready |
 | [`panel-palmyra-replica-reconstruction`](panel-palmyra-replica-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-knossos-restoration-projection`](panel-knossos-restoration-projection/) | Reconstruction and Modern Projection | publication-ready |
