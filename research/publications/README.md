@@ -21,6 +21,7 @@ role reviews, and synthesis.
 | [`panel-laetoli-footprint-trackway-custody`](panel-laetoli-footprint-trackway-custody/) | Evidence and Absence | publication-ready |
 | [`panel-archimedes-palimpsest-overwrite-custody`](panel-archimedes-palimpsest-overwrite-custody/) | Evidence and Absence | publication-ready |
 | [`panel-sinai-palimpsests-collection-overwrite`](panel-sinai-palimpsests-collection-overwrite/) | Evidence and Absence | publication-ready |
+| [`panel-tollund-man-preserved-body-custody`](panel-tollund-man-preserved-body-custody/) | Evidence and Absence | publication-ready |
 | [`panel-palmyra-replica-reconstruction`](panel-palmyra-replica-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-knossos-restoration-projection`](panel-knossos-restoration-projection/) | Reconstruction and Modern Projection | publication-ready |

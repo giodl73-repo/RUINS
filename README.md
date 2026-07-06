@@ -54,6 +54,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Evidence and Absence | `panel-laetoli-footprint-trackway-custody` | publication-ready |
 | Evidence and Absence | `panel-archimedes-palimpsest-overwrite-custody` | publication-ready |
 | Evidence and Absence | `panel-sinai-palimpsests-collection-overwrite` | publication-ready |
+| Evidence and Absence | `panel-tollund-man-preserved-body-custody` | publication-ready |
 | Reconstruction and Modern Projection | `panel-palmyra-replica-reconstruction` | publication-ready |
 | Reconstruction and Modern Projection | `panel-antikythera-reconstruction` | publication-ready |
 | Reconstruction and Modern Projection | `panel-knossos-restoration-projection` | publication-ready |

@@ -48,6 +48,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:dispersed-object-provenance-custody` | Dispersed object provenance custody | Core | Benin Bronzes and Parthenon Sculptures checklist plus rubric v1.12 cap; see `docs/capability-promotions/dispersed-object-provenance-custody.md` and `docs/dispersed-object-provenance-checklist.md`. | Benin Bronzes |
 | `ruins-capability:cast-void-identity-custody` | Cast void identity custody | Core | Pompeii casts and Laetoli footprints checklist plus rubric v1.13 cap; see `docs/capability-promotions/cast-void-identity-custody.md` and `docs/cast-void-identity-checklist.md`. | Pompeii casts |
 | `ruins-capability:palimpsest-overwrite-custody` | Palimpsest overwrite custody | Core | Archimedes Palimpsest and Sinai Palimpsests checklist plus rubric v1.14 cap; see `docs/capability-promotions/palimpsest-overwrite-custody.md` and `docs/palimpsest-overwrite-checklist.md`. | Archimedes Palimpsest |
+| `ruins-capability:preserved-body-taphonomy-custody` | Preserved body taphonomy custody | Active | Tollund Man bog-body gate and forensic/refusal register; see `docs/capability-promotions/preserved-body-taphonomy-custody.md`. | Tollund Man |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -129,6 +130,11 @@ activate candidates or promote active capabilities to core.
     custody. Collection-scale palimpsests add manuscript selection, language
     identification, codicological description, catalog metadata, and preliminary
     discovery claims as further gates.
+21. **Preserved body taphonomy custody:** soft-tissue survival, forensic
+    examination, gut contents, radiocarbon date, conservation treatment, museum
+    display, and ritual/death interpretation are separate layers; no preserved
+    face or body may become complete identity, biography, emotion, cause,
+    motive, social role, or population story without separate custody.
 
 ## Fast Promotion Path
 
@@ -167,6 +173,7 @@ Use the promotion packet checklist before changing a capability state.
 | Pompeii casts / Laetoli footprints | Negative body cavities and trackway impressions versus identity, kinship, taxon, gait, and social-story overclaims. | Cast-void custody gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | MAXIM/LUCIA own broader history; CANON owns person/taxon/site identity; PORTO owns geography; GENES owns ancestry; CERES owns substrate/material interpretation; biology/forensic systems own locomotion and physiology. |
 | Archimedes Palimpsest | Erased undertext, overtext, missing pages, mold, forged paintings, conservation, multispectral/XRF imaging, scholarly readings, and public data. | Palimpsest overwrite gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | FONTES/MUNDUS own editions, transcription, translation, and exact readings; MAXIM/LUCIA own broader intellectual history; CANON owns manuscript/work identity; CERES owns parchment, ink, conservation, and imaging physics. |
 | Archimedes Palimpsest / Sinai Palimpsests | Single famous overwritten codex versus collection-scale erased undertexts, languages, spectral imaging, processing, cataloguing, and preliminary discovery claims. | Palimpsest overwrite gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | FONTES/MUNDUS own editions, transcription, translation, and exact readings; CANON owns manuscript/work/language identity; PORTO owns monastery geography; CERES owns parchment, inks, conservation, and imaging; MAXIM/LUCIA own broader historical synthesis. |
+| Tollund Man | Bog-preserved body, forensic hanging claim, conservation/dissection/display choices, gut-content reanalysis, and ritual/execution memory. | Preserved-body custody gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | MAXIM/LUCIA own Iron Age history; CANON owns person/object identity; PORTO owns findspot geography; CERES owns preservation chemistry and conservation; medical/forensic systems own death physiology; RITE owns ritual interpretation. |
 
 ## Promotion Rule
 

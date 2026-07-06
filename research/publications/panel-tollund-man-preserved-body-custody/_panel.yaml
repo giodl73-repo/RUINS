@@ -1,0 +1,16 @@
+paper: panel-tollund-man-preserved-body-custody
+track: Evidence and Absence
+status: publication-ready
+capabilities:
+  - ruins-capability:preserved-body-taphonomy-custody
+roles:
+  - role: Fragment Custodian
+    focus: body preservation, find context, autopsy, x-ray, gut sample, and display custody
+  - role: Absence Historian
+    focus: bog taphonomy, excavation, conservation choices, and later reanalysis
+  - role: Reconstruction Skeptic
+    focus: identity, motive, ritual, execution, last-meal, and biography overclaims
+  - role: Cultural Memory Reader
+    focus: face-to-face past, murder mystery, sacrifice, and museum display afterlife
+  - role: Sibling Boundary Editor
+    focus: Iron Age history, ritual, medical forensics, conservation, geography, and person identity
