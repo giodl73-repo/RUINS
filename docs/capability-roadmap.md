@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | Rock-cut facade erosion custody promoted to Core after Petra/Lalibela. | Add the next active capability after a paper creates a pressure surface. | Prefer a case with a different evidence condition than carved-rock erosion. |
+| Urban overbuild window custody | Active after Templo Mayor / Huei Tzompantli. | Add a second overbuilt-city paper and a cross-case checklist, then decide whether to add a rubric cap. | London Mithraeum, Rome Metro C archaeology, or another case where construction, relocation, display, or excavation windows mediate the surviving city fabric. |
 
 ## Candidate To Active
 
@@ -35,5 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case outside carved-rock erosion where
-   public knowledge is mediated by a different survival condition.
+1. **Urban overbuild second test** - choose London Mithraeum, Rome Metro C, or
+   another buried-city case where modern construction and public display mediate
+   the archaeological window.

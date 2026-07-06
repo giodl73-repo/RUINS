@@ -1,0 +1,19 @@
+paper: panel-templo-mayor-urban-overbuild-window-custody
+status: publication-ready
+track: Urban Overbuild and Excavation Windows
+rubric: v1.22
+score: 45
+capabilities:
+  - ruins-capability:urban-overbuild-window-custody
+promotion_decision: candidate-to-active
+roles:
+  fragment_custodian:
+    focus: excavation window, under-building fragment, museum object, exposed remains, removed object, digital scan
+  absence_historian:
+    focus: buried city, colonial overbuild, modern construction, partial discovery, conservation monitoring
+  reconstruction_skeptic:
+    focus: window-as-whole-city, fragment-as-complete-plan, scan-as-object, public route-as-direct-access overclaims
+  cultural_memory_reader:
+    focus: Coyolxauhqui rediscovery, Tenochtitlan memory, national attention, museum route
+  sibling_boundary_editor:
+    focus: PORTO, CANON, CERES, RITE, MAXIM/LUCIA, policy and urban governance handoffs
