@@ -1,0 +1,16 @@
+paper: panel-dunhuang-library-cave-cache-custody
+track: Evidence and Absence
+status: publication-ready
+capabilities:
+  - ruins-capability:sealed-cache-representativeness-custody
+roles:
+  - role: Fragment Custodian
+    focus: sealed cache, manuscript bundles, original order, site marks, dispersal, catalogue, and digitization custody
+  - role: Absence Historian
+    focus: deposition uncertainty, discovery sequence, Wang custody, expedition removal, and modern institutional afterlife
+  - role: Reconstruction Skeptic
+    focus: whole-library, original-order, complete-corpus, digital-reunion, and Silk Road synthesis overclaims
+  - role: Cultural Memory Reader
+    focus: Library Cave, secret library, treasure discovery, earliest printed book, and digital excavation language
+  - role: Sibling Boundary Editor
+    focus: source editions, language/text identity, collection identity, acquisition ethics, and Silk Road history

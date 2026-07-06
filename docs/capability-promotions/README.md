@@ -26,6 +26,7 @@ active to core.
 | Palimpsest overwrite custody | Active -> Core | [`palimpsest-overwrite-custody.md`](palimpsest-overwrite-custody.md) |
 | Preserved body taphonomy custody | Active -> Core | [`preserved-body-taphonomy-custody.md`](preserved-body-taphonomy-custody.md) |
 | Submerged landscape proxy custody | Active -> Core | [`submerged-landscape-proxy-custody.md`](submerged-landscape-proxy-custody.md) |
+| Sealed cache representativeness custody | Candidate -> Active | [`sealed-cache-representativeness-custody.md`](sealed-cache-representativeness-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

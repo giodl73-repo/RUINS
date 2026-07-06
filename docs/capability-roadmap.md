@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | Promote the next active capability after a future paper exposes one. | Add a cross-case checklist or rubric cap when the pattern repeats. | Prefer unlike evidence conditions. |
+| `ruins-capability:sealed-cache-representativeness-custody` | Active after Dunhuang Library Cave. | Add a cross-case checklist or rubric cap after one unlike cache case. | Cairo Geniza, Nag Hammadi codices, or another cache where deposition, survival, removal, cataloguing, and representativeness are differently pressured. |
 
 ## Candidate To Active
 
@@ -35,5 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **New pressure discovery** - choose a case that exposes a genuinely new
-   evidence condition rather than only reinforcing an existing Core capability.
+1. **Sealed cache second test** - choose an unlike cache case that tests whether
+   survival by storage, hiding, burial, or ritual disposal can be kept separate
+   from whole-library, whole-community, or complete-corpus claims.

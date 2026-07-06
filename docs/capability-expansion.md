@@ -50,6 +50,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:palimpsest-overwrite-custody` | Palimpsest overwrite custody | Core | Archimedes Palimpsest and Sinai Palimpsests checklist plus rubric v1.14 cap; see `docs/capability-promotions/palimpsest-overwrite-custody.md` and `docs/palimpsest-overwrite-checklist.md`. | Archimedes Palimpsest |
 | `ruins-capability:preserved-body-taphonomy-custody` | Preserved body taphonomy custody | Core | Tollund Man and Lindow Man checklist plus rubric v1.15 cap; see `docs/capability-promotions/preserved-body-taphonomy-custody.md` and `docs/preserved-body-taphonomy-checklist.md`. | Tollund Man |
 | `ruins-capability:submerged-landscape-proxy-custody` | Submerged landscape proxy custody | Core | Doggerland and Atlit-Yam checklist plus rubric v1.16 cap; see `docs/capability-promotions/submerged-landscape-proxy-custody.md` and `docs/submerged-landscape-proxy-checklist.md`. | Doggerland |
+| `ruins-capability:sealed-cache-representativeness-custody` | Sealed cache representativeness custody | Active | Dunhuang Library Cave cache gate and publication-ready scorecard; see `docs/capability-promotions/sealed-cache-representativeness-custody.md`. | Dunhuang Library Cave |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -142,6 +143,12 @@ activate candidates or promote active capabilities to core.
     inundation models are separate evidence layers; no drowned land surface may
     become an in-situ settlement map, migration route, named culture, event
     narrative, or lost-civilization image without separate custody.
+23. **Sealed cache representativeness custody:** sealed survival, deposition
+    purpose, original order, first discovery, expedition documentation,
+    dispersal, cataloguing, digitization, and public lost-library language are
+    separate layers; a cache must not become a whole library, institutional
+    inventory, community archive, canonical corpus, or complete Silk Road
+    history without separate custody.
 
 ## Fast Promotion Path
 
@@ -184,6 +191,7 @@ Use the promotion packet checklist before changing a capability state.
 | Tollund Man / Lindow Man | Bog-preserved human remains versus biography, cause, motive, ritual, conservation, display, and population overclaims. | Preserved-body custody gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | MAXIM/LUCIA own Iron Age/Romano-British history; CANON owns person/object identity; PORTO owns findspot geography; CERES owns peat chemistry and conservation; medical/forensic systems own trauma and death physiology; RITE owns ritual interpretation; ethics/museum-policy systems own display ethics. |
 | Doggerland | Submerged Mesolithic landscape versus proxy maps, trawled finds, cores, sedaDNA, models, and lost-world memory. | Submerged-landscape proxy gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns geography and bathymetry; CERES owns sediment, faunal, pollen, and DNA methods; GENES owns population/ancestry claims; MAXIM/LUCIA own broader prehistory; CANON owns named cultures and sites. |
 | Doggerland / Atlit-Yam | Basin-scale proxy reconstruction versus in-situ submerged settlement excavation, burials, wells, organic remains, sea-level process, and lost-world public memory. | Submerged-landscape proxy gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | PORTO owns coast/geography; CERES owns sediment, organic, faunal, botanical, and conservation methods; GENES owns ancestry/population claims; CANON owns site/culture identity; MAXIM/LUCIA own broader prehistory; medical systems own disease diagnosis. |
+| Dunhuang Library Cave | Sealed manuscript/cache survival versus deposition purpose, original order, expedition documentation, dispersal, digitization, and lost-library memory. | Sealed-cache custody gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | FONTES/MUNDUS own text editions, translations, languages, and exact manuscript readings; CANON owns Cave 17 and collection identity; MAXIM/LUCIA own Silk Road history; legal/policy systems own repatriation and acquisition ethics; digital-library systems own database implementation. |
 
 ## Promotion Rule
 
