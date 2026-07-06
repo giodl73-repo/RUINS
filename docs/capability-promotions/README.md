@@ -21,6 +21,7 @@ active to core.
 | Fragment custody ladder | Candidate -> Core | [`fragment-custody-ladder.md`](fragment-custody-ladder.md) |
 | Mediated recovery custody | Candidate -> Core | [`mediated-recovery-custody.md`](mediated-recovery-custody.md) |
 | Deliberate textual destruction | Active -> Core | [`deliberate-textual-destruction.md`](deliberate-textual-destruction.md) |
+| Dispersed object provenance custody | Candidate -> Active | [`dispersed-object-provenance-custody.md`](dispersed-object-provenance-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

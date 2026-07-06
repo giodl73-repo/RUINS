@@ -1,0 +1,16 @@
+paper: panel-benin-bronzes-dispersed-custody
+module: ruins
+status: publication-ready
+capability_tests:
+  - ruins-capability:dispersed-object-provenance-custody
+roles:
+  - id: ASHLAR
+    focus: synthesis, capability promotion, and scoring
+  - id: PALIMPSEST
+    focus: provenance, museum-source custody, object records, and page anchors
+  - id: ERRATA
+    focus: return, ownership, display, count, and moral-closure overclaims
+  - id: Cultural Memory Reader
+    focus: restitution memory, digital reconnection, royal/ritual afterlife, and public museum narratives
+  - id: Sibling Boundary Editor
+    focus: MAXIM/LUCIA history, CANON object identity, PORTO geography, CERES material interpretation, and legal/policy boundaries

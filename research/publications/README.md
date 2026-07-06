@@ -22,6 +22,7 @@ role reviews, and synthesis.
 | [`panel-knossos-restoration-projection`](panel-knossos-restoration-projection/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-great-zimbabwe-colonial-denial`](panel-great-zimbabwe-colonial-denial/) | Monumental Sites and Contested Interpretation | publication-ready |
 | [`panel-mound-builder-denial-register`](panel-mound-builder-denial-register/) | Monumental Sites and Contested Interpretation | publication-ready |
+| [`panel-benin-bronzes-dispersed-custody`](panel-benin-bronzes-dispersed-custody/) | Monumental Sites and Contested Interpretation | publication-ready |
 | [`panel-cahokia-without-collapse-theater`](panel-cahokia-without-collapse-theater/) | Lost Techniques and Broken Transmission | publication-ready |
 | [`panel-roman-concrete-partial-survival`](panel-roman-concrete-partial-survival/) | Lost Techniques and Broken Transmission | publication-ready |
 | [`panel-tyrian-purple-partial-transmission`](panel-tyrian-purple-partial-transmission/) | Lost Techniques and Broken Transmission | publication-ready |

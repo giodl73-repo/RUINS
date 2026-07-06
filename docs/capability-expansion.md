@@ -45,6 +45,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:fragment-custody-ladder` | Fragment custody ladder | Core | Dead Sea Scrolls publication-scope gate and automatic source-lock cap logic; see `docs/capability-promotions/fragment-custody-ladder.md`. | Indus / Dead Sea Scrolls |
 | `ruins-capability:mediated-recovery-custody` | Mediated recovery custody | Core | Herculaneum amendment; rubric check and automatic cap; see `docs/capability-promotions/mediated-recovery-custody.md`. | Herculaneum papyri |
 | `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Core | Maya codices and Qin book burning checklist plus rubric v1.11 cap; see `docs/capability-promotions/deliberate-textual-destruction.md` and `docs/deliberate-textual-destruction-checklist.md`. | Maya codices |
+| `ruins-capability:dispersed-object-provenance-custody` | Dispersed object provenance custody | Active | Benin Bronzes dispersed custody gate and refusal register; see `docs/capability-promotions/dispersed-object-provenance-custody.md`. | Benin Bronzes |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -109,6 +110,10 @@ activate candidates or promote active capabilities to core.
     quotation, total-loss explanation, or intellectual-history closure without
     source-mediation, target-category, exemption, survival, corpus-effect, and
     memory controls.
+18. **Dispersed object provenance custody:** object survival, provenance,
+    current holding, legal transfer, physical return, loan, display, digital
+    record, and living relation are separate custody layers; none may stand in
+    for complete restitution or original context.
 
 ## Fast Promotion Path
 
@@ -142,6 +147,7 @@ Use the promotion packet checklist before changing a capability state.
 | Great Zimbabwe / Mound Builder denial | Colonial denial versus local or Indigenous authorship. | Colonial denial register checklist, refusal registers, cultural-memory registers, source locks, page-anchor audits. | MAXIM/LUCIA own broader history; CANON owns named sites and identity records; FONTES/MUNDUS own exact source passages; PORTO owns geography; CERES owns material interpretation. |
 | Alexandria / House of Wisdom | Vivid catastrophe image versus source-scoped loss. | Catastrophe image audit checklist, refusal registers, primary-source custody gate, cultural-memory registers, source locks, page-anchor audits. | FONTES/MUNDUS own exact source passages and editions; MAXIM/LUCIA own broader history; CANON owns institution identity; PORTO owns geography. |
 | Maya codices / Qin book burning | Deliberate textual destruction versus destroyed inventory or total corpus explanation. | Deliberate textual destruction checklist, destruction-corpus/custody gates, source locks, page-anchor audits, quotation/translation gates, refusal registers. | FONTES/MUNDUS own exact source text and translation; MAXIM/LUCIA own broader history and intellectual context; CANON owns named texts and institutions. |
+| Benin Bronzes | Material survival versus broken provenance, dispersal, return, and digital reconnection. | Dispersed object custody gate, source lock, page-anchor audit, refusal register, cultural-memory register. | MAXIM/LUCIA own history; CANON owns object identity; PORTO owns geography; CERES owns material interpretation; legal/policy systems own title and restitution law. |
 
 ## Promotion Rule
 
