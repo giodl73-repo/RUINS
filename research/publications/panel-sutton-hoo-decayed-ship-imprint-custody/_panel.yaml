@@ -1,0 +1,19 @@
+paper: panel-sutton-hoo-decayed-ship-imprint-custody
+status: publication-ready
+track: Evidence and Absence
+rubric: v1.24
+score: 45
+capabilities:
+  - ruins-capability:decayed-organic-imprint-custody
+promotion_decision: candidate-to-active
+roles:
+  fragment_custodian:
+    focus: decayed ship imprint, rivets, chamber goods, missing body, phosphate inference, display objects
+  absence_historian:
+    focus: acidic soil, organic decay, mound erosion, robbing, 1939 excavation, replica/sculpture display
+  reconstruction_skeptic:
+    focus: imprint-as-complete-ship, treasure-as-biography, candidate-king certainty, replica-as-original overclaims
+  cultural_memory_reader:
+    focus: royal grave framing, Beowulf-style memory, Valley of the Kings language, public discovery
+  sibling_boundary_editor:
+    focus: PORTO, CANON, CERES, RITE, MAXIM/LUCIA, literary-system handoffs

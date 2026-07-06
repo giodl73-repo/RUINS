@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | Monumental void reconstruction custody promoted to Core after Bamiyan / Mostar. | Add the next active capability after a paper creates a pressure surface. | Prefer a case with a different evidence condition than monumental void or reconstructed-loss custody. |
+| Decayed organic imprint custody | Active after Sutton Hoo. | Add a second organic-imprint paper and a cross-case checklist, then decide whether to add a rubric cap. | Prefer a case where vanished wood, textile, body, architecture, or vessel is known through stains, voids, fasteners, casts, impressions, or replica reconstruction. |
 
 ## Candidate To Active
 
@@ -35,5 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case outside monumental voids where
-   public knowledge is mediated by a different survival condition.
+1. **Decayed organic imprint second test** - choose a case where vanished
+   organic material survives through stains, voids, fasteners, impressions, or
+   replica reconstruction rather than original fabric.
