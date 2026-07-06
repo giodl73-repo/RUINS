@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| `ruins-capability:preserved-body-taphonomy-custody` | Active from Tollund Man. | A second preserved-body paper tests whether taphonomy/forensic/conservation/display controls work beyond Tollund. | Lindow Man, Grauballe Man, Windeby, Yde Girl, Otzi, or Chinchorro mummies. |
+| _None currently queued_ | Promote the next active capability after a future paper exposes one. | Add a cross-case checklist or rubric cap when the pattern repeats. | Prefer unlike evidence conditions. |
 
 ## Candidate To Active
 
@@ -35,5 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Second preserved-body paper** - test whether Tollund's taphonomy,
-   forensic, conservation, gut-content, display, and memory controls generalize.
+1. **New pressure discovery** - choose a case that exposes a genuinely new
+   evidence condition rather than only reinforcing an existing Core capability.

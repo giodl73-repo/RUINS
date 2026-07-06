@@ -1,0 +1,16 @@
+paper: panel-lindow-man-preserved-body-custody
+track: Evidence and Absence
+status: publication-ready
+capabilities:
+  - ruins-capability:preserved-body-taphonomy-custody
+roles:
+  - role: Fragment Custodian
+    focus: catalog object, body parts, tissue, skin, bone, conservation, and display custody
+  - role: Absence Historian
+    focus: peat preservation, violent death, radiocarbon date, investigation, and modern treatment
+  - role: Reconstruction Skeptic
+    focus: motive, ritual, crime, social-role, cause, and population overclaims
+  - role: Cultural Memory Reader
+    focus: bog-body mystery, sacrifice story, display ethics, and public afterlife
+  - role: Sibling Boundary Editor
+    focus: Romano-British history, identity, conservation, forensics, ritual, geography, and display ethics
