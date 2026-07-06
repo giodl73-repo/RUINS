@@ -17,7 +17,7 @@ active to core.
 | Interpretive violence | Candidate -> Core | [`interpretive-violence.md`](interpretive-violence.md) |
 | Colonial denial register | Active -> Core | [`colonial-denial-register.md`](colonial-denial-register.md) |
 | Institutional memory boundary | Candidate -> Core | [`institutional-memory-boundary.md`](institutional-memory-boundary.md) |
-| Catastrophe image audit | Candidate -> Active | [`catastrophe-image-audit.md`](catastrophe-image-audit.md) |
+| Catastrophe image audit | Active -> Core | [`catastrophe-image-audit.md`](catastrophe-image-audit.md) |
 | Fragment custody ladder | Candidate -> Core | [`fragment-custody-ladder.md`](fragment-custody-ladder.md) |
 | Mediated recovery custody | Candidate -> Core | [`mediated-recovery-custody.md`](mediated-recovery-custody.md) |
 | Deliberate textual destruction | Candidate -> Active | [`deliberate-textual-destruction.md`](deliberate-textual-destruction.md) |

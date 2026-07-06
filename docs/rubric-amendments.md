@@ -76,6 +76,7 @@ Follow-up:
 | 2026-07-05 | Extension | Uluburun and Kyrenia shipwreck context-loss papers | Add shipwreck context-loss: recovered cargo, hull reconstruction, replica performance, museum display, digital catalog, and dating output must not become original operating context without a gate. |
 | 2026-07-05 | Extension | Roman concrete and Tyrian purple partial-transmission papers | Add partial technical transmission: texts, material traces, samples, contexts, experiments, and public memory must not become a complete ancient technique without a custody gate. |
 | 2026-07-05 | Extension | Great Zimbabwe and Mound Builder denial papers | Add colonial denial register: colonial, racialized, settler, lost-race, foreign-builder, and ownerless-history narratives must not be presented as live archaeological alternatives. |
+| 2026-07-05 | Extension | Alexandria and House of Wisdom catastrophe-image controls | Add catastrophe image audit: vivid destruction images must not become complete loss events, destroyed inventories, final blame accounts, or civilizational closure without separate custody. |
 
 ## Re-Scoring Rule
 

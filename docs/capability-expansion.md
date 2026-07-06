@@ -41,7 +41,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:interpretive-violence` | Interpretive violence | Core | Great Zimbabwe amendment for damaged interpretation as ruin condition; see `docs/capability-promotions/interpretive-violence.md`. | Great Zimbabwe |
 | `ruins-capability:colonial-denial-register` | Colonial denial register | Core | Great Zimbabwe and Mound Builder denial cross-case checklist; see `docs/capability-promotions/colonial-denial-register.md` and `docs/colonial-denial-register-checklist.md`. | Great Zimbabwe |
 | `ruins-capability:institutional-memory-boundary` | Institutional memory boundary | Core | House of Wisdom amendment and primary-source custody gate; see `docs/capability-promotions/institutional-memory-boundary.md`. | House of Wisdom |
-| `ruins-capability:catastrophe-image-audit` | Catastrophe image audit | Active | Alexandria/House refusal patterns for vivid loss imagery; see `docs/capability-promotions/catastrophe-image-audit.md`. | House of Wisdom / Alexandria |
+| `ruins-capability:catastrophe-image-audit` | Catastrophe image audit | Core | Alexandria and House of Wisdom checklist plus rubric v1.10 cap; see `docs/capability-promotions/catastrophe-image-audit.md` and `docs/catastrophe-image-audit-checklist.md`. | House of Wisdom / Alexandria |
 | `ruins-capability:fragment-custody-ladder` | Fragment custody ladder | Core | Dead Sea Scrolls publication-scope gate and automatic source-lock cap logic; see `docs/capability-promotions/fragment-custody-ladder.md`. | Indus / Dead Sea Scrolls |
 | `ruins-capability:mediated-recovery-custody` | Mediated recovery custody | Core | Herculaneum amendment; rubric check and automatic cap; see `docs/capability-promotions/mediated-recovery-custody.md`. | Herculaneum papyri |
 | `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Active | Maya destruction chronology and refusal gates; see `docs/capability-promotions/deliberate-textual-destruction.md`. | Maya codices |
@@ -100,6 +100,10 @@ activate candidates or promote active capabilities to core.
     foreign-builder, lost-race, and ownerless-history narratives are
     interpretive damage layers; they must not be presented as live
     archaeological alternatives.
+16. **Catastrophe image audit:** vivid destruction images are not inventories,
+    final blame ledgers, or civilizational closure unless event, source
+    tradition, material loss, inventory, blame, and later memory are separately
+    gated.
 
 ## Fast Promotion Path
 
@@ -131,6 +135,7 @@ Use the promotion packet checklist before changing a capability state.
 | Uluburun / Kyrenia shipwrecks | Cargo and reconstruction survival versus lost operating context. | Shipwreck context-loss checklist, source locks, context-loss gates, refusal registers, page/source audits, museum/reconstruction/dating custody audits. | PORTO owns route/geography; CANON owns object identity; FONTES/MUNDUS own exact reports/catalogues; CERES owns material and sample interpretation; MAXIM/LUCIA own broader history. |
 | Roman concrete / Tyrian purple | Partial technique survival versus complete recipe recovery. | Partial technical transmission checklist, source locks, page audits, custody/refusal gates, cultural-memory registers. | CERES owns materials chemistry and sample interpretation; FONTES/MUNDUS own exact ancient passages; PORTO owns site geography; MAXIM/LUCIA own broader history. |
 | Great Zimbabwe / Mound Builder denial | Colonial denial versus local or Indigenous authorship. | Colonial denial register checklist, refusal registers, cultural-memory registers, source locks, page-anchor audits. | MAXIM/LUCIA own broader history; CANON owns named sites and identity records; FONTES/MUNDUS own exact source passages; PORTO owns geography; CERES owns material interpretation. |
+| Alexandria / House of Wisdom | Vivid catastrophe image versus source-scoped loss. | Catastrophe image audit checklist, refusal registers, primary-source custody gate, cultural-memory registers, source locks, page-anchor audits. | FONTES/MUNDUS own exact source passages and editions; MAXIM/LUCIA own broader history; CANON owns institution identity; PORTO owns geography. |
 
 ## Promotion Rule
 
