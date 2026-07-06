@@ -1,7 +1,7 @@
 # Source Lock: Tyrian Purple Partial Transmission
 
 **Owner:** PALIMPSEST
-**Status:** first source lock
+**Status:** source lock with page audit
 **Date:** 2026-07-05
 
 This source lock permits broad, source-scoped claims about murex-purple
@@ -16,6 +16,8 @@ or modern reconstruction equivalence.
 | T1 | Berger et al. 2024, PLOS ONE, Cape Kolonna/Aegina | direct archaeological and analytical study | Site-specific production evidence, pigment residue, shell pit, HPLC/malacological analysis, procedural clues. | Not universal recipe or production scale. |
 | T2 | Sukenik et al. 2021, PLOS ONE, Timna Valley | direct textile and analytical study | Sample-specific royal-purple dye identification using HPLC markers. | Not workshop method or broader industry reconstruction. |
 | T3 | University of Michigan Kelsey Museum, "Creating Purple" | public museum summary | Public overview of Tyrian purple value, snail source, process summary, and myth/memory. | Public synthesis, not primary recipe custody. |
+
+See [`page-audit.md`](page-audit.md) for current-claim anchors.
 
 ## Locked Claims
 

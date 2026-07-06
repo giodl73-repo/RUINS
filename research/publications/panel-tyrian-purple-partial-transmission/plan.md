@@ -2,7 +2,7 @@
 
 **Module:** RUINS
 **Track:** Lost Techniques and Broken Transmission
-**Status:** working draft
+**Status:** publication-ready
 **Position in chain:** second partial-technical-transmission case after Roman concrete
 
 ## Research Question
@@ -32,11 +32,11 @@ method, industrial scale, social rule, or modern production guide.
    status or source.
 5. Do not provide modern production, harvesting, or dye-manufacturing guidance.
 
-## Next Work
+## Completed Lift
 
-1. PALIMPSEST adds page anchors for PLOS Aegina, PLOS Timna, and Kelsey Museum
-   public claims.
-2. ERRATA tests the Roman concrete partial-transmission register against dye
+1. PALIMPSEST added page anchors for PLOS Aegina, PLOS Timna, and Kelsey
+   Museum public claims.
+2. ERRATA tested the Roman concrete partial-transmission register against dye
    recipe and production-scale overclaims.
-3. ASHLAR decides whether a second technique case is enough for Core or whether
-   a cross-technique checklist is needed first.
+3. ASHLAR promoted the shared Roman concrete / Tyrian purple method through
+   [`../../../docs/partial-technical-transmission-checklist.md`](../../../docs/partial-technical-transmission-checklist.md).

@@ -7,31 +7,34 @@
 
 ## Score
 
-**Score:** 41/50
-**Band:** Stable working draft
-**Caps:** Do not raise above stable until page-anchor and exact source/sample
-custody close current P2 findings.
+**Score:** 45/50
+**Band:** Publication-ready
+**Caps:** No current-scope caps. Exact ancient-passage and chemical/sample-value
+claims remain future-locked.
 
 ## Dimension Scores
 
 | Dimension | Score | Notes |
 |---|---:|---|
-| Evidence condition | 8/10 | Separates shell, pigment, textile, text, experiment, and memory surfaces. |
+| Evidence condition | 9/10 | Separates shell, pigment, textile, text, experiment, and memory surfaces with page anchors. |
 | Loss/process clarity | 7/8 | Strong partial-transmission frame; no recipe closure. |
-| Claim-grade discipline | 7/10 | Main overclaims are blocked, but source anchors remain open. |
+| Claim-grade discipline | 8/10 | Main overclaims are blocked and current claims are page-audited. |
 | Refusal quality | 6/7 | Refusals are concrete and safety-aware. |
 | Cultural-memory handling | 5/6 | Royal purple and secret-recipe memory are named. |
 | Sibling boundary | 4/5 | Chemistry, source, route/site, and history handoffs are clear. |
-| Source posture | 4/4 | Source map and first source lock exist; page anchors remain open. |
+| Source posture | 4/4 | Source map, source lock, and page audit exist. |
 
 ## Open P2 Findings
 
-- Add page-anchor audit for current source-summary claims.
+None for current scope.
+
+## P3 Future Locks
+
 - Add direct ancient-text custody before exact Pliny/Pollux/process claims.
 - Add CERES/source audit before exact chemical or sample values.
 
 ## Next Lift
 
-1. PALIMPSEST adds page anchors for PLOS Aegina, PLOS Timna, and Kelsey claims.
-2. ASHLAR builds Roman concrete / Tyrian purple cross-technique checklist before
-   any Core promotion decision.
+1. Use the cross-technique checklist for the next lost-technique case.
+2. Add ancient-text or CERES custody only if a future draft needs exact passage
+   or chemistry claims.

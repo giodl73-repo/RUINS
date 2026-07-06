@@ -74,6 +74,7 @@ Follow-up:
 | 2026-07-05 | Refinement | House of Wisdom and Dead Sea Scrolls fragment custody | Add scope-gated publication: a paper can become publication-ready when exact-claim surfaces are explicitly refused and demoted to P3 future gates rather than left as current P2 blockers. |
 | 2026-07-05 | Refinement | Capability expansion process | Replace proposal-only capability tracking with candidate, active, and core states plus fast promotion for reviewed publication-ready papers. |
 | 2026-07-05 | Extension | Uluburun and Kyrenia shipwreck context-loss papers | Add shipwreck context-loss: recovered cargo, hull reconstruction, replica performance, museum display, digital catalog, and dating output must not become original operating context without a gate. |
+| 2026-07-05 | Extension | Roman concrete and Tyrian purple partial-transmission papers | Add partial technical transmission: texts, material traces, samples, contexts, experiments, and public memory must not become a complete ancient technique without a custody gate. |
 
 ## Re-Scoring Rule
 

@@ -12,7 +12,7 @@ active to core.
 | Functional reconstruction boundary | Candidate -> Core | [`functional-reconstruction-boundary.md`](functional-reconstruction-boundary.md) |
 | Famous loss compression | Candidate -> Core | [`famous-loss-compression.md`](famous-loss-compression.md) |
 | Abandonment without collapse theater | Candidate -> Core | [`abandonment-without-collapse.md`](abandonment-without-collapse.md) |
-| Partial technical transmission | Candidate -> Active | [`partial-technical-transmission.md`](partial-technical-transmission.md) |
+| Partial technical transmission | Active -> Core | [`partial-technical-transmission.md`](partial-technical-transmission.md) |
 | Restoration as modern projection | Candidate -> Core | [`restoration-as-modern-projection.md`](restoration-as-modern-projection.md) |
 | Interpretive violence | Candidate -> Core | [`interpretive-violence.md`](interpretive-violence.md) |
 | Colonial denial register | Candidate -> Active | [`colonial-denial-register.md`](colonial-denial-register.md) |

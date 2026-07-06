@@ -1,7 +1,7 @@
 # Tyrian Purple Partial Transmission
 
 **Module:** RUINS
-**Status:** working draft
+**Status:** publication-ready
 **Date:** 2026-07-05
 
 ## Abstract

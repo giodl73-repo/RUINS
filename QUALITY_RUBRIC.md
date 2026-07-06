@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.7
+**Version:** v1.8
 
 RUINS uses two different review instruments:
 
@@ -54,6 +54,7 @@ capability or exposes a new one:
 | Saga-memory crosscheck | If literary memory and archaeological evidence partially overlap, are text, site, route, name, and public identity claims kept in separate grades? |
 | Scope-gated publication | If exact source, text, route, reading, specification, or reconstruction claims remain unaudited, does the paper explicitly refuse those surfaces and keep future work as P3 rather than current scope? |
 | Shipwreck context loss | If a shipwreck preserves cargo, hull, reconstruction, display, catalog, or dating evidence, are cargo, operating context, recovery, reconstruction, route, owner, crew, and afterlife claims separately gated? |
+| Partial technical transmission | If a technique survives through text, material, sample, context, experiment, or memory, are those surfaces prevented from becoming a complete ancient technique without a custody gate? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -74,6 +75,7 @@ capability or exposes a new one:
 | Publication lets a saga, chronicle, legend, or place-name identify a site/route/event without independent evidence custody | 34 |
 | Publication claims scope-gated readiness while still making the exact claim that the gate refuses | 34 |
 | Publication treats shipwreck cargo, hull reconstruction, replica performance, museum display, digital catalog, or dating output as complete original operating context without a shipwreck context-loss gate | 34 |
+| Publication treats a text, sample, material trace, experiment, public summary, or reconstruction as a complete ancient technique without partial-technical-transmission controls | 34 |
 
 ## Scoring Procedure
 

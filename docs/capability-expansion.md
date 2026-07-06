@@ -36,7 +36,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:functional-reconstruction-boundary` | Functional reconstruction boundary | Core | Reconstruction-status checks and Antikythera scorecard; see `docs/capability-promotions/functional-reconstruction-boundary.md`. | Antikythera |
 | `ruins-capability:famous-loss-compression` | Famous loss compression | Core | Loss event/process separation amendment; see `docs/capability-promotions/famous-loss-compression.md`. | Alexandria |
 | `ruins-capability:abandonment-without-collapse` | Abandonment without collapse theater | Core | Loss/process refinement and collapse-language refusals; see `docs/capability-promotions/abandonment-without-collapse.md`. | Cahokia |
-| `ruins-capability:partial-technical-transmission` | Partial technical transmission | Active | Roman concrete custody register and recipe/restoration refusal; see `docs/capability-promotions/partial-technical-transmission.md`. | Roman concrete |
+| `ruins-capability:partial-technical-transmission` | Partial technical transmission | Core | Roman concrete and Tyrian purple cross-technique checklist; see `docs/capability-promotions/partial-technical-transmission.md` and `docs/partial-technical-transmission-checklist.md`. | Roman concrete |
 | `ruins-capability:restoration-as-modern-projection` | Restoration as modern projection | Core | Modern restoration/reconstruction amendment and Knossos scorecard; see `docs/capability-promotions/restoration-as-modern-projection.md`. | Knossos |
 | `ruins-capability:interpretive-violence` | Interpretive violence | Core | Great Zimbabwe amendment for damaged interpretation as ruin condition; see `docs/capability-promotions/interpretive-violence.md`. | Great Zimbabwe |
 | `ruins-capability:colonial-denial-register` | Colonial denial register | Active | Great Zimbabwe refusal/cultural-memory handling; see `docs/capability-promotions/colonial-denial-register.md`. | Great Zimbabwe |
@@ -92,6 +92,10 @@ activate candidates or promote active capabilities to core.
     replica performance, museum display, digital catalog, and dating output are
     separate evidence layers; none may stand in for original operating context,
     route, destination, owner, crew, or economy without a gate.
+14. **Partial technical transmission:** texts, material traces, samples,
+    contexts, experiments, and public memory are separate evidence layers; none
+    may stand in for a complete ancient technique without a technique-custody
+    gate.
 
 ## Fast Promotion Path
 
@@ -121,6 +125,7 @@ Use the promotion packet checklist before changing a capability state.
 | Palmyra | Damaged heritage and replica/digital reconstruction. | Replica-status register, destruction chronology, memory register, restoration-governance gate. | PORTO owns site geography; CANON owns named features; FONTES owns image/model custody. |
 | Vinland / Norse North Atlantic traces | Saga memory versus archaeological site evidence. | Saga-memory crosscheck, source map, claim-grade table, route/name refusal gate. | PORTO owns route/geography; LUCIA/MAXIM own Norse history; CANON owns site/entity identity. |
 | Uluburun / Kyrenia shipwrecks | Cargo and reconstruction survival versus lost operating context. | Shipwreck context-loss checklist, source locks, context-loss gates, refusal registers, page/source audits, museum/reconstruction/dating custody audits. | PORTO owns route/geography; CANON owns object identity; FONTES/MUNDUS own exact reports/catalogues; CERES owns material and sample interpretation; MAXIM/LUCIA own broader history. |
+| Roman concrete / Tyrian purple | Partial technique survival versus complete recipe recovery. | Partial technical transmission checklist, source locks, page audits, custody/refusal gates, cultural-memory registers. | CERES owns materials chemistry and sample interpretation; FONTES/MUNDUS own exact ancient passages; PORTO owns site geography; MAXIM/LUCIA own broader history. |
 
 ## Promotion Rule
 

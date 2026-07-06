@@ -8,6 +8,7 @@ Paper `panel-tyrian-purple-partial-transmission` in the [RUINS](../../) module.
 - [**plan.md** - paper plan](plan.md)
 - [**source-map.md** - source and trace work surface](source-map.md)
 - [**source-lock.md** - locked source uses and claim limits](source-lock.md)
+- [**page-audit.md** - current-claim source anchors](page-audit.md)
 - [**technique-custody-gate.md** - partial technical transmission boundary](technique-custody-gate.md)
 - [**claim-audit.md** - recipe, pigment, shell, textile, and memory claim checks](claim-audit.md)
 - [**refusal-register.md** - claims this paper blocks](refusal-register.md)

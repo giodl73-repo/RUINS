@@ -1,6 +1,6 @@
 paper: panel-tyrian-purple-partial-transmission
 module: RUINS
-status: working-draft
+status: publication-ready
 capability_tests:
   - ruins-capability:partial-technical-transmission
 roles:

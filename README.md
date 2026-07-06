@@ -55,7 +55,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Monumental Sites and Contested Interpretation | `panel-great-zimbabwe-colonial-denial` | publication-ready |
 | Lost Techniques and Broken Transmission | `panel-roman-concrete-partial-survival` | publication-ready |
 | Lost Techniques and Broken Transmission | `panel-cahokia-without-collapse-theater` | publication-ready |
-| Lost Techniques and Broken Transmission | `panel-tyrian-purple-partial-transmission` | working draft |
+| Lost Techniques and Broken Transmission | `panel-tyrian-purple-partial-transmission` | publication-ready |
 | Shipwrecks and Context Loss | `panel-uluburun-shipwreck-context-loss` | activation-ready working paper |
 | Shipwrecks and Context Loss | `panel-kyrenia-reconstruction-context-loss` | activation-ready working paper |
 
