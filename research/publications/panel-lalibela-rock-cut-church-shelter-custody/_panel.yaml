@@ -1,0 +1,19 @@
+paper: panel-lalibela-rock-cut-church-shelter-custody
+status: publication-ready
+track: Rock-Cut Landscapes and Erosion
+rubric: v1.22
+score: 46
+capabilities:
+  - ruins-capability:rock-cut-facade-erosion-custody
+promotion_decision: active-to-core
+roles:
+  fragment_custodian:
+    focus: monolithic church, trench, drainage ditch, mural, sculpture, shelter, condition layer
+  absence_historian:
+    focus: water damage, drainage disruption, seismic disruption, temporary shelter, visual integrity
+  reconstruction_skeptic:
+    focus: church-as-whole-site, shelter-as-finished-conservation, final ritual meaning overclaims
+  cultural_memory_reader:
+    focus: New Jerusalem, pilgrimage, living church, holy city, shelter image language
+  sibling_boundary_editor:
+    focus: PORTO, CERES, CANON, RITE, MAXIM/LUCIA, tourism/policy handoffs
