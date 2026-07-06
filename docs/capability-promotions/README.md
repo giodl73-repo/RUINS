@@ -27,7 +27,7 @@ active to core.
 | Preserved body taphonomy custody | Active -> Core | [`preserved-body-taphonomy-custody.md`](preserved-body-taphonomy-custody.md) |
 | Submerged landscape proxy custody | Active -> Core | [`submerged-landscape-proxy-custody.md`](submerged-landscape-proxy-custody.md) |
 | Sealed cache representativeness custody | Active -> Core | [`sealed-cache-representativeness-custody.md`](sealed-cache-representativeness-custody.md) |
-| Catastrophic snapshot preservation custody | Candidate -> Active | [`catastrophic-snapshot-preservation-custody.md`](catastrophic-snapshot-preservation-custody.md) |
+| Catastrophic snapshot preservation custody | Active -> Core | [`catastrophic-snapshot-preservation-custody.md`](catastrophic-snapshot-preservation-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

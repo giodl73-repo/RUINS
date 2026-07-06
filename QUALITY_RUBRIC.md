@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.17
+**Version:** v1.18
 
 RUINS uses two different review instruments:
 
@@ -64,6 +64,7 @@ capability or exposes a new one:
 | Preserved body taphonomy custody | If human remains are unusually preserved, are taphonomy, recovery, forensic finding, conservation, sampling, display, identity, death cause, motive, and public memory separately gated? |
 | Submerged landscape proxy custody | If a drowned landscape or settlement survives underwater, are bathymetry, survey, excavation, in-situ context, displaced finds, organic remains, human remains, sea-level process, model, and public image separately gated? |
 | Sealed cache representativeness custody | If a manuscript, object, document, or mixed cache survives through storage, hiding, disposal, or ritual retirement, are deposition practice, original order, removal, dispersal, catalogue, digital image, representativeness, and public memory separately gated? |
+| Catastrophic snapshot preservation custody | If sudden destruction preserves buildings, objects, fields, bodies, absences, or activity surfaces, are disaster process, preservation bias, excavated context, final-moment inference, daily-life reconstruction, and public Pompeii-style comparison separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -94,6 +95,7 @@ capability or exposes a new one:
 | Publication treats preserved human tissue, forensic injury, gut content, conservation treatment, facial appearance, or display as complete identity, biography, death motive, ritual meaning, social role, or population history without preserved-body taphonomy controls | 34 |
 | Publication treats submerged topography, seismic maps, cores, trawled finds, in-situ remains, burials, organic material, sea-level models, or public reconstructions as complete settlement history, route, culture, catastrophe event, population identity, or lost-civilization proof without submerged-landscape proxy controls | 34 |
 | Publication treats a sealed, stored, hidden, buried, discarded, dispersed, catalogued, digitized, or fragmentary cache as a complete library, archive, community record, institutional inventory, canonical corpus, original order, full social history, or digitally reunited whole without sealed-cache representativeness controls | 34 |
+| Publication treats ash burial, sudden destruction, preserved buildings, fields, objects, food, wall paintings, absent bodies, casts, voids, or public Pompeii-style comparison as complete daily life, exact final moment, whole household, total society, certain escape/death story, or civilizational collapse without catastrophic-snapshot controls | 34 |
 
 ## Scoring Procedure
 
