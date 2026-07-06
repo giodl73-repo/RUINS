@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.20
+**Version:** v1.21
 
 RUINS uses two different review instruments:
 
@@ -67,6 +67,7 @@ capability or exposes a new one:
 | Catastrophic snapshot preservation custody | If sudden destruction preserves buildings, objects, fields, bodies, absences, or activity surfaces, are disaster process, preservation bias, excavated context, final-moment inference, daily-life reconstruction, and public Pompeii-style comparison separately gated? |
 | Fragile site access replica custody | If a fragile original site is closed or restricted, are original access, conservation monitoring, research entry, replica/facsimile, digital visit, visitor experience, dating, and image meaning separately gated? |
 | Scale-mediated surface visibility custody | If a large surface mark or landscape trace is known through distance, slope, aerial image, survey, map, remote sensing, restoration, or re-cutting, are trace, viewpoint, maintenance, dating, image, and interpretation separately gated? |
+| Partial excavation shelter custody | If a site is known through exposed areas under shelter, are excavated exposure, unexcavated reserve, protective shelter, visitor route, conservation, reconstruction, off-site archive/object custody, and interpretation separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -100,6 +101,7 @@ capability or exposes a new one:
 | Publication treats ash burial, sudden destruction, preserved buildings, fields, objects, food, wall paintings, absent bodies, casts, voids, or public Pompeii-style comparison as complete daily life, exact final moment, whole household, total society, certain escape/death story, or civilizational collapse without catastrophic-snapshot controls | 34 |
 | Publication treats a closed or restricted fragile site, research visit, replica, facsimile, digital tour, public image, conservation summary, or visitor experience as direct public access to the original, complete conservation status, final chronology, ritual meaning, or whole-culture interpretation without fragile-access controls | 34 |
 | Publication treats a large surface mark, aerial/drone/satellite image, survey outline, re-cut/restoration profile, remote-sensing candidate, or public map as ancient intended viewpoint, complete original shape, complete inventory, final date, final function, complete damage state, or whole-landscape interpretation without scale-visibility controls | 34 |
+| Publication treats a sheltered excavation, visitor route, exposed building, reconstructed house, conservation treatment, off-site object display, archive, or current interpretation as complete site exposure, final site function, complete settlement model, solved hierarchy, finished conservation, or whole origin story without partial-excavation shelter controls | 34 |
 
 ## Scoring Procedure
 

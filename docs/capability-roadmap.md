@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| `ruins-capability:partial-excavation-shelter-custody` | Active after Gobekli Tepe. | Add a cross-case checklist or rubric cap after one unlike partially exposed/sheltered site. | Catalhoyuk, Tell es-Sultan/Jericho, or another long-running excavation where exposed area, shelter, conservation, visitor route, and public origin-story diverge. |
+| _None currently queued_ | Partial excavation shelter custody promoted to Core after Gobekli Tepe/Catalhoyuk. | Add the next active capability after a paper creates a pressure surface. | Prefer a case with a different evidence condition than sheltered excavation. |
 
 ## Candidate To Active
 
@@ -35,6 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Partial excavation second test** - choose an unlike partially exposed site
-   where excavation area, unexcavated reserve, shelter, conservation, visitor
-   view, and public origin-story must remain separate.
+1. **Next pressure discovery** - choose a case outside sheltered excavation
+   where public knowledge is mediated by a different survival condition.

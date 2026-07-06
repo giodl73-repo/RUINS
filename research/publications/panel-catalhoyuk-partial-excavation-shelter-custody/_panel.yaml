@@ -1,0 +1,19 @@
+paper: panel-catalhoyuk-partial-excavation-shelter-custody
+status: publication-ready
+track: Evidence and Absence
+rubric: v1.21
+score: 46
+capabilities:
+  - ruins-capability:partial-excavation-shelter-custody
+promotion_decision: active-to-core
+roles:
+  fragment_custodian:
+    focus: exposed mudbrick, shelters, off-site objects, archive, replica house, digital records
+  absence_historian:
+    focus: long excavation history, two mounds, North/South shelters, visitor interpretation, conservation monitoring
+  reconstruction_skeptic:
+    focus: first city, complete settlement model, final hierarchy, shelter-as-finished-conservation claims
+  cultural_memory_reader:
+    focus: early city, egalitarian city, first urbanism, visitor reconstruction, origin-story language
+  sibling_boundary_editor:
+    focus: PORTO, CERES, CANON, RITE, MAXIM/LUCIA, visitor-experience handoffs
