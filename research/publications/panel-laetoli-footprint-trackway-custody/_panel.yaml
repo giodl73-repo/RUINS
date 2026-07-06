@@ -1,0 +1,16 @@
+paper: panel-laetoli-footprint-trackway-custody
+track: Evidence and Absence
+status: publication-ready
+capabilities:
+  - ruins-capability:cast-void-identity-custody
+roles:
+  - role: Fragment Custodian
+    focus: footprint, substrate, trackway, cast, scan, and comparative custody
+  - role: Absence Historian
+    focus: volcanic ash preservation, discovery, re-excavation, and access history
+  - role: Reconstruction Skeptic
+    focus: species certainty, gait, group relation, and origin-story overclaims
+  - role: Cultural Memory Reader
+    focus: ancestor footprints, first-step memory, and public bipedalism narrative
+  - role: Sibling Boundary Editor
+    focus: paleoanthropology, locomotion, taxonomy, geology, geography, and display handoffs

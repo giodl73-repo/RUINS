@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.12
+**Version:** v1.13
 
 RUINS uses two different review instruments:
 
@@ -59,6 +59,7 @@ capability or exposes a new one:
 | Catastrophe image audit | If a vivid destruction image dominates the case, are event, source tradition, material loss, inventory, blame, closure, and later memory separately gated? |
 | Deliberate textual destruction | If a report, edict, or tradition describes intentional text destruction, are source mediation, target category, exemptions, survival, corpus effect, and memory image separately gated? |
 | Dispersed object provenance custody | If objects survive outside original context, are object identity, provenance, current holding, legal/governance action, physical movement, digital/replica display, and living memory separately gated? |
+| Cast void identity custody | If a body void, footprint, trackway, cast, scan, or impression stands in for a vanished living actor, are substrate, impression, cast/model, taxon, gait, identity, group relation, and public memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -84,6 +85,7 @@ capability or exposes a new one:
 | Publication treats a vivid catastrophe image as a complete loss event, destroyed inventory, final blame account, or civilizational closure without a catastrophe-image audit | 34 |
 | Publication treats a deliberate destruction report as a complete inventory, corpus map, destroyed-book count, exact quotation, or total intellectual-loss explanation without deliberate-textual-destruction controls | 34 |
 | Publication treats possession, title, loan, return, replica, digital record, or display as complete provenance, original context, restitution, or reunification without dispersed-object custody controls | 34 |
+| Publication treats a body void, footprint, trackway, cast, scan, or impression as complete identity, species certainty, gait reconstruction, social relation, emotional state, or population history without cast-void identity controls | 34 |
 
 ## Scoring Procedure
 
