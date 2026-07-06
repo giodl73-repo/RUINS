@@ -1,0 +1,18 @@
+paper: panel-tyrian-purple-partial-transmission
+module: RUINS
+status: working-draft
+capability_tests:
+  - ruins-capability:partial-technical-transmission
+roles:
+  - id: ASHLAR
+    focus: synthesis, capability promotion, and scoring
+  - id: PALIMPSEST
+    focus: source custody, text/material/sample boundaries, and page anchors
+  - id: ERRATA
+    focus: recipe, scale, status, and reconstruction overclaims
+  - id: Reconstruction Skeptic
+    focus: modern experiment and process reconstruction boundaries
+  - id: Cultural Memory Reader
+    focus: royal purple, secret recipe, and prestige afterlife
+  - id: Sibling Boundary Editor
+    focus: chemistry, source, site, object, and history handoffs
