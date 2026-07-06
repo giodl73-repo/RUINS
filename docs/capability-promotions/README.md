@@ -23,7 +23,7 @@ active to core.
 | Deliberate textual destruction | Active -> Core | [`deliberate-textual-destruction.md`](deliberate-textual-destruction.md) |
 | Dispersed object provenance custody | Active -> Core | [`dispersed-object-provenance-custody.md`](dispersed-object-provenance-custody.md) |
 | Cast void identity custody | Active -> Core | [`cast-void-identity-custody.md`](cast-void-identity-custody.md) |
-| Palimpsest overwrite custody | Candidate -> Active | [`palimpsest-overwrite-custody.md`](palimpsest-overwrite-custody.md) |
+| Palimpsest overwrite custody | Active -> Core | [`palimpsest-overwrite-custody.md`](palimpsest-overwrite-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

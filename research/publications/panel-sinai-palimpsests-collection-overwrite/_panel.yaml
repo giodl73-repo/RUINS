@@ -1,0 +1,16 @@
+paper: panel-sinai-palimpsests-collection-overwrite
+track: Evidence and Absence
+status: publication-ready
+capabilities:
+  - ruins-capability:palimpsest-overwrite-custody
+roles:
+  - role: Fragment Custodian
+    focus: manuscript collection, undertext, overtext, spectral capture, processing, and catalogue custody
+  - role: Absence Historian
+    focus: parchment reuse, monastic survival, imaging campaign, and digital publication process
+  - role: Reconstruction Skeptic
+    focus: discovery-count, language, text identification, edition, and digital-library overclaims
+  - role: Cultural Memory Reader
+    focus: hidden library, oldest library, technology rescue, and access afterlife
+  - role: Sibling Boundary Editor
+    focus: editions, language identity, codicology, monastery history, conservation, imaging, and geography

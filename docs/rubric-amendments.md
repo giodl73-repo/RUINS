@@ -82,6 +82,7 @@ Follow-up:
 | 2026-07-06 | Extension | Pompeii cast-void custody paper | Add cast void identity custody as an active capability: posture, cavity, cast, skeletal material, DNA, display, and public tragedy image must not collapse into identity, kinship, emotion, death narrative, or population claims. |
 | 2026-07-06 | Extension | Pompeii casts and Laetoli footprints | Promote cast void identity custody to Core: body voids, footprints, trackways, casts, scans, and impressions cannot become identity, species certainty, gait reconstruction, social relation, emotional state, or population history without separate custody. |
 | 2026-07-06 | Extension | Archimedes Palimpsest overwrite custody paper | Add palimpsest overwrite custody as an active capability: erased undertext, overtext, missing leaves, mold, forgery, conservation, imaging, processing, scholarly reading, and digital publication must not collapse into complete recovery of the original text. |
+| 2026-07-06 | Extension | Archimedes Palimpsest and Sinai Palimpsests papers | Promote palimpsest overwrite custody to Core: erased text, spectral images, processed images, catalog records, and public digital libraries cannot become complete recovery, edition, translation, authorship, date, or textual history without separate custody. |
 
 ## Re-Scoring Rule
 

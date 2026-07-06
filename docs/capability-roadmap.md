@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| `ruins-capability:palimpsest-overwrite-custody` | Active from Archimedes Palimpsest. | A second overwritten/erased-text paper tests whether undertext/overtext/imaging/reading controls work beyond Archimedes. | Sinai palimpsests, Codex Ephraemi Rescriptus, erased Qur'an palimpsests, recovered charters, or reused parchment fragments. |
+| _None currently queued_ | Promote the next active capability after a future paper exposes one. | Add a cross-case checklist or rubric cap when the pattern repeats. | Prefer unlike evidence conditions. |
 
 ## Candidate To Active
 
@@ -35,5 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Second palimpsest paper** - test whether Archimedes overwrite, imaging,
-   conservation, and scholarly-reading controls generalize.
+1. **New pressure discovery** - choose a case that exposes a genuinely new
+   evidence condition rather than only reinforcing an existing Core capability.
