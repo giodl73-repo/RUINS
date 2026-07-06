@@ -1,0 +1,19 @@
+paper: panel-woodhenge-posthole-marker-custody
+status: publication-ready
+track: Evidence and Absence
+rubric: v1.25
+score: 46
+capabilities:
+  - ruins-capability:decayed-organic-imprint-custody
+promotion_decision: active-to-core
+roles:
+  fragment_custodian:
+    focus: vanished timber posts, postholes, crop marks, concrete markers, bank/ditch, finds
+  absence_historian:
+    focus: timber disappearance, aerial discovery, excavation, marker installation, lost remains
+  reconstruction_skeptic:
+    focus: marker-as-post, posthole-as-complete-building, solstice-as-final-function overclaims
+  cultural_memory_reader:
+    focus: Stonehenge comparison, timber temple language, visitor marker experience, solstice memory
+  sibling_boundary_editor:
+    focus: PORTO, CANON, CERES, RITE, MAXIM/LUCIA, visitor-experience handoffs

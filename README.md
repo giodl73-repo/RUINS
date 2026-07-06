@@ -65,6 +65,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Evidence and Absence | `panel-bamiyan-empty-niche-reconstruction-custody` | publication-ready |
 | Evidence and Absence | `panel-mostar-bridge-reconstructed-void-custody` | publication-ready |
 | Evidence and Absence | `panel-sutton-hoo-decayed-ship-imprint-custody` | publication-ready |
+| Evidence and Absence | `panel-woodhenge-posthole-marker-custody` | publication-ready |
 | Evidence and Absence | `panel-gobekli-tepe-partial-excavation-shelter-custody` | publication-ready |
 | Evidence and Absence | `panel-catalhoyuk-partial-excavation-shelter-custody` | publication-ready |
 | Urban Overbuild and Excavation Windows | `panel-templo-mayor-urban-overbuild-window-custody` | publication-ready |

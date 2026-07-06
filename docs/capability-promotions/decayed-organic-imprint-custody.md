@@ -1,53 +1,49 @@
 # Decayed Organic Imprint Custody
 
 **Capability id:** `ruins-capability:decayed-organic-imprint-custody`
-**State:** Active
-**Promotion:** Candidate -> Active
-**Trigger paper:** `panel-sutton-hoo-decayed-ship-imprint-custody`
+**State:** Core
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `panel-sutton-hoo-decayed-ship-imprint-custody`; `panel-woodhenge-posthole-marker-custody`
 **ASHLAR decision date:** 2026-07-06
 
 ## Pressure
 
-Some ruins survive because organic material disappeared but left stains, voids,
-fasteners, casts, impressions, or associated durable objects. Public knowledge
-can then treat the imprint or replica as the complete original structure,
-complete biography, or solved ritual scene.
+Some ruins survive because organic material disappeared but left stains,
+postholes, voids, rivets, chemical traces, durable associated objects, concrete
+markers, or replicas. Public knowledge can then treat the imprint, marker, or
+replica as the complete original organic structure, biography, function, or
+culture.
 
 ## Gate
 
-The Sutton Hoo paper separates:
+The Sutton Hoo paper separates decayed oak ship, soil imprint, rivet pattern,
+chamber layout, missing body, phosphate inference, surviving metalwork,
+eroded/robbed mound context, replica/sculpture display, and royal/literary
+memory.
 
-- decayed oak ship,
-- soil imprint,
-- rivet pattern,
-- chamber layout,
-- missing body and phosphate inference,
-- surviving metalwork and treasure,
-- eroded/robbed mound context,
-- replica/sculpture display,
-- and royal/literary memory.
+The Woodhenge paper adds vanished timber posts, postholes discovered through
+aerial crop marks, concrete visitor markers, bank/ditch setting, offerings,
+lost child-burial remains, solstice alignment, World Heritage landscape, and
+ritual-function uncertainty.
 
 ## Promotion Basis
 
-The paper is publication-ready under rubric v1.24 and contains:
+The capability is Core because two unlike publication-ready papers exercise the
+same overclaim surface and because rubric v1.25 adds a case-derived check and
+automatic cap.
 
-- a decayed-organic imprint gate,
-- a source lock,
-- a page-anchor audit,
-- a refusal register,
-- a cultural-memory register,
-- a sibling-boundary register,
-- and a scorecard naming this capability as the promotion decision.
+Required artifacts:
 
-## Core Trigger
+- `docs/decayed-organic-imprint-checklist.md`
+- Sutton Hoo decayed-organic imprint gate and refusal register
+- Woodhenge posthole-marker gate and refusal register
+- source locks and page-anchor audits in both papers
+- role reviews and scorecards naming the capability
 
-Promote to Core after a second unlike paper where vanished organic material is
-known through stains, voids, fasteners, impressions, casts, or replica
-reconstruction without becoming the original fabric.
+## Core Rule
 
-## Current Rule
-
-Until this capability is Core, use it as an active review lens but do not add an
-automatic score cap. Papers should refuse original-fabric equivalence, complete
-craft reconstruction, named identity, complete biography, final ritual script,
-and total-history claims unless those custody surfaces are separately locked.
+Soil stains, postholes, rivets, voids, phosphate traces, durable grave goods,
+concrete markers, replicas, mound reconstructions, or public visualizations must
+not become complete original organic fabric, complete vessel/building plans,
+named identities, final functions, complete ritual scripts, or whole-culture
+histories without separate custody.

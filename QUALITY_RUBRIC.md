@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.24
+**Version:** v1.25
 
 RUINS uses two different review instruments:
 
@@ -71,6 +71,7 @@ capability or exposes a new one:
 | Rock-cut facade erosion custody | If a rock-cut or rock-hewn site is known through an iconic facade, church, tomb, trench, route, shelter, conservation project, or visitor image, are carved surface, interior, drainage, erosion, shelter, conservation, living use, and whole-site claims separately gated? |
 | Urban overbuild window custody | If a buried city or structure is known through an excavation window, rescue excavation, under-building display, relocated fabric, reconstruction, immersive exhibit, museum route, removed object, modern foundation, or public rediscovery image, are original context, display context, reconstruction status, conservation, access, and whole-site claims separately gated? |
 | Monumental void reconstruction custody | If a destroyed monument is known through an empty niche, missing span, fragment, exposed remnant, reconstructed replica, restored setting, memorial image, or peace/recovery narrative, are loss, surviving fabric, reconstruction status, authenticity, community meaning, and total-recovery claims separately gated? |
+| Decayed organic imprint custody | If vanished organic fabric is known through stains, postholes, rivets, voids, soil chemistry, durable associated objects, concrete markers, replicas, or public reconstruction images, are original fabric, imprint, marker, reconstruction, identity, function, and whole-culture claims separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -108,6 +109,7 @@ capability or exposes a new one:
 | Publication treats an iconic rock-cut facade, rock-hewn church, carved surface, tunnel/trench, drainage feature, shelter, conservation project, visitor image, pilgrimage use, or tourism route as the whole site, complete original form, complete hydraulic/drainage system, solved chronology, finished conservation, final ritual meaning, or total cultural history without rock-cut erosion controls | 34 |
 | Publication treats an excavation window, under-building display, relocated ruin, reconstructed fabric, immersive exhibit, museum route, removed object, digital guide, or public rediscovery image as the whole buried city, complete precinct, complete building plan, direct original context, finished conservation, final ritual meaning, or total urban history without urban-overbuild controls | 34 |
 | Publication treats an empty niche, missing span, fragment, exposed remnant, reconstructed replica, restored setting, memorial image, peace symbol, or recovery narrative as the original monument, complete original fabric, finished conservation, community consensus, final symbolic meaning, or total heritage recovery without monumental-void controls | 34 |
+| Publication treats soil stains, postholes, rivets, voids, phosphate traces, durable grave goods, concrete markers, replicas, mound reconstructions, or public visualizations as complete original organic fabric, complete vessel/building plan, named identity, final function, complete ritual script, or whole-culture history without decayed-organic imprint controls | 34 |
 
 ## Scoring Procedure
 
