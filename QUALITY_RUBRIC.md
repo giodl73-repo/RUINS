@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.10
+**Version:** v1.11
 
 RUINS uses two different review instruments:
 
@@ -57,6 +57,7 @@ capability or exposes a new one:
 | Partial technical transmission | If a technique survives through text, material, sample, context, experiment, or memory, are those surfaces prevented from becoming a complete ancient technique without a custody gate? |
 | Colonial denial register | If a site has colonial, racialized, settler, foreign-builder, or ownerless-history interpretations, are those narratives refused as archaeology and preserved only as interpretive history or cultural memory? |
 | Catastrophe image audit | If a vivid destruction image dominates the case, are event, source tradition, material loss, inventory, blame, closure, and later memory separately gated? |
+| Deliberate textual destruction | If a report, edict, or tradition describes intentional text destruction, are source mediation, target category, exemptions, survival, corpus effect, and memory image separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -80,6 +81,7 @@ capability or exposes a new one:
 | Publication treats a text, sample, material trace, experiment, public summary, or reconstruction as a complete ancient technique without partial-technical-transmission controls | 34 |
 | Publication treats colonial, racialized, settler, foreign-builder, lost-race, or ownerless-history narratives as live archaeological alternatives without a colonial-denial register | 34 |
 | Publication treats a vivid catastrophe image as a complete loss event, destroyed inventory, final blame account, or civilizational closure without a catastrophe-image audit | 34 |
+| Publication treats a deliberate destruction report as a complete inventory, corpus map, destroyed-book count, exact quotation, or total intellectual-loss explanation without deliberate-textual-destruction controls | 34 |
 
 ## Scoring Procedure
 

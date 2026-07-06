@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| `ruins-capability:deliberate-textual-destruction` | Active from Maya codices. | A second deliberate-destruction paper tests whether this is distinct from broader destroyed-corpus custody. | Qin book burning, Nalanda manuscript loss, Timbuktu manuscript threat, Reformation image/book destruction, or wartime archives. |
+| _None currently queued_ | Promote the next active capability after a future paper exposes one. | Add a cross-case checklist or rubric cap when the pattern repeats. | Prefer unlike evidence conditions. |
 
 ## Candidate To Active
 
@@ -35,5 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Second deliberate textual destruction paper** - decides whether deliberate
-   destruction stays distinct from destroyed-corpus custody.
+1. **New pressure discovery** - choose a case that exposes a genuinely new
+   evidence condition rather than only reinforcing an existing Core capability.

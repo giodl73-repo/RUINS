@@ -44,7 +44,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:catastrophe-image-audit` | Catastrophe image audit | Core | Alexandria and House of Wisdom checklist plus rubric v1.10 cap; see `docs/capability-promotions/catastrophe-image-audit.md` and `docs/catastrophe-image-audit-checklist.md`. | House of Wisdom / Alexandria |
 | `ruins-capability:fragment-custody-ladder` | Fragment custody ladder | Core | Dead Sea Scrolls publication-scope gate and automatic source-lock cap logic; see `docs/capability-promotions/fragment-custody-ladder.md`. | Indus / Dead Sea Scrolls |
 | `ruins-capability:mediated-recovery-custody` | Mediated recovery custody | Core | Herculaneum amendment; rubric check and automatic cap; see `docs/capability-promotions/mediated-recovery-custody.md`. | Herculaneum papyri |
-| `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Active | Maya destruction chronology and refusal gates; see `docs/capability-promotions/deliberate-textual-destruction.md`. | Maya codices |
+| `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Core | Maya codices and Qin book burning checklist plus rubric v1.11 cap; see `docs/capability-promotions/deliberate-textual-destruction.md` and `docs/deliberate-textual-destruction-checklist.md`. | Maya codices |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -104,6 +104,11 @@ activate candidates or promote active capabilities to core.
     final blame ledgers, or civilizational closure unless event, source
     tradition, material loss, inventory, blame, and later memory are separately
     gated.
+17. **Deliberate textual destruction:** a destruction report, edict, or
+    tradition must not become a destroyed inventory, corpus map, exact
+    quotation, total-loss explanation, or intellectual-history closure without
+    source-mediation, target-category, exemption, survival, corpus-effect, and
+    memory controls.
 
 ## Fast Promotion Path
 
@@ -136,6 +141,7 @@ Use the promotion packet checklist before changing a capability state.
 | Roman concrete / Tyrian purple | Partial technique survival versus complete recipe recovery. | Partial technical transmission checklist, source locks, page audits, custody/refusal gates, cultural-memory registers. | CERES owns materials chemistry and sample interpretation; FONTES/MUNDUS own exact ancient passages; PORTO owns site geography; MAXIM/LUCIA own broader history. |
 | Great Zimbabwe / Mound Builder denial | Colonial denial versus local or Indigenous authorship. | Colonial denial register checklist, refusal registers, cultural-memory registers, source locks, page-anchor audits. | MAXIM/LUCIA own broader history; CANON owns named sites and identity records; FONTES/MUNDUS own exact source passages; PORTO owns geography; CERES owns material interpretation. |
 | Alexandria / House of Wisdom | Vivid catastrophe image versus source-scoped loss. | Catastrophe image audit checklist, refusal registers, primary-source custody gate, cultural-memory registers, source locks, page-anchor audits. | FONTES/MUNDUS own exact source passages and editions; MAXIM/LUCIA own broader history; CANON owns institution identity; PORTO owns geography. |
+| Maya codices / Qin book burning | Deliberate textual destruction versus destroyed inventory or total corpus explanation. | Deliberate textual destruction checklist, destruction-corpus/custody gates, source locks, page-anchor audits, quotation/translation gates, refusal registers. | FONTES/MUNDUS own exact source text and translation; MAXIM/LUCIA own broader history and intellectual context; CANON owns named texts and institutions. |
 
 ## Promotion Rule
 

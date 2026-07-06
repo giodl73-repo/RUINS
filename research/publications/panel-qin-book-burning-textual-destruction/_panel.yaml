@@ -1,0 +1,18 @@
+paper: panel-qin-book-burning-textual-destruction
+module: ruins
+status: publication-ready
+capability_tests:
+  - ruins-capability:deliberate-textual-destruction
+roles:
+  - id: ASHLAR
+    focus: synthesis, capability promotion, and scoring
+  - id: PALIMPSEST
+    focus: source tradition, translation boundary, and page anchors
+  - id: ERRATA
+    focus: destroyed inventory, total-loss, and scholar-execution overclaims
+  - id: Absence Historian
+    focus: Qin policy, Han narration, later palace/archive loss, and memory layers
+  - id: Cultural Memory Reader
+    focus: tyranny image, book-burning afterlife, and civilizational rupture stories
+  - id: Sibling Boundary Editor
+    focus: Chinese history, source edition, philosophy, textual transmission, and archive handoffs

@@ -15,6 +15,7 @@ role reviews, and synthesis.
 | [`panel-dead-sea-scrolls-fragment-custody`](panel-dead-sea-scrolls-fragment-custody/) | Evidence and Absence | publication-ready |
 | [`panel-herculaneum-papyri-virtual-unwrapping`](panel-herculaneum-papyri-virtual-unwrapping/) | Evidence and Absence | publication-ready |
 | [`panel-maya-codices-destroyed-corpus`](panel-maya-codices-destroyed-corpus/) | Evidence and Absence | publication-ready |
+| [`panel-qin-book-burning-textual-destruction`](panel-qin-book-burning-textual-destruction/) | Evidence and Absence | publication-ready |
 | [`panel-vinland-saga-site-crosscheck`](panel-vinland-saga-site-crosscheck/) | Evidence and Absence | publication-ready |
 | [`panel-palmyra-replica-reconstruction`](panel-palmyra-replica-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
