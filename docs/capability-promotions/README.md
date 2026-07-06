@@ -31,6 +31,7 @@ active to core.
 | Fragile site access replica custody | Active -> Core | [`fragile-site-access-replica-custody.md`](fragile-site-access-replica-custody.md) |
 | Scale-mediated surface visibility custody | Active -> Core | [`scale-mediated-surface-visibility-custody.md`](scale-mediated-surface-visibility-custody.md) |
 | Partial excavation shelter custody | Active -> Core | [`partial-excavation-shelter-custody.md`](partial-excavation-shelter-custody.md) |
+| Rock-cut facade erosion custody | Candidate -> Active | [`rock-cut-facade-erosion-custody.md`](rock-cut-facade-erosion-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

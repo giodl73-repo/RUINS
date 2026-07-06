@@ -55,6 +55,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:fragile-site-access-replica-custody` | Fragile site access replica custody | Core | Lascaux and Chauvet checklist plus rubric v1.19 cap; see `docs/capability-promotions/fragile-site-access-replica-custody.md` and `docs/fragile-site-access-replica-checklist.md`. | Lascaux |
 | `ruins-capability:scale-mediated-surface-visibility-custody` | Scale-mediated surface visibility custody | Core | Nasca and Uffington checklist plus rubric v1.20 cap; see `docs/capability-promotions/scale-mediated-surface-visibility-custody.md` and `docs/scale-mediated-surface-visibility-checklist.md`. | Nasca |
 | `ruins-capability:partial-excavation-shelter-custody` | Partial excavation shelter custody | Core | Gobekli Tepe and Catalhoyuk checklist plus rubric v1.21 cap; see `docs/capability-promotions/partial-excavation-shelter-custody.md` and `docs/partial-excavation-shelter-checklist.md`. | Gobekli Tepe |
+| `ruins-capability:rock-cut-facade-erosion-custody` | Rock-cut facade erosion custody | Active | Petra facade/water/erosion gate; see `docs/capability-promotions/rock-cut-facade-erosion-custody.md`. | Petra |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -179,6 +180,12 @@ activate candidates or promote active capabilities to core.
     are separate layers; a sheltered visitor view must not become complete site
     exposure, final site function, complete settlement model, solved social
     hierarchy, or finished conservation status without separate custody.
+28. **Rock-cut facade erosion custody:** facade image, carved surface, freestanding
+    structure, water channel, diversion dam, cistern, visitor route, erosion
+    process, conservation intervention, and whole-city interpretation are
+    separate layers; an iconic facade or conservation project must not become the
+    whole city, complete water system, solved chronology, finished conservation,
+    or total Nabataean history without separate custody.
 
 ## Fast Promotion Path
 
@@ -231,6 +238,7 @@ Use the promotion packet checklist before changing a capability state.
 | Nasca / Uffington White Horse | Desert surface fields and chalk hill figure versus ground view, distance view, slope, aerial/drone survey, map outline, re-cutting, scouring, OSL dating, and public emblem memory. | Scale-visibility gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, sibling-boundary registers, cross-case checklist. | PORTO owns Peru/Oxfordshire geography; CERES owns desert/chalk geomorphology, erosion, turf, soil, and dating science; CANON owns named figure identity; RITE owns symbolic/ritual claims; MAXIM/LUCIA own broader Paracas/Nasca/British prehistory; remote-sensing systems own model and survey implementation. |
 | Gobekli Tepe | Partially excavated Neolithic mound versus exposed monumental buildings, unexcavated reserve, protective shelters, visitor walkways, conservation consolidation, changing ritual/settlement interpretation, and public oldest-temple memory. | Partial-excavation shelter gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Germus/Sanliurfa geography; CERES owns limestone, plaster, earth mortar, weathering, excavation, and conservation science; CANON owns named buildings/pillars; RITE owns ritual/funerary interpretation; MAXIM/LUCIA own Neolithic transition; tourism/experience systems own visitor infrastructure. |
 | Gobekli Tepe / Catalhoyuk | Monumental sheltered exposure and mudbrick settlement shelters versus unexcavated reserve, exposed buildings, visitor route, replica house, off-site objects, archive, conservation monitoring, and origin-story pressure. | Partial-excavation shelter gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, sibling-boundary registers, cross-case checklist. | PORTO owns Anatolian geography; CERES owns mudbrick, plaster, climate, erosion, conservation, excavation science; CANON owns buildings, mounds, objects, and archive identities; RITE owns ritual claims; MAXIM/LUCIA own Neolithic settlement/urbanism; visitor-experience systems own route, signs, replicas, and exhibits. |
+| Petra | Iconic rock-cut facades versus half-built/half-carved city, water system, sandstone erosion, flash-flood risk, Palace Tomb conservation, tourism pressure, local community infrastructure, and lost-city memory. | Rock-cut facade erosion gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Petra/Wadi Musa geography and routes; CERES owns sandstone, erosion, hydrology, stabilization, and conservation science; CANON owns tomb/facade/building identities; RITE owns religious high-place interpretation; MAXIM/LUCIA own Nabataean and regional history; tourism/policy systems own access, shops, infrastructure, and community governance. |
 
 ## Promotion Rule
 

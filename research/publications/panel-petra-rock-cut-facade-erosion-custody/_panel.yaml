@@ -1,0 +1,19 @@
+paper: panel-petra-rock-cut-facade-erosion-custody
+status: publication-ready
+track: Rock-Cut Landscapes and Erosion
+rubric: v1.21
+score: 45
+capabilities:
+  - ruins-capability:rock-cut-facade-erosion-custody
+promotion_decision: candidate-to-active
+roles:
+  fragment_custodian:
+    focus: rock-cut facade, freestanding structures, water channels, erosion traces, conservation project
+  absence_historian:
+    focus: lost city image, sandstone decay, flash flooding, tourism pressure, infrastructure pressure
+  reconstruction_skeptic:
+    focus: facade-as-city, complete water system, finished conservation, final chronology overclaims
+  cultural_memory_reader:
+    focus: Treasury image, lost city, wonder, caravan city, visitor-route memory
+  sibling_boundary_editor:
+    focus: PORTO, CERES, CANON, RITE, MAXIM/LUCIA, tourism/policy handoffs

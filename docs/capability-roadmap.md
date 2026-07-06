@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | Partial excavation shelter custody promoted to Core after Gobekli Tepe/Catalhoyuk. | Add the next active capability after a paper creates a pressure surface. | Prefer a case with a different evidence condition than sheltered excavation. |
+| `ruins-capability:rock-cut-facade-erosion-custody` | Active after Petra. | Add a cross-case checklist or rubric cap after one unlike rock-cut/eroding facade case. | Lalibela, Ellora/Ajanta, Abu Simbel, or another carved-rock site where facade, interior, water/erosion, conservation, visitor image, and whole-site history diverge. |
 
 ## Candidate To Active
 
@@ -35,5 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case outside sheltered excavation
-   where public knowledge is mediated by a different survival condition.
+1. **Rock-cut erosion second test** - choose an unlike carved-rock site where
+   facade image, interior, erosion, conservation, route, and whole-site history
+   must remain separate.

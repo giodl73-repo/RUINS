@@ -31,6 +31,7 @@ role reviews, and synthesis.
 | [`panel-joya-de-ceren-catastrophic-snapshot-custody`](panel-joya-de-ceren-catastrophic-snapshot-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
+| [`panel-petra-rock-cut-facade-erosion-custody`](panel-petra-rock-cut-facade-erosion-custody/) | Rock-Cut Landscapes and Erosion | publication-ready |
 | [`panel-nasca-geoglyph-scale-visibility-custody`](panel-nasca-geoglyph-scale-visibility-custody/) | Surface Landscapes and Scale Mediation | publication-ready |
 | [`panel-uffington-white-horse-scale-visibility-custody`](panel-uffington-white-horse-scale-visibility-custody/) | Surface Landscapes and Scale Mediation | publication-ready |
 | [`panel-lascaux-fragile-access-replica-custody`](panel-lascaux-fragile-access-replica-custody/) | Reconstruction and Modern Projection | publication-ready |
