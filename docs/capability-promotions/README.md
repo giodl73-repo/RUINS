@@ -29,7 +29,7 @@ active to core.
 | Sealed cache representativeness custody | Active -> Core | [`sealed-cache-representativeness-custody.md`](sealed-cache-representativeness-custody.md) |
 | Catastrophic snapshot preservation custody | Active -> Core | [`catastrophic-snapshot-preservation-custody.md`](catastrophic-snapshot-preservation-custody.md) |
 | Fragile site access replica custody | Active -> Core | [`fragile-site-access-replica-custody.md`](fragile-site-access-replica-custody.md) |
-| Scale-mediated surface visibility custody | Candidate -> Active | [`scale-mediated-surface-visibility-custody.md`](scale-mediated-surface-visibility-custody.md) |
+| Scale-mediated surface visibility custody | Active -> Core | [`scale-mediated-surface-visibility-custody.md`](scale-mediated-surface-visibility-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

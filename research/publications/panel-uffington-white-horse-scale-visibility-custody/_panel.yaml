@@ -1,0 +1,19 @@
+paper: panel-uffington-white-horse-scale-visibility-custody
+status: publication-ready
+track: Surface Landscapes and Scale Mediation
+rubric: v1.20
+score: 46
+capabilities:
+  - ruins-capability:scale-mediated-surface-visibility-custody
+promotion_decision: active-to-core
+roles:
+  fragment_custodian:
+    focus: chalk trace, slope view, distance view, drone/aerial survey, OSL sample, restored outline
+  absence_historian:
+    focus: scouring, turf encroachment, re-cutting, 1936 consolidation, World War II covering, 2024 restoration
+  reconstruction_skeptic:
+    focus: original shape, final date, emblem meaning, dragon legend, complete restoration overclaims
+  cultural_memory_reader:
+    focus: White Horse Hill, Wonders of Britain, Dragon Hill, local scouring, national icon language
+  sibling_boundary_editor:
+    focus: PORTO, CERES, CANON, RITE, MAXIM/LUCIA, remote-sensing handoffs

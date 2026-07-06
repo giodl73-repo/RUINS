@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| `ruins-capability:scale-mediated-surface-visibility-custody` | Active after Nasca. | Add a cross-case checklist or rubric cap after one unlike scale-mediated surface case. | Uffington White Horse, Cerne Abbas Giant, desert kites, or another large surface mark where ground trace, aerial image, survey map, dating, and public interpretation diverge. |
+| _None currently queued_ | Scale-mediated surface visibility custody promoted to Core after Nasca/Uffington. | Add the next active capability after a paper creates a pressure surface. | Prefer a case with a different evidence condition than large surface marks. |
 
 ## Candidate To Active
 
@@ -35,6 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Scale-mediated surface second test** - choose an unlike large surface mark
-   where ground visibility, aerial/satellite knowledge, dating, maintenance,
-   and public image must remain separate.
+1. **Next pressure discovery** - choose a case outside large surface marks where
+   public knowledge is mediated by a different survival condition.
