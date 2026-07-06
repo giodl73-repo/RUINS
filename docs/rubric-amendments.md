@@ -85,6 +85,7 @@ Follow-up:
 | 2026-07-06 | Extension | Archimedes Palimpsest and Sinai Palimpsests papers | Promote palimpsest overwrite custody to Core: erased text, spectral images, processed images, catalog records, and public digital libraries cannot become complete recovery, edition, translation, authorship, date, or textual history without separate custody. |
 | 2026-07-06 | Extension | Tollund Man preserved-body custody paper | Add preserved body taphonomy custody as an active capability: body preservation, forensic report, gut contents, conservation treatment, display, and ritual/death interpretation must not collapse into complete identity, biography, motive, or population history. |
 | 2026-07-06 | Extension | Tollund Man and Lindow Man preserved-body papers | Promote preserved body taphonomy custody to Core: preserved human tissue, forensic injury, gut content, conservation treatment, facial appearance, and display cannot become complete identity, biography, motive, ritual meaning, social role, or population history without separate custody. |
+| 2026-07-06 | Extension | Doggerland submerged-landscape proxy paper | Add submerged landscape proxy custody as an active capability: seabed topography, seismic horizons, sediment cores, trawled artefacts, faunal remains, ancient DNA, and inundation models must not collapse into in-situ settlement maps, migration routes, named cultures, event narratives, or lost-civilization stories. |
 
 ## Re-Scoring Rule
 

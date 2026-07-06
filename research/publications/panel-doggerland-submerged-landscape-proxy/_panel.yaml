@@ -1,0 +1,16 @@
+paper: panel-doggerland-submerged-landscape-proxy
+track: Evidence and Absence
+status: publication-ready
+capabilities:
+  - ruins-capability:submerged-landscape-proxy-custody
+roles:
+  - role: Fragment Custodian
+    focus: bathymetry, seismic, core, artefact, faunal, DNA, and model custody
+  - role: Absence Historian
+    focus: postglacial sea-level rise, inundation process, and survival bias
+  - role: Reconstruction Skeptic
+    focus: settlement maps, routes, cultural boundaries, and lost-world overclaims
+  - role: Cultural Memory Reader
+    focus: lost world, Atlantis analogy, climate parable, and public afterlife
+  - role: Sibling Boundary Editor
+    focus: geography, sediment science, DNA, named cultures, and broader prehistory

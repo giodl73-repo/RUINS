@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | Promote the next active capability after a future paper exposes one. | Add a cross-case checklist or rubric cap when the pattern repeats. | Prefer unlike evidence conditions. |
+| `ruins-capability:submerged-landscape-proxy-custody` | Active after Doggerland. | Add a cross-case checklist or rubric cap after one unlike submerged case. | Atlit-Yam, Bouldnor Cliff, or another case with in-situ submerged settlement evidence rather than mostly basin-scale proxies. |
 
 ## Candidate To Active
 
@@ -35,5 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **New pressure discovery** - choose a case that exposes a genuinely new
-   evidence condition rather than only reinforcing an existing Core capability.
+1. **Submerged landscape second test** - choose an unlike submerged case with
+   in-situ architecture, artefacts, human remains, or excavation custody to test
+   Doggerland's basin-scale proxy gate before promoting it to Core.

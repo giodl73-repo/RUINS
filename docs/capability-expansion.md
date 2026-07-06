@@ -49,6 +49,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:cast-void-identity-custody` | Cast void identity custody | Core | Pompeii casts and Laetoli footprints checklist plus rubric v1.13 cap; see `docs/capability-promotions/cast-void-identity-custody.md` and `docs/cast-void-identity-checklist.md`. | Pompeii casts |
 | `ruins-capability:palimpsest-overwrite-custody` | Palimpsest overwrite custody | Core | Archimedes Palimpsest and Sinai Palimpsests checklist plus rubric v1.14 cap; see `docs/capability-promotions/palimpsest-overwrite-custody.md` and `docs/palimpsest-overwrite-checklist.md`. | Archimedes Palimpsest |
 | `ruins-capability:preserved-body-taphonomy-custody` | Preserved body taphonomy custody | Core | Tollund Man and Lindow Man checklist plus rubric v1.15 cap; see `docs/capability-promotions/preserved-body-taphonomy-custody.md` and `docs/preserved-body-taphonomy-checklist.md`. | Tollund Man |
+| `ruins-capability:submerged-landscape-proxy-custody` | Submerged landscape proxy custody | Active | Doggerland proxy gate and publication-ready scorecard; see `docs/capability-promotions/submerged-landscape-proxy-custody.md`. | Doggerland |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -136,6 +137,11 @@ activate candidates or promote active capabilities to core.
     face or body may become complete identity, biography, emotion, cause,
     motive, social role, display-ethics answer, or population story without
     separate custody.
+22. **Submerged landscape proxy custody:** seabed topography, seismic horizons,
+    sediment cores, recovered artefacts, faunal remains, ancient DNA, and
+    inundation models are separate evidence layers; no drowned land surface may
+    become an in-situ settlement map, migration route, named culture, event
+    narrative, or lost-civilization image without separate custody.
 
 ## Fast Promotion Path
 
@@ -176,6 +182,7 @@ Use the promotion packet checklist before changing a capability state.
 | Archimedes Palimpsest / Sinai Palimpsests | Single famous overwritten codex versus collection-scale erased undertexts, languages, spectral imaging, processing, cataloguing, and preliminary discovery claims. | Palimpsest overwrite gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | FONTES/MUNDUS own editions, transcription, translation, and exact readings; CANON owns manuscript/work/language identity; PORTO owns monastery geography; CERES owns parchment, inks, conservation, and imaging; MAXIM/LUCIA own broader historical synthesis. |
 | Tollund Man | Bog-preserved body, forensic hanging claim, conservation/dissection/display choices, gut-content reanalysis, and ritual/execution memory. | Preserved-body custody gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | MAXIM/LUCIA own Iron Age history; CANON owns person/object identity; PORTO owns findspot geography; CERES owns preservation chemistry and conservation; medical/forensic systems own death physiology; RITE owns ritual interpretation. |
 | Tollund Man / Lindow Man | Bog-preserved human remains versus biography, cause, motive, ritual, conservation, display, and population overclaims. | Preserved-body custody gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | MAXIM/LUCIA own Iron Age/Romano-British history; CANON owns person/object identity; PORTO owns findspot geography; CERES owns peat chemistry and conservation; medical/forensic systems own trauma and death physiology; RITE owns ritual interpretation; ethics/museum-policy systems own display ethics. |
+| Doggerland | Submerged Mesolithic landscape versus proxy maps, trawled finds, cores, sedaDNA, models, and lost-world memory. | Submerged-landscape proxy gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns geography and bathymetry; CERES owns sediment, faunal, pollen, and DNA methods; GENES owns population/ancestry claims; MAXIM/LUCIA own broader prehistory; CANON owns named cultures and sites. |
 
 ## Promotion Rule
 
