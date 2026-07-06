@@ -1,0 +1,16 @@
+paper: panel-archimedes-palimpsest-overwrite-custody
+track: Evidence and Absence
+status: publication-ready
+capabilities:
+  - ruins-capability:palimpsest-overwrite-custody
+roles:
+  - role: Fragment Custodian
+    focus: undertext, overtext, missing leaves, mold, forgeries, imaging, and transcriptions
+  - role: Absence Historian
+    focus: copying, scraping, reuse, damage, conservation, and publication process
+  - role: Reconstruction Skeptic
+    focus: complete recovery, image-equals-reading, and genius-story overclaims
+  - role: Cultural Memory Reader
+    focus: Eureka story, lost science, rediscovery, and public data afterlife
+  - role: Sibling Boundary Editor
+    focus: manuscript identity, edition custody, conservation, imaging physics, and intellectual history

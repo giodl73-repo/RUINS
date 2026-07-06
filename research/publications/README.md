@@ -19,6 +19,7 @@ role reviews, and synthesis.
 | [`panel-vinland-saga-site-crosscheck`](panel-vinland-saga-site-crosscheck/) | Evidence and Absence | publication-ready |
 | [`panel-pompeii-cast-void-custody`](panel-pompeii-cast-void-custody/) | Evidence and Absence | publication-ready |
 | [`panel-laetoli-footprint-trackway-custody`](panel-laetoli-footprint-trackway-custody/) | Evidence and Absence | publication-ready |
+| [`panel-archimedes-palimpsest-overwrite-custody`](panel-archimedes-palimpsest-overwrite-custody/) | Evidence and Absence | publication-ready |
 | [`panel-palmyra-replica-reconstruction`](panel-palmyra-replica-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-knossos-restoration-projection`](panel-knossos-restoration-projection/) | Reconstruction and Modern Projection | publication-ready |

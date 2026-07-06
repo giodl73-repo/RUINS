@@ -47,6 +47,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Core | Maya codices and Qin book burning checklist plus rubric v1.11 cap; see `docs/capability-promotions/deliberate-textual-destruction.md` and `docs/deliberate-textual-destruction-checklist.md`. | Maya codices |
 | `ruins-capability:dispersed-object-provenance-custody` | Dispersed object provenance custody | Core | Benin Bronzes and Parthenon Sculptures checklist plus rubric v1.12 cap; see `docs/capability-promotions/dispersed-object-provenance-custody.md` and `docs/dispersed-object-provenance-checklist.md`. | Benin Bronzes |
 | `ruins-capability:cast-void-identity-custody` | Cast void identity custody | Core | Pompeii casts and Laetoli footprints checklist plus rubric v1.13 cap; see `docs/capability-promotions/cast-void-identity-custody.md` and `docs/cast-void-identity-checklist.md`. | Pompeii casts |
+| `ruins-capability:palimpsest-overwrite-custody` | Palimpsest overwrite custody | Active | Archimedes Palimpsest overwrite/imaging gate and refusal register; see `docs/capability-promotions/palimpsest-overwrite-custody.md`. | Archimedes Palimpsest |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -121,6 +122,11 @@ activate candidates or promote active capabilities to core.
     must not become complete identity, species certainty, family relation,
     death narrative, emotional state, or whole-population history without
     separate custody.
+20. **Palimpsest overwrite custody:** erased, scraped, overwritten, imaged, and
+    digitally processed text is not a simple recovered original. Undertext,
+    overtext, physical damage, later forgery, conservation, imaging modality,
+    scholar reading, transcription, and public data release require separate
+    custody.
 
 ## Fast Promotion Path
 
@@ -157,6 +163,7 @@ Use the promotion packet checklist before changing a capability state.
 | Benin Bronzes / Parthenon Sculptures | Material survival versus broken provenance, dispersal, return/reunification, display, replica, and digital reconnection. | Dispersed object custody gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | MAXIM/LUCIA own history; CANON owns object identity; PORTO owns geography; CERES owns material interpretation; legal/policy systems own title, loans, restitution, and mediation. |
 | Pompeii casts | Negative body cavities, plaster/resin casts, skeletal material, DNA, restoration, display, and public tragedy image. | Cast-void custody gate, source lock, page-anchor audit, DNA interpretation boundary, refusal register, cultural-memory register. | MAXIM/LUCIA own Roman history; CANON owns person/object identity; PORTO owns site geography; GENES owns ancestry method; CERES owns material/conservation; medical/forensic systems own cause-of-death physiology. |
 | Pompeii casts / Laetoli footprints | Negative body cavities and trackway impressions versus identity, kinship, taxon, gait, and social-story overclaims. | Cast-void custody gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | MAXIM/LUCIA own broader history; CANON owns person/taxon/site identity; PORTO owns geography; GENES owns ancestry; CERES owns substrate/material interpretation; biology/forensic systems own locomotion and physiology. |
+| Archimedes Palimpsest | Erased undertext, overtext, missing pages, mold, forged paintings, conservation, multispectral/XRF imaging, scholarly readings, and public data. | Palimpsest overwrite gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | FONTES/MUNDUS own editions, transcription, translation, and exact readings; MAXIM/LUCIA own broader intellectual history; CANON owns manuscript/work identity; CERES owns parchment, ink, conservation, and imaging physics. |
 
 ## Promotion Rule
 
