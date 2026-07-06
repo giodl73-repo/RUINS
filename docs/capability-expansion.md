@@ -39,7 +39,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:partial-technical-transmission` | Partial technical transmission | Core | Roman concrete and Tyrian purple cross-technique checklist; see `docs/capability-promotions/partial-technical-transmission.md` and `docs/partial-technical-transmission-checklist.md`. | Roman concrete |
 | `ruins-capability:restoration-as-modern-projection` | Restoration as modern projection | Core | Modern restoration/reconstruction amendment and Knossos scorecard; see `docs/capability-promotions/restoration-as-modern-projection.md`. | Knossos |
 | `ruins-capability:interpretive-violence` | Interpretive violence | Core | Great Zimbabwe amendment for damaged interpretation as ruin condition; see `docs/capability-promotions/interpretive-violence.md`. | Great Zimbabwe |
-| `ruins-capability:colonial-denial-register` | Colonial denial register | Active | Great Zimbabwe refusal/cultural-memory handling; see `docs/capability-promotions/colonial-denial-register.md`. | Great Zimbabwe |
+| `ruins-capability:colonial-denial-register` | Colonial denial register | Core | Great Zimbabwe and Mound Builder denial cross-case checklist; see `docs/capability-promotions/colonial-denial-register.md` and `docs/colonial-denial-register-checklist.md`. | Great Zimbabwe |
 | `ruins-capability:institutional-memory-boundary` | Institutional memory boundary | Core | House of Wisdom amendment and primary-source custody gate; see `docs/capability-promotions/institutional-memory-boundary.md`. | House of Wisdom |
 | `ruins-capability:catastrophe-image-audit` | Catastrophe image audit | Active | Alexandria/House refusal patterns for vivid loss imagery; see `docs/capability-promotions/catastrophe-image-audit.md`. | House of Wisdom / Alexandria |
 | `ruins-capability:fragment-custody-ladder` | Fragment custody ladder | Core | Dead Sea Scrolls publication-scope gate and automatic source-lock cap logic; see `docs/capability-promotions/fragment-custody-ladder.md`. | Indus / Dead Sea Scrolls |
@@ -96,6 +96,10 @@ activate candidates or promote active capabilities to core.
     contexts, experiments, and public memory are separate evidence layers; none
     may stand in for a complete ancient technique without a technique-custody
     gate.
+15. **Colonial denial register:** colonial, racialized, settler,
+    foreign-builder, lost-race, and ownerless-history narratives are
+    interpretive damage layers; they must not be presented as live
+    archaeological alternatives.
 
 ## Fast Promotion Path
 
@@ -126,6 +130,7 @@ Use the promotion packet checklist before changing a capability state.
 | Vinland / Norse North Atlantic traces | Saga memory versus archaeological site evidence. | Saga-memory crosscheck, source map, claim-grade table, route/name refusal gate. | PORTO owns route/geography; LUCIA/MAXIM own Norse history; CANON owns site/entity identity. |
 | Uluburun / Kyrenia shipwrecks | Cargo and reconstruction survival versus lost operating context. | Shipwreck context-loss checklist, source locks, context-loss gates, refusal registers, page/source audits, museum/reconstruction/dating custody audits. | PORTO owns route/geography; CANON owns object identity; FONTES/MUNDUS own exact reports/catalogues; CERES owns material and sample interpretation; MAXIM/LUCIA own broader history. |
 | Roman concrete / Tyrian purple | Partial technique survival versus complete recipe recovery. | Partial technical transmission checklist, source locks, page audits, custody/refusal gates, cultural-memory registers. | CERES owns materials chemistry and sample interpretation; FONTES/MUNDUS own exact ancient passages; PORTO owns site geography; MAXIM/LUCIA own broader history. |
+| Great Zimbabwe / Mound Builder denial | Colonial denial versus local or Indigenous authorship. | Colonial denial register checklist, refusal registers, cultural-memory registers, source locks, page-anchor audits. | MAXIM/LUCIA own broader history; CANON owns named sites and identity records; FONTES/MUNDUS own exact source passages; PORTO owns geography; CERES owns material interpretation. |
 
 ## Promotion Rule
 

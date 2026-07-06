@@ -1,0 +1,21 @@
+paper: panel-mound-builder-denial-register
+module: ruins
+status: publication-ready
+capability_tests:
+  - ruins-capability:colonial-denial-register
+roles:
+  - id: R1
+    name: Fragment Custodian
+    focus: earthworks, mound groups, excavation records, artifacts, archive reports, and site damage
+  - id: R2
+    name: Absence Historian
+    focus: vanished-race stories, removal-era context, excavation history, and heritage recognition
+  - id: R3
+    name: Reconstruction Skeptic
+    focus: lost race, giants, ancient visitors, Ten Lost Tribes, and non-Native authorship claims
+  - id: R4
+    name: Cultural Memory Reader
+    focus: mystery framing, Indigenous sacred-site memory, UNESCO/public heritage, and modern pseudoarchaeology
+  - id: R5
+    name: Sibling Boundary Editor
+    focus: MAXIM North American history, CANON named sites, PORTO geography, FONTES source custody, and Indigenous identity claims

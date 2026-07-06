@@ -15,7 +15,7 @@ active to core.
 | Partial technical transmission | Active -> Core | [`partial-technical-transmission.md`](partial-technical-transmission.md) |
 | Restoration as modern projection | Candidate -> Core | [`restoration-as-modern-projection.md`](restoration-as-modern-projection.md) |
 | Interpretive violence | Candidate -> Core | [`interpretive-violence.md`](interpretive-violence.md) |
-| Colonial denial register | Candidate -> Active | [`colonial-denial-register.md`](colonial-denial-register.md) |
+| Colonial denial register | Active -> Core | [`colonial-denial-register.md`](colonial-denial-register.md) |
 | Institutional memory boundary | Candidate -> Core | [`institutional-memory-boundary.md`](institutional-memory-boundary.md) |
 | Catastrophe image audit | Candidate -> Active | [`catastrophe-image-audit.md`](catastrophe-image-audit.md) |
 | Fragment custody ladder | Candidate -> Core | [`fragment-custody-ladder.md`](fragment-custody-ladder.md) |
