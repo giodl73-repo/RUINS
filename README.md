@@ -62,6 +62,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Evidence and Absence | `panel-cairo-genizah-storeroom-cache-custody` | publication-ready |
 | Evidence and Absence | `panel-akrotiri-catastrophic-snapshot-custody` | publication-ready |
 | Evidence and Absence | `panel-joya-de-ceren-catastrophic-snapshot-custody` | publication-ready |
+| Evidence and Absence | `panel-gobekli-tepe-partial-excavation-shelter-custody` | publication-ready |
 | Surface Landscapes and Scale Mediation | `panel-nasca-geoglyph-scale-visibility-custody` | publication-ready |
 | Surface Landscapes and Scale Mediation | `panel-uffington-white-horse-scale-visibility-custody` | publication-ready |
 | Reconstruction and Modern Projection | `panel-lascaux-fragile-access-replica-custody` | publication-ready |

@@ -30,6 +30,7 @@ active to core.
 | Catastrophic snapshot preservation custody | Active -> Core | [`catastrophic-snapshot-preservation-custody.md`](catastrophic-snapshot-preservation-custody.md) |
 | Fragile site access replica custody | Active -> Core | [`fragile-site-access-replica-custody.md`](fragile-site-access-replica-custody.md) |
 | Scale-mediated surface visibility custody | Active -> Core | [`scale-mediated-surface-visibility-custody.md`](scale-mediated-surface-visibility-custody.md) |
+| Partial excavation shelter custody | Candidate -> Active | [`partial-excavation-shelter-custody.md`](partial-excavation-shelter-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

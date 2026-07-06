@@ -1,0 +1,19 @@
+paper: panel-gobekli-tepe-partial-excavation-shelter-custody
+status: publication-ready
+track: Evidence and Absence
+rubric: v1.20
+score: 45
+capabilities:
+  - ruins-capability:partial-excavation-shelter-custody
+promotion_decision: candidate-to-active
+roles:
+  fragment_custodian:
+    focus: exposed buildings, unexcavated reserve, shelter, conservation layer, reconstructed parts
+  absence_historian:
+    focus: rediscovery, ongoing excavation, changing interpretation, visitor opening, sheltering
+  reconstruction_skeptic:
+    focus: final ritual, complete settlement, oldest temple, social hierarchy, conservation-complete claims
+  cultural_memory_reader:
+    focus: oldest temple, origin of civilization, hunter-gatherer monument, visitor spectacle language
+  sibling_boundary_editor:
+    focus: PORTO, CERES, CANON, RITE, MAXIM/LUCIA, visitor-experience handoffs
