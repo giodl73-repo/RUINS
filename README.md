@@ -65,6 +65,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Evidence and Absence | `panel-gobekli-tepe-partial-excavation-shelter-custody` | publication-ready |
 | Evidence and Absence | `panel-catalhoyuk-partial-excavation-shelter-custody` | publication-ready |
 | Urban Overbuild and Excavation Windows | `panel-templo-mayor-urban-overbuild-window-custody` | publication-ready |
+| Urban Overbuild and Excavation Windows | `panel-london-mithraeum-relocation-reconstruction-custody` | publication-ready |
 | Rock-Cut Landscapes and Erosion | `panel-petra-rock-cut-facade-erosion-custody` | publication-ready |
 | Rock-Cut Landscapes and Erosion | `panel-lalibela-rock-cut-church-shelter-custody` | publication-ready |
 | Surface Landscapes and Scale Mediation | `panel-nasca-geoglyph-scale-visibility-custody` | publication-ready |

@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.22
+**Version:** v1.23
 
 RUINS uses two different review instruments:
 
@@ -69,6 +69,7 @@ capability or exposes a new one:
 | Scale-mediated surface visibility custody | If a large surface mark or landscape trace is known through distance, slope, aerial image, survey, map, remote sensing, restoration, or re-cutting, are trace, viewpoint, maintenance, dating, image, and interpretation separately gated? |
 | Partial excavation shelter custody | If a site is known through exposed areas under shelter, are excavated exposure, unexcavated reserve, protective shelter, visitor route, conservation, reconstruction, off-site archive/object custody, and interpretation separately gated? |
 | Rock-cut facade erosion custody | If a rock-cut or rock-hewn site is known through an iconic facade, church, tomb, trench, route, shelter, conservation project, or visitor image, are carved surface, interior, drainage, erosion, shelter, conservation, living use, and whole-site claims separately gated? |
+| Urban overbuild window custody | If a buried city or structure is known through an excavation window, rescue excavation, under-building display, relocated fabric, reconstruction, immersive exhibit, museum route, removed object, modern foundation, or public rediscovery image, are original context, display context, reconstruction status, conservation, access, and whole-site claims separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -104,6 +105,7 @@ capability or exposes a new one:
 | Publication treats a large surface mark, aerial/drone/satellite image, survey outline, re-cut/restoration profile, remote-sensing candidate, or public map as ancient intended viewpoint, complete original shape, complete inventory, final date, final function, complete damage state, or whole-landscape interpretation without scale-visibility controls | 34 |
 | Publication treats a sheltered excavation, visitor route, exposed building, reconstructed house, conservation treatment, off-site object display, archive, or current interpretation as complete site exposure, final site function, complete settlement model, solved hierarchy, finished conservation, or whole origin story without partial-excavation shelter controls | 34 |
 | Publication treats an iconic rock-cut facade, rock-hewn church, carved surface, tunnel/trench, drainage feature, shelter, conservation project, visitor image, pilgrimage use, or tourism route as the whole site, complete original form, complete hydraulic/drainage system, solved chronology, finished conservation, final ritual meaning, or total cultural history without rock-cut erosion controls | 34 |
+| Publication treats an excavation window, under-building display, relocated ruin, reconstructed fabric, immersive exhibit, museum route, removed object, digital guide, or public rediscovery image as the whole buried city, complete precinct, complete building plan, direct original context, finished conservation, final ritual meaning, or total urban history without urban-overbuild controls | 34 |
 
 ## Scoring Procedure
 

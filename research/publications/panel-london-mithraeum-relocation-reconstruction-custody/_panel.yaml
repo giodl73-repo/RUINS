@@ -1,0 +1,19 @@
+paper: panel-london-mithraeum-relocation-reconstruction-custody
+status: publication-ready
+track: Urban Overbuild and Excavation Windows
+rubric: v1.23
+score: 46
+capabilities:
+  - ruins-capability:urban-overbuild-window-custody
+promotion_decision: active-to-core
+roles:
+  fragment_custodian:
+    focus: original fabric, relocated reconstruction, modern mortar/render/wood, artefact display, official listing
+  absence_historian:
+    focus: bomb-damage clearance, redevelopment, relocation, later return, fragile undisplayed walls
+  reconstruction_skeptic:
+    focus: reconstruction-as-original-context, immersive display-as-ritual-proof, artefacts-as-whole-city overclaims
+  cultural_memory_reader:
+    focus: 1954 public queues, famous discovery, Bloomberg cultural hub, visitor experience
+  sibling_boundary_editor:
+    focus: PORTO, CANON, CERES, RITE, MAXIM/LUCIA, urban development, experience design handoffs

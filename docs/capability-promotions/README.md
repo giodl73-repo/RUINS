@@ -32,7 +32,7 @@ active to core.
 | Scale-mediated surface visibility custody | Active -> Core | [`scale-mediated-surface-visibility-custody.md`](scale-mediated-surface-visibility-custody.md) |
 | Partial excavation shelter custody | Active -> Core | [`partial-excavation-shelter-custody.md`](partial-excavation-shelter-custody.md) |
 | Rock-cut facade erosion custody | Active -> Core | [`rock-cut-facade-erosion-custody.md`](rock-cut-facade-erosion-custody.md) |
-| Urban overbuild window custody | Candidate -> Active | [`urban-overbuild-window-custody.md`](urban-overbuild-window-custody.md) |
+| Urban overbuild window custody | Active -> Core | [`urban-overbuild-window-custody.md`](urban-overbuild-window-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |
