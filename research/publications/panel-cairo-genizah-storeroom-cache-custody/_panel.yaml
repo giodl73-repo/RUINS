@@ -1,0 +1,16 @@
+paper: panel-cairo-genizah-storeroom-cache-custody
+track: Evidence and Absence
+status: publication-ready
+capabilities:
+  - ruins-capability:sealed-cache-representativeness-custody
+roles:
+  - role: Fragment Custodian
+    focus: genizah storage, fragment status, collection dispersal, shelfmarks, catalogues, digital images, and joins
+  - role: Absence Historian
+    focus: long accumulation, removal from Fustat, Schechter/Taylor custody, collecting history, and research-unit afterlife
+  - role: Reconstruction Skeptic
+    focus: whole-community archive, complete social history, representative corpus, digital reunion, and exact-reading overclaims
+  - role: Cultural Memory Reader
+    focus: sacred trash, treasure trove, Mediterranean society, rediscovery story, and crowdsourced/digital access language
+  - role: Sibling Boundary Editor
+    focus: text editions, translations, collection identity, Jewish/Mediterranean history, acquisition ethics, and database implementation
