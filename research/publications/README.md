@@ -17,6 +17,7 @@ role reviews, and synthesis.
 | [`panel-maya-codices-destroyed-corpus`](panel-maya-codices-destroyed-corpus/) | Evidence and Absence | publication-ready |
 | [`panel-qin-book-burning-textual-destruction`](panel-qin-book-burning-textual-destruction/) | Evidence and Absence | publication-ready |
 | [`panel-vinland-saga-site-crosscheck`](panel-vinland-saga-site-crosscheck/) | Evidence and Absence | publication-ready |
+| [`panel-pompeii-cast-void-custody`](panel-pompeii-cast-void-custody/) | Evidence and Absence | publication-ready |
 | [`panel-palmyra-replica-reconstruction`](panel-palmyra-replica-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-antikythera-reconstruction`](panel-antikythera-reconstruction/) | Reconstruction and Modern Projection | publication-ready |
 | [`panel-knossos-restoration-projection`](panel-knossos-restoration-projection/) | Reconstruction and Modern Projection | publication-ready |

@@ -46,6 +46,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:mediated-recovery-custody` | Mediated recovery custody | Core | Herculaneum amendment; rubric check and automatic cap; see `docs/capability-promotions/mediated-recovery-custody.md`. | Herculaneum papyri |
 | `ruins-capability:deliberate-textual-destruction` | Deliberate textual destruction | Core | Maya codices and Qin book burning checklist plus rubric v1.11 cap; see `docs/capability-promotions/deliberate-textual-destruction.md` and `docs/deliberate-textual-destruction-checklist.md`. | Maya codices |
 | `ruins-capability:dispersed-object-provenance-custody` | Dispersed object provenance custody | Core | Benin Bronzes and Parthenon Sculptures checklist plus rubric v1.12 cap; see `docs/capability-promotions/dispersed-object-provenance-custody.md` and `docs/dispersed-object-provenance-checklist.md`. | Benin Bronzes |
+| `ruins-capability:cast-void-identity-custody` | Cast void identity custody | Active | Pompeii casts gate and DNA/refusal register; see `docs/capability-promotions/cast-void-identity-custody.md`. | Pompeii casts |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -114,6 +115,10 @@ activate candidates or promote active capabilities to core.
     current holding, legal transfer, physical return, loan, display, digital
     record, and living relation are separate custody layers; none may stand in
     for complete restitution or original context.
+19. **Cast void identity custody:** a cast made from an absence can preserve
+    posture, cavity shape, embedded remains, and display history, but it must
+    not become a complete identity, family relation, death narrative, emotional
+    state, or whole-population demographic claim without separate custody.
 
 ## Fast Promotion Path
 
@@ -148,6 +153,7 @@ Use the promotion packet checklist before changing a capability state.
 | Alexandria / House of Wisdom | Vivid catastrophe image versus source-scoped loss. | Catastrophe image audit checklist, refusal registers, primary-source custody gate, cultural-memory registers, source locks, page-anchor audits. | FONTES/MUNDUS own exact source passages and editions; MAXIM/LUCIA own broader history; CANON owns institution identity; PORTO owns geography. |
 | Maya codices / Qin book burning | Deliberate textual destruction versus destroyed inventory or total corpus explanation. | Deliberate textual destruction checklist, destruction-corpus/custody gates, source locks, page-anchor audits, quotation/translation gates, refusal registers. | FONTES/MUNDUS own exact source text and translation; MAXIM/LUCIA own broader history and intellectual context; CANON owns named texts and institutions. |
 | Benin Bronzes / Parthenon Sculptures | Material survival versus broken provenance, dispersal, return/reunification, display, replica, and digital reconnection. | Dispersed object custody gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, cross-case checklist. | MAXIM/LUCIA own history; CANON owns object identity; PORTO owns geography; CERES owns material interpretation; legal/policy systems own title, loans, restitution, and mediation. |
+| Pompeii casts | Negative body cavities, plaster/resin casts, skeletal material, DNA, restoration, display, and public tragedy image. | Cast-void custody gate, source lock, page-anchor audit, DNA interpretation boundary, refusal register, cultural-memory register. | MAXIM/LUCIA own Roman history; CANON owns person/object identity; PORTO owns site geography; GENES owns ancestry method; CERES owns material/conservation; medical/forensic systems own cause-of-death physiology. |
 
 ## Promotion Rule
 

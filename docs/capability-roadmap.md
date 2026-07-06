@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | Promote the next active capability after a future paper exposes one. | Add a cross-case checklist or rubric cap when the pattern repeats. | Prefer unlike evidence conditions. |
+| `ruins-capability:cast-void-identity-custody` | Active from Pompeii casts. | A second negative-impression or casted-absence paper tests whether void/cast/display/identity controls work beyond Pompeii. | Laetoli footprints, White Sands footprints, Herculaneum voids, battlefield body impressions, or fossil trackways. |
 
 ## Candidate To Active
 
@@ -35,5 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **New pressure discovery** - choose a case that exposes a genuinely new
-   evidence condition rather than only reinforcing an existing Core capability.
+1. **Second cast-void paper** - test whether Pompeii's void, cast, skeletal
+   material, identity, and public-memory controls generalize.
