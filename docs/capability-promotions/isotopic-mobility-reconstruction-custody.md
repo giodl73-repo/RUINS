@@ -1,8 +1,8 @@
 # Isotopic Mobility Reconstruction Custody
 
 **Capability id:** `ruins-capability:isotopic-mobility-reconstruction-custody`
-**Promotion:** Candidate -> Active
-**Trigger paper:** `research/publications/panel-egtved-girl-isotopic-mobility-custody/`
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `research/publications/panel-egtved-girl-isotopic-mobility-custody/`; `research/publications/panel-amesbury-archer-isotopic-mobility-custody/`
 **Date:** 2026-07-07
 
 ## Pressure
@@ -32,6 +32,15 @@ public memory.
 - Textile provenance is not personal travel by itself.
 - Public origin stories are not final archaeological conclusions.
 
+## Core Rule
+
+Isotope evidence is a mobility constraint, not a complete biography. Sample
+type, tissue/material formation window, preservation, contamination, baseline,
+comparison set, mobility inference, identity claim, and public memory must stay
+separately inspectable before RUINS scores an origin or movement claim as
+strong.
+
 ## Decision
 
-Promote to Active. Queue an unlike second isotope case before Core promotion.
+Promote to Core under rubric v1.35 with
+`docs/isotopic-mobility-reconstruction-checklist.md`.

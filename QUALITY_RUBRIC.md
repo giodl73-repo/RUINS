@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.34
+**Version:** v1.35
 
 RUINS uses two different review instruments:
 
@@ -81,6 +81,7 @@ capability or exposes a new one:
 | Light-mediated reconstruction custody | If a lost visual condition is reconstructed from torches, lamps, hearths, sunlight, shadow, reconstructed openings, simulation, VR, reenactment, museum lighting, or digital firelight, are trace, light source, model, measurement, visibility, inference, and memory separately gated? |
 | Astronomical alignment reconstruction custody | If a ruin is interpreted through solar, lunar, stellar, horizon, light-beam, shadow, passage, slab, petroglyph, or architectural orientation evidence, are fabric, restoration, observation window, sky model, marking, calendar claim, meaning, and memory separately gated? |
 | Paradata transparency custody | If a digital/virtual reconstruction, model, simulation, or public heritage scene is used as evidence, are sources, metadata, paradata, decisions, uncertainty, output, evaluation, preservation, and communication separately gated? |
+| Isotopic mobility reconstruction custody | If origin, movement, diet, or object provenance is reconstructed from isotope evidence, are sample, tissue/material window, preservation, contamination, baseline/isoscape, comparison set, mobility inference, identity claim, and memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -128,6 +129,7 @@ capability or exposes a new one:
 | Publication treats reconstructed torchlight, lamp light, hearth light, sunlight, shadow, VR firelight, museum lighting, reenactment, or digital visibility as direct ancient sight, exact visual perception, art intention, ritual meaning, complete activity route, or original viewer experience without light-mediated controls | 34 |
 | Publication treats a solar, lunar, stellar, horizon, passage, slab, petroglyph, light-beam, shadow, or orientation effect as exact calendar system, design certainty, ritual meaning, direct ancient observation, unbroken tradition, or complete site function without astronomical-alignment controls | 34 |
 | Publication treats a digital model, restored-state toggle, database, visualization, lighting view, fragment placement, immersive scene, or guideline-compliant output as transparent evidence, complete reconstruction, historical correctness, original experience, or finished scholarly authority without paradata-transparency controls | 34 |
+| Publication treats strontium, oxygen, carbon, nitrogen, sulfur, lead, enamel, dentine, hair, nail, textile, soil, foodweb, baseline, or isoscape evidence as exact birthplace, route, ethnicity, identity, migration event, personal biography, object movement, or national-origin story without isotopic-mobility controls | 34 |
 
 ## Scoring Procedure
 
