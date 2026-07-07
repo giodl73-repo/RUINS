@@ -1,0 +1,19 @@
+paper: panel-seikilos-epitaph-notated-performance-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.28
+score: 46
+capabilities:
+  - ruins-capability:notated-performance-reconstruction-custody
+promotion_decision: active-to-core
+roles:
+  - Fragment Custodian
+  - Absence Historian
+  - Reconstruction Skeptic
+  - Cultural Memory Reader
+  - Sibling Boundary Editor
+  - Paper Editor
+  - Safety Editor
+sources:
+  - National Museum of Denmark Seikilos page
+  - Antigone Journal Seikilos article

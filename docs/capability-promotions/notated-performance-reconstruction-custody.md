@@ -1,9 +1,9 @@
 # Notated Performance Reconstruction Custody
 
 **Capability id:** `ruins-capability:notated-performance-reconstruction-custody`
-**State:** Active
-**Promotion:** Candidate -> Active
-**Trigger paper:** `panel-hurrian-hymn-performance-reconstruction-custody`
+**State:** Core
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `panel-hurrian-hymn-performance-reconstruction-custody`; `panel-seikilos-epitaph-notated-performance-custody`
 **ASHLAR decision date:** 2026-07-06
 
 ## Pressure
@@ -29,29 +29,36 @@ The Hurrian Hymn H6 paper separates:
 - modern performance and recordings,
 - and "oldest song" public memory.
 
+The Seikilos paper adds:
+
+- stone inscription and grave-monument context,
+- relatively complete text-plus-notation survival,
+- damaged lower line and uncertain dedication/person context,
+- ancient Greek letter and symbol notation between lines,
+- sparse comparative corpus,
+- probable professional composer/chorus-leader use,
+- loss of continuous notation tradition into the Middle Ages,
+- modern transcription and recording,
+- and complete-song public memory.
+
 ## Promotion Basis
 
-The paper is publication-ready under rubric v1.27 and contains:
+The first paper promoted the capability to Active. The second unlike paper
+promotes it to Core under rubric v1.28 because ambiguous instructional notation
+and relatively complete stone notation expose the same performance-overclaim
+surface.
 
-- a notated-performance gate,
-- a source lock,
-- a page-anchor audit,
-- a refusal register,
-- a cultural-memory register,
-- a sibling-boundary register,
-- and a scorecard naming this capability as the promotion decision.
+Required artifacts:
 
-## Core Trigger
+- `docs/notated-performance-reconstruction-checklist.md`
+- Hurrian H6 and Seikilos notated-performance gates and refusal registers
+- source locks and page-anchor audits in both papers
+- role reviews and scorecards naming the capability
 
-Promote to Core after a second unlike paper where a damaged notation system,
-performance instruction, instrument witness, movement notation, or later
-transcription is reconstructed into a performance while ambiguity and mediation
-remain separately graded.
+## Core Rule
 
-## Current Rule
-
-Until this capability is Core, use it as an active review lens but do not add an
-automatic score cap. Papers should refuse exact-melody, exact-rhythm,
-exact-tempo, direct-ancient-sound, complete-ritual-performance, and
-performance-recording equivalence unless those custody surfaces are separately
-locked.
+Notation, text, tablature, staff transcription, translation, instrument
+reconstruction, tempo choice, modern performance, recording, and "oldest song"
+memory must not become exact melody, rhythm, tempo, tuning, timbre, voice,
+ritual setting, direct ancient sound, or complete performance without separate
+custody.
