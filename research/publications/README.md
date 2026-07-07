@@ -61,6 +61,7 @@ role reviews, and synthesis.
 | [`panel-birch-pitch-masticated-resin-custody`](panel-birch-pitch-masticated-resin-custody/) | Evidence and Absence | publication-ready |
 | [`panel-ancient-latrine-parasite-custody`](panel-ancient-latrine-parasite-custody/) | Evidence and Absence | publication-ready |
 | [`panel-abu-hureyra-dung-proxy-custody`](panel-abu-hureyra-dung-proxy-custody/) | Evidence and Absence | publication-ready |
+| [`panel-parchment-biocodicology-custody`](panel-parchment-biocodicology-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |
