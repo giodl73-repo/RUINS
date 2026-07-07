@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| Ancient genomics reconstruction custody | Active after Cheddar Man paper. | Add an unlike second case where genomic evidence intersects living-community/governance, repatriation, or contested identity claims. | Kennewick/Ancient One, Bell Beaker genomics, or another ancient-genome public identity case. |
+| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Ancient genomics Core test** - use an unlike case where ancient DNA,
-   reference populations, identity, living-community relation, and public memory
-   create stronger governance pressure than Cheddar Man.
+1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
+   evidence condition and can produce a new gate, refusal register, or sibling
+   boundary.

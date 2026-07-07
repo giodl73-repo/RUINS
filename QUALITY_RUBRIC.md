@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.35
+**Version:** v1.36
 
 RUINS uses two different review instruments:
 
@@ -82,6 +82,7 @@ capability or exposes a new one:
 | Astronomical alignment reconstruction custody | If a ruin is interpreted through solar, lunar, stellar, horizon, light-beam, shadow, passage, slab, petroglyph, or architectural orientation evidence, are fabric, restoration, observation window, sky model, marking, calendar claim, meaning, and memory separately gated? |
 | Paradata transparency custody | If a digital/virtual reconstruction, model, simulation, or public heritage scene is used as evidence, are sources, metadata, paradata, decisions, uncertainty, output, evaluation, preservation, and communication separately gated? |
 | Isotopic mobility reconstruction custody | If origin, movement, diet, or object provenance is reconstructed from isotope evidence, are sample, tissue/material window, preservation, contamination, baseline/isoscape, comparison set, mobility inference, identity claim, and memory separately gated? |
+| Ancient genomics reconstruction custody | If ancient DNA is used to reconstruct ancestry, phenotype, population history, kinship, identity, or public affiliation, are sample, authentication, coverage, reference panel, model, phenotype, reconstruction, population inference, governance, and memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -130,6 +131,7 @@ capability or exposes a new one:
 | Publication treats a solar, lunar, stellar, horizon, passage, slab, petroglyph, light-beam, shadow, or orientation effect as exact calendar system, design certainty, ritual meaning, direct ancient observation, unbroken tradition, or complete site function without astronomical-alignment controls | 34 |
 | Publication treats a digital model, restored-state toggle, database, visualization, lighting view, fragment placement, immersive scene, or guideline-compliant output as transparent evidence, complete reconstruction, historical correctness, original experience, or finished scholarly authority without paradata-transparency controls | 34 |
 | Publication treats strontium, oxygen, carbon, nitrogen, sulfur, lead, enamel, dentine, hair, nail, textile, soil, foodweb, baseline, or isoscape evidence as exact birthplace, route, ethnicity, identity, migration event, personal biography, object movement, or national-origin story without isotopic-mobility controls | 34 |
+| Publication treats ancient DNA, genome coverage, contamination checks, reference panels, ancestry models, phenotype markers, facial reconstruction, kinship, population replacement, or affiliation analysis as exact appearance, modern race, complete identity, direct ancestor, living-community authority, cultural continuity, or total population history without ancient-genomics controls | 34 |
 
 ## Scoring Procedure
 

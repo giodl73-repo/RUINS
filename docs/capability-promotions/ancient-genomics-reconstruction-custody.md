@@ -1,8 +1,8 @@
 # Ancient Genomics Reconstruction Custody
 
 **Capability id:** `ruins-capability:ancient-genomics-reconstruction-custody`
-**Promotion:** Candidate -> Active
-**Trigger paper:** `research/publications/panel-cheddar-man-ancient-genomics-custody/`
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `research/publications/panel-cheddar-man-ancient-genomics-custody/`; `research/publications/panel-kennewick-ancient-one-genomics-custody/`
 **Date:** 2026-07-07
 
 ## Pressure
@@ -33,6 +33,15 @@ individual identity claim, living-community relation, and public memory.
 - A reconstructed face is not the person returned.
 - Public ancestry stories are not final archaeological conclusions.
 
+## Core Rule
+
+Ancient genome data are reconstruction constraints, not direct identity. Sample,
+authentication, coverage, reference panel, model, phenotype, reconstruction,
+population inference, governance, and public memory must remain separately
+inspectable before RUINS scores ancestry, appearance, affiliation, or population
+history claims as strong.
+
 ## Decision
 
-Promote to Active. Queue an unlike second genomics case before Core promotion.
+Promote to Core under rubric v1.36 with
+`docs/ancient-genomics-reconstruction-checklist.md`.
