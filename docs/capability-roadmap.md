@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
+| Light-mediated reconstruction custody | Active after Paleolithic cave-lighting paper. | Add an unlike second case that uses virtual, modelled, or reconstructed light rather than live combustion experiments. | VR firelight for Paleolithic art, astronomical light-and-shadow reconstructions, or reconstructed architectural illumination. |
 
 ## Candidate To Active
 
@@ -35,6 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
-   evidence condition and can produce a new gate, refusal register, or sibling
-   boundary.
+1. **Light-mediated Core test** - use a virtual/modelled light case to test
+   whether the new lighting gate survives beyond live combustion experiments.

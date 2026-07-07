@@ -1,0 +1,17 @@
+id: panel-paleolithic-cave-lighting-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.31
+score: 45
+capabilities:
+  - ruins-capability:light-mediated-reconstruction-custody
+roles:
+  - Fragment Custodian
+  - Absence Historian
+  - Reconstruction Skeptic
+  - Cultural Memory Reader
+  - Sibling Boundary Editor
+  - Paper Editor
+  - Safety Editor
+source_posture: source-locked
+promotion_decision: candidate-to-active
