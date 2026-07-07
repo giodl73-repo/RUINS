@@ -1,0 +1,9 @@
+id: panel-shell-midden-sclerochronology-seasonality-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.52
+score: 46
+capabilities:
+  - ruins-capability:shell-sclerochronology-seasonality-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
