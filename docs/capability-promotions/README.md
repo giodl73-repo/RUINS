@@ -40,6 +40,7 @@ active to core.
 | Notated performance reconstruction custody | Active -> Core | [`notated-performance-reconstruction-custody.md`](notated-performance-reconstruction-custody.md) |
 | Olfactory reconstruction custody | Active -> Core | [`olfactory-reconstruction-custody.md`](olfactory-reconstruction-custody.md) |
 | Gustatory reconstruction custody | Active -> Core | [`gustatory-reconstruction-custody.md`](gustatory-reconstruction-custody.md) |
+| Acoustic space reconstruction custody | Candidate -> Active | [`acoustic-space-reconstruction-custody.md`](acoustic-space-reconstruction-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

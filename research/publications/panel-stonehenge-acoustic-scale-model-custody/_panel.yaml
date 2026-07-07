@@ -1,0 +1,19 @@
+paper: panel-stonehenge-acoustic-scale-model-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.30
+score: 45
+capabilities:
+  - ruins-capability:acoustic-space-reconstruction-custody
+promotion_decision: candidate-to-active
+roles:
+  - Fragment Custodian
+  - Absence Historian
+  - Reconstruction Skeptic
+  - Cultural Memory Reader
+  - Sibling Boundary Editor
+  - Paper Editor
+  - Safety Editor
+sources:
+  - University of Salford Stonehenge acoustic model page
+  - Journal of Archaeological Science Stonehenge scale-model article
