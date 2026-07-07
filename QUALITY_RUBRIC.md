@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.28
+**Version:** v1.29
 
 RUINS uses two different review instruments:
 
@@ -75,6 +75,7 @@ capability or exposes a new one:
 | Lost polychromy trace custody | If lost surface color is known through visible pigment, VIL/XRF, microscopy, sampling, conservation cleaning, pigment identification, reconstruction, exhibition image, AR/projection, or white-marble memory, are trace, method, distribution, reconstruction, display, meaning, and whole-aesthetic claims separately gated? |
 | Archival reconstruction custody | If destroyed architecture is rebuilt from rubble, surviving fabric, archival plans, photographs, photogrammetry, inventories, structural analysis, or public memory, are original fabric, reused fabric, new fabric, model, reconstruction, adaptation, and symbolic recovery separately gated? |
 | Notated performance reconstruction custody | If a lost performance is reconstructed from notation, text, tablature, instrument evidence, transcription, edition, or recording, are material witness, sign reading, notation system, modern presentation, performance choice, recording, and public memory separately gated? |
+| Olfactory reconstruction custody | If a lost smell is reconstructed from residue, container, workshop, recipe, ingredient identification, paleobotany, experiment, conservation condition, or museum scent, are trace, source, mixture, substitute, aging, display, and public memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -116,6 +117,7 @@ capability or exposes a new one:
 | Publication treats visible pigment, VIL/XRF output, microscopy, sample result, conservation cleaning, pigment name, color reconstruction, exhibition image, AR/projection, or white-marble memory as the complete original color scheme, final appearance, complete painterly method, object-equivalent restoration, final meaning, or whole-culture aesthetic without lost-polychromy controls | 34 |
 | Publication treats rubble, salvaged stones, surviving fabric, archival plans, photographs, photogrammetry, inventories, structural models, historically faithful rebuilding, or public peace/recovery memory as complete original fabric, exact historical interior, unbroken continuity, object-equivalent restoration, final doctrine, or total recovery without archival-reconstruction controls | 34 |
 | Publication treats notation, text, tablature, staff transcription, translation, instrument reconstruction, tempo choice, modern performance, recording, or "oldest song" memory as exact melody, rhythm, tempo, tuning, timbre, voice, ritual setting, direct ancient sound, or complete performance without notated-performance controls | 34 |
+| Publication treats residue, vessel smell, recipe witness, ingredient identification, experimental batch, conservation odor, synthetic smellscape, exhibition scent, or celebrity framing as exact ancient smell, named-person scent, complete recipe, original atmosphere, stable sensory experience, or direct bodily presence without olfactory-reconstruction controls | 34 |
 
 ## Scoring Procedure
 

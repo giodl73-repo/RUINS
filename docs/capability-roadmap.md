@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| Olfactory reconstruction custody | Active after Mendesian perfume. | Add a second unlike scent/sensory-reconstruction paper and a cross-case checklist, then decide whether to add a rubric cap. | Prefer a case where residues, recipes, experimental batches, reconstructed materials, or museum sensory displays are tempting to treat as direct ancient smell. |
+| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Olfactory reconstruction second test** - choose a case where residue,
-   recipe, experimental reconstruction, or sensory display must not become exact
-   ancient smell or direct sensory access.
+1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
+   evidence condition and can produce a new gate, refusal register, or sibling
+   boundary.

@@ -1,9 +1,9 @@
 # Olfactory Reconstruction Custody
 
 **Capability id:** `ruins-capability:olfactory-reconstruction-custody`
-**State:** Active
-**Promotion:** Candidate -> Active
-**Trigger paper:** `panel-mendesian-perfume-olfactory-reconstruction-custody`
+**State:** Core
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `panel-mendesian-perfume-olfactory-reconstruction-custody`; `panel-senetnay-balm-olfactory-reconstruction-custody`
 **ASHLAR decision date:** 2026-07-06
 
 ## Pressure
@@ -29,28 +29,36 @@ The Mendesian perfume paper separates:
 - exhibition scent delivery,
 - and Cleopatra/Mendesian public memory.
 
+The Senetnay balm paper adds:
+
+- canopic jar residue from mummification equipment,
+- tomb and collection custody,
+- biomolecular characterization,
+- beeswax, plant oil, fats, bitumen, Pinaceae resin, balsamic substance, and
+  dammar-or-Pistacia ambiguity,
+- ingredient origin and trade-route inference,
+- perfumer/sensory museology reconstruction,
+- museum scent presentation,
+- and afterlife memory.
+
 ## Promotion Basis
 
-The paper is publication-ready under rubric v1.28 and contains:
+The first paper promoted the capability to Active. The second unlike paper
+promotes it to Core under rubric v1.29 because perfume-workshop reconstruction
+and mummification-balm residue reconstruction expose the same scent-overclaim
+surface.
 
-- an olfactory-reconstruction gate,
-- a source lock,
-- a page-anchor audit,
-- a refusal register,
-- a cultural-memory register,
-- a sibling-boundary register,
-- and a scorecard naming this capability as the promotion decision.
+Required artifacts:
 
-## Core Trigger
+- `docs/olfactory-reconstruction-checklist.md`
+- Mendesian and Senetnay olfactory-reconstruction gates and refusal registers
+- source locks and page-anchor audits in both papers
+- role reviews and scorecards naming the capability
 
-Promote to Core after a second unlike paper where residue, recipe, material
-analysis, experimental reconstruction, or museum sensory display reconstructs a
-lost smell while uncertainty, substitution, and public memory remain separately
-graded.
+## Core Rule
 
-## Current Rule
-
-Until this capability is Core, use it as an active review lens but do not add an
-automatic score cap. Papers should refuse exact ancient scent, named-person
-perfume, complete recipe, stable sensory experience, direct bodily presence, and
-museum-smell equivalence unless those custody surfaces are separately locked.
+Residue, vessel smell, recipe witness, ingredient identification, experimental
+batch, conservation odor, synthetic smellscape, exhibition scent, or celebrity
+or afterlife framing must not become exact ancient smell, named-person scent,
+complete recipe, original atmosphere, stable sensory experience, or direct bodily
+presence without separate custody.
