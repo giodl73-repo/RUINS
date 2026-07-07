@@ -47,6 +47,7 @@ role reviews, and synthesis.
 | [`panel-erato-theatre-acoustic-reconstruction-custody`](panel-erato-theatre-acoustic-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-paleolithic-cave-lighting-custody`](panel-paleolithic-cave-lighting-custody/) | Evidence and Absence | publication-ready |
 | [`panel-vr-firelight-paleolithic-art-custody`](panel-vr-firelight-paleolithic-art-custody/) | Evidence and Absence | publication-ready |
+| [`panel-newgrange-solstice-alignment-custody`](panel-newgrange-solstice-alignment-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |

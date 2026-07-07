@@ -1,0 +1,9 @@
+id: panel-newgrange-solstice-alignment-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.32
+score: 45
+capabilities:
+  - ruins-capability:astronomical-alignment-reconstruction-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active

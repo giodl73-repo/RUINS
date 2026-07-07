@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
+| Astronomical alignment reconstruction custody | Active after Newgrange solstice paper. | Add an unlike second case where light/shadow markings are digitally restored or no longer fully observable. | Chaco Sun Dagger digital restoration, Stonehenge lunar standstill work, or another alignment case with model/restoration pressure. |
 
 ## Candidate To Active
 
@@ -35,6 +35,5 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
-   evidence condition and can produce a new gate, refusal register, or sibling
-   boundary.
+1. **Astronomical alignment Core test** - use an unlike light/shadow site to
+   test whether the Newgrange gate survives beyond a passage-tomb solstice case.
