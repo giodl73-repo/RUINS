@@ -59,6 +59,7 @@ active to core.
 | Ice-core pollution proxy custody | Candidate -> Active -> Core | [`ice-core-pollution-proxy-custody.md`](ice-core-pollution-proxy-custody.md) |
 | Cryptotephra marker-horizon custody | Candidate -> Active -> Core | [`cryptotephra-marker-horizon-custody.md`](cryptotephra-marker-horizon-custody.md) |
 | Archaeomagnetic destruction-layer custody | Candidate -> Active -> Core | [`archaeomagnetic-destruction-layer-custody.md`](archaeomagnetic-destruction-layer-custody.md) |
+| Lake-core pollen charcoal custody | Candidate -> Active -> Core | [`lake-core-pollen-charcoal-custody.md`](lake-core-pollen-charcoal-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

@@ -69,6 +69,7 @@ role reviews, and synthesis.
 | [`panel-greenland-ice-core-lead-proxy-custody`](panel-greenland-ice-core-lead-proxy-custody/) | Evidence and Absence | publication-ready |
 | [`panel-santorini-cryptotephra-marker-custody`](panel-santorini-cryptotephra-marker-custody/) | Evidence and Absence | publication-ready |
 | [`panel-jerusalem-archaeomagnetic-destruction-custody`](panel-jerusalem-archaeomagnetic-destruction-custody/) | Evidence and Absence | publication-ready |
+| [`panel-rapa-nui-lake-core-collapse-custody`](panel-rapa-nui-lake-core-collapse-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |
