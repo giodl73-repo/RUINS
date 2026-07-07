@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.43
+**Version:** v1.44
 
 RUINS uses two different review instruments:
 
@@ -90,6 +90,7 @@ capability or exposes a new one:
 | Archaeological dung proxy custody | If animal tending, herding, penning, fuel use, plaster preparation, foddering, grazing, vegetation, land use, domestication, or human-animal proximity is reconstructed from dung spherulites, fecal biomarkers, dung fungi, coprolites, phytoliths, micromorphology, FTIR, flotation residues, or sediment chemistry, are deposit, proxy, preservation, host/source, formation, reuse, method, activity inference, scale, and memory separately gated? |
 | Parchment biocodicology custody | If manuscript production, animal species, library history, provenance, trade, herd management, microbiome, use, conservation, or textual authority is reconstructed from parchment, vellum, eraser crumbs, ZooMS, collagen peptides, DNA, mtDNA, microbiome, folio sampling, or codicological metadata, are object, folio, sampling, conservation, material, molecular assignment, quire/document scale, production inference, textual boundary, and memory separately gated? |
 | Lithic use-wear residue custody | If tool function, worked material, hafting, task, skill, site activity, diet, hunting, craft, or behavior is reconstructed from edge damage, polish, striations, rounding, residue morphology, starch, phytolith, blood, collagen, FTIR, microscopy, surface texture, or experimental replicas, are artefact, edge, raw material, taphonomy, cleaning, trace formation, residue assignment, experiment, action, task scale, and memory separately gated? |
+| Perishable fiber microtrace custody | If cordage, weaving, clothing, basketry, hafting, dyeing, skin/fur work, craft, textile production, or perishable technology is reconstructed from microscopic fibers, flax, hair, twist, knots, cut ends, color, dye signal, palynology, clay samples, cave sediment, microscopy, or preservation context, are sample, layer, fiber identity, preservation, contamination, modification, color, technique, object inference, activity scale, and memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -146,6 +147,7 @@ capability or exposes a new one:
 | Publication treats dung spherulites, fecal biomarkers, dung fungi, coprolite signal, phytoliths, micromorphology, FTIR match, flotation residue, or sediment chemistry as direct livestock domestication, exact herd location, complete penning system, full fuel economy, final foddering regime, whole vegetation history, complete land use, or origin-of-herding story without archaeological-dung-proxy controls | 34 |
 | Publication treats parchment, vellum, eraser crumb, ZooMS peptide mass fingerprint, collagen marker, DNA, mtDNA, microbiome, species call, folio sample, or codicological metadata as exact animal identity, complete manuscript provenance, scriptorium attribution, trade route, herd history, library reconstruction, textual authority, or conservation status without parchment-biocodicology controls | 34 |
 | Publication treats edge polish, striation, rounding, micro-scarring, surface texture, residue morphology, starch, phytolith, blood, collagen, FTIR match, microscopy image, or experimental analogue as exact tool function, single worked species, complete task sequence, certain hafting system, hunting event, full diet, craft specialization, skill biography, or site activity map without lithic-usewear controls | 34 |
+| Publication treats microscopic fiber, flax identification, hair, twist, knot, cut end, color, dye signal, palynology, clay sample, cave sediment, or preservation context as complete textile, exact garment, woven cloth, full basket, hafting system, craft specialization, fashion history, trade network, or oldest-clothing story without perishable-fiber controls | 34 |
 
 ## Scoring Procedure
 
