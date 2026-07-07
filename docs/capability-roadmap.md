@@ -35,7 +35,7 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - dendrochronological timber-date custody has been promoted
+1. **Next pressure discovery** - obsidian provenance-hydration custody has been promoted
    directly to Core; choose the next case that exposes another not-yet-routine
    evidence condition and can produce a new gate, refusal register, or sibling
    boundary.
