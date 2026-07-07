@@ -52,6 +52,7 @@ active to core.
 | Paleoparasitology latrine custody | Candidate -> Active -> Core | [`paleoparasitology-latrine-custody.md`](paleoparasitology-latrine-custody.md) |
 | Archaeological dung proxy custody | Candidate -> Active -> Core | [`archaeological-dung-proxy-custody.md`](archaeological-dung-proxy-custody.md) |
 | Parchment biocodicology custody | Candidate -> Active -> Core | [`parchment-biocodicology-custody.md`](parchment-biocodicology-custody.md) |
+| Lithic use-wear residue custody | Candidate -> Active -> Core | [`lithic-usewear-residue-custody.md`](lithic-usewear-residue-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

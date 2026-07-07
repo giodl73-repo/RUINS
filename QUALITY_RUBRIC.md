@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.42
+**Version:** v1.43
 
 RUINS uses two different review instruments:
 
@@ -89,6 +89,7 @@ capability or exposes a new one:
 | Paleoparasitology latrine custody | If health, diet, sanitation, animal proximity, travel, migration, trade, or disease ecology is reconstructed from latrines, coprolites, pelvic sediment, parasite eggs, sedimentary ancient DNA, ELISA, microscopy, shotgun sequencing, or pathogen markers, are deposit, context, sampling, parasite stage, host specificity, DNA/protein assignment, contamination, infection versus exposure, diet, sanitation, and memory separately gated? |
 | Archaeological dung proxy custody | If animal tending, herding, penning, fuel use, plaster preparation, foddering, grazing, vegetation, land use, domestication, or human-animal proximity is reconstructed from dung spherulites, fecal biomarkers, dung fungi, coprolites, phytoliths, micromorphology, FTIR, flotation residues, or sediment chemistry, are deposit, proxy, preservation, host/source, formation, reuse, method, activity inference, scale, and memory separately gated? |
 | Parchment biocodicology custody | If manuscript production, animal species, library history, provenance, trade, herd management, microbiome, use, conservation, or textual authority is reconstructed from parchment, vellum, eraser crumbs, ZooMS, collagen peptides, DNA, mtDNA, microbiome, folio sampling, or codicological metadata, are object, folio, sampling, conservation, material, molecular assignment, quire/document scale, production inference, textual boundary, and memory separately gated? |
+| Lithic use-wear residue custody | If tool function, worked material, hafting, task, skill, site activity, diet, hunting, craft, or behavior is reconstructed from edge damage, polish, striations, rounding, residue morphology, starch, phytolith, blood, collagen, FTIR, microscopy, surface texture, or experimental replicas, are artefact, edge, raw material, taphonomy, cleaning, trace formation, residue assignment, experiment, action, task scale, and memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -144,6 +145,7 @@ capability or exposes a new one:
 | Publication treats latrine sediment, coprolite, pelvic sediment, parasite egg, sedimentary ancient DNA, ELISA result, microscopy count, shotgun sequence, host marker, or diet DNA as complete disease diagnosis, individual infection certainty, sanitation system, migration route, trade proof, whole diet, animal-management system, or public filth story without paleoparasitology-latrine controls | 34 |
 | Publication treats dung spherulites, fecal biomarkers, dung fungi, coprolite signal, phytoliths, micromorphology, FTIR match, flotation residue, or sediment chemistry as direct livestock domestication, exact herd location, complete penning system, full fuel economy, final foddering regime, whole vegetation history, complete land use, or origin-of-herding story without archaeological-dung-proxy controls | 34 |
 | Publication treats parchment, vellum, eraser crumb, ZooMS peptide mass fingerprint, collagen marker, DNA, mtDNA, microbiome, species call, folio sample, or codicological metadata as exact animal identity, complete manuscript provenance, scriptorium attribution, trade route, herd history, library reconstruction, textual authority, or conservation status without parchment-biocodicology controls | 34 |
+| Publication treats edge polish, striation, rounding, micro-scarring, surface texture, residue morphology, starch, phytolith, blood, collagen, FTIR match, microscopy image, or experimental analogue as exact tool function, single worked species, complete task sequence, certain hafting system, hunting event, full diet, craft specialization, skill biography, or site activity map without lithic-usewear controls | 34 |
 
 ## Scoring Procedure
 
