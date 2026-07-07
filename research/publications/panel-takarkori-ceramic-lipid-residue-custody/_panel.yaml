@@ -1,0 +1,9 @@
+id: panel-takarkori-ceramic-lipid-residue-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.46
+score: 46
+capabilities:
+  - ruins-capability:absorbed-ceramic-lipid-residue-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
