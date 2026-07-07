@@ -1,0 +1,33 @@
+# Cryptotephra Marker-Horizon Checklist
+
+Use this checklist when chronology, eruption attribution, site correlation,
+cultural phase alignment, destruction layer, climate forcing, migration,
+collapse, or archive synchronization is reconstructed from tephra,
+cryptotephra, glass shards, sulfate spikes, ash chemistry, electron microprobe,
+trace elements, ice cores, lake cores, marine cores, peat, or archaeological
+sediments.
+
+## Required Separations
+
+| Surface | Required custody question |
+|---|---|
+| Shard | Which shard count, size range, morphology, glass population, and analytical threshold supports the claim? |
+| Context | Which archaeological layer, core depth, peat/lake/marine unit, or ice-core sample contains the signal? |
+| Chemistry | Which major elements, trace elements, standards, instrument, and comparison set define the fingerprint? |
+| Source | Is the attribution eruption, volcano, volcanic field, unknown source, mixed population, or only candidate match? |
+| Stratigraphy | Is the tephra primary fall, reworked, intrusive, bioturbated, redeposited, or uncertain? |
+| Chronology | Which age model, radiocarbon range, layer count, tie point, and uncertainty is being transferred? |
+| Correlation | Is the claim within-site layer, cross-archive match, regional marker horizon, or global synchronization? |
+| Event | Is the claim eruption date, destruction layer, climate forcing, cultural phase, migration, or collapse? |
+| Sibling | Are volcanic, archaeological, climate, place, and historical syntheses handed to the right systems? |
+| Memory | Are Thera/Santorini, Atlantis, eruption-year, and collapse stories kept below source-locked inference? |
+
+## Refuse Unless Separately Locked
+
+- Cryptotephra is an exact eruption date.
+- A sulfate spike is certain source attribution.
+- A marker horizon is direct destruction proof.
+- One ash layer solves a complete archaeological chronology.
+- Archive correlation proves cultural synchronization.
+- Tephra causes migration, climate event, or collapse by itself.
+- Santorini/Thera public memory is solved chronology.
