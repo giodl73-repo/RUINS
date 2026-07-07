@@ -72,6 +72,7 @@ role reviews, and synthesis.
 | [`panel-rapa-nui-lake-core-collapse-custody`](panel-rapa-nui-lake-core-collapse-custody/) | Evidence and Absence | publication-ready |
 | [`panel-madjedbebe-osl-sediment-age-custody`](panel-madjedbebe-osl-sediment-age-custody/) | Evidence and Absence | publication-ready |
 | [`panel-shell-midden-sclerochronology-seasonality-custody`](panel-shell-midden-sclerochronology-seasonality-custody/) | Evidence and Absence | publication-ready |
+| [`panel-mesa-verde-dendrochronology-timber-date-custody`](panel-mesa-verde-dendrochronology-timber-date-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |
