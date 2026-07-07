@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | Lost polychromy trace custody promoted to Core after Met sphinx / Parthenon pigment traces. | Add the next active capability after a paper creates a pressure surface. | Prefer a case with a different evidence condition than pigment-trace color reconstruction. |
+| Archival reconstruction custody | Active after Warsaw historic centre. | Add a second archival-reconstruction paper and a cross-case checklist, then decide whether to add a rubric cap. | Prefer a case where destroyed architecture is rebuilt from photographs, drawings, paintings, inventories, scans, or archives while adaptation and symbolic recovery remain visible. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case outside pigment-trace color
-   reconstruction where public knowledge is mediated by a different survival
-   condition.
+1. **Archival reconstruction second test** - choose a case where destroyed
+   architecture or urban fabric is rebuilt from records while adaptation,
+   surviving fabric, and symbolic recovery must stay separately graded.

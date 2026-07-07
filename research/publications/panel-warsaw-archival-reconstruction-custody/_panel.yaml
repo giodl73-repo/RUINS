@@ -1,0 +1,19 @@
+paper: panel-warsaw-archival-reconstruction-custody
+status: publication-ready
+track: Evidence and Absence
+rubric: v1.26
+score: 45
+capabilities:
+  - ruins-capability:archival-reconstruction-custody
+promotion_decision: candidate-to-active
+roles:
+  fragment_custodian:
+    focus: surviving fabric, archival documents, inventories, iconography, reconstruction-office records
+  absence_historian:
+    focus: deliberate destruction, post-war reconstruction, selective non-rebuilding, adapted interiors
+  reconstruction_skeptic:
+    focus: rebuilt-as-original, archival-record-as-total-certainty, continuity and total-recovery overclaims
+  cultural_memory_reader:
+    focus: invincible city, national determination, World Heritage recognition, Vistula panorama
+  sibling_boundary_editor:
+    focus: PORTO, CANON, CERES, MAXIM/LUCIA, policy, archive/source handoffs
