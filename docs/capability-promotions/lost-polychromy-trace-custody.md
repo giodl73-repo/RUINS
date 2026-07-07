@@ -1,53 +1,49 @@
 # Lost Polychromy Trace Custody
 
 **Capability id:** `ruins-capability:lost-polychromy-trace-custody`
-**State:** Active
-**Promotion:** Candidate -> Active
-**Trigger paper:** `panel-met-sphinx-lost-polychromy-trace-custody`
+**State:** Core
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `panel-met-sphinx-lost-polychromy-trace-custody`; `panel-parthenon-pigment-conservation-custody`
 **ASHLAR decision date:** 2026-07-06
 
 ## Pressure
 
 Ancient sculpture often survives as stone while its painted surface has largely
-vanished. Pigment traces, imaging results, chemical identifications, physical
-reconstructions, and digital experiences can then be mistaken for complete
-original color, final meaning, or restored object equivalence.
+vanished. Pigment traces, visible color, VIL/XRF output, microscopy, samples,
+conservation cleaning, reconstructions, exhibition images, AR/projection, and
+white-marble memory can then be mistaken for complete original color, final
+appearance, final meaning, or restored object equivalence.
 
 ## Gate
 
-The Met sphinx paper separates:
+The Met sphinx paper separates surviving marble sculpture, visible pigment
+trace, microscopic sample, multiband imaging, chemical identification, physical
+reconstruction, AR/digital experience, modern white-marble memory, and
+whole-aesthetic claims.
 
-- surviving marble sculpture,
-- visible pigment trace,
-- microscopic sample,
-- multiband imaging,
-- chemical identification,
-- physical reconstruction,
-- AR/digital experience,
-- modern white-marble memory,
-- and whole-aesthetic claims.
+The Parthenon paper adds conservation cleaning, dirt removal, surface condition,
+visible Egyptian blue, VIL detection, XRF analysis, previously inaccessible
+display areas, carving-tool observations, exhibition context, and ongoing
+scientific research.
 
 ## Promotion Basis
 
-The paper is publication-ready under rubric v1.25 and contains:
+The capability is Core because two unlike publication-ready papers exercise the
+same overclaim surface and because rubric v1.26 adds a case-derived check and
+automatic cap.
 
-- a lost-polychromy trace gate,
-- a source lock,
-- a page-anchor audit,
-- a refusal register,
-- a cultural-memory register,
-- a sibling-boundary register,
-- and a scorecard naming this capability as the promotion decision.
+Required artifacts:
 
-## Core Trigger
+- `docs/lost-polychromy-trace-checklist.md`
+- Met sphinx lost-polychromy trace gate and refusal register
+- Parthenon pigment-conservation gate and refusal register
+- source locks and page-anchor audits in both papers
+- role reviews and scorecards naming the capability
 
-Promote to Core after a second unlike paper where ancient color is known through
-pigment traces, imaging, sampling, replica, projection, or public color memory
-without becoming complete original color.
+## Core Rule
 
-## Current Rule
-
-Until this capability is Core, use it as an active review lens but do not add an
-automatic score cap. Papers should refuse complete-color, final-meaning,
-complete-method, object-equivalent restoration, and whole-culture aesthetic
-claims unless those custody surfaces are separately locked.
+Visible pigment, VIL/XRF output, microscopy, sample result, conservation
+cleaning, pigment name, color reconstruction, exhibition image, AR/projection,
+or white-marble memory must not become the complete original color scheme,
+final appearance, complete painterly method, object-equivalent restoration,
+final meaning, or whole-culture aesthetic without separate custody.

@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| Lost polychromy trace custody | Active after Met sphinx. | Add a second pigment-trace paper and a cross-case checklist, then decide whether to add a rubric cap. | Prefer Parthenon sculptures, Treu Head, Dendur projected color, or another case where pigment traces, imaging, replica, and public color memory collide. |
+| _None currently queued_ | Lost polychromy trace custody promoted to Core after Met sphinx / Parthenon pigment traces. | Add the next active capability after a paper creates a pressure surface. | Prefer a case with a different evidence condition than pigment-trace color reconstruction. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Lost polychromy second test** - choose Parthenon sculptures, Treu Head,
-   Dendur projected color, or another pigment-trace case that can test whether
-   color reconstruction should become a Core RUINS capability.
+1. **Next pressure discovery** - choose a case outside pigment-trace color
+   reconstruction where public knowledge is mediated by a different survival
+   condition.

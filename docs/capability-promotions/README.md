@@ -35,7 +35,7 @@ active to core.
 | Urban overbuild window custody | Active -> Core | [`urban-overbuild-window-custody.md`](urban-overbuild-window-custody.md) |
 | Monumental void reconstruction custody | Active -> Core | [`monumental-void-reconstruction-custody.md`](monumental-void-reconstruction-custody.md) |
 | Decayed organic imprint custody | Active -> Core | [`decayed-organic-imprint-custody.md`](decayed-organic-imprint-custody.md) |
-| Lost polychromy trace custody | Candidate -> Active | [`lost-polychromy-trace-custody.md`](lost-polychromy-trace-custody.md) |
+| Lost polychromy trace custody | Active -> Core | [`lost-polychromy-trace-custody.md`](lost-polychromy-trace-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

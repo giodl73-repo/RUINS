@@ -1,0 +1,19 @@
+paper: panel-parthenon-pigment-conservation-custody
+status: publication-ready
+track: Evidence and Absence
+rubric: v1.26
+score: 46
+capabilities:
+  - ruins-capability:lost-polychromy-trace-custody
+promotion_decision: active-to-core
+roles:
+  fragment_custodian:
+    focus: visible pigment, VIL, XRF, cleaning, surface condition, Egyptian blue traces
+  absence_historian:
+    focus: lost paint surface, dirt, display constraints, conservation process, weathered marble
+  reconstruction_skeptic:
+    focus: pigment-as-complete-color, VIL-as-final-appearance, cleaning-as-restoration overclaims
+  cultural_memory_reader:
+    focus: white marble memory, Rodin exhibition context, iconic Parthenon image
+  sibling_boundary_editor:
+    focus: CANON, CERES, RITE, MAXIM/LUCIA, experience, legal/provenance handoffs
