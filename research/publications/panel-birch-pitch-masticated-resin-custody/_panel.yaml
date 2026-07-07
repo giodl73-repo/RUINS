@@ -1,0 +1,9 @@
+id: panel-birch-pitch-masticated-resin-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.39
+score: 46
+capabilities:
+  - ruins-capability:masticated-resin-biomolecular-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core

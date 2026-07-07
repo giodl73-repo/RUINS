@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.38
+**Version:** v1.39
 
 RUINS uses two different review instruments:
 
@@ -85,6 +85,7 @@ capability or exposes a new one:
 | Ancient genomics reconstruction custody | If ancient DNA is used to reconstruct ancestry, phenotype, population history, kinship, identity, or public affiliation, are sample, authentication, coverage, reference panel, model, phenotype, reconstruction, population inference, governance, and memory separately gated? |
 | Dental calculus reconstruction custody | If diet, microbiome, health, behaviour, medicine, or food-production history is reconstructed from dental calculus DNA, proteins, microremains, isotopes, or chemistry, are specimen, matrix, sampling, method, taxon/protein assignment, contamination, diet/health inference, behaviour, and memory separately gated? |
 | Biometric trace reconstruction custody | If age, sex, identity, craft role, learning, labor organization, or social division is reconstructed from fingerprints, palmprints, footprints, ridge breadth, ridge density, impressions, scans, or biometric models, are trace, substrate, formation, shrinkage/distortion, measurement, reference population, model uncertainty, demographic inference, behavior, and memory separately gated? |
+| Masticated resin biomolecular custody | If genome, oral microbiome, diet, disease, technology, medicine, or identity is reconstructed from chewed pitch, resin, tar, gum, tooth marks, saliva, ancient DNA, microbial DNA, or food DNA, are object, use, chewing event, preservation, sampling, authentication, molecular assignment, inference scale, tool/medical function, and memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -136,6 +137,7 @@ capability or exposes a new one:
 | Publication treats ancient DNA, genome coverage, contamination checks, reference panels, ancestry models, phenotype markers, facial reconstruction, kinship, population replacement, or affiliation analysis as exact appearance, modern race, complete identity, direct ancestor, living-community authority, cultural continuity, or total population history without ancient-genomics controls | 34 |
 | Publication treats dental calculus DNA, protein, microremain, isotope, chemistry, taxonomic hit, beta-lactoglobulin peptide, microbiome profile, pathogen signal, or public diet headline as exact meal, deliberate medicine, complete behaviour, disease diagnosis, species-wide lifestyle, food-production system, or cultural adaptation without dental-calculus controls | 34 |
 | Publication treats fingerprint, palmprint, ridge breadth, ridge density, ceramic shrinkage correction, biometric category, Bayesian output, scan, or public maker story as exact identity, certain sex, precise age, individual biography, complete apprenticeship, workforce census, gender system, or total labor organization without biometric-trace controls | 34 |
+| Publication treats chewed pitch, resin, tar, gum, tooth marks, saliva DNA, ancient genome, oral microbiome, pathogen signal, food DNA, or adhesive/medicinal pitch use as complete personhood, exact last meal, disease diagnosis, direct medical treatment, complete toolmaking system, whole diet, population history, or Stone Age lifestyle without masticated-resin controls | 34 |
 
 ## Scoring Procedure
 
