@@ -1,8 +1,8 @@
 # Astronomical Alignment Reconstruction Custody
 
 **Capability id:** `ruins-capability:astronomical-alignment-reconstruction-custody`
-**Promotion:** Candidate -> Active
-**Trigger paper:** `research/publications/panel-newgrange-solstice-alignment-custody/`
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `research/publications/panel-newgrange-solstice-alignment-custody/`; `research/publications/panel-chaco-sun-dagger-digital-restoration-custody/`
 **Date:** 2026-07-07
 
 ## Pressure
@@ -31,6 +31,14 @@ claim, ritual meaning, and public memory.
 - Reconstructed fabric is not unbroken ancient condition.
 - Public event memory is not Neolithic continuity.
 
+## Core Rule
+
+Observed or modelled astronomical effects are custody layers, not complete
+ancient calendar systems. Current fabric, changed fabric, observation window,
+sky model, marking, calendar claim, ritual meaning, and memory must remain
+separate.
+
 ## Decision
 
-Promote to Active. Queue an unlike light/shadow case before Core promotion.
+Promote to Core under rubric v1.33 with
+`docs/astronomical-alignment-reconstruction-checklist.md`.
