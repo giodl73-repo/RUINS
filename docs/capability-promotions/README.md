@@ -50,6 +50,7 @@ active to core.
 | Biometric trace reconstruction custody | Candidate -> Active -> Core | [`biometric-trace-reconstruction-custody.md`](biometric-trace-reconstruction-custody.md) |
 | Masticated resin biomolecular custody | Candidate -> Active -> Core | [`masticated-resin-biomolecular-custody.md`](masticated-resin-biomolecular-custody.md) |
 | Paleoparasitology latrine custody | Candidate -> Active -> Core | [`paleoparasitology-latrine-custody.md`](paleoparasitology-latrine-custody.md) |
+| Archaeological dung proxy custody | Candidate -> Active -> Core | [`archaeological-dung-proxy-custody.md`](archaeological-dung-proxy-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.40
+**Version:** v1.41
 
 RUINS uses two different review instruments:
 
@@ -87,6 +87,7 @@ capability or exposes a new one:
 | Biometric trace reconstruction custody | If age, sex, identity, craft role, learning, labor organization, or social division is reconstructed from fingerprints, palmprints, footprints, ridge breadth, ridge density, impressions, scans, or biometric models, are trace, substrate, formation, shrinkage/distortion, measurement, reference population, model uncertainty, demographic inference, behavior, and memory separately gated? |
 | Masticated resin biomolecular custody | If genome, oral microbiome, diet, disease, technology, medicine, or identity is reconstructed from chewed pitch, resin, tar, gum, tooth marks, saliva, ancient DNA, microbial DNA, or food DNA, are object, use, chewing event, preservation, sampling, authentication, molecular assignment, inference scale, tool/medical function, and memory separately gated? |
 | Paleoparasitology latrine custody | If health, diet, sanitation, animal proximity, travel, migration, trade, or disease ecology is reconstructed from latrines, coprolites, pelvic sediment, parasite eggs, sedimentary ancient DNA, ELISA, microscopy, shotgun sequencing, or pathogen markers, are deposit, context, sampling, parasite stage, host specificity, DNA/protein assignment, contamination, infection versus exposure, diet, sanitation, and memory separately gated? |
+| Archaeological dung proxy custody | If animal tending, herding, penning, fuel use, plaster preparation, foddering, grazing, vegetation, land use, domestication, or human-animal proximity is reconstructed from dung spherulites, fecal biomarkers, dung fungi, coprolites, phytoliths, micromorphology, FTIR, flotation residues, or sediment chemistry, are deposit, proxy, preservation, host/source, formation, reuse, method, activity inference, scale, and memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -140,6 +141,7 @@ capability or exposes a new one:
 | Publication treats fingerprint, palmprint, ridge breadth, ridge density, ceramic shrinkage correction, biometric category, Bayesian output, scan, or public maker story as exact identity, certain sex, precise age, individual biography, complete apprenticeship, workforce census, gender system, or total labor organization without biometric-trace controls | 34 |
 | Publication treats chewed pitch, resin, tar, gum, tooth marks, saliva DNA, ancient genome, oral microbiome, pathogen signal, food DNA, or adhesive/medicinal pitch use as complete personhood, exact last meal, disease diagnosis, direct medical treatment, complete toolmaking system, whole diet, population history, or Stone Age lifestyle without masticated-resin controls | 34 |
 | Publication treats latrine sediment, coprolite, pelvic sediment, parasite egg, sedimentary ancient DNA, ELISA result, microscopy count, shotgun sequence, host marker, or diet DNA as complete disease diagnosis, individual infection certainty, sanitation system, migration route, trade proof, whole diet, animal-management system, or public filth story without paleoparasitology-latrine controls | 34 |
+| Publication treats dung spherulites, fecal biomarkers, dung fungi, coprolite signal, phytoliths, micromorphology, FTIR match, flotation residue, or sediment chemistry as direct livestock domestication, exact herd location, complete penning system, full fuel economy, final foddering regime, whole vegetation history, complete land use, or origin-of-herding story without archaeological-dung-proxy controls | 34 |
 
 ## Scoring Procedure
 

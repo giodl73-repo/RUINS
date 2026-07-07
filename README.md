@@ -93,6 +93,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Evidence and Absence | `panel-ancestral-pueblo-fingerprint-custody` | publication-ready |
 | Evidence and Absence | `panel-birch-pitch-masticated-resin-custody` | publication-ready |
 | Evidence and Absence | `panel-ancient-latrine-parasite-custody` | publication-ready |
+| Evidence and Absence | `panel-abu-hureyra-dung-proxy-custody` | publication-ready |
 | Evidence and Absence | `panel-gobekli-tepe-partial-excavation-shelter-custody` | publication-ready |
 | Evidence and Absence | `panel-catalhoyuk-partial-excavation-shelter-custody` | publication-ready |
 | Urban Overbuild and Excavation Windows | `panel-templo-mayor-urban-overbuild-window-custody` | publication-ready |

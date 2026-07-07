@@ -1,0 +1,9 @@
+id: panel-abu-hureyra-dung-proxy-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.41
+score: 46
+capabilities:
+  - ruins-capability:archaeological-dung-proxy-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
