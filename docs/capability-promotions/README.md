@@ -38,6 +38,7 @@ active to core.
 | Lost polychromy trace custody | Active -> Core | [`lost-polychromy-trace-custody.md`](lost-polychromy-trace-custody.md) |
 | Archival reconstruction custody | Active -> Core | [`archival-reconstruction-custody.md`](archival-reconstruction-custody.md) |
 | Notated performance reconstruction custody | Active -> Core | [`notated-performance-reconstruction-custody.md`](notated-performance-reconstruction-custody.md) |
+| Olfactory reconstruction custody | Candidate -> Active | [`olfactory-reconstruction-custody.md`](olfactory-reconstruction-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

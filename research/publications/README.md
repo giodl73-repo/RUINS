@@ -39,6 +39,7 @@ role reviews, and synthesis.
 | [`panel-dresden-frauenkirche-archival-reconstruction-custody`](panel-dresden-frauenkirche-archival-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-hurrian-hymn-performance-reconstruction-custody`](panel-hurrian-hymn-performance-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-seikilos-epitaph-notated-performance-custody`](panel-seikilos-epitaph-notated-performance-custody/) | Evidence and Absence | publication-ready |
+| [`panel-mendesian-perfume-olfactory-reconstruction-custody`](panel-mendesian-perfume-olfactory-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |
