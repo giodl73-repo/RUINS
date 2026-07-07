@@ -54,6 +54,7 @@ active to core.
 | Parchment biocodicology custody | Candidate -> Active -> Core | [`parchment-biocodicology-custody.md`](parchment-biocodicology-custody.md) |
 | Lithic use-wear residue custody | Candidate -> Active -> Core | [`lithic-usewear-residue-custody.md`](lithic-usewear-residue-custody.md) |
 | Perishable fiber microtrace custody | Candidate -> Active -> Core | [`perishable-fiber-microtrace-custody.md`](perishable-fiber-microtrace-custody.md) |
+| Sedimentary ancient DNA custody | Candidate -> Active -> Core | [`sedimentary-ancient-dna-custody.md`](sedimentary-ancient-dna-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

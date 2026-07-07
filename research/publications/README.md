@@ -64,6 +64,7 @@ role reviews, and synthesis.
 | [`panel-parchment-biocodicology-custody`](panel-parchment-biocodicology-custody/) | Evidence and Absence | publication-ready |
 | [`panel-stone-tool-usewear-residue-custody`](panel-stone-tool-usewear-residue-custody/) | Evidence and Absence | publication-ready |
 | [`panel-dzudzuana-flax-fiber-custody`](panel-dzudzuana-flax-fiber-custody/) | Evidence and Absence | publication-ready |
+| [`panel-denisova-sedimentary-dna-custody`](panel-denisova-sedimentary-dna-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |
