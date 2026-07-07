@@ -1,0 +1,9 @@
+id: panel-greenland-ice-core-lead-proxy-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.47
+score: 46
+capabilities:
+  - ruins-capability:ice-core-pollution-proxy-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
