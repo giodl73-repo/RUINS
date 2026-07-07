@@ -1,0 +1,9 @@
+id: panel-ancient-latrine-parasite-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.40
+score: 46
+capabilities:
+  - ruins-capability:paleoparasitology-latrine-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
