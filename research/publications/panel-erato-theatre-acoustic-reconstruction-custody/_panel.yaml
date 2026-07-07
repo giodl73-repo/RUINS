@@ -1,0 +1,19 @@
+paper: panel-erato-theatre-acoustic-reconstruction-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.31
+score: 46
+capabilities:
+  - ruins-capability:acoustic-space-reconstruction-custody
+promotion_decision: active-to-core
+roles:
+  - Fragment Custodian
+  - Absence Historian
+  - Reconstruction Skeptic
+  - Cultural Memory Reader
+  - Sibling Boundary Editor
+  - Paper Editor
+  - Safety Editor
+sources:
+  - ERATO ancient theatre acoustics publication records
+  - ODEON Roman theatres and revival paper

@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.30
+**Version:** v1.31
 
 RUINS uses two different review instruments:
 
@@ -77,6 +77,7 @@ capability or exposes a new one:
 | Notated performance reconstruction custody | If a lost performance is reconstructed from notation, text, tablature, instrument evidence, transcription, edition, or recording, are material witness, sign reading, notation system, modern presentation, performance choice, recording, and public memory separately gated? |
 | Olfactory reconstruction custody | If a lost smell is reconstructed from residue, container, workshop, recipe, ingredient identification, paleobotany, experiment, conservation condition, or museum scent, are trace, source, mixture, substitute, aging, display, and public memory separately gated? |
 | Gustatory reconstruction custody | If lost food or drink is reconstructed from residue, charred remains, recipe tablets, ingredient lists, translation, experimental cooking, commercial products, or tastings, are source witness, ingredient, process, modern substitution, taste, product, and memory separately gated? |
+| Acoustic space reconstruction custody | If a lost sound environment is reconstructed from ruin geometry, scale model, simulation, impulse response, virtual restoration, reconstructed instrument, recording, or app/demo, are geometry, model, measurement, playback, inference, performance, and memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -120,6 +121,7 @@ capability or exposes a new one:
 | Publication treats notation, text, tablature, staff transcription, translation, instrument reconstruction, tempo choice, modern performance, recording, or "oldest song" memory as exact melody, rhythm, tempo, tuning, timbre, voice, ritual setting, direct ancient sound, or complete performance without notated-performance controls | 34 |
 | Publication treats residue, vessel smell, recipe witness, ingredient identification, experimental batch, conservation odor, synthetic smellscape, exhibition scent, or celebrity framing as exact ancient smell, named-person scent, complete recipe, original atmosphere, stable sensory experience, or direct bodily presence without olfactory-reconstruction controls | 34 |
 | Publication treats residue, recipe tablet, translation, ingredient class, charred food, experimental dish, commercial drink, tasting event, or legendary meal memory as exact ancient taste, complete recipe, original meal, named-person consumption, direct sensory access, or safe modern instruction without gustatory-reconstruction controls | 34 |
+| Publication treats ruin geometry, scale model, acoustic simulation, impulse response, virtual restoration, reconstructed instrument, recording, app, or audio demo as direct ancient hearing, exact performance, design intention, complete soundscape, solved site function, or original audience experience without acoustic-space controls | 34 |
 
 ## Scoring Procedure
 

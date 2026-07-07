@@ -1,9 +1,9 @@
 # Acoustic Space Reconstruction Custody
 
 **Capability id:** `ruins-capability:acoustic-space-reconstruction-custody`
-**State:** Active
-**Promotion:** Candidate -> Active
-**Trigger paper:** `panel-stonehenge-acoustic-scale-model-custody`
+**State:** Core
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `panel-stonehenge-acoustic-scale-model-custody`; `panel-erato-theatre-acoustic-reconstruction-custody`
 **ASHLAR decision date:** 2026-07-07
 
 ## Pressure
@@ -28,27 +28,34 @@ The Stonehenge paper separates:
 - ritual-use debate,
 - and public ancient-sound memory.
 
+The ERATO theatre paper adds:
+
+- open theatre and roofed odeon typologies,
+- present-state computer models,
+- acoustical measurements used for calibration,
+- virtual reconstructions completed from archaeological information,
+- simulations of ancient acoustic qualities,
+- reconstructed musical instruments and short music pieces,
+- listening/auralization public access,
+- and ancient theatre "excellent acoustics" memory.
+
 ## Promotion Basis
 
-The paper is publication-ready under rubric v1.30 and contains:
+The first paper promoted the capability to Active. The second unlike paper
+promotes it to Core under rubric v1.31 because physical scale modelling and
+virtual theatre reconstruction exercise the same sound-overclaim surface.
 
-- an acoustic-space reconstruction gate,
-- a source lock,
-- a page-anchor audit,
-- a refusal register,
-- a cultural-memory register,
-- a sibling-boundary register,
-- and a scorecard naming this capability as the promotion decision.
+Required artifacts:
 
-## Core Trigger
+- `docs/acoustic-space-reconstruction-checklist.md`
+- Stonehenge and ERATO acoustic-space gates and refusal registers
+- source locks and page-anchor audits in both papers
+- role reviews and scorecards naming the capability
 
-Promote to Core after a second unlike paper where cave, theatre, room,
-instrument, or landscape acoustics are reconstructed while geometry, model,
-measurement, playback, and interpretation remain separately graded.
+## Core Rule
 
-## Current Rule
-
-Until this capability is Core, use it as an active review lens but do not add an
-automatic score cap. Papers should refuse direct ancient hearing, exact ritual
-performance, design intention, complete soundscape, and solved site function
-unless those custody surfaces are separately locked.
+Ruin geometry, scale model, acoustic simulation, impulse response, virtual
+restoration, reconstructed instrument, recording, app, or audio demo must not
+become direct ancient hearing, exact performance, design intention, complete
+soundscape, solved site function, or original audience experience without
+separate custody.

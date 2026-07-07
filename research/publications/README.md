@@ -44,6 +44,7 @@ role reviews, and synthesis.
 | [`panel-midas-beverage-gustatory-reconstruction-custody`](panel-midas-beverage-gustatory-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-babylonian-recipes-gustatory-reconstruction-custody`](panel-babylonian-recipes-gustatory-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-stonehenge-acoustic-scale-model-custody`](panel-stonehenge-acoustic-scale-model-custody/) | Evidence and Absence | publication-ready |
+| [`panel-erato-theatre-acoustic-reconstruction-custody`](panel-erato-theatre-acoustic-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |
