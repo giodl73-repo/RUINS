@@ -1,0 +1,19 @@
+paper: panel-met-sphinx-lost-polychromy-trace-custody
+status: publication-ready
+track: Evidence and Absence
+rubric: v1.25
+score: 45
+capabilities:
+  - ruins-capability:lost-polychromy-trace-custody
+promotion_decision: candidate-to-active
+roles:
+  fragment_custodian:
+    focus: pigment trace, microscopy, multiband imaging, sample, chemical identification, reconstruction
+  absence_historian:
+    focus: lost paint surface, altered appearance, modern white-marble reception, exhibition history
+  reconstruction_skeptic:
+    focus: trace-as-complete-color, reconstruction-as-original, AR-as-object-equivalence overclaims
+  cultural_memory_reader:
+    focus: white marble memory, Chroma exhibition, colorful antiquity, public reimagination
+  sibling_boundary_editor:
+    focus: CANON, CERES, RITE, MAXIM/LUCIA, experience, digital-system handoffs

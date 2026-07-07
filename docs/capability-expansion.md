@@ -59,6 +59,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:urban-overbuild-window-custody` | Urban overbuild window custody | Core | Templo Mayor and London Mithraeum checklist plus rubric v1.23 cap; see `docs/capability-promotions/urban-overbuild-window-custody.md` and `docs/urban-overbuild-window-checklist.md`. | Templo Mayor / Huei Tzompantli |
 | `ruins-capability:monumental-void-reconstruction-custody` | Monumental void reconstruction custody | Core | Bamiyan and Mostar checklist plus rubric v1.24 cap; see `docs/capability-promotions/monumental-void-reconstruction-custody.md` and `docs/monumental-void-reconstruction-checklist.md`. | Bamiyan |
 | `ruins-capability:decayed-organic-imprint-custody` | Decayed organic imprint custody | Core | Sutton Hoo and Woodhenge checklist plus rubric v1.25 cap; see `docs/capability-promotions/decayed-organic-imprint-custody.md` and `docs/decayed-organic-imprint-checklist.md`. | Sutton Hoo |
+| `ruins-capability:lost-polychromy-trace-custody` | Lost polychromy trace custody | Active | Met sphinx pigment-trace gate and refusal register; see `docs/capability-promotions/lost-polychromy-trace-custody.md`. | Met sphinx |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -209,6 +210,13 @@ activate candidates or promote active capabilities to core.
     replica must not become the complete original vessel, complete burial
     biography, named identity, final ritual script, full craft reconstruction,
     or total cultural history without separate custody.
+32. **Lost polychromy trace custody:** surviving pigment trace, visible color,
+    microscopic sample, imaging result, chemical identification, color
+    reconstruction, replica, digital experience, modern white-marble memory, and
+    whole-aesthetic claim are separate layers; a pigment trace or reconstruction
+    must not become the complete original color scheme, final meaning, complete
+    painterly method, object-equivalent restoration, or whole-culture aesthetic
+    without separate custody.
 
 ## Fast Promotion Path
 
@@ -269,6 +277,7 @@ Use the promotion packet checklist before changing a capability state.
 | Bamiyan / Mostar | Empty monumental niches and a reconstructed destroyed bridge versus fragments, exposed remnants, stabilization, rebuilt fabric, authentic materials/techniques, memorial testimony, peace/reconciliation symbol, and recovery narrative. | Monumental-void gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, sibling-boundary registers, cross-case checklist. | PORTO owns Bamiyan/Mostar geography; CANON owns named Buddhas, niches, bridge, towers, remnants, and objects; CERES owns stone, structural stability, fragments, conservation, and reconstruction materials; RITE owns Buddhist and religious-symbolic meaning; MAXIM/LUCIA own Afghan, Bosnian, Ottoman, and conflict history; policy/legal systems own World Heritage, reconstruction governance, and recovery law. |
 | Sutton Hoo | Decayed oak ship and missing body versus soil imprint, rivet pattern, chamber goods, phosphate/body inference, eroded/robbed mounds, replica/sculpture display, treasure custody, and royal-memory framing. | Decayed-organic imprint gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Suffolk/River Deben geography; CANON owns named mound, object, helmet, ship, and candidate-identity records; CERES owns oak decay, acidic soil, metal survival, conservation, and replica materials; RITE owns funerary/ritual interpretation; MAXIM/LUCIA own Anglo-Saxon and East Anglian history; literary systems own Beowulf comparison and royal-memory traditions. |
 | Sutton Hoo / Woodhenge | Decayed oak ship and vanished timber monument versus soil imprint, rivets, postholes, crop marks, concrete markers, chamber goods, offerings, missing body, burial/posthole deposits, replica/sculpture display, and ritual/public-memory framing. | Decayed-organic imprint gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, sibling-boundary registers, cross-case checklist. | PORTO owns Suffolk/Wiltshire/Stonehenge landscape geography; CANON owns named mounds, monuments, objects, posts, and candidate identities; CERES owns oak decay, chalk, acidic soil, metal survival, posthole formation, conservation, and marker materials; RITE owns funerary/ritual/solstice interpretation; MAXIM/LUCIA own Anglo-Saxon and Neolithic history; experience systems own concrete markers, visitor views, and reconstructions. |
+| Met sphinx polychromy | Surviving marble sculpture versus pigment traces, non-invasive and minimally invasive analysis, microscopy, multiband imaging, chemical identification, physical reconstruction, AR experience, and modern white-marble memory. | Lost-polychromy trace gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | CANON owns sphinx, stele, object, and exhibition identities; CERES owns pigments, marble, gypsum, cinnabar, azurite, Egyptian blue, imaging, sampling, and conservation science; RITE owns funerary meaning; MAXIM/LUCIA own Greek art history; experience systems own AR, exhibition design, and replica display; digital systems own scan and AR implementation. |
 
 ## Promotion Rule
 
