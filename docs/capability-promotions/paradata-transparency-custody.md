@@ -1,8 +1,8 @@
 # Paradata Transparency Custody
 
 **Capability id:** `ruins-capability:paradata-transparency-custody`
-**Promotion:** Candidate -> Active
-**Trigger paper:** `research/publications/panel-seville-paradata-transparency-custody/`
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `research/publications/panel-seville-paradata-transparency-custody/`; `research/publications/panel-oplontis-villa-paradata-transparency-custody/`
 **Date:** 2026-07-07
 
 ## Pressure
@@ -31,7 +31,14 @@ visual output, public communication, sustainability, and reuse.
 - Guideline compliance is not the same as historical correctness.
 - Public communication does not remove uncertainty.
 
+## Core Rule
+
+Virtual reconstruction transparency is a custody condition, not a visual style.
+Source evidence, metadata, paradata, decisions, uncertainty, output, evaluation,
+preservation, and public communication must remain separately inspectable before
+RUINS treats a digital model as a strong reconstruction claim.
+
 ## Decision
 
-Promote to Active. Queue a concrete reconstruction project as an unlike second
-test before Core promotion.
+Promote to Core under rubric v1.34 with
+`docs/paradata-transparency-checklist.md`.

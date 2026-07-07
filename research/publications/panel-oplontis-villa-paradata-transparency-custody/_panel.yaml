@@ -1,0 +1,9 @@
+id: panel-oplontis-villa-paradata-transparency-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.34
+score: 46
+capabilities:
+  - ruins-capability:paradata-transparency-custody
+source_posture: source-locked
+promotion_decision: active-to-core
