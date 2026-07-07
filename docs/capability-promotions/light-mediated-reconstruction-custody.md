@@ -1,8 +1,8 @@
 # Light-Mediated Reconstruction Custody
 
 **Capability id:** `ruins-capability:light-mediated-reconstruction-custody`
-**Promotion:** Candidate -> Active
-**Trigger paper:** `research/publications/panel-paleolithic-cave-lighting-custody/`
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `research/publications/panel-paleolithic-cave-lighting-custody/`; `research/publications/panel-vr-firelight-paleolithic-art-custody/`
 **Date:** 2026-07-07
 
 ## Pressure
@@ -36,6 +36,14 @@ Separate:
 - Fire behavior in an experiment is not a complete activity script.
 - A demo does not recover original perception.
 
+## Core Rule
+
+Reconstructed light is a custody layer, not a perception layer. Live combustion,
+digital simulation, VR, museum lighting, and reenactment must all label their
+inputs, model choices, viewing conditions, and inference limits before making
+claims about ancient visibility.
+
 ## Decision
 
-Promote to Active. Queue an unlike second test before Core promotion.
+Promote to Core under rubric v1.32 with
+`docs/light-mediated-reconstruction-checklist.md`.

@@ -1,0 +1,9 @@
+id: panel-vr-firelight-paleolithic-art-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.32
+score: 46
+capabilities:
+  - ruins-capability:light-mediated-reconstruction-custody
+source_posture: source-locked
+promotion_decision: active-to-core

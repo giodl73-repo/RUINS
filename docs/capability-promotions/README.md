@@ -41,7 +41,7 @@ active to core.
 | Olfactory reconstruction custody | Active -> Core | [`olfactory-reconstruction-custody.md`](olfactory-reconstruction-custody.md) |
 | Gustatory reconstruction custody | Active -> Core | [`gustatory-reconstruction-custody.md`](gustatory-reconstruction-custody.md) |
 | Acoustic space reconstruction custody | Active -> Core | [`acoustic-space-reconstruction-custody.md`](acoustic-space-reconstruction-custody.md) |
-| Light-mediated reconstruction custody | Candidate -> Active | [`light-mediated-reconstruction-custody.md`](light-mediated-reconstruction-custody.md) |
+| Light-mediated reconstruction custody | Candidate -> Active -> Core | [`light-mediated-reconstruction-custody.md`](light-mediated-reconstruction-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |
