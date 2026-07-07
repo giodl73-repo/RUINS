@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| Archival reconstruction custody | Active after Warsaw historic centre. | Add a second archival-reconstruction paper and a cross-case checklist, then decide whether to add a rubric cap. | Prefer a case where destroyed architecture is rebuilt from photographs, drawings, paintings, inventories, scans, or archives while adaptation and symbolic recovery remain visible. |
+| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Archival reconstruction second test** - choose a case where destroyed
-   architecture or urban fabric is rebuilt from records while adaptation,
-   surviving fabric, and symbolic recovery must stay separately graded.
+1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
+   evidence condition and can produce a new gate, refusal register, or sibling
+   boundary.

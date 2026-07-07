@@ -1,9 +1,9 @@
 # Archival Reconstruction Custody
 
 **Capability id:** `ruins-capability:archival-reconstruction-custody`
-**State:** Active
-**Promotion:** Candidate -> Active
-**Trigger paper:** `panel-warsaw-archival-reconstruction-custody`
+**State:** Core
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `panel-warsaw-archival-reconstruction-custody`; `panel-dresden-frauenkirche-archival-reconstruction-custody`
 **ASHLAR decision date:** 2026-07-06
 
 ## Pressure
@@ -27,27 +27,37 @@ The Warsaw paper separates:
 - recreated facades and decorations,
 - and invincible-city memory.
 
+The Dresden Frauenkirche paper adds:
+
+- monument-scale collapse and rubble survival,
+- ruin memorial status before rebuilding,
+- mapped and catalogued finds,
+- historical plans and floor plans,
+- photogrammetric and computer-aided modeling,
+- reused historical building fabric,
+- new regional sandstone and modern structural engineering,
+- corrected load-bearing decisions,
+- reconstructed interior/artistic work,
+- and peace, reconciliation, and European unity memory.
+
 ## Promotion Basis
 
-The paper is publication-ready under rubric v1.26 and contains:
+The first paper promoted the capability to Active. The second unlike paper
+promotes it to Core under rubric v1.27 because district-scale reconstruction
+and monument-scale stone-by-stone rebuilding exercise the same overclaim
+surface.
 
-- an archival-reconstruction gate,
-- a source lock,
-- a page-anchor audit,
-- a refusal register,
-- a cultural-memory register,
-- a sibling-boundary register,
-- and a scorecard naming this capability as the promotion decision.
+Required artifacts:
 
-## Core Trigger
+- `docs/archival-reconstruction-checklist.md`
+- Warsaw and Dresden archival-reconstruction gates and refusal registers
+- source locks and page-anchor audits in both papers
+- role reviews and scorecards naming the capability
 
-Promote to Core after a second unlike paper where destroyed architecture or
-urban fabric is rebuilt from records while adaptation, surviving fabric,
-documentation, and symbolic recovery remain separately graded.
+## Core Rule
 
-## Current Rule
-
-Until this capability is Core, use it as an active review lens but do not add an
-automatic score cap. Papers should refuse complete-original-fabric, exact
-historical-interior, unbroken-continuity, final-doctrine, and total-recovery
-claims unless those custody surfaces are separately locked.
+Rubble, salvaged stones, surviving fabric, archival plans, photographs,
+photogrammetry, inventories, structural models, historically faithful rebuilding,
+and public peace/recovery memory must not become complete original fabric, exact
+historical interior, unbroken continuity, object-equivalent restoration, final
+conservation doctrine, or total recovery without separate custody.

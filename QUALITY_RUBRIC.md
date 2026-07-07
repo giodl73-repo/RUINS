@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.26
+**Version:** v1.27
 
 RUINS uses two different review instruments:
 
@@ -73,6 +73,7 @@ capability or exposes a new one:
 | Monumental void reconstruction custody | If a destroyed monument is known through an empty niche, missing span, fragment, exposed remnant, reconstructed replica, restored setting, memorial image, or peace/recovery narrative, are loss, surviving fabric, reconstruction status, authenticity, community meaning, and total-recovery claims separately gated? |
 | Decayed organic imprint custody | If vanished organic fabric is known through stains, postholes, rivets, voids, soil chemistry, durable associated objects, concrete markers, replicas, or public reconstruction images, are original fabric, imprint, marker, reconstruction, identity, function, and whole-culture claims separately gated? |
 | Lost polychromy trace custody | If lost surface color is known through visible pigment, VIL/XRF, microscopy, sampling, conservation cleaning, pigment identification, reconstruction, exhibition image, AR/projection, or white-marble memory, are trace, method, distribution, reconstruction, display, meaning, and whole-aesthetic claims separately gated? |
+| Archival reconstruction custody | If destroyed architecture is rebuilt from rubble, surviving fabric, archival plans, photographs, photogrammetry, inventories, structural analysis, or public memory, are original fabric, reused fabric, new fabric, model, reconstruction, adaptation, and symbolic recovery separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -112,6 +113,7 @@ capability or exposes a new one:
 | Publication treats an empty niche, missing span, fragment, exposed remnant, reconstructed replica, restored setting, memorial image, peace symbol, or recovery narrative as the original monument, complete original fabric, finished conservation, community consensus, final symbolic meaning, or total heritage recovery without monumental-void controls | 34 |
 | Publication treats soil stains, postholes, rivets, voids, phosphate traces, durable grave goods, concrete markers, replicas, mound reconstructions, or public visualizations as complete original organic fabric, complete vessel/building plan, named identity, final function, complete ritual script, or whole-culture history without decayed-organic imprint controls | 34 |
 | Publication treats visible pigment, VIL/XRF output, microscopy, sample result, conservation cleaning, pigment name, color reconstruction, exhibition image, AR/projection, or white-marble memory as the complete original color scheme, final appearance, complete painterly method, object-equivalent restoration, final meaning, or whole-culture aesthetic without lost-polychromy controls | 34 |
+| Publication treats rubble, salvaged stones, surviving fabric, archival plans, photographs, photogrammetry, inventories, structural models, historically faithful rebuilding, or public peace/recovery memory as complete original fabric, exact historical interior, unbroken continuity, object-equivalent restoration, final doctrine, or total recovery without archival-reconstruction controls | 34 |
 
 ## Scoring Procedure
 

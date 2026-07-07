@@ -60,7 +60,7 @@ activate candidates or promote active capabilities to core.
 | `ruins-capability:monumental-void-reconstruction-custody` | Monumental void reconstruction custody | Core | Bamiyan and Mostar checklist plus rubric v1.24 cap; see `docs/capability-promotions/monumental-void-reconstruction-custody.md` and `docs/monumental-void-reconstruction-checklist.md`. | Bamiyan |
 | `ruins-capability:decayed-organic-imprint-custody` | Decayed organic imprint custody | Core | Sutton Hoo and Woodhenge checklist plus rubric v1.25 cap; see `docs/capability-promotions/decayed-organic-imprint-custody.md` and `docs/decayed-organic-imprint-checklist.md`. | Sutton Hoo |
 | `ruins-capability:lost-polychromy-trace-custody` | Lost polychromy trace custody | Core | Met sphinx and Parthenon pigment checklist plus rubric v1.26 cap; see `docs/capability-promotions/lost-polychromy-trace-custody.md` and `docs/lost-polychromy-trace-checklist.md`. | Met sphinx |
-| `ruins-capability:archival-reconstruction-custody` | Archival reconstruction custody | Active | Warsaw historic-centre reconstruction gate and refusal register; see `docs/capability-promotions/archival-reconstruction-custody.md`. | Warsaw |
+| `ruins-capability:archival-reconstruction-custody` | Archival reconstruction custody | Core | Warsaw and Dresden Frauenkirche checklist plus rubric v1.27 cap; see `docs/capability-promotions/archival-reconstruction-custody.md` and `docs/archival-reconstruction-checklist.md`. | Warsaw |
 | `ruins-capability:destroyed-corpus-custody` | Destroyed corpus custody | Core | Maya amendment; rubric check and automatic cap; see `docs/capability-promotions/destroyed-corpus-custody.md`. | Maya codices |
 | `ruins-capability:replica-reconstruction-status` | Replica reconstruction status | Core | Palmyra amendment; rubric check and automatic cap; see `docs/capability-promotions/replica-reconstruction-status.md`. | Palmyra |
 | `ruins-capability:saga-memory-crosscheck` | Saga memory crosscheck | Core | Vinland amendment; rubric check and automatic cap; see `docs/capability-promotions/saga-memory-crosscheck.md`. | Vinland |
@@ -219,12 +219,13 @@ activate candidates or promote active capabilities to core.
     painterly method, object-equivalent restoration, or whole-culture aesthetic
     without separate custody.
 33. **Archival reconstruction custody:** destruction record, surviving fabric,
-    archival plan, photograph, painting, inventory, expert interpretation,
-    reconstruction project, deliberate adaptation, public symbolic memory, and
-    World Heritage recognition are separate layers; a rebuilt street, facade, or
+    rubble, salvaged stones, archival plan, photograph, painting, inventory,
+    photogrammetry, structural model, expert interpretation, reconstruction
+    project, deliberate adaptation, public symbolic memory, and heritage
+    recognition are separate layers; a rebuilt street, facade, monument, or
     district must not become complete original fabric, exact historical
-    interior, unbroken continuity, final conservation doctrine, or total national
-    recovery without separate custody.
+    interior, unbroken continuity, final conservation doctrine, or total recovery
+    without separate custody.
 
 ## Fast Promotion Path
 
@@ -288,6 +289,7 @@ Use the promotion packet checklist before changing a capability state.
 | Met sphinx polychromy | Surviving marble sculpture versus pigment traces, non-invasive and minimally invasive analysis, microscopy, multiband imaging, chemical identification, physical reconstruction, AR experience, and modern white-marble memory. | Lost-polychromy trace gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | CANON owns sphinx, stele, object, and exhibition identities; CERES owns pigments, marble, gypsum, cinnabar, azurite, Egyptian blue, imaging, sampling, and conservation science; RITE owns funerary meaning; MAXIM/LUCIA own Greek art history; experience systems own AR, exhibition design, and replica display; digital systems own scan and AR implementation. |
 | Met sphinx / Parthenon pigment traces | Object-scale sphinx color reconstruction and Parthenon conservation imaging versus visible pigment, VIL, XRF, Egyptian blue traces, cleaning tests, conservation studio access, display constraints, reconstruction/AR, and white-marble public memory. | Lost-polychromy trace gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, sibling-boundary registers, cross-case checklist. | CANON owns named sculptures, pediment figures, sphinx, stele, and exhibition identities; CERES owns pigments, marble, dirt, cleaning, VIL, XRF, microscopy, sampling, and conservation science; RITE owns funerary/divine/ritual meaning; MAXIM/LUCIA own Greek art history; experience systems own exhibitions, replicas, AR, and public display; legal/provenance systems own Parthenon custody disputes. |
 | Warsaw historic centre | Deliberately destroyed urban fabric versus extant structures, late-medieval street network, archival documents, iconography, inventories, reconstruction office records, selective non-rebuilding, adapted interiors, recreated elevations, and invincible-city memory. | Archival-reconstruction gate, source lock, page-anchor audit, refusal register, cultural-memory register, sibling-boundary register. | PORTO owns Warsaw geography and urban plan; CANON owns named streets, squares, castle, walls, buildings, and archive identities; CERES owns building materials, conservation, sgraffito, and construction technique; MAXIM/LUCIA own Polish and wartime history; policy systems own World Heritage doctrine and conservation governance; archive/source systems own BOS records and inventories. |
+| Warsaw / Dresden Frauenkirche | District-scale reconstruction and monument-scale rebuilding from rubble, archival plans, photographs, photogrammetry, reused fabric, new stone, structural correction, adapted interiors, reconstructed art, and peace/reconciliation memory. | Archival-reconstruction gates, source locks, page-anchor audits, refusal registers, cultural-memory registers, sibling-boundary registers, cross-case checklist. | PORTO owns Warsaw/Dresden geography; CANON owns streets, churches, buildings, archives, named architects, and object identities; CERES owns sandstone, masonry, photogrammetry, structural engineering, and conservation technique; MAXIM/LUCIA own wartime and national history; RITE owns worship use; policy systems own World Heritage and monument governance; archive/source systems own item-level records. |
 
 ## Promotion Rule
 
