@@ -45,6 +45,7 @@ active to core.
 | Astronomical alignment reconstruction custody | Candidate -> Active -> Core | [`astronomical-alignment-reconstruction-custody.md`](astronomical-alignment-reconstruction-custody.md) |
 | Paradata transparency custody | Candidate -> Active -> Core | [`paradata-transparency-custody.md`](paradata-transparency-custody.md) |
 | Isotopic mobility reconstruction custody | Candidate -> Active -> Core | [`isotopic-mobility-reconstruction-custody.md`](isotopic-mobility-reconstruction-custody.md) |
+| Ancient genomics reconstruction custody | Candidate -> Active | [`ancient-genomics-reconstruction-custody.md`](ancient-genomics-reconstruction-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

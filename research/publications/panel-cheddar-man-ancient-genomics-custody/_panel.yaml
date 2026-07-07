@@ -1,0 +1,9 @@
+id: panel-cheddar-man-ancient-genomics-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.35
+score: 45
+capabilities:
+  - ruins-capability:ancient-genomics-reconstruction-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active
