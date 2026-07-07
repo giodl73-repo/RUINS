@@ -1,8 +1,8 @@
 # Dental Calculus Reconstruction Custody
 
 **Capability id:** `ruins-capability:dental-calculus-reconstruction-custody`
-**Promotion:** Candidate -> Active
-**Trigger paper:** `research/publications/panel-neanderthal-dental-calculus-custody/`
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `research/publications/panel-neanderthal-dental-calculus-custody/`; `research/publications/panel-milk-protein-dental-calculus-custody/`
 **Date:** 2026-07-07
 
 ## Pressure
@@ -31,6 +31,15 @@ signal, behavioural inference, and public memory.
 - A few specimens are not a species-wide lifestyle.
 - Public diet headlines are not final archaeological conclusions.
 
+## Core Rule
+
+Dental calculus is a mixed archive, not a direct life transcript. Specimen,
+matrix, sampling, method, taxon/protein assignment, contamination, diet/health
+inference, behaviour, and memory must remain separately inspectable before
+RUINS scores diet, microbiome, health, medicine, or food-production claims as
+strong.
+
 ## Decision
 
-Promote to Active. Queue an unlike second calculus case before Core promotion.
+Promote to Core under rubric v1.37 with
+`docs/dental-calculus-reconstruction-checklist.md`.
