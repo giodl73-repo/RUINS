@@ -42,6 +42,7 @@ role reviews, and synthesis.
 | [`panel-mendesian-perfume-olfactory-reconstruction-custody`](panel-mendesian-perfume-olfactory-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-senetnay-balm-olfactory-reconstruction-custody`](panel-senetnay-balm-olfactory-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-midas-beverage-gustatory-reconstruction-custody`](panel-midas-beverage-gustatory-reconstruction-custody/) | Evidence and Absence | publication-ready |
+| [`panel-babylonian-recipes-gustatory-reconstruction-custody`](panel-babylonian-recipes-gustatory-reconstruction-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |

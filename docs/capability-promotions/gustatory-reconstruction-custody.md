@@ -1,9 +1,9 @@
 # Gustatory Reconstruction Custody
 
 **Capability id:** `ruins-capability:gustatory-reconstruction-custody`
-**State:** Active
-**Promotion:** Candidate -> Active
-**Trigger paper:** `panel-midas-beverage-gustatory-reconstruction-custody`
+**State:** Core
+**Promotion:** Candidate -> Active -> Core
+**Trigger papers:** `panel-midas-beverage-gustatory-reconstruction-custody`; `panel-babylonian-recipes-gustatory-reconstruction-custody`
 **ASHLAR decision date:** 2026-07-07
 
 ## Pressure
@@ -27,27 +27,35 @@ The Midas beverage paper separates:
 - tasting and product afterlife,
 - and public "drink like Midas" memory.
 
+The Babylonian recipes paper adds:
+
+- clay tablet recipe witnesses,
+- Akkadian language and translation,
+- damaged or abbreviated recipe instructions,
+- missing quantities and process details,
+- modern ingredient substitutions,
+- experimental kitchen reconstruction,
+- public recipe and video access,
+- and "oldest recipe" public memory.
+
 ## Promotion Basis
 
-The paper is publication-ready under rubric v1.29 and contains:
+The first paper promoted the capability to Active. The second unlike paper
+promotes it to Core under rubric v1.30 because residue-driven beverage
+reconstruction and text-driven stew reconstruction expose the same
+taste-overclaim surface.
 
-- a gustatory-reconstruction gate,
-- a source lock,
-- a page-anchor audit,
-- a refusal register,
-- a cultural-memory register,
-- a sibling-boundary register,
-- and a scorecard naming this capability as the promotion decision.
+Required artifacts:
 
-## Core Trigger
+- `docs/gustatory-reconstruction-checklist.md`
+- Midas and Babylonian recipe gustatory-reconstruction gates and refusal registers
+- source locks and page-anchor audits in both papers
+- role reviews and scorecards naming the capability
 
-Promote to Core after a second unlike paper where food or drink is reconstructed
-from residue, charred remains, recipe witness, fermentation marker, or tasting
-event while uncertainty and modern substitution remain separately graded.
+## Core Rule
 
-## Current Rule
-
-Until this capability is Core, use it as an active review lens but do not add an
-automatic score cap. Papers should refuse exact ancient taste, complete recipe,
-original meal, named-person consumption, commercial-product equivalence, and
-tasting-event direct access unless those custody surfaces are separately locked.
+Residue, recipe tablet, translation, ingredient class, charred food,
+experimental dish, commercial drink, tasting event, or legendary meal memory
+must not become exact ancient taste, complete recipe, original meal,
+named-person consumption, direct sensory access, or safe modern instruction
+without separate custody.

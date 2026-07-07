@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| Gustatory reconstruction custody | Active after Midas beverage. | Add a second unlike food/drink reconstruction paper and a cross-case checklist, then decide whether to add a rubric cap. | Prefer a case where residue, charred remains, ingredient markers, experimental cooking, fermentation, or public tasting is tempting to treat as direct ancient taste. |
+| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Gustatory reconstruction second test** - choose a case where residue,
-   charred food, recipe, fermentation marker, or tasting event must not become
-   exact ancient flavor or direct meal access.
+1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
+   evidence condition and can produce a new gate, refusal register, or sibling
+   boundary.

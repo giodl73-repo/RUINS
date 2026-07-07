@@ -75,6 +75,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Evidence and Absence | `panel-mendesian-perfume-olfactory-reconstruction-custody` | publication-ready |
 | Evidence and Absence | `panel-senetnay-balm-olfactory-reconstruction-custody` | publication-ready |
 | Evidence and Absence | `panel-midas-beverage-gustatory-reconstruction-custody` | publication-ready |
+| Evidence and Absence | `panel-babylonian-recipes-gustatory-reconstruction-custody` | publication-ready |
 | Evidence and Absence | `panel-gobekli-tepe-partial-excavation-shelter-custody` | publication-ready |
 | Evidence and Absence | `panel-catalhoyuk-partial-excavation-shelter-custody` | publication-ready |
 | Urban Overbuild and Excavation Windows | `panel-templo-mayor-urban-overbuild-window-custody` | publication-ready |
