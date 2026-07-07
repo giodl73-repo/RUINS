@@ -57,6 +57,7 @@ role reviews, and synthesis.
 | [`panel-kennewick-ancient-one-genomics-custody`](panel-kennewick-ancient-one-genomics-custody/) | Evidence and Absence | publication-ready |
 | [`panel-neanderthal-dental-calculus-custody`](panel-neanderthal-dental-calculus-custody/) | Evidence and Absence | publication-ready |
 | [`panel-milk-protein-dental-calculus-custody`](panel-milk-protein-dental-calculus-custody/) | Evidence and Absence | publication-ready |
+| [`panel-ancestral-pueblo-fingerprint-custody`](panel-ancestral-pueblo-fingerprint-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |

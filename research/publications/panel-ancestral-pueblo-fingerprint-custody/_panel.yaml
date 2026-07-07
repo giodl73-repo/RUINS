@@ -1,0 +1,9 @@
+id: panel-ancestral-pueblo-fingerprint-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.38
+score: 46
+capabilities:
+  - ruins-capability:biometric-trace-reconstruction-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
