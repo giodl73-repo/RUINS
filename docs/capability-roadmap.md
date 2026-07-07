@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
+| Dental calculus reconstruction custody | Active after Neanderthal dental-calculus paper. | Add an unlike second case where calculus, residue, or oral microbiome evidence comes from agricultural, medieval, or colonial contexts with different contamination and diet inference pressure. | Ancient dental calculus diet validation, medieval microbiomes, plant microremains, or calculus-proteomics case. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
-   evidence condition and can produce a new gate, refusal register, or sibling
-   boundary.
+1. **Dental calculus Core test** - use an unlike calculus case to test whether
+   DNA, microremains, proteins, contamination, and diet/health inference gates
+   work beyond Neanderthal public-memory pressure.

@@ -1,0 +1,9 @@
+id: panel-neanderthal-dental-calculus-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.36
+score: 45
+capabilities:
+  - ruins-capability:dental-calculus-reconstruction-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active
