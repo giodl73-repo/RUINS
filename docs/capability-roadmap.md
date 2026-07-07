@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
+| Paradata transparency custody | Active after Seville/London virtual-archaeology paper. | Add an unlike second case with a concrete reconstruction project and inspect whether paradata exposes decisions enough for RUINS scoring. | Oplontis, Rome Reborn, shipwreck virtual reconstruction, or another published 3D reconstruction with documented uncertainty. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
-   evidence condition and can produce a new gate, refusal register, or sibling
-   boundary.
+1. **Paradata Core test** - use a concrete virtual reconstruction project to
+   test whether the Seville/London transparency gate can move from guideline
+   pressure to Core RUINS method.
