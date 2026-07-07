@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
+| Notated performance reconstruction custody | Active after Hurrian Hymn H6. | Add a second unlike performance-reconstruction paper and a cross-case checklist, then decide whether to add a rubric cap. | Prefer a case where notation, tablature, choreographic signs, oral memory, instrument archaeology, or performance recordings are tempting to treat as direct recovered ancient performance. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
-   evidence condition and can produce a new gate, refusal register, or sibling
-   boundary.
+1. **Notated performance second test** - choose a case where damaged notation,
+   performance instruction, instrument evidence, or later transcription must not
+   become direct recovered ancient sound or embodied performance.
