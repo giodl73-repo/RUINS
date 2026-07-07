@@ -12,7 +12,7 @@ Candidate capabilities need a trigger paper.
 
 | Capability | Current state | Core promotion trigger | Good next paper pressure |
 |---|---|---|---|
-| _None currently queued_ | All current active capabilities have been promoted to Core. | Add the next active capability after a publication-ready trigger paper exposes a repeated gap. | Prefer a case that stresses a new evidence condition rather than repeating a settled cap. |
+| Isotopic mobility reconstruction custody | Active after Egtved Girl paper. | Add an unlike second case with a different isotope/body-material pattern and a distinct baseline dispute. | Amesbury Archer, Bell Beaker mobility, Viking mobility, or non-elite Bronze Age Denmark. |
 
 ## Candidate To Active
 
@@ -35,6 +35,6 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - choose a case that exposes a not-yet-routine
-   evidence condition and can produce a new gate, refusal register, or sibling
-   boundary.
+1. **Isotopic mobility Core test** - use an unlike isotope-mobility case to
+   test whether sample/tissue/baseline gates survive beyond a famous elite
+   burial narrative.

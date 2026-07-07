@@ -51,6 +51,7 @@ role reviews, and synthesis.
 | [`panel-chaco-sun-dagger-digital-restoration-custody`](panel-chaco-sun-dagger-digital-restoration-custody/) | Evidence and Absence | publication-ready |
 | [`panel-seville-paradata-transparency-custody`](panel-seville-paradata-transparency-custody/) | Evidence and Absence | publication-ready |
 | [`panel-oplontis-villa-paradata-transparency-custody`](panel-oplontis-villa-paradata-transparency-custody/) | Evidence and Absence | publication-ready |
+| [`panel-egtved-girl-isotopic-mobility-custody`](panel-egtved-girl-isotopic-mobility-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |
