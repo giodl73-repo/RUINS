@@ -101,6 +101,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Evidence and Absence | `panel-takarkori-ceramic-lipid-residue-custody` | publication-ready |
 | Evidence and Absence | `panel-greenland-ice-core-lead-proxy-custody` | publication-ready |
 | Evidence and Absence | `panel-santorini-cryptotephra-marker-custody` | publication-ready |
+| Evidence and Absence | `panel-jerusalem-archaeomagnetic-destruction-custody` | publication-ready |
 | Evidence and Absence | `panel-gobekli-tepe-partial-excavation-shelter-custody` | publication-ready |
 | Evidence and Absence | `panel-catalhoyuk-partial-excavation-shelter-custody` | publication-ready |
 | Urban Overbuild and Excavation Windows | `panel-templo-mayor-urban-overbuild-window-custody` | publication-ready |

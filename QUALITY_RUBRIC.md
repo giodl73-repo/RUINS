@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.48
+**Version:** v1.49
 
 RUINS uses two different review instruments:
 
@@ -95,6 +95,7 @@ capability or exposes a new one:
 | Absorbed ceramic lipid residue custody | If cuisine, dairying, plant processing, vessel use, pastoralism, trade, diet, climate, or foodway history is reconstructed from absorbed pottery residues, fatty acids, alkanoic acids, GC-MS, GC-C-IRMS, stable carbon isotopes, lipid biomarkers, sherd fabrics, visible residues, or reference fats, are vessel, sherd, residue location, extraction, preservation, contamination, biomarker assignment, isotopic reference range, commodity class, vessel-use inference, subsistence scale, and public food memory separately gated? |
 | Ice-core pollution proxy custody | If mining, smelting, economy, plague, war, imperial expansion, industrial output, public health, or civilizational change is reconstructed from ice cores, lead concentrations, lead isotopes, aerosols, dust, annual layers, deposition flux, atmospheric transport models, source apportionment, or historical event alignment, are core, chronology, contaminant, deposition process, source region, transport model, proxy-to-output conversion, event correlation, exposure model, scale, uncertainty, and public decline memory separately gated? |
 | Cryptotephra marker-horizon custody | If chronology, eruption attribution, site correlation, cultural phase alignment, destruction layer, climate forcing, migration, collapse, or archive synchronization is reconstructed from tephra, cryptotephra, glass shards, sulfate spikes, ash chemistry, electron microprobe, trace elements, ice cores, lake cores, marine cores, peat, or archaeological sediments, are shard, context, geochemical fingerprint, eruption source, age model, stratigraphic position, redeposition, archive correlation, chronological transfer, event claim, and public catastrophe memory separately gated? |
+| Archaeomagnetic destruction-layer custody | If dating, destruction event, military campaign, conquest, fire episode, biblical/historical narrative, geomagnetic anomaly, settlement chronology, or regional synchronization is reconstructed from fired mudbrick, burnt floors, hearths, kilns, ceramics, slag, archaeomagnetic direction, archaeointensity, thermoremanent magnetization, secular variation curves, or paleomagnetic models, are feature, heating event, cooling position, disturbance, sample orientation, mineralogy, lab measurement, calibration curve, reference date, event correlation, campaign synthesis, and public proof memory separately gated? |
 | Refusal specificity | Are the strongest likely overclaims explicitly blocked? |
 | Sibling boundary | Does each non-RUINS consequence name its owning sibling system? |
 
@@ -156,6 +157,7 @@ capability or exposes a new one:
 | Publication treats absorbed pottery residues, fatty acids, alkanoic acids, lipid biomarkers, stable carbon isotope values, GC-MS/GC-C-IRMS output, visible residue, sherd fabric, reference fat range, or public first-dairying story as exact meal, complete recipe, direct individual diet, whole herd economy, domestication proof, ethnic identity, trade route, climate proxy, vessel biography, or complete foodway without ceramic-lipid controls | 34 |
 | Publication treats ice-core lead, isotopic ratios, aerosol concentrations, annual layers, deposition flux, atmospheric transport output, source-apportionment model, or public Rome-pollution/decline story as exact mining output, precise economic index, single event proof, imperial expansion proof, plague impact certainty, war chronology, population exposure, IQ loss, civilizational decline, or complete industrial history without ice-core proxy controls | 34 |
 | Publication treats tephra, cryptotephra, volcanic glass shards, shard counts, major/trace-element chemistry, sulfate spike, ash layer, ice-core/lake-core/marine-core correlation, or public eruption/collapse story as exact eruption date, certain source attribution, direct destruction proof, complete archaeological chronology, cultural phase synchronization, migration cause, climate event, collapse explanation, or solved Santorini/Thera chronology without cryptotephra controls | 34 |
+| Publication treats fired mudbrick, burnt floor, hearth, kiln, ceramic, slag, archaeomagnetic direction, archaeointensity, thermoremanent magnetization, secular variation curve, geomagnetic anomaly, or public biblical-proof story as exact destruction date, certain campaign attribution, direct textual confirmation, complete site chronology, conquest map, radiocarbon replacement, synchronized regional destruction, or proof of scripture/history without archaeomagnetic controls | 34 |
 
 ## Scoring Procedure
 

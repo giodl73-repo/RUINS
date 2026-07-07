@@ -1,0 +1,9 @@
+id: panel-jerusalem-archaeomagnetic-destruction-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.49
+score: 46
+capabilities:
+  - ruins-capability:archaeomagnetic-destruction-layer-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
