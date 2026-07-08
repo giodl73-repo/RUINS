@@ -60,3 +60,7 @@ new evidence condition. A good RUINS next paper should:
    closed the treatment-history gap. Prefer visitor-route evidence, disaster
    recovery documentation, glass/faience compositional custody, adhesive/resin
    residues, or remaining text/corpus custody gaps next.
+7. **Post-v1.70 pressure** - visitor route evidence custody closed the
+   public-circulation gap. Prefer disaster recovery documentation, glass/faience
+   compositional custody, adhesive/resin residues, or remaining text/corpus
+   custody gaps next.
