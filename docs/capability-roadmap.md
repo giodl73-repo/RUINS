@@ -35,7 +35,7 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - archaeobotanical macroremain custody has been promoted
+1. **Next pressure discovery** - ancient pathogen genome custody has been promoted
    directly to Core; choose the next case that exposes another not-yet-routine
    evidence condition and can produce a new gate, refusal register, or sibling
    boundary.

@@ -72,6 +72,7 @@ active to core.
 | Geophysical subsurface survey custody | Candidate -> Active -> Core | [`geophysical-subsurface-survey-custody.md`](geophysical-subsurface-survey-custody.md) |
 | Archaeometallurgical provenance custody | Candidate -> Active -> Core | [`archaeometallurgical-provenance-custody.md`](archaeometallurgical-provenance-custody.md) |
 | Archaeobotanical macroremain custody | Candidate -> Active -> Core | [`archaeobotanical-macroremain-custody.md`](archaeobotanical-macroremain-custody.md) |
+| Ancient pathogen genome custody | Candidate -> Active -> Core | [`ancient-pathogen-genome-custody.md`](ancient-pathogen-genome-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

@@ -1,0 +1,9 @@
+id: panel-ancient-pathogen-genome-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.63
+score: 46
+capabilities:
+  - ruins-capability:ancient-pathogen-genome-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
