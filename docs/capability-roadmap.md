@@ -51,3 +51,8 @@ new evidence condition. A good RUINS next paper should:
    behavior-model gap. Prefer material trace, conservation intervention
    chronology, visitor-route evidence, disaster recovery documentation, or the
    remaining text/corpus custody gaps next.
+5. **Post-v1.68 pressure** - ceramic petrography fabric custody closed the
+   ceramic fabric-provenance gap. Prefer conservation intervention chronology,
+   visitor-route evidence, disaster recovery documentation, glass/faience
+   compositional custody, adhesive/resin residues, or remaining text/corpus
+   custody gaps next.
