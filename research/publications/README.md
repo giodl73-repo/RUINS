@@ -79,6 +79,7 @@ role reviews, and synthesis.
 | [`panel-zooarchaeological-bone-modification-custody`](panel-zooarchaeological-bone-modification-custody/) | Evidence and Absence | publication-ready |
 | [`panel-soil-micromorphology-occupation-surface-custody`](panel-soil-micromorphology-occupation-surface-custody/) | Evidence and Absence | publication-ready |
 | [`panel-canopy-lidar-settlement-custody`](panel-canopy-lidar-settlement-custody/) | Evidence and Absence | publication-ready |
+| [`panel-geophysical-subsurface-survey-custody`](panel-geophysical-subsurface-survey-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |

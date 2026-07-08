@@ -69,6 +69,7 @@ active to core.
 | Zooarchaeological bone-modification custody | Candidate -> Active -> Core | [`zooarchaeological-bone-modification-custody.md`](zooarchaeological-bone-modification-custody.md) |
 | Soil micromorphology occupation-surface custody | Candidate -> Active -> Core | [`soil-micromorphology-occupation-surface-custody.md`](soil-micromorphology-occupation-surface-custody.md) |
 | Canopy LiDAR settlement custody | Candidate -> Active -> Core | [`canopy-lidar-settlement-custody.md`](canopy-lidar-settlement-custody.md) |
+| Geophysical subsurface survey custody | Candidate -> Active -> Core | [`geophysical-subsurface-survey-custody.md`](geophysical-subsurface-survey-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

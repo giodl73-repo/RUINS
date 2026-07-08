@@ -1,0 +1,9 @@
+id: panel-geophysical-subsurface-survey-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.60
+score: 46
+capabilities:
+  - ruins-capability:geophysical-subsurface-survey-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
