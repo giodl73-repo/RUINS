@@ -43,3 +43,7 @@ new evidence condition. A good RUINS next paper should:
    corpus gap. Prefer the next case from reconstruction/sensory access or site
    conservation afterlife unless a text/corpus paper exposes inscription
    squeeze, lost-inventory, or citation-chain fragility controls.
+3. **Post-v1.66 pressure** - haptic reconstruction custody closed the tactile
+   sensory-access gap. Prefer the next case from conservation afterlife,
+   structural simulation, material trace, or the remaining text/corpus custody
+   gaps rather than another sensory reconstruction.
