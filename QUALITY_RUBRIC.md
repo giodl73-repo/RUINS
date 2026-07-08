@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.64
+**Version:** v1.65
 
 RUINS uses two different review instruments:
 
@@ -49,6 +49,7 @@ capability or exposes a new one:
 | Memory afterlife | Is later memory classified without upgrading original-state claims? |
 | Reconstruction status | Are models, restorations, replicas, translations, and public images labeled separately? |
 | Mediated recovery custody | If evidence passes through scans, models, transcriptions, editions, or public announcements, are those custody layers gated separately before publication claims? |
+| OCR/HTR recovery custody | If text is recovered through OCR, HTR, ATR, layout analysis, segmentation, model training, confidence scoring, post-correction, normalization, search indexing, or full-text export, are image, layout, model, output, correction, edition, corpus, and memory claims separately gated? |
 | Destroyed corpus custody | If a tiny witness set survives from a larger lost corpus, does the paper prevent surviving examples from standing in for the absent whole? |
 | Replica-status custody | If a replica, facsimile, restoration, or digital model exists, is it prevented from becoming object-equivalent without explicit status and provenance? |
 | Saga-memory crosscheck | If literary memory and archaeological evidence partially overlap, are text, site, route, name, and public identity claims kept in separate grades? |
@@ -188,6 +189,7 @@ capability or exposes a new one:
 | Publication treats charred seed, cereal grain, chaff fragment, rachis segment, spikelet fork, weed seed, fruit, nutshell, pulse, flotation count, heavy fraction, waterlogged seed, desiccated remain, mineralized remain, crop ratio, ubiquity value, density value, immature grain ratio, or public first-farming image as exact crop inventory, complete diet, direct domestication proof, final crop-processing stage, full storage system, harvest calendar, field ecology, household function, market supply, famine proof, migration route, ritual meaning, or complete agricultural economy without archaeobotanical macroremain controls | 34 |
 | Publication treats ancient pathogen DNA, dental-pulp read, skeletal metagenomic hit, capture-enriched sequence, pathogen genome, coverage value, SNP call, virulence gene, plasmid presence, phylogenetic branch, molecular-clock date, screening positive, negative sample, mass-burial context, or public plague headline as complete disease diagnosis, certain cause of death, proven outbreak, pandemic origin, exact transmission route, vector certainty, host reservoir, population collapse, migration proof, immune-selection history, historical event attribution, or solved plague story without ancient pathogen genome controls | 34 |
 | Publication treats cosmogenic nuclide concentration, 10Be age, 26Al/10Be burial date, 36Cl exposure age, lichen thallus diameter, lichen size-frequency curve, rock-varnish layer, varnish microlamination, microerosion rate, weathering rind, calibration curve, shielding correction, erosion correction, inherited exposure, or public oldest-surface headline as exact monument construction date, direct carving date, certain petroglyph age, final quarry date, abandonment event, complete surface stability, path-use chronology, landform-event proof, cultural phase date, or solved site chronology without rock-surface exposure dating controls | 34 |
+| Publication treats OCR, HTR, ATR, layout analysis, segmentation, confidence score, model output, post-correction, normalized text, search index, or exported full text as complete transcription, edition, translation, authorship, date, provenance, corpus inventory, absence proof, or historical interpretation without OCR/HTR recovery controls | 34 |
 
 ## Scoring Procedure
 

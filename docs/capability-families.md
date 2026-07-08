@@ -27,7 +27,7 @@ control next-paper discovery, rubric gap review, and ASHLAR promotion pressure.
 | Material Trace and Production Systems | Keeping residue, wear, fabric, source, and composition evidence inside auditable production claims. | Lithic use-wear residue custody; perishable fiber microtrace custody; archaeometallurgical provenance custody; obsidian provenance-hydration custody; absorbed ceramic lipid residue custody; partial technical transmission; lost polychromy trace custody. | Ceramic petrography and fabric provenance; glass or faience compositional custody; adhesive and resin residues; recycling and mixture probability gates. |
 | Survey, Visibility, and Spatial Mediation | Distinguishing visibility, detection, and model candidates from complete sites or populations. | Scale-mediated surface visibility custody; canopy LiDAR settlement custody; geophysical subsurface survey custody; paradata transparency custody; fragile site access replica custody; partial excavation shelter custody; urban overbuild window custody; submerged landscape proxy custody. | Satellite multispectral or hyperspectral discovery; photogrammetric change detection; AI candidate triage; survey-negative evidence gates. |
 | Reconstruction, Replica, and Sensory Access | Marking where modern reconstruction, performance, sensory modeling, or replica access begins. | Functional reconstruction boundary; restoration as modern projection; replica reconstruction status; monumental void reconstruction custody; archival reconstruction custody; notated performance reconstruction custody; olfactory reconstruction custody; gustatory reconstruction custody; acoustic space reconstruction custody; light-mediated reconstruction custody; astronomical alignment reconstruction custody. | Haptic reconstruction; structural simulation custody; embodied reenactment boundaries; uncertainty display standards. |
-| Text, Corpus, and Mediated Recovery | Protecting fragmentary, overwritten, destroyed, sealed, or computationally recovered corpora from false completeness. | Non-decipherment discipline; fragment custody ladder; mediated recovery custody; destroyed corpus custody; deliberate textual destruction; palimpsest overwrite custody; institutional memory boundary; sealed cache representativeness custody; scope-gated publication. | OCR/HTR recovery custody; inscription squeeze or rubbing custody; lost-inventory reconstruction; citation-chain fragility gates. |
+| Text, Corpus, and Mediated Recovery | Protecting fragmentary, overwritten, destroyed, sealed, or computationally recovered corpora from false completeness. | Non-decipherment discipline; fragment custody ladder; mediated recovery custody; OCR/HTR recovery custody; destroyed corpus custody; deliberate textual destruction; palimpsest overwrite custody; institutional memory boundary; sealed cache representativeness custody; scope-gated publication. | Inscription squeeze or rubbing custody; lost-inventory reconstruction; citation-chain fragility gates; edition-version drift. |
 | Site Damage, Access, and Conservation Afterlife | Treating erosion, conservation, access limits, dispersal, and loss as evidence conditions. | Rock-cut facade erosion custody; fragile site access replica custody; partial excavation shelter custody; urban overbuild window custody; archival reconstruction custody; dispersed object provenance custody; monumental void reconstruction custody; lost polychromy trace custody; rock-surface exposure dating custody. | Conservation intervention chronology; visitor-route evidence; disaster recovery documentation; access-substitution caps. |
 | Identity, Memory, and Public Compression | Preventing famous losses, colonial denial, catastrophe images, or identity claims from outrunning evidence. | Colonial denial register; interpretive violence; catastrophe image audit; famous loss compression; saga-memory crosscheck; abandonment without collapse theater; catastrophic snapshot preservation custody; cast void identity custody; ancient pathogen genome custody. | Nationalist origin-story custody; tourism myth registers; trauma and memorial overclaim controls; media-image provenance. |
 
@@ -54,10 +54,12 @@ control next-paper discovery, rubric gap review, and ASHLAR promotion pressure.
 ## Current Reading
 
 The latest sprint strengthened survey/spatial mediation, material production,
-proxy ecology, biomolecular evidence, and chronology/dating through LiDAR,
-geophysics, archaeometallurgy, macroremains, pathogen genomes, and rock-surface
-exposure dating.
+proxy ecology, biomolecular evidence, chronology/dating, and text/corpus
+recovery through LiDAR, geophysics, archaeometallurgy, macroremains, pathogen
+genomes, rock-surface exposure dating, and OCR/HTR recovery custody.
 
 The best next pressure should probably come from a family not recently hit:
-Text, Corpus, and Mediated Recovery; Reconstruction, Replica, and Sensory
-Access; or Site Damage, Access, and Conservation Afterlife.
+Reconstruction, Replica, and Sensory Access; Site Damage, Access, and
+Conservation Afterlife; or the remaining Text, Corpus, and Mediated Recovery
+gaps around inscription squeezes, lost inventories, and citation-chain
+fragility.

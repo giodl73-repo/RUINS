@@ -39,3 +39,7 @@ new evidence condition. A good RUINS next paper should:
    the next case by selecting the weakest family gap rather than appending an
    unrelated capability. The case should expose a not-yet-routine evidence
    condition and produce a new gate, refusal register, or sibling boundary.
+2. **Post-v1.65 pressure** - OCR/HTR recovery custody closed the computational
+   corpus gap. Prefer the next case from reconstruction/sensory access or site
+   conservation afterlife unless a text/corpus paper exposes inscription
+   squeeze, lost-inventory, or citation-chain fragility controls.
