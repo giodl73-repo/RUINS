@@ -66,6 +66,7 @@ active to core.
 | Obsidian provenance-hydration custody | Candidate -> Active -> Core | [`obsidian-provenance-hydration-custody.md`](obsidian-provenance-hydration-custody.md) |
 | Radiocarbon reservoir old-wood custody | Candidate -> Active -> Core | [`radiocarbon-reservoir-old-wood-custody.md`](radiocarbon-reservoir-old-wood-custody.md) |
 | Microbotanical starch-phytolith custody | Candidate -> Active -> Core | [`microbotanical-starch-phytolith-custody.md`](microbotanical-starch-phytolith-custody.md) |
+| Zooarchaeological bone-modification custody | Candidate -> Active -> Core | [`zooarchaeological-bone-modification-custody.md`](zooarchaeological-bone-modification-custody.md) |
 | Destroyed corpus custody | Candidate -> Core | [`destroyed-corpus-custody.md`](destroyed-corpus-custody.md) |
 | Replica reconstruction status | Candidate -> Core | [`replica-reconstruction-status.md`](replica-reconstruction-status.md) |
 | Saga memory crosscheck | Candidate -> Core | [`saga-memory-crosscheck.md`](saga-memory-crosscheck.md) |

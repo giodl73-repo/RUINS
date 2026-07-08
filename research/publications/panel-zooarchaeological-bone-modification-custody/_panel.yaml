@@ -1,0 +1,9 @@
+id: panel-zooarchaeological-bone-modification-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.57
+score: 46
+capabilities:
+  - ruins-capability:zooarchaeological-bone-modification-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core
