@@ -56,3 +56,7 @@ new evidence condition. A good RUINS next paper should:
    visitor-route evidence, disaster recovery documentation, glass/faience
    compositional custody, adhesive/resin residues, or remaining text/corpus
    custody gaps next.
+6. **Post-v1.69 pressure** - conservation intervention chronology custody
+   closed the treatment-history gap. Prefer visitor-route evidence, disaster
+   recovery documentation, glass/faience compositional custody, adhesive/resin
+   residues, or remaining text/corpus custody gaps next.
