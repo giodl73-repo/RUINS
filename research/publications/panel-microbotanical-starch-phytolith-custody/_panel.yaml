@@ -1,0 +1,9 @@
+id: panel-microbotanical-starch-phytolith-custody
+track: Evidence and Absence
+status: publication-ready
+rubric: v1.56
+score: 46
+capabilities:
+  - ruins-capability:microbotanical-starch-phytolith-custody
+source_posture: source-locked
+promotion_decision: candidate-to-active-to-core

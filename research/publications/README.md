@@ -75,6 +75,7 @@ role reviews, and synthesis.
 | [`panel-mesa-verde-dendrochronology-timber-date-custody`](panel-mesa-verde-dendrochronology-timber-date-custody/) | Evidence and Absence | publication-ready |
 | [`panel-obsidian-provenance-hydration-custody`](panel-obsidian-provenance-hydration-custody/) | Evidence and Absence | publication-ready |
 | [`panel-radiocarbon-reservoir-old-wood-custody`](panel-radiocarbon-reservoir-old-wood-custody/) | Evidence and Absence | publication-ready |
+| [`panel-microbotanical-starch-phytolith-custody`](panel-microbotanical-starch-phytolith-custody/) | Evidence and Absence | publication-ready |
 | [`panel-gobekli-tepe-partial-excavation-shelter-custody`](panel-gobekli-tepe-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-catalhoyuk-partial-excavation-shelter-custody`](panel-catalhoyuk-partial-excavation-shelter-custody/) | Evidence and Absence | publication-ready |
 | [`panel-templo-mayor-urban-overbuild-window-custody`](panel-templo-mayor-urban-overbuild-window-custody/) | Urban Overbuild and Excavation Windows | publication-ready |
