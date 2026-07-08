@@ -35,7 +35,7 @@ new evidence condition. A good RUINS next paper should:
 
 ## Near-Term ASHLAR Queue
 
-1. **Next pressure discovery** - rock-surface exposure dating custody has been promoted
-   directly to Core; choose the next case that exposes another not-yet-routine
-   evidence condition and can produce a new gate, refusal register, or sibling
-   boundary.
+1. **Next pressure discovery** - the capability family map is active; choose
+   the next case by selecting the weakest family gap rather than appending an
+   unrelated capability. The case should expose a not-yet-routine evidence
+   condition and produce a new gate, refusal register, or sibling boundary.

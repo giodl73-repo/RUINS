@@ -19,6 +19,8 @@ core. Concrete promotion records live under
 [`capability-promotions/`](capability-promotions/).
 Use [`capability-roadmap.md`](capability-roadmap.md) to choose papers that
 activate candidates or promote active capabilities to core.
+Use [`capability-families.md`](capability-families.md) to group Core
+capabilities into method families and find the next pressure gaps.
 
 ## Promotion States
 

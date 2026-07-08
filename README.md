@@ -161,6 +161,8 @@ explicit rubric, then let repeated findings improve the process.
   forward-only amendment policy.
 - [`docs/capability-expansion.md`](docs/capability-expansion.md) tracks
   case-derived RUINS capabilities and repeated rubric gaps.
+- [`docs/capability-families.md`](docs/capability-families.md) groups Core
+  capabilities into method families for next-paper discovery.
 - [`docs/capability-promotion-packet.md`](docs/capability-promotion-packet.md)
   gives ASHLAR the fast-promotion checklist for new capabilities.
 - [`docs/capability-roadmap.md`](docs/capability-roadmap.md) identifies the
