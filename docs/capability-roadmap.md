@@ -47,3 +47,7 @@ new evidence condition. A good RUINS next paper should:
    sensory-access gap. Prefer the next case from conservation afterlife,
    structural simulation, material trace, or the remaining text/corpus custody
    gaps rather than another sensory reconstruction.
+4. **Post-v1.67 pressure** - structural simulation custody closed the digital
+   behavior-model gap. Prefer material trace, conservation intervention
+   chronology, visitor-route evidence, disaster recovery documentation, or the
+   remaining text/corpus custody gaps next.

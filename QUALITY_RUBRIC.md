@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.66
+**Version:** v1.67
 
 RUINS uses two different review instruments:
 
@@ -83,6 +83,7 @@ capability or exposes a new one:
 | Astronomical alignment reconstruction custody | If a ruin is interpreted through solar, lunar, stellar, horizon, light-beam, shadow, passage, slab, petroglyph, or architectural orientation evidence, are fabric, restoration, observation window, sky model, marking, calendar claim, meaning, and memory separately gated? |
 | Paradata transparency custody | If a digital/virtual reconstruction, model, simulation, or public heritage scene is used as evidence, are sources, metadata, paradata, decisions, uncertainty, output, evaluation, preservation, and communication separately gated? |
 | Haptic reconstruction custody | If touch, handling, texture, force feedback, 3D-printed replicas, tactile access, haptic augmented reality, or virtual handling are used, are original object, conservation, capture, geometry, surface, material, device, alignment, user study, access, and memory claims separately gated? |
+| Structural simulation custody | If FEM, FEA, DEM, scan-to-FEM, digital twin, damage map, load case, seismic run, collapse model, or intervention simulation is used, are fabric, survey, geometry, material, boundary, damage, calibration, scenario, sensitivity, conservation, and memory claims separately gated? |
 | Isotopic mobility reconstruction custody | If origin, movement, diet, or object provenance is reconstructed from isotope evidence, are sample, tissue/material window, preservation, contamination, baseline/isoscape, comparison set, mobility inference, identity claim, and memory separately gated? |
 | Ancient genomics reconstruction custody | If ancient DNA is used to reconstruct ancestry, phenotype, population history, kinship, identity, or public affiliation, are sample, authentication, coverage, reference panel, model, phenotype, reconstruction, population inference, governance, and memory separately gated? |
 | Dental calculus reconstruction custody | If diet, microbiome, health, behaviour, medicine, or food-production history is reconstructed from dental calculus DNA, proteins, microremains, isotopes, or chemistry, are specimen, matrix, sampling, method, taxon/protein assignment, contamination, diet/health inference, behaviour, and memory separately gated? |
@@ -192,6 +193,7 @@ capability or exposes a new one:
 | Publication treats cosmogenic nuclide concentration, 10Be age, 26Al/10Be burial date, 36Cl exposure age, lichen thallus diameter, lichen size-frequency curve, rock-varnish layer, varnish microlamination, microerosion rate, weathering rind, calibration curve, shielding correction, erosion correction, inherited exposure, or public oldest-surface headline as exact monument construction date, direct carving date, certain petroglyph age, final quarry date, abandonment event, complete surface stability, path-use chronology, landform-event proof, cultural phase date, or solved site chronology without rock-surface exposure dating controls | 34 |
 | Publication treats OCR, HTR, ATR, layout analysis, segmentation, confidence score, model output, post-correction, normalized text, search index, or exported full text as complete transcription, edition, translation, authorship, date, provenance, corpus inventory, absence proof, or historical interpretation without OCR/HTR recovery controls | 34 |
 | Publication treats haptic feedback, tactile replica, 3D print, touch table, glove, stylus, vibration, force feedback, haptic augmented reality, or virtual handling as direct original contact, complete sensory recovery, object-equivalent fabric, exact surface feel, ancient use experience, solved accessibility, or final interpretation without haptic reconstruction controls | 34 |
+| Publication treats FEM, FEA, DEM, limit analysis, scan-to-FEM, digital twin, laser-scan mesh, damage map, modal calibration, seismic model, load case, collapse simulation, deformation model, or intervention simulation as complete original geometry, direct past behavior, actual collapse cause, certain stability, final restoration decision, construction recipe, design intention, builder identity, technological superiority, or solved site history without structural simulation controls | 34 |
 
 ## Scoring Procedure
 
