@@ -68,3 +68,7 @@ new evidence condition. A good RUINS next paper should:
    emergency-recovery records gap. Prefer glass/faience compositional custody,
    adhesive/resin residues, access-substitution caps, or remaining text/corpus
    custody gaps next.
+9. **Post-v1.72 pressure** - glass/faience compositional custody closed the
+   glass and faience chemistry gap. Prefer adhesive/resin residues, recycling
+   and mixture probability gates, access-substitution caps, or remaining
+   text/corpus custody gaps next.
