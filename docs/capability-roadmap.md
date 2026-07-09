@@ -91,3 +91,9 @@ new evidence condition. A good RUINS next paper should:
 14. **Post-v1.77 pressure** - lost inventory reconstruction custody closed the
     catalogue/list-to-collection gap. Prefer citation-chain fragility,
     edition-version drift, or embodied reenactment boundaries next.
+15. **Mystery dossier direction** - use the next sprint to turn one famous
+    damaged-knowledge puzzle into a clue graph. Prefer Herculaneum unread
+    texts, Voynich claim custody, Greek fire transmission, or Atlantis as a
+    reception-chain stress test. The output should test citation-chain
+    fragility, edition-version drift, or lost-tech transmission without becoming
+    a solution post.

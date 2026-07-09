@@ -23,7 +23,9 @@ organizes by epistemic condition:
 - how the loss shaped later knowledge, identity, technology, or myth.
 
 RUINS is not a travel guide, nostalgia archive, treasure-hunt index, or ancient
-mysteries project. It is a knowledge system for handling absence carefully.
+mysteries brand. It can study famous mysteries when they are treated as damaged
+knowledge problems: clue chains with evidence custody, live alternatives, and
+explicit refusal boundaries.
 
 ## Start Here
 
@@ -36,6 +38,7 @@ mysteries project. It is a knowledge system for handling absence carefully.
 | Working as an agent | [`agents/AGENT-ROSTER.md`](agents/AGENT-ROSTER.md) |
 | Running repo-local skills | [`skills/README.md`](skills/README.md) |
 | Picking first cases | [`research/seed-corpus.md`](research/seed-corpus.md) |
+| Building clue dossiers | [`docs/mystery-dossier-method.md`](docs/mystery-dossier-method.md) |
 
 ## Current Paper Chain
 
@@ -167,6 +170,8 @@ explicit rubric, then let repeated findings improve the process.
   gives ASHLAR the fast-promotion checklist for new capabilities.
 - [`docs/capability-roadmap.md`](docs/capability-roadmap.md) identifies the
   next papers and method artifacts that promote active capabilities to core.
+- [`docs/mystery-dossier-method.md`](docs/mystery-dossier-method.md) defines
+  the clue-graph format for famous mysteries and damaged-knowledge puzzles.
 - [`skills/README.md`](skills/README.md) operationalizes paper scaffolding,
   source locking, role review, and method evolution.
 

@@ -23,6 +23,12 @@ RUINS should produce papers that make absence legible. Each paper should say
 what is missing, what survives, what can be inferred, what is contested, what
 later memory added, and what the researcher must refuse to claim.
 
+The public-facing value is reconstruction without false certainty: RUINS can
+piece together clues around famous mysteries when each link is marked as direct
+evidence, copied witness, mediated recovery, reconstruction, later memory, or
+legend. The mystery is allowed to remain unresolved; the output is a better map
+of what the damaged record can and cannot support.
+
 ## Tracks
 
 ### Track A - Evidence and Absence
@@ -46,6 +52,15 @@ later memory added, and what the researcher must refuse to claim.
 |---|---|---|---|
 | C1 | panel-roman-concrete-partial-survival | Decide when a technique is lost, partially documented, continuously practiced, experimentally recovered, or mythologized. Key output: lost-tech transmission categories. Null: if the technique was never actually lost, the paper becomes a continuity paper. | A1 |
 | C2 | panel-cahokia-without-collapse-theater | Treat abandoned urban systems without forcing a single collapse story. Key output: separation of settlement evidence, environmental stress, social change, migration, and modern narrative pressure. | A1 |
+
+### Track D - Mystery Dossiers and Clue Graphs
+
+| # | Dossier | Contract | Depends On |
+|---|---|---|---|
+| D1 | dossier-herculaneum-unread-texts | Link scroll fabric, imaging, letter detection, OCR/HTR, edition, translation, and recovered-library memory without treating mediated text as direct original access. | A1 |
+| D2 | dossier-voynich-claim-custody | Separate codicology, provenance, script description, linguistic hypotheses, hoax claims, solution claims, and modern fame. Null: no decipherment or identity claim becomes a RUINS conclusion. | A1 |
+| D3 | dossier-greek-fire-transmission | Map primary reports, later summaries, recipe speculation, analogues, experiments, and military legend. Null: if recipe reconstruction rests on analogy alone, label it experimental projection. | A1 |
+| D4 | dossier-atlantis-reception-chain | Treat Atlantis as a source-chain and reception-history stress test, not a location hunt. Key output: distinguish ancient text claims, later geography, nationalist uses, and media compression. | A1 |
 
 ## Core Vocabulary
 
@@ -95,6 +110,8 @@ new required registers. Use:
   for fast candidate-to-active or active-to-core promotion checks.
 - [`docs/capability-roadmap.md`](docs/capability-roadmap.md) for selecting
   cases that activate candidates or promote active capabilities to core.
+- [`docs/mystery-dossier-method.md`](docs/mystery-dossier-method.md) for
+  clue-graph dossiers around famous mysteries and damaged-knowledge puzzles.
 - [`skills/README.md`](skills/README.md) for executable paper, source-lock,
   role-review, and method-evolution workflows.
 
@@ -106,7 +123,8 @@ review an artifact; agents do work on it. The starting roster is in
 
 ## Non-Goals
 
-- RUINS is not an ancient mysteries brand.
+- RUINS is not an ancient mysteries brand; it can study famous mysteries only as
+  custody-aware damaged-knowledge dossiers.
 - RUINS is not a travel guide or site catalog.
 - RUINS is not a looting, treasure-hunting, or site-location aid.
 - RUINS does not assert suppressed certainty from fragmentary evidence.
