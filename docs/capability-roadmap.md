@@ -80,3 +80,7 @@ new evidence condition. A good RUINS next paper should:
     cross-material mixed-signal gap. Prefer access-substitution caps or the
     remaining text/corpus custody gaps around inscription squeezes, lost
     inventories, and citation-chain fragility next.
+12. **Post-v1.75 pressure** - access substitution custody closed the
+    surrogate-access gap. Prefer remaining text/corpus custody gaps around
+    inscription squeezes, lost inventories, citation-chain fragility, or
+    embodied reenactment boundaries next.
