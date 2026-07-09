@@ -21,3 +21,9 @@ as the required format.
 The output should make the clue chain more legible, not more sensational. If the
 best finding is that a mystery cannot be solved from surviving evidence, that is
 a valid RUINS result.
+
+## Active Dossiers
+
+- [`dossier-herculaneum-unread-texts/`](dossier-herculaneum-unread-texts/) -
+  first clue graph for virtual unwrapping, recovered text, and edition-version
+  boundaries.

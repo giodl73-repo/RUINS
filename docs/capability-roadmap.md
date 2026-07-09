@@ -97,3 +97,8 @@ new evidence condition. A good RUINS next paper should:
     reception-chain stress test. The output should test citation-chain
     fragility, edition-version drift, or lost-tech transmission without becoming
     a solution post.
+16. **Herculaneum dossier opened** - PHerc. 1667 virtual unwrapping gives the
+    first mystery-dossier stress test. Watch whether scan output,
+    segmentation, ink detection, transcription, papyrological review, edition,
+    translation, public announcement, and later citation chains drift into one
+    undifferentiated "AI read the library" claim.
