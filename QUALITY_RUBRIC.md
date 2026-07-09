@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.75
+**Version:** v1.76
 
 RUINS uses two different review instruments:
 
@@ -50,6 +50,7 @@ capability or exposes a new one:
 | Reconstruction status | Are models, restorations, replicas, translations, and public images labeled separately? |
 | Mediated recovery custody | If evidence passes through scans, models, transcriptions, editions, or public announcements, are those custody layers gated separately before publication claims? |
 | OCR/HTR recovery custody | If text is recovered through OCR, HTR, ATR, layout analysis, segmentation, model training, confidence scoring, post-correction, normalization, search indexing, or full-text export, are image, layout, model, output, correction, edition, corpus, and memory claims separately gated? |
+| Inscription impression custody | If inscription claims rely on squeezes, rubbings, estampages, casts, molds, latex impressions, photographs, RTI, photogrammetry, micro-photogrammetry, 3D scans, digital rubbings, line drawings, facsimiles, tracings, catalogue images, or digital corpus records, are surface, condition, impression method, capture distortion, orientation, archive, reading, edition, context, and memory claims separately gated? |
 | Destroyed corpus custody | If a tiny witness set survives from a larger lost corpus, does the paper prevent surviving examples from standing in for the absent whole? |
 | Replica-status custody | If a replica, facsimile, restoration, or digital model exists, is it prevented from becoming object-equivalent without explicit status and provenance? |
 | Saga-memory crosscheck | If literary memory and archaeological evidence partially overlap, are text, site, route, name, and public identity claims kept in separate grades? |
@@ -210,6 +211,7 @@ capability or exposes a new one:
 | Publication treats bitumen, asphalt, birch bark tar, pitch, pine tar, resin, gum, wax, beeswax, plant exudate, protein glue, starch, mortar, ochre, filler, black residue, GC-MS hit, Py-GC/MS result, FTIR spectrum, Raman spectrum, biomarker, isotope value, experimental replica, or compound adhesive as exact hafting, direct tool function, complete recipe, certain source, trade route, medicine, cognitive proof, species superiority, craft specialization, complete toolkit, or technological tradition without adhesive/resin residue controls | 34 |
 | Publication treats mixed, recycled, remelted, alloyed, blended, reused, repaired, refired, reworked, contaminated, batched, composited, cullet-bearing, scrap-bearing, or conservation-affected material as a single source, direct workshop, exact ore, direct trade route, complete recipe, intentional technology, foreign import, market map, scarcity proof, collapse evidence, solved circulation system, or complete industry history without recycling/mixture probability controls | 34 |
 | Publication treats a digital surrogate, scan, model, replica, cast, facsimile, 3D print, VR/AR scene, haptic device, tactile copy, remote camera, digital twin, virtual tour, app, viewing window, visitor route, teaching copy, or restitution substitute as the original object, original context, object-equivalent fabric, full site access, original movement, original experience, direct inspection, complete preservation, physical return, governance settlement, community consent, research closure, or public access equity without access-substitution controls | 34 |
+| Publication treats a squeeze, rubbing, estampage, cast, mold, latex impression, photograph, RTI image, photogrammetry model, micro-photogrammetry output, 3D scan, digital rubbing, tracing, line drawing, facsimile, catalogue image, digital corpus record, or enhanced image as the original inscription, original context, final reading, complete text, edition, translation, authorship, date, provenance, law, ritual, social history, corpus completeness, or solved inscription without inscription impression controls | 34 |
 
 ## Scoring Procedure
 

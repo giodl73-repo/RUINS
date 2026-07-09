@@ -84,3 +84,7 @@ new evidence condition. A good RUINS next paper should:
     surrogate-access gap. Prefer remaining text/corpus custody gaps around
     inscription squeezes, lost inventories, citation-chain fragility, or
     embodied reenactment boundaries next.
+13. **Post-v1.76 pressure** - inscription impression custody closed the squeeze,
+    rubbing, and digital epigraphy copy gap. Prefer lost-inventory
+    reconstruction, citation-chain fragility, edition-version drift, or
+    embodied reenactment boundaries next.
