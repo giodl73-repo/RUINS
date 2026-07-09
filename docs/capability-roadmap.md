@@ -72,3 +72,7 @@ new evidence condition. A good RUINS next paper should:
    glass and faience chemistry gap. Prefer adhesive/resin residues, recycling
    and mixture probability gates, access-substitution caps, or remaining
    text/corpus custody gaps next.
+10. **Post-v1.73 pressure** - adhesive/resin residue custody closed the
+    adhesive chemistry and hafting-residue gap. Prefer recycling and mixture
+    probability gates, access-substitution caps, or remaining text/corpus
+    custody gaps next.
