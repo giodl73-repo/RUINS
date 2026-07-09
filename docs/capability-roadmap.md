@@ -88,3 +88,6 @@ new evidence condition. A good RUINS next paper should:
     rubbing, and digital epigraphy copy gap. Prefer lost-inventory
     reconstruction, citation-chain fragility, edition-version drift, or
     embodied reenactment boundaries next.
+14. **Post-v1.77 pressure** - lost inventory reconstruction custody closed the
+    catalogue/list-to-collection gap. Prefer citation-chain fragility,
+    edition-version drift, or embodied reenactment boundaries next.

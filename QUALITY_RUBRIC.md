@@ -1,6 +1,6 @@
 # RUINS Quality Rubric
 
-**Version:** v1.76
+**Version:** v1.77
 
 RUINS uses two different review instruments:
 
@@ -66,6 +66,7 @@ capability or exposes a new one:
 | Preserved body taphonomy custody | If human remains are unusually preserved, are taphonomy, recovery, forensic finding, conservation, sampling, display, identity, death cause, motive, and public memory separately gated? |
 | Submerged landscape proxy custody | If a drowned landscape or settlement survives underwater, are bathymetry, survey, excavation, in-situ context, displaced finds, organic remains, human remains, sea-level process, model, and public image separately gated? |
 | Sealed cache representativeness custody | If a manuscript, object, document, or mixed cache survives through storage, hiding, disposal, or ritual retirement, are deposition practice, original order, removal, dispersal, catalogue, digital image, representativeness, and public memory separately gated? |
+| Lost inventory reconstruction custody | If a lost, dispersed, burned, looted, sold, donated, confiscated, reassembled, digitized, or partially surviving collection is reconstructed from catalogues, shelf lists, accession books, sale records, owner marks, fragments, quotations, citations, stamps, bindings, digital databases, provenance indexes, or later summaries, are collection, witness, date, item identity, ownership signal, transfer, survival, matching, gaps, reconstruction, and memory claims separately gated? |
 | Catastrophic snapshot preservation custody | If sudden destruction preserves buildings, objects, fields, bodies, absences, or activity surfaces, are disaster process, preservation bias, excavated context, final-moment inference, daily-life reconstruction, and public Pompeii-style comparison separately gated? |
 | Fragile site access replica custody | If a fragile original site is closed or restricted, are original access, conservation monitoring, research entry, replica/facsimile, digital visit, visitor experience, dating, and image meaning separately gated? |
 | Scale-mediated surface visibility custody | If a large surface mark or landscape trace is known through distance, slope, aerial image, survey, map, remote sensing, restoration, or re-cutting, are trace, viewpoint, maintenance, dating, image, and interpretation separately gated? |
@@ -212,6 +213,7 @@ capability or exposes a new one:
 | Publication treats mixed, recycled, remelted, alloyed, blended, reused, repaired, refired, reworked, contaminated, batched, composited, cullet-bearing, scrap-bearing, or conservation-affected material as a single source, direct workshop, exact ore, direct trade route, complete recipe, intentional technology, foreign import, market map, scarcity proof, collapse evidence, solved circulation system, or complete industry history without recycling/mixture probability controls | 34 |
 | Publication treats a digital surrogate, scan, model, replica, cast, facsimile, 3D print, VR/AR scene, haptic device, tactile copy, remote camera, digital twin, virtual tour, app, viewing window, visitor route, teaching copy, or restitution substitute as the original object, original context, object-equivalent fabric, full site access, original movement, original experience, direct inspection, complete preservation, physical return, governance settlement, community consent, research closure, or public access equity without access-substitution controls | 34 |
 | Publication treats a squeeze, rubbing, estampage, cast, mold, latex impression, photograph, RTI image, photogrammetry model, micro-photogrammetry output, 3D scan, digital rubbing, tracing, line drawing, facsimile, catalogue image, digital corpus record, or enhanced image as the original inscription, original context, final reading, complete text, edition, translation, authorship, date, provenance, law, ritual, social history, corpus completeness, or solved inscription without inscription impression controls | 34 |
+| Publication treats a catalogue, shelf list, accession book, sale catalogue, dealer record, shipping list, donation list, estate inventory, owner mark, fragment, quotation, citation, library stamp, marginalia, binding, digital database, provenance index, or later summary as complete original inventory, exact copy identity, uninterrupted custody, whole work, whole collection, proof of absence, digitally reunited collection, restitution map, total loss, complete intellectual world, or solved collection biography without lost-inventory reconstruction controls | 34 |
 
 ## Scoring Procedure
 
