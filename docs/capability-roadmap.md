@@ -64,3 +64,7 @@ new evidence condition. A good RUINS next paper should:
    public-circulation gap. Prefer disaster recovery documentation, glass/faience
    compositional custody, adhesive/resin residues, or remaining text/corpus
    custody gaps next.
+8. **Post-v1.71 pressure** - disaster recovery documentation custody closed the
+   emergency-recovery records gap. Prefer glass/faience compositional custody,
+   adhesive/resin residues, access-substitution caps, or remaining text/corpus
+   custody gaps next.
