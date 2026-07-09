@@ -76,3 +76,7 @@ new evidence condition. A good RUINS next paper should:
     adhesive chemistry and hafting-residue gap. Prefer recycling and mixture
     probability gates, access-substitution caps, or remaining text/corpus
     custody gaps next.
+11. **Post-v1.74 pressure** - recycling/mixture probability custody closed the
+    cross-material mixed-signal gap. Prefer access-substitution caps or the
+    remaining text/corpus custody gaps around inscription squeezes, lost
+    inventories, and citation-chain fragility next.
